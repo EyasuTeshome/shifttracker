@@ -1,0 +1,32 @@
+# Value & potential of Daily Standups
+
+## Learning Objectives
+
+- Describe the value of the Daily Standup Team
+- Show you know how to use daily forms to drive successful meeting activities
+
+### Estimated time: 0.5h
+
+## Description
+
+This lesson will help you become familiar with the value and importance of Daily Standups at Microverse, which take place at the end of every program day.
+
+### Why are daily stand-ups important?
+
+Daily standups and weekly retrospectives are common practices in software developer teams and technology companies. They serve a lot of purposes; they help with productivity, bring clarity to your goals, help you communicate with your team, and help you overcome your blockers. We use them as a company at Microverse too. We want you to work with them daily at Microverse, to help you become more productive but also so you are ready for when you use them in your software development job after Microverse!
+
+### Daily standup and weekly retrospectives
+
+Below you can find more details about Daily standups and weekly retrospectives at Microverse and find some examples of how they are applied in different companies.
+
+- [The value of the daily stand-up and weekly retrospectives](Daily Stand-ups and weekly retrospectives.md)
+- [IBM Agile Academy Daily Stand up meeting](https://www.youtube.com/watch?v=wykb3aLG4sw)
+
+### Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
+
+- [Stand-up Meeting: The Definitive Guide for Holding Effective Stand-up](https://kanbanize.com/blog/running-a-better-stand-up-meeting/)
+- [Hold Yourself Accountable And Never Be Held Back](https://www.ted.com/talks/janyssa_berrios_hold_yourself_accountable_and_never_be_held_back)
+- [3 Ways Owning Your Mistakes Will Make You Powerful](http://entrepreneur.com/article/232417)
+
