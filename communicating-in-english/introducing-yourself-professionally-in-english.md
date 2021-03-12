@@ -20,7 +20,7 @@ Being able to communicate your skills and achievements clearly to others will in
 
 It is important to prepare a structure of words and phrases that you can practice before introducing yourself to someone. This helps you have a constructive flow of thought which in turn, will increase your confidence and help you sound more professional. Below is a structure we propose that you use and practice.
 
-- [Structure to use when introducing yourself professionally](Structure to use when introducing yourself professionally.md)
+- [Structure to use when introducing yourself professionally](structure-to-use-when-introducing-yourself-professionally.md)
 
 ## Exercise
 

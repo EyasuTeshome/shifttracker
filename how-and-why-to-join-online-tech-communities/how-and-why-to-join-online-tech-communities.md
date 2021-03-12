@@ -27,7 +27,7 @@ The first part of this lesson focuses on deciding which tech communities you can
 
 **Learn more about which online tech communities to join:**
 
-- [Which online tech communities should I join?](Online tech communities to join.md)
+- [Which online tech communities should I join?](online-tech-communities-to-join.md)
 - [Video to watch: step by step guide on which slack channels to join and why](https://drive.google.com/file/d/1lADBzrORtoancX_qdg-Tb-sM8j6q-AnB/view?usp=sharing)
 
 ### How to join an online tech community
@@ -36,7 +36,7 @@ In this section, you will learn about how to join communities. It's up to you wh
 
 **Learn more about how to join an online tech community using the links below:**
 
-- [How to join an online tech community](How to join an online tech community.md)
+- [How to join an online tech community](how-to-join-an-online-tech-community.md)
 - [10 developer-focused Slack channels to find your next remote job](https://hackernoon.com/developer-slack-channels-remote-job-freelance-project-98e9b70d6275)
 
 Since most of our students join groups in three specific spaces, we include here more information about those three and what it will look like for you to find and join them.
@@ -59,7 +59,7 @@ Finally, once you're in a group, you'll want to take action to get yourself noti
 
 **Learn more about how to network in online tech communities:**
 
-- [How to network in online tech communities](How to network in online tech communities.md)
+- [How to network in online tech communities](how-to-network-in-online-tech-communities.md)
 - [Video to watch: Tips to find job opportunities and network on Slack channels](https://drive.google.com/file/d/15nGRl9T3LkJbBe4Bov3lJ-I6IH2eIyI4/view?usp=sharing)
 - [Video to watch: Tips on how to message people on Slack channels](https://drive.google.com/file/d/1w1ZrVp41AZcndmNfC7XmP1HzqxsoSbKD/view?usp=sharing)
 
@@ -70,4 +70,4 @@ Finally, once you're in a group, you'll want to take action to get yourself noti
 - What is the name of the largest database of Slack communities that exists today?
 - Which online tech community has over 25,000 developers focused on React, React Native, Jest, Redux, and GraphQL?
 
-Click [here](Challenge yourself - answers.md) to check your answers to these questions
+Click [here](challenge-yourself-answers.md) to check your answers to these questions

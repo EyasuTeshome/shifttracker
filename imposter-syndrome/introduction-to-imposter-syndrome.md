@@ -19,13 +19,13 @@ Imposter syndrome can really affect your progress, reduce your confidence and tu
 
 We will now take at what imposter syndrome is and the different forms in which it can present itself.
 
-- [What is imposter syndrome: definition and examples](What is imposter syndrome - definition and examples.md)
+- [What is imposter syndrome: definition and examples](what-is-imposter-syndrome-definition-and-examples.md)
 
 ### How to deal with imposter syndrome
 
 Now that you understand what imposter syndrome is and have seen some examples, let's look at the impacts of this syndrome and how to deal with it.
 
-- [The impacts of imposter syndrome and how to deal with it](The impacts of imposter syndrome and how to deal with it.md)
+- [The impacts of imposter syndrome and how to deal with it](the-impacts-of-imposter-syndrome-and-how-to-deal-with-it.md)
 
 ### Additional materials
 

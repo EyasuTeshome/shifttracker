@@ -20,7 +20,7 @@ Setting yourself up for success can help you take full advantage of the benefits
 
 Committing to professionalism will help employers understand your ability to be reliable and capable. However, different scenarios require different behaviors. Let's use the link below, as a group, to learn more about the essence of punctuality with your colleagues and in different cultural contexts.
 
-[Punctuality as a remote work skill](Punctuality as a remote work skill.md)
+[Punctuality as a remote work skill](punctuality-as-a-remote-work-skill.md)
 
 ### Punctuality in different cultures
 

@@ -21,7 +21,7 @@ You will start practicing by sending professional emails any time you want to co
 
 A professional email is any communication you make when writing to someone in a professional setting, such as sending a Zendesk ticket to the Microverse' Student Success team. These letters should have a standard format and a professional tone. Focus on using the concise language for professional emails as the recipient might have several communications to work through each day. Writing clear messages also improves your communication skills. Professional emails are brief and efficient, including all pertinent information, keeping both parties focused on the task. Use the link below to learn more about professional emails and practice how to craft them.
 
-[How to write professional emails (with templates)](How to write professional emails (with templates).md)
+[How to write professional emails (with templates)](how-to-write-professional-emails-with-templates.md)
 
 ### Why Writing is Important in Technical Jobs
 
@@ -45,7 +45,7 @@ For a taste of the wealth of knowledge available on the Internet to improve your
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* In this exercise:
 
-1. You will study the example and analysis of a professional email here: [How to write professional emails (with templates)](How to write professional emails (with templates).md).
+1. You will study the example and analysis of a professional email here: [How to write professional emails (with templates)](how-to-write-professional-emails-with-templates.md).
 2. You will practice writing professional messages, and you will submit them for review by a project reviewer.
 
 Use this [Google Doc Template](https://docs.google.com/document/d/1ruKnTS11DLhFGIRoaja3RiqDSuODaWzc5tdBLkGtJhs/edit?usp=sharing) to complete this exercise.

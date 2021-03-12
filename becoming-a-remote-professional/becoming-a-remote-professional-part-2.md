@@ -20,7 +20,7 @@ While working from home has its perks, it can be distracting. Errands, chores, f
 
 There are practical ways to start creating a professional working environment. Firstly, it is important to assess your current environment and any feedback you might have gotten from your colleagues or your standup team at Microverse. Click the link below to learn how to switch up your work environment and improve your professionalism as a remote worker. Read through this individually while staying on the Zoom call with your group.
 
-[Setting up a professional remote work environment](Setting up a professional remote work environment.md)
+[Setting up a professional remote work environment](setting-up-a-professional-remote-work-environment.md)
 
 ## Submit your exercise
 
