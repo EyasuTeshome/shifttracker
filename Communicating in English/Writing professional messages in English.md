@@ -1,4 +1,4 @@
-# Writing Professional Messages in English
+# Writing professional messages in English
 
 ## Learning objectives
 
