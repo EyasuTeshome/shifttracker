@@ -47,4 +47,4 @@ A very effective way to make sure you are in control of your social media presen
 
 **Learn more about how to set up your privacy settings and protect your privacy on social media:**
 
-- [How to Set Your Social Media to control who sees what](https://www.wired.com/story/lock-down-social-media-privacy-security-facebook-twitter/)
+- [How to set your social media to control who sees what](https://www.wired.com/story/lock-down-social-media-privacy-security-facebook-twitter/)
