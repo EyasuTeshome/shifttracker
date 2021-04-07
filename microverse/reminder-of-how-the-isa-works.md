@@ -1,0 +1,44 @@
+# Reminder of how the ISA works
+
+## Learning objectives
+
+- Identify the requirements of the ISA
+
+### Estimated time: 0.5h
+
+## Description
+
+In this lesson, you will get a reminder of what an Income Share Agreement (ISA) is and how it works.
+
+### Why is the ISA important?
+
+Our mission at Microverse is to train one million talented professionals by 2030 and to connect them with global opportunities regardless of where they are in the world. The ISA is important for us to reach this goal because it is the mechanism by which we can reach this goal with no upfront cost for our students.
+
+### What is an ISA?
+
+An ISA, or Income Share Agreement, is an agreement to share some portion of future earned income. Click the link below to read more about ISAs and how we use them at Microverse.
+
+[What is an ISA?](what-is-an-isa.md)
+
+### ISA payment deferment, extensions, and waivers
+
+Under certain situations, your ISA payment might be eligible for a deferment, extension or waiver. Learn more about some of those situations here:
+
+[ISA payment deferment and extensions](isa-payment-deferment-and-extensions.md)
+
+[ISA waiver](isa-waiver.md)
+
+### What if I have further questions about the ISA?
+
+We're always here to help you. Reach out to Finance or Student Success via Zendesk.
+
+### Acknowledgment of ISA terms
+
+To complete this task, please fill out [this Airtable form](https://airtable.com/shrC50Zm7S3eXlaHI).
+
+### Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.*
+
+- [Income share agreement](https://en.wikipedia.org/wiki/Income_share_agreement)
+- [All About ISAs: Income Share Agreements and Deferred Tuition at Coding Bootcamps](https://www.coursereport.com/blog/all-about-isas-income-share-agreements-and-deferred-tuition-at-coding-bootcamps)
