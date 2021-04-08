@@ -33,7 +33,7 @@ When you haven't heard from a recruiter for a job you are very interested in, it
 - What should you do if you receive a response to your follow-up email?
 - How long should you wait before sending a follow-up message?
 
-Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://www.notion.so/Answers-to-the-Challenge-yourself-questions-4ae7d3c612274e0796eec54d10df9f49)
+Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/answers-to-the-challenge-yourself-questions-followup-email.md)
 
 ## Additional materials
 
