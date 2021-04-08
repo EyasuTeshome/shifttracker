@@ -1,5 +1,4 @@
 # What to expect during behavioral interviews
-# What to expect during behavioral interviews
 
 ## Learning objectives
 
@@ -48,5 +47,3 @@ Click here to check your answers to these questions: [Answers to the 'Challenge 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [How to use the SAR method in interviews](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
-
-    [Answers to the Challenge yourself questions](https://www.notion.so/Answers-to-the-Challenge-yourself-questions-93864e3655a841bf8d50078f8aec18f3)
