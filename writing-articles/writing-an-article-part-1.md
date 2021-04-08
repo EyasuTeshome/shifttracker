@@ -24,8 +24,6 @@ Writing your first article can seem difficult: you might not know where or how t
 
 - [Requirements for writing your first article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/requirements-for-writing-your-first-article.md)
 
-**[TODO - link above should be referenced in Git too]**
-
 ### Steps to writing an article
 
 **Guiding questions:**
@@ -38,8 +36,6 @@ In this section of the exercise, we have outlined simple steps to get you starte
 
 - [Steps to writing an article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/steps-to-writing-an-article.md)
 - (Optional) [Video of career coach Crystal explaining steps to writing and publishing an article](https://www.loom.com/share/4782d07dd85c42ba80b91b980152a333?t=2)
-
-**[TODO - link above should be referenced in Git too]**
 
 ## Exercise
 
