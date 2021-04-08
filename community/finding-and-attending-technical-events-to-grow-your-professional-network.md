@@ -39,7 +39,7 @@ Once you have found an event you want to attend, it's time to prepare for it. It
 
 **Learn more about preparing before attending an event:**
 
-- [How to prepare before attending a tech event](https://www.notion.so/How-to-prepare-before-attending-a-tech-event-50e4156c4b924f29855e29c76d03c43e).
+- [How to prepare before attending a tech event](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/how-to-prepare-before-attending-a-tech-event.md).
 - [Meetup.com](http://meetup.com): This website allows you to DM attendees before an event.
 - [Conference.io](http://conference.io): This website allows you to buddy-up with someone so you can both attend an event together.
 
@@ -49,13 +49,12 @@ Once you are at the event, we recommend you follow the guidelines below to ensur
 
 **Learn more about getting the most out of an event you are attending:**
 
-- [Getting the most out of an event you are attending](https://www.notion.so/Getting-the-most-out-of-an-event-you-are-attending-70740074fb2c45c6a72c64d00129ac49)
-
+- [Getting the most out of an event you are attending](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/getting-the-most-out-of-an-event-you-are-attending.md)
 ### What to do after attending an event
 
 In this part of the lesson, we will look into things you should do after the event so that you build more relationships and grow your network with the people you have just met.
 
-- [What to do after an event](https://www.notion.so/What-to-do-after-an-event-71eec644cfa74aa49cb7bbf3ee3bf885)
+- [What to do after an event](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/what-to-do-after-an-event.md)
 
 ### How often should I attend events?
 
@@ -71,4 +70,4 @@ You should aim to attend at least 1 event per month. This will allow you to meet
     - Share your contact details and collect theirs
     - DM all the attendees
 
-Click [here](https://www.notion.so/Challenge-yourself-answers-23837b4ebe034310ace66d6581ca8b62) to check your answers to these questions.
+Click [here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/challenge-yourself-answers.md) to check your answers to these questions.
