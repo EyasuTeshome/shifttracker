@@ -84,7 +84,7 @@ Every company will evaluate take-home projects differently but it is important t
 - What should you do if you run out of time to build some requested features in your take-home project?
 - Which website do we recommend using when researching employee reviews, salary information, or interview questions for the company you are interviewing with?
 
-Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://www.notion.so/Answers-to-the-Challenge-yourself-questions-351d018df7c24a8688ec1622397b96f4)
+Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/answers-to-the-challenge-yourself-questions-interview-process.md)
 
 ## Additional materials
 
