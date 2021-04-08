@@ -20,9 +20,7 @@ In this exercise, you are going to work on the outline of your article you creat
 
 **Learn more about how to turn your outline into a complete written article:**
 
-- [How to turn your outline into a complete written article](https://www.notion.so/How-to-turn-your-outline-into-a-complete-written-article-65b6a70b529140ef842382807e32d541)
-
-**[TODO - Notion link above should be referenced in Git too]**
+- [How to turn your outline into a complete written article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/how-to-turn-your-outline-into-a-complete-written-article.md)
 
 ### Guidelines to follow if you write an article about Microverse.
 
@@ -31,8 +29,6 @@ If you choose to write an article about Microverse, we have guidelines that you 
 Learn more about the guidelines to follow when writing an article about Microverse:
 
 - [Guidelines to follow when writing an article about Microverse](https://www.notion.so/Student-Brand-Guidelines-0fd2dcce8cd2450f91f1ed6d9ec0457a)
-
-**[TODO - Notion link above should be referenced in Git too]**
 
 ### Proofreading your article
 
@@ -51,13 +47,11 @@ In this exercise, you'll be using Medium to share your article online since it's
 
 **Learn more about sharing your article online:**
 
-- [Steps to sharing your article online](https://www.notion.so/Steps-to-sharing-your-article-online-4c3c31cc4421492c95ccd0a4a6ef7219)
+- [Steps to sharing your article online](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/steps-to-sharing-your-article-online.md)
 - [Writing and publishing your story in Medium](https://help.medium.com/hc/en-us/articles/225168768-Write-a-post) - Medium is an online website for sharing your articles and blogs. This link shows you how to add and publish your story on the Medium website.
 - [Using the Medium story editor](https://help.medium.com/hc/en-us/articles/215194537) - This editor shows you the different formatting options you have in Medium and how to use them.
 - Websites offering free images - The following websites give you the option of downloading free images: [StockSnap.io](https://stocksnap.io/), [Unsplash.com](http://unsplash.com), [Flickr.com](http://www.flickr.com/), [FreeImages.com](https://www.freeimages.com/), [Pixabay.com](http://pixabay.com/)
 - [Tech-related hashtags](https://ritetag.com/best-hashtags-for/coders) - This link provides you with popular tech-related hashtags you can use when sharing your article online.
-
-**[TODO - Notion link above should be referenced in Git too]**
 
 ## Exercise
 
