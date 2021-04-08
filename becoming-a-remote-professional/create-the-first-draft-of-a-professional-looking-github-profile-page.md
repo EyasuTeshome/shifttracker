@@ -28,7 +28,7 @@ Your bio—the sidebar section of your GitHub profile, where visitors can see yo
 
 **Learn more about how to fill out your GitHub bio to completion:**
 
-[Exploring and completing each section of your GitHub bio](https://www.notion.so/Exploring-and-completing-each-section-of-your-GitHub-bio-dcbb57ea7b0446f8ad4f27cec49f5570)
+[Exploring and completing each section of your GitHub bio](exploring-and-completing-each-section-of-your-github-bio.md)
 
 **Apply what you've learned**
 
@@ -42,7 +42,7 @@ GitHub allows you to create a personal README file that displays at the top of y
 
 **Learn more about how to create an attractive and compelling personal README file:**
 
-[Build a personal README file that displays both personality and competence](https://www.notion.so/Build-a-personal-README-file-that-displays-both-personality-and-competence-9f6141e19c6a4b2d88081f26f32c3769)
+[Build a personal README file that displays both personality and competence](build-a-personal-readme-file-that-displays-both-personality-and-competence.md)
 
 **Apply what you've learned**
 
@@ -57,7 +57,7 @@ Your pinned projects are the **first** projects a visitor to your GitHub will ev
 
 **Learn more about how to choose which projects to pin:**
 
-[Carefully curate your list of pinned projects to best showcase your strengths](https://www.notion.so/Carefully-curate-your-list-of-pinned-projects-to-best-showcase-your-strengths-a685d3fe974e47cd898d5765c7a35b9a)
+[Carefully curate your list of pinned projects to best showcase your strengths](carefully-curate-your-list-of-pinned-projects-to-best-showcase-your-strengths.md)
 
 **Apply what you've learned**
 
@@ -74,7 +74,7 @@ Your Activity chart is **the quickest way** a recruiter has **to view** **your c
 
 **Learn more about how to showcase your consistency and commitment:**
 
-[Keep your Activity green with small daily commits](https://www.notion.so/Keep-your-Activity-green-with-small-daily-commits-7beea4da4eb64b8ebaa100d03b90d80d)
+[Keep your Activity green with small daily commits](keep-your-activity-green-with-small-daily-commits.md)
 
 **Apply what you've learned**
 
