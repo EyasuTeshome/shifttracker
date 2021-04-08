@@ -40,7 +40,7 @@ If you’ve already had a phone screen, you’ve probably had some practice with
 - What types of questions should you always answer in a SAR format?
 - Open the third link in the paragraph above called *"125 of the most common interview questions, with answers and tips",* and observe the example answer given to question 13. In the answer given there, can you identify each part of the SAR method (Situation, Action, and Result)?
 
-Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions](https://www.notion.so/Answers-to-the-Challenge-yourself-questions-93864e3655a841bf8d50078f8aec18f3)
+Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/answers-to-the-challenge-yourself-questions.md)
 
 ## Additional materials
 
