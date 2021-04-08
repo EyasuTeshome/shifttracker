@@ -22,7 +22,7 @@ Writing your first article can seem difficult: you might not know where or how t
 
 **Learn more about the requirements for writing your first article:**
 
-- [Requirements for writing your first article](https://www.notion.so/Requirements-for-writing-your-first-article-daa8962534064c6494a708b67fce16b7)
+- [Requirements for writing your first article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/requirements-for-writing-your-first-article.md)
 
 **[TODO - link above should be referenced in Git too]**
 
@@ -36,7 +36,7 @@ In this section of the exercise, we have outlined simple steps to get you starte
 
 **Learn more about the steps to writing an article:**
 
-- [The different steps to writing an article](https://www.notion.so/Steps-to-writing-an-article-1ce5a5b42cfb4251b0a12b7761d314b5)
+- [Steps to writing an article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/writing-articles/steps-to-writing-an-article.md)
 - (Optional) [Video of career coach Crystal explaining steps to writing and publishing an article](https://www.loom.com/share/4782d07dd85c42ba80b91b980152a333?t=2)
 
 **[TODO - link above should be referenced in Git too]**
