@@ -66,7 +66,7 @@ Now that you know what to expect during a phone screen interview and how to prep
 - If a recruiter asks you about your skills or experiences on your resume, how can you ensure you can speak comfortably about this?
 - What is the very first thing you should practice before doing a phone screen?
 
-Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://www.notion.so/Answers-to-the-Challenge-yourself-questions-a3f4522c394d4e16adc4daec7773e3e0)
+Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/answers-to-the-challenge-yourself-questions-phone-screens.md)
 
 ## Additional materials
 
