@@ -1,29 +1,29 @@
-# About Morning Sessions at Microverse
+# About morning sessions at Microverse
 
-Morning sessions are always done with your Morning Session Group. These groups have 3-4 students who are all in the same block. Your Morning Session Group changes every block, and since most blocks last one week, this means your Morning Session Group changes every week through most of the program. This allows you to get acquainted with students with different backgrounds, communication styles, and learning pace, all of whom are at the exact same place in the curriculum as you.
+Morning sessions are always done with your morning session group. These groups have 3-4 students who are all in the same block. Your morning session group changes every block, and since most blocks last one week, this means your morning session group changes every week throughout most of the program. This allows you to get acquainted with students who have different backgrounds, communication styles, and learning paces than you do, all of whom are at the exact same place in the curriculum as you.
 
-Your Morning Session activities at Microverse will consist of two types of activities: Professional skills morning sessions and technical skill morning sessions. At the beginning of each week, you will choose a presenter for your group.
+Your morning session activities at Microverse will consist of two types of activities: professional skills morning sessions and technical skill morning sessions. At the beginning of each week, you will choose a presenter for your group.
 
 ### Professional skills morning sessions
 
-Professional skills morning sessions happen all through Week 1 of the Program, and then on Monday and Wednesday thereafter. During professional skills morning sessions you will work on soft skills that will help you land and keep a software development job. For example:
+Professional skills morning sessions happen all through Week 1 of the program, and then on Monday and Wednesday thereafter. During professional skills morning sessions you will work on soft skills that will help you land and keep a software development job. For example:
 
-- Giving and receiving feedback
-- Dealing with imposter syndrome
-- Cross-cultural collaboration
-- And many more topics important to your professional development
+- Giving and receiving feedback.
+- Dealing with imposter syndrome.
+- Cross-cultural collaboration.
+- And many more topics important to your professional development.
 
 ### Technical skills morning sessions
 
-Technical skills morning sessions happen on Tuesdays, Thursdays, and Fridays starting in Week 2 of the program. During technical skills morning sessions, you will do peer-to-peer code reviews or mob programming. During a peer-to-peer code review, one team member will present their latest pull-request with commits while other team members review the code. Later in the program, you will do mob programming, where the presenter solves a coding challenge while explaining outloud to the team how you are going to solve it.
+Technical skills morning sessions happen on Tuesdays, Thursdays, and Fridays starting in Week 2 of the program. During technical skills morning sessions, you will do peer-to-peer code reviews or mob programming. During a peer-to-peer code review, one team member will present their latest pull request with commits while other team members review the code. Later in the program, you will do mob programming, where the presenter solves a coding challenge while explaining out loud to the team how they are going to solve it.
 
-Both these tasks allow you to get valuable feedback about your code and allow you to present your thinking process and knowledge of algorithms and data structures in a live meeting- something—you'll frequently have to do during job interviews and in a software development job.
+Both of these tasks allow you to get valuable feedback about your code and allow you to present your thinking process and knowledge of algorithms and data structures in a live meeting- something you'll frequently have to do during job interviews and in a software development job.
 
 ### How to select a presenter for the morning session
 
 The presenter changes each day and everyone must get a chance to present regularly. If you are unable to decide who should be the presenter, the Master of Morning Sessions can use the sorting hat in Slack to randomly select a presenter. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
 
-### What does the presenter do in Morning Sessions?
+### What does the presenter do in morning sessions?
 
 - Open the meeting by welcoming everybody and explaining the activity of the day.
 - Lead the activity discussions by asking the right questions and making sure everybody participates in the discussion.
@@ -31,7 +31,7 @@ The presenter changes each day and everyone must get a chance to present regular
 - Keep the meeting professional and respectful.
 - Help the team build rapport and get to know one another.
 
-### What do the participants do in the Morning Sessions?
+### What do the participants do in the morning sessions?
 
 - Participate in the activity.
 - Ask questions.
