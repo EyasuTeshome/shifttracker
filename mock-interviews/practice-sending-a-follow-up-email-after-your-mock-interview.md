@@ -16,7 +16,7 @@ Sending a follow-up email after an interview can show you are motivated for the 
 
 ### Reminder on how to follow up after an interview
 
-In the lesson "How to follow-up after an interview," you learned about when it is appropriate to follow up with a recruiter and what you should say in your follow-up email. You also saw 2 templates you could use to create your follow-up emails. Below are links to remind you how to follow up after an interview.
+In the lesson "_How to follow-up after an interview_", you learned about when it is appropriate to follow up with a recruiter and what you should say in your follow-up email. You also saw 2 templates you could use to create your follow-up emails. Below are links to remind you how to follow up after an interview.
 
 **Refresh your memory about how to follow up after an interview :**
 
