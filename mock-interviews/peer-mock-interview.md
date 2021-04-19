@@ -1,6 +1,6 @@
 # Peer mock interview
 
-## Learning objective
+## Learning objectives
 
 - Provide feedback to a peer after a mock interview.
 - Practice how to gather feedback to analyze performance and make adjustments after an interview.
@@ -22,8 +22,11 @@ Peer mock interviews help you practice your technical skills and see where your 
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Open up this instructions document here called [Peer Practice: Technical Mock Interview.](https://docs.google.com/document/d/14Aq7O7w0sP-11w4gxEMnnWV8eid6n721RUSC9SrqUso/edit)
-2. Read through the document and complete all sections of it.
+1. Open your copy of the exercice template below.
+2. For the first 45 minutes, complete Section 1 of your copy.
+3. For the last 15 minutes, complete Section 2 of your copy.
+
+**Exercise template to copy:** [Peer Practice: Technical Mock Interview.](https://docs.google.com/document/d/14Aq7O7w0sP-11w4gxEMnnWV8eid6n721RUSC9SrqUso/edit?usp=sharing)
 
 ### Submit your exercise
 
