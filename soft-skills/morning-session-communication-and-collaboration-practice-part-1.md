@@ -24,7 +24,7 @@ Below is a quick reminder of the 10 best practices that we advise you to impleme
 
 Learn more about the 10 best practices for good team communication and collaboration:
 
-- [10 best practices for good team communication and collaboration](https://www.notion.so/10-best-practices-for-good-team-communication-and-collaboration-0e0d667c154045ae99debd85d9d542f3)
+- [10 best practices for good team communication and collaboration](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/10-best-practices-for-good-team-communication-and-collaboration.md)
 
 ## Exercise
 
