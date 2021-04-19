@@ -21,7 +21,8 @@ This is an interview where you will ask your peer a list of technical questions,
 
 ### How to do your technical peer mock interview
 
-You and your partner must complete at least 2 peer mock interviews to help prepare you for interviews with actual companies: a behavioral interview and a technical interview. You’ve already completed the behavioral interview, so next, you will complete the technical mock interview. You will find the detailed instructions at the link below. Read through this, so you understand what is coming next. **You do not need to complete the interview now, this is just a moment for you to get familiar with the material, the questions, and be prepared to show up to your upcoming peer mock interview session.**
+You and your partner must complete at least 2 peer mock interviews to help prepare you for interviews with actual companies: a behavioral interview and a technical interview. You’ve already completed the behavioral interview, so next, you will complete the technical mock interview. You will find the detailed instructions at the link below. Read through this, so you understand what is coming next. 
+**You do not need to complete the interview now, this is just a moment for you to get familiar with the material, the questions, and be prepared to show up to your upcoming peer mock interview session.**
 
  **Learn more about how to do your technical peer mock interview:**
 
