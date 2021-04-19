@@ -25,7 +25,7 @@ You and your partner must complete at least 2 peer mock interviews to help prepa
 
  **Learn more about how to do your technical peer mock interview:**
 
-- [Peer Practice - Technical Interview](https://docs.google.com/document/d/1uPbYfuRNQdXsmd7_N5jhb8gR9UkkGfiOEhsbC8hWb5Y/edit)
+- [Peer Practice - Technical Mock Interview](https://docs.google.com/document/d/14Aq7O7w0sP-11w4gxEMnnWV8eid6n721RUSC9SrqUso/edit)
 
 ### Providing feedback to your partner after the peer mock interview
 
