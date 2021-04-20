@@ -1,6 +1,6 @@
-1. # Examples of conversation starters to use when practicing best communication in a team
-2. 
-3. **Best practice 1:** **Communicate early and often about issues.**
+# Examples of conversation starters to use when practicing best communication in a team
+
+1. **Best practice 1:** **Communicate early and often about issues.**
 
     **Conversation starter examples:**
 
