@@ -49,5 +49,5 @@ Now go to your Student Dashboard and submit your exercise.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [10 best practices for good team communication and collaboration](https://www.notion.so/10-best-practices-for-good-team-communication-and-collaboration-0e0d667c154045ae99debd85d9d542f3)
+- [10 best practices for good team communication and collaboration](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/10-best-practices-for-good-team-communication-and-collaboration.md)
 - [Effective collaboration is the secret to your software development project success](https://steelkiwi.com/blog/collaboration-is-a-key-to-project-success/)
