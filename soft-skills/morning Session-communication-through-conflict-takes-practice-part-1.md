@@ -32,7 +32,7 @@ You might think "*Okay, so now I know the best practices but how do I actually u
 
 Learn more about conversation starters to use when practicing best communication in a team:
 
-- [Examples of conversation starters to use when practicing best communication in a team](https://www.notion.so/Examples-of-conversation-starters-to-use-when-practicing-best-communication-in-a-team-ccacfdd1841c47448d3cdb77f5914d96)
+- [Examples of conversation starters to use when practicing best communication in a team](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/examples-of-conversation-starters-to-use-when-practicing-best-communication-in-a-team.md)
 
 ## Exercise
 
