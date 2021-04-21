@@ -105,7 +105,7 @@ The "Other Experience" section is an optional section that can include non-work 
 1. Decide whether to add an "Other Experience" section.
 2. If so, take 5-10 minutes to identify which experiences to list in this section.
 3. If so, take 5-10 minutes to identify which achievements to list for each experience.
-4. Take up to 25 minutes to rewrite your achievements using the formulas in the "Experience" section link. **TO-DO: ADD LINK ONCE IT'S BEEN MOVED TO GITHUB.**
+4. Take up to 25 minutes to rewrite your achievements using the formulas in the "Experience" section link. 
 
 ## Learn about the optional (but recommended) Projects section
 
@@ -135,7 +135,7 @@ Every resume should have an Education section, even if you never completed a for
 
 1. Take 2-3 minutes to identify which education experiences to list.
 2. Take 5-10 minutes to add your education experiences to your resume.
-3. Take 15-20 minutes to rewrite educational achievements using the formulas in the "Experience" section link. **TO-DO: ADD LINK ONCE IT'S BEEN MOVED TO GITHUB.**
+3. Take 15-20 minutes to rewrite educational achievements using the formulas in the "Experience" section link. 
 
 ## Maintain grammatical consistency in your resume
 
