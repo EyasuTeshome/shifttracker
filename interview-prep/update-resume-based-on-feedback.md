@@ -35,7 +35,7 @@ Please review the helpful tips below to ensure that you gain the most value from
 
 ### Project requirements
 
-- [Make sure that your resume meets every requirement of the resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit). If you have followed the [resume curriculum](https://www.notion.so/Prof-Skills-Activity-Create-first-draft-of-resume-664ff59801f447fb924a1c76d67125e4), it should do so automatically.  **TO-DO: Update link when published on GitHub.**
+- [Make sure that your resume meets every requirement of the resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit). If you have followed the [resume curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), it should do so automatically.
 - Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
 
 ### **Submission instructions**
