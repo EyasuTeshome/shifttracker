@@ -15,7 +15,7 @@ To catch grammar errors, follow these 3 steps:
 - Read your resume aloud! Even if you're an ESL speaker, reading your resume aloud may help you locate errors that you didn't notice while writing them.
 - Use Grammarly's grammar check. You should have already downloaded the Grammarly extension, and Grammarly may already be turned on for you. Make sure that the Google Docs option is toggled on in the extension.
 
-[https://cdn.filestackcontent.com/Vh1z9tnxSCWPQ8nl40Iy](https://cdn.filestackcontent.com/Vh1z9tnxSCWPQ8nl40Iy)
+![https://cdn.filestackcontent.com/Vh1z9tnxSCWPQ8nl40Iy](https://cdn.filestackcontent.com/Vh1z9tnxSCWPQ8nl40Iy)
 
 ### **Sentence tense**
 
