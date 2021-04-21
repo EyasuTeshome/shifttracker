@@ -35,7 +35,7 @@ In the link below, we'll discuss a few helpful tips to ensure that you gain the 
 
 ### Project requirements
 
-- [Make sure that your GitHub profile meets every requirement of the GitHub rubric](https://docs.google.com/document/d/1A1x6Vqm6rmChKkb3T3IXBWRNyygTZ2oiHCPZq4IrXT4/edit). If you have followed the [GitHub curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md), it should do so automatically.  **TO-DO: Update link when published on GitHub.**
+- [Make sure that your GitHub profile meets every requirement of the GitHub rubric](https://docs.google.com/document/d/1A1x6Vqm6rmChKkb3T3IXBWRNyygTZ2oiHCPZq4IrXT4/edit). If you have followed the [GitHub curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md), it should do so automatically.
 - Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
 
 ### **Submission instructions**
