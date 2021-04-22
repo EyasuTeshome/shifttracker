@@ -22,7 +22,7 @@ Our goal for you is to learn and become better programmers and problem solvers. 
 
 Learn more about what is plagiarism and what you can and cannot copy in the program:
 
-- [Plagiarism guidelines at Microverse](plagiarism-guidelines-at-microverse-learn more.md)
+- [Plagiarism guidelines at Microverse](plagiarism-guidelines-at-microverse-learn-more.md)
 - [Understanding plagiarism at Microverse: examples](understanding-plagiarism-at-microverse-examples.md)
 
 ### What happens when plagiarism is detected?
