@@ -23,6 +23,4 @@ If you receive a plagiarism notice message from us, and you know your work isnâ€
 
 ### What happens if you are flagged for plagiarism for the second time?
 
-You only get a second chance if we find you have plagiarized for the first time, because we know students are learning and mistakes can be part of the learning process.
-
-However, if you plagiarize for the second time, and do not have a valid explanation for the similarity of your code, **you will be removed from the program without the chance to redo the assignment.**
+If you plagiarize for the second time, and do not have a valid explanation for the similarity of your code,Â **you will be removed from the program without the chance to redo the assignment.**
