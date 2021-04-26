@@ -34,9 +34,9 @@ Most people are genuinely flattered by these requests and like to help, so don't
 
 ### How to prepare and what to do during and after your virtual coffee meeting
 
-[Preparing for your virtual coffee meeting](https://www.notion.so/Preparing-for-your-virtual-coffee-meeting-8ca1bc34f40944c88c0f3f52b128826b)
+[Preparing for your virtual coffee meeting](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/preparing-for-your-virtual-coffee-meeting.md)
 
-[What to do during and after the virtual coffee meeting](https://www.notion.so/What-to-do-during-and-after-the-virtual-coffee-meeting-309efd9e32ab4428b91059664b6041b7)
+[What to do during and after the virtual coffee meeting](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-to-do-during-and-after-the-virtual-coffee-meeting.md)
 
 ## Additional materials
 
