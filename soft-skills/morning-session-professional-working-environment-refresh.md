@@ -27,7 +27,7 @@ In the previous lesson [Becoming a Remote Professional Part 1](https://github.co
 
 Learn more about the top 10 things to do to create a professional working environment:
 
-- [The top 10 things to do to create a professional working environment](https://www.notion.so/10-things-to-do-to-create-a-professional-working-environment-17628ba12024436e8f4f4ecc716a7d82)
+- [The top 10 things to do to create a professional working environment](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/the-top-10-things-to-do-to-create-a-professional-working-environment.md)
 
 ## Exercise
 
