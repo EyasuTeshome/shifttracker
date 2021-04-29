@@ -31,24 +31,28 @@ To learn more about SMART goal-setting, let's explore the following links:
 - This Microverse article takes you through the process of setting SMART goals: [How do I set great goals?](https://microverse.zendesk.com/hc/en-us/articles/360049913274-How-do-I-set-great-goals-)
 - This article breaks down the good and bad examples of SMART goals: [SMART goals - definitions and examples.](https://www.indeed.com/career-advice/career-development/smart-goals)
 
+
+## Exercise: Write your own SMART goals
+
+### Instructions <or give this an appropriate subtitle for your exercise>
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+1. Open your copy of the template below and complete all sections.
+
+Exercise template to copy: - [SMART goals worksheet.](https://docs.google.com/document/d/1ENfrJS0otPrJCPXWyIfL6cfIk0O9N5Uzl8iWEIKqPNM/edit?usp=sharing)
+
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit your exercise.
+
+Remember, although exercises are not reviewed, they are used in later activities that *are* reviewed. Keep track of your exercises in the organized Drive folder you've created for this purpose, so it's easy to reference when you need it. To make it easier for someone to use it for review later as needed, get in the habit of using the sharing link that enables editing.
+
 ### Additional materials
 
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.**
 
 - [SMART Goals - How to make your goals achievable.](https://www.mindtools.com/pages/article/smart-goals.htm)
-
-## Write your own SMART Goals
-
-### SMART goals activity for submission
-
-Now that you have learned all about SMART goals, it is time to work on an example of your SMART goal.
-
-Use the link below to access the worksheet for this activity.
-
-- [SMART goals worksheet.](https://docs.google.com/document/d/1ENfrJS0otPrJCPXWyIfL6cfIk0O9N5Uzl8iWEIKqPNM/edit?usp=sharing)
-
-## Submit your exercise
-
-To submit this exercise, go to your Student Dashboard and click on this exercise. Submit the URL of the exercise you just created.
-
-Remember, although exercises are not reviewed, they are used in later activities that *are* reviewed. Keep track of your exercises in the organized Drive folder you've created for this purpose, so it's easy to reference when you need it. To make it easier for someone to use it for review later as needed, get in the habit of using the sharing link that enables editing.
