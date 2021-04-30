@@ -18,7 +18,7 @@ Having the language to understand what is sexual harassment will help you talk a
 
 This is also important later in the workplace so that if it happens, you can to take action and reach out to somebody to receive help and support. 
 
-### How to Identify sexual harassment at Microverse - TODO
+### How to Identify sexual harassment at Microverse
 
 Take a look at the following resources to understand how you can identify sexual harassment at Microverse.
 
