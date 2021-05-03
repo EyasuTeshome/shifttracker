@@ -1,4 +1,4 @@
-### What is good feedback?
+# What is good feedback?
 
 Good feedback should check the following boxes:
 
