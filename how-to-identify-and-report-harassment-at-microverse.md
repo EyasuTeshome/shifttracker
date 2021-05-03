@@ -33,5 +33,5 @@ Here you will find a link that explains the different processes to report sexual
 
 ### Code of conduct
 
-- [Link to the Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)  
+- [Microverse Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#e94e818ec5b84dc3ab664461e3a5f99e)  
 
