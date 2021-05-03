@@ -27,7 +27,7 @@ Take a look at the following resources to understand how you can identify sexual
 
 ### How to report sexual harassment at Microverse.
 
-Here you will find a link that explains the different processes to report sexual harassment at Microverse.
+Here you will find a link that explains the different processes to report sexual harassment at Microverse, followed by specific information if you're unsure whether to report something.
 
 - [How to report sexual harassment](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)
 - [I'm in doubt if I should report harassment. Can you I know more about the process?](https://microverse.zendesk.com/hc/en-us/articles/1500004464202-I-m-in-doubt-if-I-should-report-harassment-Can-I-know-more-about-the-process-)
