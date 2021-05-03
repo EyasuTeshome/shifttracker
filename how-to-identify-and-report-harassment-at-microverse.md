@@ -1,4 +1,4 @@
-# How to Identify and Report Harassment at Microverse
+# How to identify and report harassment at Microverse
 
 ## Learning objectives
 
@@ -23,7 +23,7 @@ This is also important later in the workplace so that if it happens, you can to 
 Take a look at the following resources to understand how you can identify sexual harassment at Microverse.
 
 - [How to identify sexual harassment](https://www.youtube.com/watch?v=Ue3BTGW3uRQ)
-- [Freshen up by looking at our lesson on "What is sexual harassment?"](https://www.notion.so/Prof-Skills-Activity-Working-with-Diverse-Teams-Part-1-9cb1e54b30084d65a1a46046c45801f9)
+- [Freshen up by looking at our lesson on "What is sexual harassment?"](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/working-with-diverse-teams-part-1.md)
 
 ### How to report sexual harassment at Microverse.
 
