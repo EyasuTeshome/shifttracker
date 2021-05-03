@@ -10,7 +10,7 @@
 
 In this activity, you will get a chance to practice the best practices around giving feedback to other members of your team.
 
-### Why Is Giving Feedback Important?
+### Why is giving feedback important?
 
 To best help your group members grow their skills, you should hone your skills at giving feedback to maximize the quality of the feedback you give and to maximize how useful and actionable the feedback is.
 
