@@ -1,3 +1,5 @@
+# Using Slack to get to know your peers
+
 Slack is the platform we use to help our students communicate with each other.  As your community tool, Slack is the place you will speak to your stand-up team, mentor, coding partner, and your Microverse friends, all in one place. Although you may have used Slack before, make sure you follow the steps below to set up your profile and meet your support network. Microverse staff will only use Slack to share announcements that you might not have seen in Zendesk.
 
 ### Set up your Slack Profile
