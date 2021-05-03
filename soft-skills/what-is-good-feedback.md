@@ -6,7 +6,7 @@ Good feedback should check the following boxes:
 - **It is fact-based and not subjective**: Constructive feedback should be something objectively true, not an opinion where reasonable minds can disagree. Critiquing someone's design choice by saying the button should be red instead of orange might not be very helpful, but citing accessibility guidelines about proper use of color and contrast would be a good way to offer fact-based constructive feedback that isn't subjective. Bear in mind that you might not have all the facts or the full context, which is another reason why an open and respectful conversation is so important.
 - **It is kind, but direct**: People get nervous when receiving feedback. You should empathize with them and make them feel safe when they receive your feedback by avoiding long opening statements, preamble, tangents, or stalling before getting to the point.
 
-### Example of good and bad feedback
+## Example of good and bad feedback
 
 Here's an example of feedback that doesn't incorporate the above principles very well: *"Well first of all I really enjoy working with you, and during our last project I thought we did some great work together. Your CSS skills are great and I was impressed how you helped us unwind that merge conflict the other day. However the way you keep fiddling with your phone is really annoying and you need to stop because it is incredibly unprofessional."*
 
