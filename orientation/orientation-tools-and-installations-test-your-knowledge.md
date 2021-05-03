@@ -1,4 +1,4 @@
-# Tools and installation: Test your knowledge
+# Tools and installations: Test your knowledge
 
 ## Learning Objectives
 
