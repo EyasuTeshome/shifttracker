@@ -29,9 +29,9 @@ Take a look at the following resources to understand how you can identify sexual
 
 Here you will find a link that explains the different processes to report sexual harassment at Microverse.
 
-- [How to report sexual harassment](https://www.notion.so/How-to-report-sexual-harassment-043ca58f35e54eca9f6890b8a83db28f)
+- [How to report sexual harassment](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)
 
 ### Code of conduct
 
-- [Link to code of conduct](https://www.notion.so/Code-of-Conduct-fb637972fe434dccb1004fd572007a59) 
+- [Link to the Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf) 
 
