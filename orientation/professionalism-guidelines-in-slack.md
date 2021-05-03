@@ -1,3 +1,5 @@
+# Professionalism guidelines in Slack
+
 Below are 5 guidelines that you should always follow while communicating on Slack. These guidelines are in line with the student Code of Conduct and failure to follow them can result in disciplinary action or expulsion from Microverse
 
 ## Be respectful of other students.
