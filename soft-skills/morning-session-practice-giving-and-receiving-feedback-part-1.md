@@ -14,7 +14,7 @@ In this activity, you will get a chance to practice the best practices around gi
 
 To best help your group members grow their skills, you should hone your skills at giving feedback to maximize the quality of the feedback you give and to maximize how useful and actionable the feedback is.
 
-[What is good feedback?](https://www.notion.so/What-is-good-feedback-e85484c8d1af4e76a8993f4ff8141516)
+[What is good feedback?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md)
 
 ## Exercise
 
@@ -35,4 +35,4 @@ Now go to your Student Dashboard and submit your exercise.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- **[TODO: UPDATE LINK WITH FINAL VERSION]** Review [fundamentals of giving and receiving feedback](https://www.notion.so/microverse/Prof-Skills-Activity-Fundamentals-of-Giving-and-Receiving-Feedback-9bf6ee0125b04034967369e9a7adacb6)
+- Review [Fundamentals of giving and receiving feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/fundamentals-of-giving-and-receiving-feedback.md)
