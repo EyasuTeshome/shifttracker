@@ -1,4 +1,4 @@
-# Orientation: Tools and installation: Test your knowledge
+# Tools and installation: Test your knowledge
 
 ## Learning Objectives
 
