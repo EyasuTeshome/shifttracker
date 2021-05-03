@@ -1,4 +1,4 @@
-# Working with diverse teams - Part 1:
+# Working with diverse teams: Part 1
 
 ## Learning objectives:
 
