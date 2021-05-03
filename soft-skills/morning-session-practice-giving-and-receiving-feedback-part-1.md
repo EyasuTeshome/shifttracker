@@ -6,7 +6,7 @@
 
 ### Estimated time: .5 hr
 
-## Practice Giving Feedback
+## Practice giving feedback
 
 In this activity, you will get a chance to practice the best practices around giving feedback to other members of your team.
 
