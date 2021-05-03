@@ -18,7 +18,7 @@ Slack will be the main tool used to communicate with your peers at Microverse. S
 
 In the following article you will learn more about who you will reach out to and the different channels you can use on Slack:
 
-- [Using Slack to get to know your peers](https://www.notion.so/Using-Slack-to-get-to-know-your-peers-0f3c715e675040779414bb7622e9f791)
+- [Using Slack to get to know your peers](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/using-slack-to-get-to-know-your-peers.md)
 
 ### Professionalism in Slack
 
@@ -26,7 +26,7 @@ Now that you are in Slack and familiar with the channels at Microverse, it's imp
 
 **Learn more about expectations for professionalism on Slack:**
 
-- [Professionalism guidelines in Slack](https://www.notion.so/Professionalism-guidelines-in-Slack-122ebdaf986c422d8f9aeecfdc28b2c0)
+- [Professionalism guidelines in Slack](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/professionalism-guidelines-in-slack.md)
 - [Student Handbook](https://www.notion.so/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - see especially the guidelines for [Professional communication](https://www.notion.so/Professional-communication-756c98d9527245e58b3c2bbd86cbb1ca)
 
 ### Additional materials
