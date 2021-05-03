@@ -58,5 +58,5 @@ Each communication site has a different purpose, and getting your questions answ
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Your support structure](https://www.notion.so/Your-support-structure-3d0ad6f7f97b440fadf7bc828d25c8f5)
-- [Where can I find answers to my questions?](https://www.notion.so/Where-can-I-find-answers-to-my-questions-e48f01bb24f9409abcbaa2ca934930ce)
+- [Student support](https://www.notion.so/microverse/Student-support-c56b7501302e4f7b93c48b4ac85893a4)
+- [First day questions](https://www.notion.so/microverse/First-day-questions-d012141de4d342a8b0c373a2a41c6a9f)
