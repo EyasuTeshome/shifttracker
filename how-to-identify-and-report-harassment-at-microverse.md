@@ -18,7 +18,7 @@ Having the language to understand what is sexual harassment will help you talk a
 
 This is also important later in the workplace so that if it happens, you can to take action and reach out to somebody to receive help and support. 
 
-### How to Identify sexual harassment at Microverse
+### How to identify sexual harassment at Microverse
 
 Take a look at the following resources to understand how you can identify sexual harassment at Microverse.
 
@@ -30,8 +30,9 @@ Take a look at the following resources to understand how you can identify sexual
 Here you will find a link that explains the different processes to report sexual harassment at Microverse.
 
 - [How to report sexual harassment](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)
+- [I'm in doubt if I should report harassment. Can you I know more about the process?](https://microverse.zendesk.com/hc/en-us/articles/1500004464202-I-m-in-doubt-if-I-should-report-harassment-Can-I-know-more-about-the-process-)
 
-### Code of conduct
+### Code of Conduct
 
 - [Microverse Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#e94e818ec5b84dc3ab664461e3a5f99e)  
 
