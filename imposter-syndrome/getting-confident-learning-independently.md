@@ -57,5 +57,5 @@ Now go to your Student Dashboard and submit your exercise.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [How to accommodate different learning styles](https://www.umassd.edu/dss/resources/faculty--staff/how-to-teach-and-accommodate/how-to-accommodate-different-learning-styles/)
 - [You learn one of these 5 ways](https://www.inc.com/damon-brown/you-learn-1-of-these-5-ways-guaranteed-infographic.html)
+- [How to accommodate different learning styles](https://www.umassd.edu/dss/resources/faculty--staff/how-to-teach-and-accommodate/how-to-accommodate-different-learning-styles/)
