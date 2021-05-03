@@ -26,18 +26,17 @@ Before going through the materials below, think about the following questions:
 - What do I do if my question is not answered by an FAQ?
 - How can I reach out to Student Success?
 
-**Learn more about Zendesk below:** 
+**Learn more about Zendesk and how to gain access:** 
 
-- [What is Zendesk?](https://www.notion.so/Zendesk-12128e7a4458499bac0778ba828877a1)
-- [Introduction on how to use Zendesk](https://www.notion.so/Zendesk-12128e7a4458499bac0778ba828877a1)
+- [What is Zendesk and how can I gain access?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/zendesk.md)
 
-Please read this FAQ if you were unable to access Zendesk. If after looking at the FAQ, you are still unable to access Zendesk **please email success@microverse.org to get help. Make sure you explain what you did and what happened so that they can resolve the issue quick*ly.*
+Please read the following FAQ if you were unable to access Zendesk. If after looking at the FAQ, you are still unable to access Zendesk **please email success@microverse.org to get help. Make sure you explain what you did and what happened so that they can resolve the issue quick*ly.*
 
 - [Troubleshooting on your first day](https://microverse.zendesk.com/hc/en-us/articles/360042901554-Troubleshooting-On-Your-First-Day)
 
 ### Introduction to Discourse
 
-Discourse is a tool we use at Microverse where you can get answers to your technical questions. You normally access it from your Dashboard home page under "Technical Questions."
+Discourse is a tool we use at Microverse where you can get answers to your technical questions. You normally access it from your Dashboard home page under "Technical questions."
 
 Before watching the video, think about the following questions
 
@@ -53,7 +52,7 @@ Before watching the video, think about the following questions
 
 Each communication site has a different purpose, and getting your questions answered involves knowing when to use each. Learn more in the following link:
 
-- [When to use Slack vs. Zendesk vs. Discourse](https://www.notion.so/Slack-vs-Zendesk-vs-Discourse-742ea6329f7c4b7e8ad902609dac2bb9)
+- [When to use Slack vs. Zendesk vs. Discourse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/slack-vs-zendesk-vs-discourse.md)
 
 ## Additional materials
 
