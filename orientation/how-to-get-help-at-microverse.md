@@ -1,4 +1,4 @@
-# How to Get Help at Microverse
+# How to get help at Microverse
 
 ## Learning objectives
 
