@@ -17,7 +17,7 @@ Daily standups and weekly retrospectives are common practices in software develo
 
 ### Daily standup and weekly retrospectives
 
-Below you can find more details about Daily standups and weekly retrospectives at Microverse and find some examples of how they are applied in different companies.
+Below you can find more details about daily standups and weekly retrospectives at Microverse and find some examples of how they are applied in different companies.
 
 - [The value of the daily stand-up and weekly retrospectives](daily-stand-ups-and-weekly-retrospectives.md)
 - [IBM Agile Academy Daily Stand up meeting](https://www.youtube.com/watch?v=wykb3aLG4sw)
