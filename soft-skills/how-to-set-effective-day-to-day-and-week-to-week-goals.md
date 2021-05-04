@@ -20,12 +20,12 @@ You can break down a monthly goal into four parts (reflecting the four working w
 
 You can set your daily goals by first mapping out a list of tasks to be completed to help you achieve your weekly goals, then deciding what day of the week you would like to accomplish each task or set of tasks. This is an effective way to avoid procrastination. When other unplanned tasks come up in competing priority with already-set daily goals, you would find it helpful to use the 4-Quadrant prioritization model. Employing time management techniques are a great way to ensure focus and success in accomplishing your daily goals. 
 
-### Tips to bear in mind when setting day-to-day and week-to-week goals.
+## Tips to bear in mind when setting day-to-day and week-to-week goals
 
 - Ensure your monthly goal follows the SMART goal-setting framework. This gives you time to introspect on your goal's specificity and relevance while making sure it aligns with your current Microverse program expectations.
 - Use the time management techniques to improve your productivity and execution of your daily goals.
 
-## Using the weekly and daily goal-setting framework to complete your weekly retrospectives and daily standups.
+## Using the weekly and daily goal-setting framework to complete your weekly retrospectives and daily standups
 
 The aim of the daily standup and weekly retrospective forms is and has always been to help you identify your strengths and weaknesses and whether you are hitting the goals, you set yourself on a daily or weekly basis. 
 
