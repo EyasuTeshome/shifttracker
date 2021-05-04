@@ -45,7 +45,8 @@ A daily standup is not just a list of actions. Instead, it's a moment of reflect
 
     You can refresh your knowledge of SMART goals in the following article:
 
-    - [How do I set great goals?](https://www.notion.so/How-do-I-set-great-goals-c6ca18e6a8074d098acaba9de620dee7)
+    - [How do I set great goals?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/how-do-i-set-great-goals.md)
+    
 4. **What will you do tomorrow to ensure you reach your goals?**
 
     If something does not work, change it. We often make the mistake of setting the same goals, hoping next week we will finally reach them. But that does not work. Taking the time to reflect on your blockers and turning those into action plans is the way to long-term success. Perhaps you are setting your goals too high or too low? Are you applying the SMART method correctly? Are you diagnosing the right blocker? Do you keep using the same strategy, but it isn't working? What will you change in your behavior that will result in reaching your goals next week? If you aren't sure what to do, it's a great idea to bring it up with your team and get their help thinking what you could change. 
