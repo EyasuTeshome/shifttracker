@@ -1,6 +1,6 @@
-# Daily Stand-ups and weekly retrospectives
+# Daily standups and weekly retrospectives
 
-Daily Stand-ups and Weekly Retrospectives allow you to set goals for the future and reflect on goals from the past. They allow you to reflect on blockers and turn that into strategies to overcome those blockers in the future. Daily Stand-ups and Weekly Retrospectives are also great tools that allow you to give status updates to your team and share tips on how to improve your workflow.
+Daily standups and weekly retrospectives allow you to set goals for the future and reflect on goals from the past. They allow you to reflect on blockers and turn that into strategies to overcome those blockers in the future. Daily standups and weekly retrospectives are also great tools that allow you to give status updates to your team and share tips on how to improve your workflow.
 
 ### Setting goals
 
