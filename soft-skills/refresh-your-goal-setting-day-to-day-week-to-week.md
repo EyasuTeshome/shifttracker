@@ -28,7 +28,7 @@ Setting small process goals that you can complete in one day allows you to tak
 
 **Learn more:**
 
-- [How to set effective day-to-day and week-to-week goals](https://www.notion.so/How-to-set-effective-day-to-day-and-week-to-week-goals-301f9586b755476bad51caec90121d68)
+- [How to set effective day-to-day and week-to-week goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-to-set-effective-day-to-day-and-week-to-week-goals.md)
 
 ## Exercise
 
