@@ -1,15 +1,15 @@
-# Value & potential of Daily Standups
+# The value and potential of daily standups
 
 ## Learning Objectives
 
-- Describe the value of the Daily Standup Team
+- Describe the value of the daily standup team
 - Show you know how to use daily forms to drive successful meeting activities
 
 ### Estimated time: 0.5h
 
 ## Description
 
-This lesson will help you become familiar with the value and importance of Daily Standups at Microverse, which take place at the end of every program day.
+This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day.
 
 ### Why are daily stand-ups important?
 
@@ -26,7 +26,7 @@ Below you can find more details about Daily standups and weekly retrospectives a
 
 *These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
 
-- [Stand-up Meeting: The Definitive Guide for Holding Effective Stand-up](https://kanbanize.com/blog/running-a-better-stand-up-meeting/)
-- [Hold Yourself Accountable And Never Be Held Back](https://www.ted.com/talks/janyssa_berrios_hold_yourself_accountable_and_never_be_held_back)
-- [3 Ways Owning Your Mistakes Will Make You Powerful](http://entrepreneur.com/article/232417)
+- [Stand-up meeting: The definitive guide for holding effective stand-ups](https://kanbanize.com/blog/running-a-better-stand-up-meeting/)
+- [Hold yourself accountable and never be held back](https://www.ted.com/talks/janyssa_berrios_hold_yourself_accountable_and_never_be_held_back)
+- [3 ways owning your mistakes will make you powerful](http://entrepreneur.com/article/232417)
 
