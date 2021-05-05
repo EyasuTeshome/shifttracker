@@ -1,4 +1,4 @@
-# Welcome to your First Day at Microverse
+# Welcome to your first day at Microverse
 
 ### Learning objectives
 
