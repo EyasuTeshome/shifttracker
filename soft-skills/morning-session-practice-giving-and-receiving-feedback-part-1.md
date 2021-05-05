@@ -22,9 +22,10 @@ To best help your group members grow their skills, you should hone your skills a
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-**Group Discussion**
+1. Copy the exercise template
+2. Follow the instructions with your group to complete the exercise
 
-Copy the [Giving Feedback Exercise](https://docs.google.com/document/d/1JQLkidCPhXiY-Hf4nhIIntudxUPdB9HWDcOS_UuWXJI/edit?usp=sharing) template and follow the instructions with your group to complete the exercise.
+*Exercise template to copy:* [Giving Feedback Exercise](https://docs.google.com/document/d/1JQLkidCPhXiY-Hf4nhIIntudxUPdB9HWDcOS_UuWXJI/edit?usp=sharing)
 
 ### Submit Your Exercise
 
