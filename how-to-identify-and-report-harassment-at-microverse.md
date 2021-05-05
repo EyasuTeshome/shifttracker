@@ -25,11 +25,11 @@ Take a look at the following resources to understand how you can identify sexual
 - [How to identify sexual harassment](https://www.youtube.com/watch?v=Ue3BTGW3uRQ)
 - [Freshen up by looking at our lesson on "What is sexual harassment?"](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/working-with-diverse-teams-part-1.md)
 
-### How to report sexual harassment at Microverse.
+### How to report harassment at Microverse.
 
 Here you will find a link that explains the different processes to report sexual harassment at Microverse, followed by specific information if you're unsure whether to report something.
 
-- [How to report sexual harassment](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)
+- [How to report harassment](https://github.com/microverseinc/curriculum-professional-skills/blob/main/how-to-report-harassment.md)
 - [I'm in doubt if I should report harassment. Can you I know more about the process?](https://microverse.zendesk.com/hc/en-us/articles/1500004464202-I-m-in-doubt-if-I-should-report-harassment-Can-I-know-more-about-the-process-)
 
 ### Code of Conduct
