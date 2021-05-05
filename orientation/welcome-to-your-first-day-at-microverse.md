@@ -29,9 +29,3 @@ In the following link we will talk a little bit more about what you can expect d
 
 - [About your first week](first-week-at-microverse.md)
 
-### Welcome Call
-
-Here you will find a recording of the welcome call. You should have been present in the welcome call at the beginning of your first day. Just in case you need to view it again, you can find it here:
-
-- [Welcome Call recording](https://www.loom.com/share/c85f6bbb4ada4c1d905581a4ce5e48d1)
-
