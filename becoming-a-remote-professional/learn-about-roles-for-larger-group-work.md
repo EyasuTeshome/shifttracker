@@ -55,7 +55,7 @@ The thought of working in a large group can be daunting. It can feel like you ne
 - What role is responsible for ensuring the agenda for each meeting is up to date with the notes of the last meeting?
 - What role is responsible for ensuring everyone gives an update of their tasks and is on track to completing their tasks?
 
-Check your answers in the following link: [Answers to the 'Challenge yourself' questions.](https://www.notion.so/Answers-to-the-Challenge-yourself-questions-df91598af3c341b1b6c79b9edcd00e21)
+Check your answers in the following link: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/answers-to-the-challenge-yourself-questions-roles-large-groups.md)
 
 ## Additional materials
 
