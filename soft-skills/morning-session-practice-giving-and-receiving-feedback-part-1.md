@@ -25,7 +25,7 @@ To best help your group members grow their skills, you should hone your skills a
 1. Copy the exercise template
 2. Follow the instructions with your group to complete the exercise
 
-*Exercise template to copy:* [Giving Feedback Exercise](https://docs.google.com/document/d/1JQLkidCPhXiY-Hf4nhIIntudxUPdB9HWDcOS_UuWXJI/edit?usp=sharing)
+**Exercise template to copy:** [Giving Feedback Exercise](https://docs.google.com/document/d/1JQLkidCPhXiY-Hf4nhIIntudxUPdB9HWDcOS_UuWXJI/edit?usp=sharing)
 
 ### Submit Your Exercise
 
