@@ -23,8 +23,8 @@ The evening standup team meeting is a quick 15-minute meeting that comes at the 
 
 **Learn more about standup meetings:**
 
-- [How to run a good standup meeting](https://www.notion.so/How-to-run-a-good-standup-meeting-064467a56e374ed5a1639080e257c62c)
-- [What is the role of the leader in this meeting](https://www.notion.so/What-is-the-role-of-the-leader-in-this-meeting-3a13f2a5f8c94a85a6ec52a996ab6405)
+- [How to run a good standup meeting](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/how-to-run-a-good-standup-meeting.md)
+- [What is the role of the leader in this meeting](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/what-is-the-role-of-the-leader-in-this-meeting.md)
 
 ## Exercise
 
