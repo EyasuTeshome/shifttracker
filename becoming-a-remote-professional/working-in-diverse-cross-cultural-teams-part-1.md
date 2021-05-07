@@ -27,8 +27,8 @@ First, you will watch a video together. Before watching think about the followin
 
 **Learn more about Hofstede's dimensions:**
 
-- [Click here to watch this video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
-- [Hofstede's Cultural Dimensions summarized](https://www.notion.so/Hofstede-s-Cultural-Dimensions-summarized-a206e7a830d04533a0e3aa93234b641f)
+- [Hofstede's cultural dimensions - video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
+- [Hofstede's Cultural Dimensions summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
 - [Hofstede's Cultural Dimension](https://www.mindtools.com/pages/article/newLDR_66.htm)
 
 ### Discussion
