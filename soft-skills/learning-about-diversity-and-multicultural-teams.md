@@ -1,4 +1,4 @@
-# Learning about Diversity and Multicultural Teams
+# Learning about diversity and multicultural teams
 
 ## Learning objectives:
 
@@ -38,13 +38,13 @@ There are so many differences between people it can be hard to know where to beg
 - [Hofstede's Cultural Dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm)
 - [Cross-Cultural Communication Styles: High and Low Context](https://www.communicaid.com/cross-cultural-training/blog/high-and-low-context/)
 
-### Diversity & inclusion policy at Microverse: TODO
+### Diversity & inclusion policy at Microverse: 
 
-At Microverse, we have a policy to set expectations about the norms here and what is expected of you in this diverse environment. The most important things to keep in mind are:
+At Microverse, we have a policy to set expectations about the norms here and what is expected of you in this diverse environment. This is called the [Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59). We also have a commitment to [diversity, equity and inclusion](https://www.notion.so/microverse/Diversity-equity-inclusion-6ee649cedd344727908b80d83a529d9f). The most important things to keep in mind are:
 
-- point 1
-- point 2
-- point 3
+- Be respectful
+- Be open-minded and always assume good intentions
+- Report any behavior that makes you feel uncomfortable or is inappropriate
 
 Refresh your knowledge of all our expectations around diversity and inclusion in the Diversity & Inclusion Policy.
 
