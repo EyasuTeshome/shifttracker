@@ -11,10 +11,10 @@
 - Identify where you can find the Code of Conduct.
 - Demonstrate understanding of community-centered ways of working.
 - Show you know how to request an absence.
-- Understand that the ISA repayment requirement officially starts on Week 5 in the program.
+- Understand that the ISA repayment requirement officially starts at the beginning of Module 2 in the program.
 - Show familiarity with diversity and inclusion policy at Microverse and expectations for openness and respect.
 - Demonstrate ability to navigate and communicate using Slack.
-- Can lead daily meetings with Stand-up Team independently when it's your turn.
+- Can lead daily meetings with standup team independently when it's your turn.
 - Understand that Microverse's program has a core, direct goal of getting you to employment.
 
 ### Estimated time: 0.75h
