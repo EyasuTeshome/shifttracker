@@ -34,11 +34,11 @@ We're always here to help you. Reach out to Finance or Student Success via Zende
 
 ### Acknowledgment of ISA terms
 
-To complete this task, please fill out [this Airtable form](https://airtable.com/shrC50Zm7S3eXlaHI).
+To complete this task, return to your Dashboard now to complete the ISA acknowledgement form in the next activity. 
 
 ### Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.*
 
 - [Income share agreement](https://en.wikipedia.org/wiki/Income_share_agreement)
-- [All About ISAs: Income Share Agreements and Deferred Tuition at Coding Bootcamps](https://www.coursereport.com/blog/all-about-isas-income-share-agreements-and-deferred-tuition-at-coding-bootcamps)
+- [All About ISAs: Income Share Agreements and deferred tuition at coding bootcamps](https://www.coursereport.com/blog/all-about-isas-income-share-agreements-and-deferred-tuition-at-coding-bootcamps)
