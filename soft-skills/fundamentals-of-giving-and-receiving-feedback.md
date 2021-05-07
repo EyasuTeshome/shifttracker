@@ -49,21 +49,6 @@ Similar to how people practice playing an instrument every day to improve, we kn
 
 [Practice giving positive and constructive feedback](practice-giving-positive-and-constructive-feedback.md)
 
-### Learn more about giving good feedback
-
-To learn more about constructive feedback and begin connecting with your own experiences, read the following article, then watch **at least two** of the four videos referenced in the article. If you aren't sure which to choose, watch the first minute or two of each and then choose (or watch all four if you have time!).
-
-- [Have a Complicated Relationship With Feedback? These 4 TED Talks Can Help](https://www.inc.com/joe-hirsch/4-ted-talks-from-women-that-will-change-your-relationship-with-feedback.html)
-
-**Guiding questions**
-
-*Keep these in mind while watching the videos.*
-
-- What is good feedback according to the speaker?
-- What do you agree with?
-- What do you disagree with?
-- What else would you like to know?
-
 ### Learn about receiving feedback
 
 Just like it is difficult to give feedback, it can also be difficult to receive it. We generally do not like it when people give us negative feedback, so there are a few steps that you can follow to make sure you learn something from the feedback that is given to you.
