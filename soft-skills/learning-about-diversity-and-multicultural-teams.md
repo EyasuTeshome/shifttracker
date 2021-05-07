@@ -46,7 +46,6 @@ At Microverse, we have a policy to set expectations about the norms here and wha
 - Be open-minded and always assume good intentions
 - Report any behavior that makes you feel uncomfortable or is inappropriate
 
-Refresh your knowledge of all our expectations around diversity and inclusion in the Diversity & Inclusion Policy.
 
 ### Guidelines for communication in a diverse environment
 
