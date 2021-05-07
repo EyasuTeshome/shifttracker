@@ -59,7 +59,7 @@ Now go to your Student Dashboard and fill in your daily standup.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [**TO-DO ADD LINK]** Daily standups: What to expect
+- [Daily standups: What to expect](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/daily-standups:-what-to-expect.md)
 - [The value and potential of daily standups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/value-and-potential-of-daily-standups.md)
 - [How to set SMART goals | Goal setting for students](https://www.youtube.com/watch?v=i0QfCZjASX8)
 - [The small-win principle for maximum performance | Robin Sharma](https://www.youtube.com/watch?v=OtfW8RDmOUo)
