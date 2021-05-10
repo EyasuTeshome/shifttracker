@@ -14,7 +14,7 @@ In this exercise, you will practice reciting your elevator pitch aloud while aim
 
 ### Why is practicing your elevator pitch important?
 
-You'll be reciting your pitch in elevators, in front of interviewers, at tech conferences, and more. Your elevator pitch is often your first impression, and a strong elevator pitch can open the door for opportunities galore. Many of us are awkward and comfortable with public speaking, however, and that awkwardness can increase when you're trying to pitch yourself.
+You'll be reciting your pitch in front of interviewers, at tech conferences, and more. Your elevator pitch is often your first impression and a strong elevator pitch can open the door for opportunities. Many of us are awkward and uncomfortable with public speaking and that awkwardness can increase when you're trying to pitch yourself.
 
 By practicing your elevator pitch aloud, you'll grow increasingly confident with the script, and will then be able to focus on sounding more natural. 
 
