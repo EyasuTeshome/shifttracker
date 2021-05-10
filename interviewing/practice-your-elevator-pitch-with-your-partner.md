@@ -28,7 +28,7 @@ By practicing your elevator pitch aloud, you'll grow increasingly confident with
 **Learn more about delivering your elevator pitch confidently and naturally:**
 
 - [Video - How to sound natural while giving a speech](https://www.youtube.com/watch?v=QeDF7xV4pq0)
-- [Video - How To Speak With Confidence & Authority (3 EASY TRICKS!)](https://www.youtube.com/watch?v=vjdNewrG20E).
+- [Video - How To Speak With confidence & authority (3 easy tricks)](https://www.youtube.com/watch?v=vjdNewrG20E).
 
 ## Exercise
 
@@ -55,5 +55,5 @@ Now go to your Student Dashboard and submit your exercise.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Video - How to stop feeling FAKE and start sounding NATURAL in English](https://www.youtube.com/watch?v=LSx_gR_cj88) (note: this video is useful for all students, but is especially aimed at English as a Foreign Language speakers)
-- [Video - Become a Better Speaker: 9 Essential Public Speaking Tips - College Info Geek](https://www.youtube.com/watch?v=zZBJZ-dBVbE). This video is aimed primarily at those speaking in front of large audiences, but nearly all of the skills mentioned here are applicable for those delivering elevator speeches.
+- [Video - How to stop feeling fake and start sounding natural in English](https://www.youtube.com/watch?v=LSx_gR_cj88) (note: this video is useful for all students, but is especially aimed at English as a Foreign Language speakers)
+- [Video - Become a Better Speaker: 9 essential public speaking tips](https://www.youtube.com/watch?v=zZBJZ-dBVbE). This video is aimed primarily at those speaking in front of large audiences, but nearly all of the skills mentioned here are applicable for those delivering elevator speeches.
