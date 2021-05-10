@@ -43,7 +43,7 @@ By practicing your elevator pitch aloud, you'll grow increasingly confident with
 5. **Time estimated: 10 minutes:** Once you've practiced your pitch, **join your partner(s) on Zoom and record yourself reciting your elevator pitch to your partner.** Once you've recited your pitch, ask your partner to provide feedback. **Then stop recording.**
 6. **Time estimated: 5 minutes:** Open your copy of the template below and paste the zoom recording of point 6 above showing you reciting your pitch to your partner. Also, write in that document the feedback your partner gave you.
 
-**Exercise template to copy:** [Practising my elevator pitch](https://docs.google.com/document/d/1joRmAB8nBKkYIUr3pECs8qAtyH8U25ESWLeAXQoyrKQ/edit#)
+**Exercise template to copy:** [Practicing my elevator pitch](https://docs.google.com/document/d/1joRmAB8nBKkYIUr3pECs8qAtyH8U25ESWLeAXQoyrKQ/edit#)
 
 ### Submit your exercise
 
