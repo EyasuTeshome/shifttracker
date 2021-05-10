@@ -56,4 +56,4 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [Video - How to stop feeling fake and start sounding natural in English](https://www.youtube.com/watch?v=LSx_gR_cj88) (note: this video is useful for all students, but is especially aimed at English as a Foreign Language speakers)
-- [Video - Become a better speaker: 9 essential public speaking tips](https://www.youtube.com/watch?v=zZBJZ-dBVbE). This video is aimed primarily at those speaking in front of large audiences, but nearly all of the skills mentioned here are applicable for those delivering elevator speeches.
+- [Video - Become a better speaker: 9 essential public speaking tips](https://www.youtube.com/watch?v=zZBJZ-dBVbE) This video is aimed primarily at those speaking in front of large audiences, but nearly all of the skills mentioned here are applicable for those delivering elevator speeches.
