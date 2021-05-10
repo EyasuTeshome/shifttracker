@@ -28,7 +28,7 @@ By practicing your elevator pitch aloud, you'll grow increasingly confident with
 **Learn more about delivering your elevator pitch confidently and naturally:**
 
 - [Video - How to sound natural while giving a speech](https://www.youtube.com/watch?v=QeDF7xV4pq0)
-- [Video - How to speak with confidence & authority (3 easy tricks)](https://www.youtube.com/watch?v=vjdNewrG20E).
+- [Video - How to speak with confidence & authority (3 easy tricks)](https://www.youtube.com/watch?v=vjdNewrG20E)
 
 ## Exercise
 
