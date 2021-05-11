@@ -16,3 +16,5 @@ Each day you should give a project update to your team at an agreed-upon time. Y
 - What are you doing now until the next update?
 - Do you need help from someone else on the team? Do you have any questions? Are you blocked in some way? Be sure to tag relevant people in your response.
 
+### Where will I give my project updates?
+You will receive a reminder in your group project team's Slack channel, and you should put your project updates there.
