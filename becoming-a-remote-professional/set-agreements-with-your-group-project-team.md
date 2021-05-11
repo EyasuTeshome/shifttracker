@@ -9,7 +9,7 @@
 
 ## Using project updates to work better as a team
 
-This activity focuses on getting together with your group project team and setting your agreements together. Refer to the activity, [using project updates to work better as a team](using-project-updates-to-work-better-as-a-team.md) for reminders as needed.
+This activity focuses on getting together with your group project team and setting your agreements together. Refer to earlier activities from today as needed for reminders of what group agreements are and how to make them.
 
 ## Exercise
 
