@@ -2,7 +2,6 @@
 
 ## Learning objectives
 
-- Show you know how to use daily update and weekly retrospective forms to drive successful meeting activities.
 - Learn the value of regular project status updates for group projects and practice daily with teammates.
 
 ### **Estimated time**: 0.5h
