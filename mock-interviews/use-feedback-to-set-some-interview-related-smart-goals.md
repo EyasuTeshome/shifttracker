@@ -24,7 +24,7 @@ In the activity "[*Goal Setting Day to Day, Week to Week*](https://github.com/mi
 
 ### Reminder on gathering feedback in an interview
 
-In the lesson *["How to analyze your performance in a mock interview"](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/how-to-analyze-your-performance-in-a-mock-interview.md),* you were introduced to a feedback template with questions to ask your mock interviewer about your performance. We hope that you have used this template to gather feedback oduring your peer mock interviews so that you can do this exercise properly.
+In the lesson *["How to analyze your performance in a mock interview"](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/how-to-analyze-your-performance-in-a-mock-interview.md),* you were introduced to a feedback template with questions to ask your mock interviewer about your performance. We hope that you have used this template to gather feedback during your peer mock interviews so that you can do this exercise properly.
 
 **A quick reminder on** **gathering feedback after a mock interview using the feedback template:**
 
