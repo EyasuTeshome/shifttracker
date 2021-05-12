@@ -21,7 +21,7 @@ By knowing when your deadlines are, proactively communicating, and adjusting to 
 
 - [Three habits for success](three-habits-for-success.md)
 
-### The importance of limiting distractions**:**
+### The importance of limiting distractions:
 
 Read the following blog in silence for 5 minutes.
 
