@@ -1,7 +1,5 @@
 # Search for a job online and add it to your Huntr board
 
-# Search for a job online and add it to your Huntr board
-
 ## Learning objectives
 
 - Select fitting jobs to apply to from a list of available positions.
