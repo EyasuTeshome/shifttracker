@@ -18,7 +18,7 @@ The key to becoming really good in interviews is being able to analyze your perf
 
  After your mock interview, we recommend that you gather feedback on your performance. The best time to do this is at the end of the interview by asking them questions. To help you get this feedback, we have created the template below with a list of questions you can use. Make sure to take notes in the template as the interviewer is giving you feedback so you can reflect on them later on.
 
-**Learn more about gathering feedback after an interview using the feedback template:**
+**Learn more about gathering feedback after your mock interview using the feedback template:**
 
 - [Template for gathering feedback after your mock interview](https://docs.google.com/document/d/1Sn8qSJxr1RHhsyCQo33XfpLeXOt_HTKbHo57mBCFs3k/edit#heading=h.jhld1jrenkcg)
 
