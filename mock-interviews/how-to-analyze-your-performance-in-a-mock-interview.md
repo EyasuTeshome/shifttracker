@@ -8,7 +8,7 @@
 
 ## Description
 
-In this lesson, you will learn how to gather feedback from your mock interviewer in order to improve your interviewing skills.
+In this lesson, you will learn how to gather feedback from your mock interviewer and analyze your performance in order to improve your interviewing skills.
 
 ### Why is analyzing your performance in a mock interview important?
 
