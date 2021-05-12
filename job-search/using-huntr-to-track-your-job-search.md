@@ -36,7 +36,7 @@ Huntr is the tool you will use to track your job applications, interviews, and j
 
  **Learn more about the benefits of using Huntr to track your progress:**
 
-- [The benefits of using Huntr to track your progress](https://www.notion.so/The-benefits-of-using-Huntr-to-track-your-progress-8f7b2bba6fa84fa5bd4c70b4d3dd82e0)
+- [The benefits of using Huntr to track your progress](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/the-benefits-of-using-huntr-to-track-your-progress.md)
 
 ## Challenge yourself
 
@@ -47,4 +47,4 @@ Huntr is the tool you will use to track your job applications, interviews, and j
 - How do we recommend you test out the Huntr Chrome extension to make sure it is working?
 - What is the Microverse job portal in Huntr?
 
-Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://www.notion.so/Answers-to-the-Challenge-Yourself-questions-b738fd4e4ca0415797536c4df1bf8f84)
+Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/answers-to-the-challenge-yourself-questions-using-huntr.md)
