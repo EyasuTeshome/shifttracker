@@ -31,7 +31,7 @@ Once you have finished your industry mock interview, you will fill out a self-as
 
 **Reminder on how to use feedback to create interview-related SMART goals:**
 
-- [Using feedback to set some interviewing related SMART goals](https://www.notion.so/Prof-Skills-Activity-Use-feedback-to-set-some-interviewing-related-SMART-goals-9188196a80cf4797ae137492bb4423ef)
+- [Using feedback to set some interviewing related SMART goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/use-feedback-to-set-some-interview-related-smart-goals.md)
 
 ### What if my interview is scheduled in the next few days/week? What should I do?
 
