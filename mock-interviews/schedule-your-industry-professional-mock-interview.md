@@ -18,8 +18,6 @@ Your industry mock interview is an opportunity to have an interview with a profe
 
 To start, you will need to fill out a form to request an industry mock interview with an interviewer. Once you are matched with an interviewer, you will receive an email introduction with a link to your interviewer’s Calendly so that you can schedule the most convenient time you can find that works for you.
 
-Please note that our industry professional interviewers are full-time developers who have work responsibilities. This means that their work calendars might be busy as well. This is why it is important for you to book the closest available time in their Calendly.
-
 ## Exercise
 
 ### Instructions
