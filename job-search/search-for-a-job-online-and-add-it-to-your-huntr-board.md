@@ -50,7 +50,7 @@ We created the Microverse job portal, which is a place in Huntr where career coa
 
 **Learn more about the Microverse job portal:**
 
-- [Introducing the Microverse job portal](https://www.notion.so/Introducing-the-Microverse-portal-cf7cb393d9744ede9372f6c6126555c7)
+- [Introducing the Microverse job portal](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/introducing-the-microverse-portal.md)
 
 ## Exercise
 
