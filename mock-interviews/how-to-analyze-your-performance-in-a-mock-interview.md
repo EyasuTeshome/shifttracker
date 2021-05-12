@@ -30,4 +30,4 @@ The link below is a quick reminder of techniques to building a growth mindset:
 
  **A quick reminder on techniques to build a growth mindset:**
 
-- [Techniques to developing a growth mindset to see failure and challenges constructively](https://www.notion.so/Techniques-to-developing-a-growth-mindset-to-see-failure-and-challenges-constructively-64876deac5524364854e48730646f829)
+- [Techniques to developing a growth mindset to see failure and challenges constructively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/techniques-to-developing-a-growth-mindset-to-see-failure-and-challenges-constructively.md)
