@@ -28,7 +28,7 @@ The link below shows you the top things to look out for when looking for a job o
 
 **Learn more about things to look out for when looking for a job online:**
 
-- [Things to look out for when looking for a job online](https://www.notion.so/Things-to-look-out-for-when-looking-for-a-job-online-b1d8c3634e50455aa65c0636f7edf754)
+- [Things to look out for when looking for a job online](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/things-to-look-out-for-when-looking-for-a-job-online.md)
 
 ### How to look for a job online
 
