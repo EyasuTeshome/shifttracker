@@ -16,7 +16,7 @@ Because the industry mock interview is a great opportunity for you to get a feel
 
 ### How to show up prepared and on time to your industry mock interview
 
-In the previous exercise *[Schedule your industry professional mock interview](https://www.notion.so/Prof-Skills-Activity-Schedule-your-industry-professional-mock-interview-039e4bfb92614e7c88411e08000c1b8d),* you scheduled your interview with an Industry mock interviewer. It is now your time to do your interview and this exercise gives you enough time to do this. 
+In the previous exercise *[Schedule your industry professional mock interview](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/schedule-your-industry-professional-mock-interview.md),* you scheduled your interview with an Industry mock interviewer. It is now your time to do your interview and this exercise gives you enough time to do this. 
 
 As always, it is important to be prepared and on time for an interview so make sure to do the following before your mock interview too:
 
