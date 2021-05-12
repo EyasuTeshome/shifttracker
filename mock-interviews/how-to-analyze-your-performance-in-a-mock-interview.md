@@ -24,7 +24,7 @@ The key to becoming really good in interviews is being able to analyze your perf
 
 ### Using a growth mindset to analyze the feedback you receive
 
-Receiving constructive feedback from your mock interviewer can raise your feelings of imposter syndrome, making you feel like you are not good enough for interviews. This is a good time to remind yourself of the growth mindset, why it is important and how to practice it. Having a growth mindset is particularly important when interviewing because you will be doing a lot of interviews and the best way to be great at interviewing is by learning from the previous ones so that you can perform better in the future ones.
+Receiving constructive feedback from your mock interviewer can create feelings of imposter syndrome, making you feel like you are not good enough for interviews. This is a good time to remind yourself of the growth mindset, why it is important and how to practice it. Having a growth mindset is particularly important when interviewing because you will be doing a lot of interviews and the best way to be great at interviewing is by learning from the previous ones so that you can perform better in the future ones.
 
 The link below is a quick reminder of techniques to building a growth mindset:
 
