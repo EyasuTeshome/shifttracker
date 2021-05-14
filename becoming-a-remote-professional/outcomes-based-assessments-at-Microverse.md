@@ -28,8 +28,8 @@ The following section talks more about what outcome-based assessment is and what
 
 **Learn more about outcome-based assessment:**
 
-- [Outcomes-based assessment](https://www.notion.so/Outcome-based-assessment-3bf601f790a54a4e8ad6d2661c1bc60b)
-- [Capstone projects](https://www.notion.so/Capstone-projects-at-Microverse-3e9010d0de214d74a61379874d8ae726)
+- [Outcomes-based assessment](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/outcome-based-assessment.md)
+- [Capstone projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/Capstone-projects-at-Microverse.md)
 
 ## Challenge yourself
 
@@ -38,4 +38,4 @@ The following section talks more about what outcome-based assessment is and what
 - What are outcomes-based assessments?
 - What are the soft skills you will gain from doing capstone projects?
 - How will you be able to utilize the capstone projects after you've finished them?
-[Click here to check your answers to these questions.](https://www.notion.so/Challenge-yourself-Answers-2582b60784b944d08e87c5c0356b7315)
+[Click here to check your answers to these questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/challenge-yourself-answers.md)
