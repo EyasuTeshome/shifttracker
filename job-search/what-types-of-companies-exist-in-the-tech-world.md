@@ -24,9 +24,9 @@ Guiding questions:
 - What is your personal situation and which type of company might be a good fit?
 Learn more about different types of companies in the tech world:
 
-[Evaluating jobs/companies based on geographical availability](https://www.notion.so/Evaluating-jobs-companies-based-on-geographical-availability-ac4e61979b88427dbb076fc485a16ec5)
+[Evaluating jobs/companies based on geographical availability](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/evaluating-jobs-and-companies-based-on-geographical-availability.md)
 
-[A thing or two about startups](https://www.notion.so/A-thing-or-two-about-startups-ab769e74a75c4617982c8c3f8f65a283)
+[A thing or two about startups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/a-thing-or-two-about-startups.md)
 
 ## Exercise
 
@@ -41,4 +41,5 @@ From your current knowledge of tech companies and the types of jobs to apply to,
 ### Submit your exercise
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+
 Now go to your Student Dashboard and submit your exercise.
