@@ -16,7 +16,7 @@ As you plan to launch your tech career, you have possibly identified your dream 
 
 ### How to evaluate jobs/companies based on geographical availability
 
-Knowledge is power, and in your job search, you want to use your knowledge about the tech job market and about your personal situation to plan your own job searching and career path. Your needs are also bound to change, and so will your fit for a certain type of company. This article gives information that can be used at any point in your Microverse program to determine what kind of companies you would be looking out for.
+Knowledge is power, and in your job search, you want to use your knowledge about the tech job market and about your personal situation to plan your own job searching and career path. Your needs are also bound to change and so will your fit for a certain type of company. This article gives information that can be used at any point in your Microverse program to determine what kind of companies you would be looking out for.
 
 Guiding questions:
 
