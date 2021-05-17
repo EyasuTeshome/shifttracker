@@ -24,7 +24,7 @@ Procrastination when not controlled can make us lose control of our goals, dream
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-**Spend 25 minutes working on this exercise.**
+**Spend 15 minutes working on this exercise.**
 
 1. Individually, for the first 13 minutes, watch the following video: [Inside the mind of a master procrastinator](https://waitbutwhy.com/2016/03/my-ted-talk.html)
 2. Individually, for the next 5 minutes, open your copy of the exercise template and complete the quiz.
