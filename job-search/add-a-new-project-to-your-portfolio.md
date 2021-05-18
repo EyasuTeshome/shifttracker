@@ -28,7 +28,7 @@ This is the first step in adding a new project to your portfolio.
 
 There are a few **DOs and DON'Ts** to keep in mind when choosing screenshots.
 
-[DOs and DON'Ts for choosing screenshots](https://www.notion.so/DOs-and-DON-Ts-for-choosing-screenshots-12582b422f684ffab27829a85e730380)
+[DOs and DON'Ts for choosing screenshots](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/dos-and-donts-for-choosing-screenshots.md)
 
 ### Include Links to Your GitHub Source Code and to Live Demos
 
@@ -36,7 +36,7 @@ This step is incredibly important, and it’s also a step that many people miss.
 
 There are a few pointers to keep in mind when including links to GitHub Source Code and to Live Demos.
 
-[Pointers for including links to the GitHub Source Code and to Live Demos](https://www.notion.so/Pointers-for-including-links-to-the-GitHub-Source-Code-and-to-Live-Demos-e5c28de662ac4539a20d9322d8507348)
+[Pointers for including links to the GitHub source code and to live demos](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/pointers-for-including-links-to-the-github-source-code-and-to-live-demos.md)
 
 ## Exercise
 
