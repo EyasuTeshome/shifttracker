@@ -2,15 +2,11 @@
 
 # What is time management?
 
----
-
 Time management is an important component of your overall productivity in your career and life. Knowing how to manage your time at work or through an educational program like Microverse can reduce stress and improve your ability to function effectively. 
 
 This article discusses the importance of time management and time management skills and the best practices you can implement today.
 
 # What are time management skills and best practices?
-
----
 
 Time management skills and best practices include various skills and tips that will help you manage your time well. Some of the most important time management skills and best practices include: 
 
