@@ -29,7 +29,7 @@ While you are encouraged to negotiate every job offer you receive, it can be str
 
 **Learn more about responding to salary questions:**
 
-[Job offer negotiation practice](https://www.notion.so/Job-offer-negotiation-practice-0ada26d6c9a94690a65ec0bff6d47d6a)
+[Job offer negotiation practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-offer-negotiation-practice.md)
 
 ## Exercise
 
