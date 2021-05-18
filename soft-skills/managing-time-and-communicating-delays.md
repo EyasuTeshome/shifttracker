@@ -45,7 +45,7 @@ Learn more about communicating delays effectively:
 
 ### Submission instructions
 
-After you have studied the time management best practice here: [Time Management Skills and Best Practices](https://www.notion.so/Time-Management-Skills-and-Best-Practices-8283c527e41d474abdf3faf80616003e), do the following:
+After you have studied the time management best practice here: [Time Management Skills and Best Practices](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/time-management-skills-and-best-practices.md), do the following:
 
 Using the google template linked below, complete this exercise by doing the following: 
 
