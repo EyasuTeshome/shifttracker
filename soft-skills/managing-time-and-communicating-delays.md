@@ -35,7 +35,9 @@ Time management is an important component of your overall productivity in your c
 
 The above time management skills are to be practiced regularly to improve and achieve your goals. However, there are days when you might not be able to complete a task due to a personal situation outside of your control or a reasonable professional situation! 
 
-[Communicating delays effectively](https://www.notion.so/Communicating-delays-effectively-3d5931753f584461a7f539d50248c69e)
+Learn more about communicating delays effectively:
+
+- [Communicating delays effectively](https://www.notion.so/Communicating-delays-effectively-3d5931753f584461a7f539d50248c69e)
 
 - [What to do when you know you’re going to miss a deadline](https://www.cleverism.com/what-to-do-when-you-know-youre-going-to-miss-a-deadline/)
 
