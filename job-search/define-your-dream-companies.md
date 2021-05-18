@@ -25,9 +25,9 @@ While going through a program like the Microverse Program and launching a tech c
 
 Learn more about drafting your dream company wishlist, and tips on how to get hired by your dream company:
 
-[Drafting a list of your dream companies](https://www.notion.so/Drafting-a-list-of-your-dream-companies-6c5f8889a744449492a55da24e1552a2)
+[Drafting a list of your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/drafting-a-list-of-your-dream-companies.md)
 
-[How to get hired by your dream company](https://www.notion.so/How-to-get-hired-by-your-dream-company-4d559fa34c3c45c49d3a95ff81cd77a0)
+[How to get hired by your dream company](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-get-hired-by-your-dream-company.md)
 
 ## Exercise
 
