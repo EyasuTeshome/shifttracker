@@ -40,6 +40,7 @@ Learn more about negotiating a job offer:
 ### Submit your exercise
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+
 Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
