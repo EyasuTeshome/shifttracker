@@ -25,7 +25,7 @@ Guiding questions:
 
 Learn more about staying connected while working remotely:
 
-[Remote work communication and other ways to stay connected while working remotely. ](https://www.notion.so/Remote-work-communication-and-other-ways-to-stay-connected-while-working-remotely-36058114f26f4b04a78036a8e591fe58)
+[Remote work communication and other ways to stay connected while working remotely. ](https://github.com/microverseinc/curriculum-professional-skills/tree/main/soft-skills)
 
 ## Exercise
 
