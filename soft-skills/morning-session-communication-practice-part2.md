@@ -28,7 +28,7 @@ Guiding questions:
 
 Learn more about effective communication practice:
 
-[Effective communication practice](https://www.notion.so/Effective-communication-practice-2364e36e3acf4eeeae93afa3a66cd1a6)
+[Effective communication practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/effective-communication-practice.md)
 
 ## Exercise
 
