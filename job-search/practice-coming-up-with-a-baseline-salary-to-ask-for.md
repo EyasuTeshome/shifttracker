@@ -25,7 +25,7 @@ Knowing what salary baseline to expect helps with the salary negotiation stage o
 
 **Learn more about how to come up with salary baselines:**
 
-[Coming up with salary baselines](https://www.notion.so/Coming-up-with-salary-baselines-f5e56a21408e4eefb833f84afaf8b1d8)
+[Coming up with salary baselines](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/coming-up-with-salary-baselines.md)
 
 ## Exercise
 
