@@ -27,7 +27,7 @@ Guiding questions:
 
     Learn more about how to proactively communicate:
 
-[Practising proactive communication](https://www.notion.so/Practising-proactive-communication-98ffb214e08e4ffa806cafaa74e5eac9)
+[Practising proactive communication](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/practicing-proactive-communication.md)
 
 ## Exercise
 
