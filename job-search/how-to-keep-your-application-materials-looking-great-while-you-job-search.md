@@ -31,7 +31,7 @@ There are many parts in an application material that needs an update. Moreover, 
 
  **Learn more about application material that needs update:**
 
-[Application material that needs regular update](https://www.notion.so/Application-material-that-needs-regular-update-001e091ef42f4a22b57d640917b37b7a)
+[Application material that needs regular update](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/application-material-that-needs-regular-update.md)
 
 ## Challenge yourself
 
@@ -43,4 +43,4 @@ There are many parts in an application material that needs an update. Moreover, 
 
 Click here to check your answers to these questions. 
 
-[Answer to the challenge questions](https://www.notion.so/Answer-to-the-challenge-questions-dfdde10b8e1c42de98a87929d5407a79)
+[Answer to the challenge questions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/answer-to-the-challenge-questions-applications-great.md)
