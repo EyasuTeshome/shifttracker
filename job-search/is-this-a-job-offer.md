@@ -25,7 +25,7 @@ You have worked on online profiles, they show your skills in a significant way, 
 
 **Learn more about what a recruiter outreach is and what it is not:**
 
-- [Job offer vs. recruiter outreach](https://www.notion.so/Job-offer-vs-recruiter-outreach-ea3be0b3d26d4723a9e8a7dae411ae39)
+- [Job offer vs. recruiter outreach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-offer-vs-recruiter-outreach.md)
 
 ## Exercise
 
