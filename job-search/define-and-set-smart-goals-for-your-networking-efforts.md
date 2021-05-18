@@ -30,7 +30,7 @@ Networking goals are what you need or want to achieve through your networking ef
 
 **Learn more about setting better SMART networking goals:**
 
-[Setting better SMART networking goals](https://www.notion.so/Setting-better-SMART-networking-goals-266ed882b97c4e09ab8dfd353b616eb3)
+[Setting better SMART networking goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/setting-better-smart-networking-goals.md)
 
 ## Exercise
 
