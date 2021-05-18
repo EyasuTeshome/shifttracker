@@ -23,7 +23,7 @@ Guiding questions:
 
 Learn more about negotiating a job offer:
 
-[How to negotiate a job offer](https://www.notion.so/How-to-negotiate-a-job-offer-de79792de1094ae1bcf856fc89b0ee44)
+[How to negotiate a job offer](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-negotiate-a-job-offer.md)
 
 ## Exercise
 
