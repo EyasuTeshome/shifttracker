@@ -29,7 +29,7 @@ Time management is a skill that can improve many aspects of your work life. It c
 
 Time management is an important component of your overall productivity in your career and life. Knowing how to manage your time at work or through an educational program like Microverse can reduce stress and improve your ability to function effectively. Learn more on time management in the article below:
 
-[Time Management Skills and Best Practices](https://www.notion.so/Time-Management-Skills-and-Best-Practices-8283c527e41d474abdf3faf80616003e)
+[Time Management Skills and Best Practices](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/time-management-skills-and-best-practices.md)
 
 ### Communicating delays
 
@@ -37,7 +37,7 @@ The above time management skills are to be practiced regularly to improve and ac
 
 Learn more about communicating delays effectively:
 
-- [Communicating delays effectively](https://www.notion.so/Communicating-delays-effectively-3d5931753f584461a7f539d50248c69e)
+- [Communicating delays effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/communicating-delays-effectively.md)
 
 - [What to do when you know you’re going to miss a deadline](https://www.cleverism.com/what-to-do-when-you-know-youre-going-to-miss-a-deadline/)
 
