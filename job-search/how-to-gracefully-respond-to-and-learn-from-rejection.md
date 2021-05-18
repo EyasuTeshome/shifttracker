@@ -26,7 +26,7 @@ Guiding questions:
 
 Learn more about responding to and learning from rejection:
 
-[How to gracefully respond to rejection](https://www.notion.so/How-to-gracefully-respond-to-rejection-ffb45f967200443bb7350b76d4b4cb62)
+[How to gracefully respond to rejection](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-gracefully-respond-to-rejection.md)
 
 ## Exercise
 
