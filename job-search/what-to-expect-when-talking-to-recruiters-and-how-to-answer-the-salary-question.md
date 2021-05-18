@@ -25,7 +25,7 @@ While a question about your salary expectations is one of the more straightforwa
 
 **Learn more about responding to salary questions:**
 
-[How to answer the salary expectation question.](https://www.notion.so/How-to-answer-the-salary-expectation-question-9389c621b98145719dfdff123ee9a8d5)
+[How to answer the salary expectation question](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-answer-the-salary-expectation-question.md)
 
 ## Exercise
 
