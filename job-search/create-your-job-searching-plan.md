@@ -28,7 +28,7 @@ It can be a good idea to reflect on the previous SMART goals you created for net
 
 **A quick reminder of your previously created SMART goals on networking and interviewing:**
 
-- [Remind yourself of your networking-related SMART goals created in this past exercise](https://www.notion.so/Prof-Skills-Activity-Define-and-set-SMART-goals-for-your-networking-efforts-01aec9f7c1cc4dcebc6af909ec66745b)
+- [Remind yourself of your networking-related SMART goals created in this past exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-and-set-smart-goals-for-your-networking-efforts.md)
 - [Remind yourself  of your interview-related SMART goals created in this past exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/use-feedback-to-set-some-interview-related-smart-goals.md)
 
 ## Exercise
