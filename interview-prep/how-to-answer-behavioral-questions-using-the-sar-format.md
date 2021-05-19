@@ -16,7 +16,7 @@ SAR format gives a framework to communicate your responses to common behavioral 
 
 **Learn more about why SAR format is important:**
 
-[Why is SAR format so useful?](https://www.notion.so/Why-is-SAR-format-so-useful-7d0211ca7e49450487267fa5b5db047c)
+[Why is SAR format so useful?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/why-is-sar-format-so-useful.md)
 
 ### Definition of SAR
 
@@ -31,7 +31,7 @@ In one of our previous exercises, we briefly touched upon what SAR means and how
 
 **Refresh your memory on what SAR means:**
 
-[What does SAR mean?](https://www.notion.so/What-does-SAR-mean-227ecc51ff244154911c0b26d8f4b494)
+[What does SAR mean?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-does-sar-mean.md)
 
 ### Behavioral question and the first step
 
@@ -54,7 +54,7 @@ When you don’t have a long professional history to draw from, consider example
 
 **Learn more about what to keep in mind while picking up the situations from your life and presenting them effectively:**
 
-[What situations to pick up and how to present them effectively?](https://www.notion.so/What-situations-to-pick-up-and-how-to-present-them-effectively-def1756cbe30495ea620437b89ca772b)
+[What situations to pick up and how to present them effectively?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-situations%20-to-pick-up-and-how-to-present-them-effectively.md)
 
 ### Framing the action correctly
 
