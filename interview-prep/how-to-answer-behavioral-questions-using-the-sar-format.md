@@ -62,7 +62,7 @@ After sharing the situation, it's the Action that comes next. Explain the specif
 
 **Learn more about how to frame action related responses correctly:**
 
-[How to frame and share actions correctly?](https://www.notion.so/How-to-frame-and-share-actions-correctly-90021eb256464376b216355d153e09ea)
+[How to frame and share actions correctly?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-actions-correctly.md)
 
 ### Framing the result effectively
 
@@ -70,7 +70,7 @@ After sharing the action, it's the Result that comes next. Explain the results t
 
 **Learn more about how to frame results related responses effectively:**
 
-[How to frame and share results effectively?](https://www.notion.so/How-to-frame-and-share-results-effectively-e8bc7f960046446ab6507cea5a30cd50)
+[How to frame and share results effectively?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-results-effectively.md)
 
 ## Exercise
 
