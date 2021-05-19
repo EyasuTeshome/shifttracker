@@ -24,7 +24,7 @@ In previous exercises, you learned how to set SMART goals for your networking an
 
 ### Reminder of your previously created SMART goals
 
-It can be a good idea to reflect on the previous SMART goals you created for networking and interviewing so they can give you an idea of what to include in your job search plan. Any improvements you make to your networking and interviewing skills will definitely enhance your job search so we recommend refreshing your memory on those goals. The link below will take you to the SMART goals exercises you previously did.
+It can be beneficial to reflect on the previous SMART goals you created for networking and interviewing so they can give you an idea of what to include in your job search plan. Any improvements you make to your networking and interviewing skills will definitely enhance your job search so we recommend refreshing your memory on those goals. The link below will take you to the SMART goals exercises you previously did.
 
 **A quick reminder of your previously created SMART goals on networking and interviewing:**
 
