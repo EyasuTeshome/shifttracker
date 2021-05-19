@@ -1,4 +1,4 @@
-# Build Better Working Relationships
+# Build better working relationships
 
 ## Learning objectives
 
