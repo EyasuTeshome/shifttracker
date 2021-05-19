@@ -69,6 +69,6 @@ Now go to your Student Dashboard and submit your exercise.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [50 most common Interview questions](https://www.glassdoor.com/blog/common-interview-questions/)
+- [50 most common interview questions](https://www.glassdoor.com/blog/common-interview-questions/)
 - [New survey reveals 85% of all Jobs are filled via networking](https://www.linkedin.com/pulse/new-survey-reveals-85-all-jobs-filled-via-networking-lou-adler/)
 - [Master the informational interview : proven tactics & language](https://ns-careers.com/blog/2016/9/30/master-the-informational-interview-proven-tactics-language)
