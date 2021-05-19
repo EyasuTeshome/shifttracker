@@ -54,7 +54,7 @@ Why? Because applying a growth mindset will help you succeed in key areas of you
 
 **Spend 10 minutes working on the group discussion**
 
-As a group come together and discuss your answers from the previous exercice : 
+As a group, come together and discuss your answers to these questions from the previous exercice: 
 
 - What is one thing about job searching that might destabilize your confidence?
 - How do you think you can use the growth mindset to help you overcome that thing and restabilize your confidence?
