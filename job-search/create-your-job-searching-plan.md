@@ -20,7 +20,7 @@ In previous exercises, you learned how to set SMART goals for your networking an
 
 **Learn how to use the SMART method to create your job search plan:**
 
-- [Using the SMART method to create your job search plan](https://www.notion.so/Using-the-SMART-method-to-create-your-job-search-plan-34b051dae4a54f7e9684605342e8b8ad)
+- [Using the SMART method to create your job search plan](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-the-smart-method-to-create-your-job-search-plan.md)
 
 ### Reminder of your previously created SMART goals
 
@@ -37,7 +37,7 @@ It can be a good idea to reflect on the previous SMART goals you created for net
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Open this link "[Using the SMART method to create your job search plan](https://www.notion.so/Using-the-SMART-method-to-create-your-job-search-plan-34b051dae4a54f7e9684605342e8b8ad)". The information in this link will guide you to creating your job search plan correctly which is step 2 below.
+1. Open this link [Using the SMART method to create your job search plan](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-the-smart-method-to-create-your-job-search-plan.md). The information in this link will guide you to creating your job search plan correctly which is step 2 below.
 2. Open your copy of the template below and complete all sections.
 
 **Exercise template to copy:** [Creating my job search plan using the SMART method](https://docs.google.com/document/d/1ZK5zG_6Ljp1YnQH7J9imHSTsn3i2Ejozqxs7NKhbk0o/edit#)
