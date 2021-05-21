@@ -44,7 +44,7 @@ Once you get to know each other, *setting working agreements with teammates you'
 
 - [Video: Working agreements in Agile teams](https://www.youtube.com/watch?v=0Lyy4CBOO3g)
 
-[Setting work agreements in large teams](https://www.notion.so/Setting-work-agreements-in-large-teams-a3864fb20d834560a8f84266b43296d1)
+- [Setting work agreements in large teams](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/setting-work-agreements-in-large-teams.md)
 
 ### Assigning group roles
 
