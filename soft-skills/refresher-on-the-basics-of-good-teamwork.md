@@ -52,7 +52,7 @@ There are several roles that exist when working in a team. These roles will diff
 
 **Refresh your memory on the different roles in larger group work and your personality type:**
 
-- [Different roles in larger group work](https://www.notion.so/Different-roles-in-larger-group-work-3410f8c9138944aa96a172075224462b) (TODO: Update link)
+- [Different roles in larger group work](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/different-roles-in-larger-group-work.md)
 - [Remind yourself of your DISC personality type in this past exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/morning-session-communication-through-conflict-takes-practice-part-2.md)
 
 ### Ongoing communication
