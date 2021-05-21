@@ -16,11 +16,11 @@ Asking for help is a **vital** part of successfully learning to become a softw
 
 ### Refresher on asking great questions
 
-Asking the right questions can help you in getting the required help needed to get unstuck. In the lesson *"Learn to ask great questions,*" you learned what makes a question great and how to ask better questions. Here is a quick refresher from that lesson.
+Asking the right questions can help you in getting the required help needed to get unstuck. In the lesson *"[Learn to ask great questions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-to-ask-great-questions.md),*" you learned what makes a question great and how to ask better questions. Here is a quick refresher from that lesson.
 
 Learn more about giving and receiving feedback:
 
-- [What makes a good question?](https://www.notion.so/What-makes-a-good-question-f57a505c26f6449cadfe8a5bd872e8dc)
+- [What makes a good question?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/what-makes-a-good-question.md)
 - [How to ask better questions | Tim Ferris](https://www.youtube.com/watch?v=ALMg-7-2trY)
 
 ## Exercise
