@@ -81,7 +81,7 @@ Contributing equally to your group projects is **very important** for your succe
 
 **Refresh your memory on integrity in group projects at Microverse, and what happens if one person does not contribute to a group project:**
 
-- [Integrity in group projects at Microverse](https://www.notion.so/Integrity-in-group-projects-at-Microverse-4697ad8ff3f04e4098e33197da4df88b) (TODO: Update link)
+- [Integrity in group projects at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/integrity-in-group-projects-at-microverse.md)
 
 ### Tips to working successfully in large groups
 
