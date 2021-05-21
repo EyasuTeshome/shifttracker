@@ -40,11 +40,11 @@ While looking for jobs we have to interact with different types of professionals
 - Do you have the same personal introduction for all the professionals you interact with?
 - If not, how does it differ with each professional?
 
-In an earlier lesson about [introducing yourself professionally](https://www.notion.so/Prof-Skills-Activity-Morning-Session-Introducing-Yourself-Professionally-in-English-be00cf00e1db446e984dd208c0787044), you learned about creating a structure for introducing yourself. Refresh your memory by referring to the structure that you created for yourself. You will use parts of your responses from the structure depending on who is in front of you. 
+In the earlier lesson _"[Introducing yourself professionally](https://github.com/microverseinc/curriculum-professional-skills/blob/main/communicating-in-english/introducing-yourself-professionally-in-english.md)"_, you learned about creating a structure for introducing yourself. Refresh your memory by referring to the structure that you created for yourself. You will use parts of your responses from the structure depending on who is in front of you. 
 
 **Learn more about how your introduction can be crafted as per different professionals:**
 
-[Introductions for different professionals](https://www.notion.so/Introductions-for-different-professionals-715ca3793fc94827a0a6176c5c5be1fb)
+- [Introductions for different professionals](https://www.notion.so/Introductions-for-different-professionals-715ca3793fc94827a0a6176c5c5be1fb)
 
 ## Exercise
 
