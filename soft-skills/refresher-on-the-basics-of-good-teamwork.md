@@ -38,7 +38,7 @@ Once you get to know each other, *setting working agreements with teammates you'
 
 **Remind yourselves what icebreaker questions are, and how to use them in meetings:** 
 
-- [Icebreaker questions to get to know each other](https://www.notion.so/Icebreaker-questions-to-get-to-know-each-other-9d2aeb0c60bb4c338089b670b98e978f) (TODO: Update link)
+- [Icebreaker questions to get to know each other](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/icebreaker-questions-to-get-to-know-each-other.md)
 
 **Learn** **more about working agreements:**
 
