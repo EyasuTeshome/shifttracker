@@ -71,7 +71,7 @@ In order for us to get better at what we do, we need to receive constructive fee
 
 **Refresh your memory on giving and receiving feedback:**
 
-- [Good feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md)
+- [What is good feedback?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md)
 - [How can you receive feedback well?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-can-you-receive-feedback-well.md)
 
 
