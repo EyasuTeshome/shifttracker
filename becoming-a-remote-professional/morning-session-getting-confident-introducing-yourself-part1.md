@@ -44,7 +44,7 @@ In the earlier lesson _"[Introducing yourself professionally](https://github.com
 
 **Learn more about how your introduction can be crafted as per different professionals:**
 
-- [Introductions for different professionals](https://www.notion.so/Introductions-for-different-professionals-715ca3793fc94827a0a6176c5c5be1fb)
+- [Introductions for different professionals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/introductions-for-different-professionals.md)
 
 ## Exercise
 
