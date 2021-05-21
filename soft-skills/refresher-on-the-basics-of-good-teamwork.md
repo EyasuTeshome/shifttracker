@@ -71,8 +71,9 @@ In order for us to get better at what we do, we need to receive constructive fee
 
 **Refresh your memory on giving and receiving feedback:**
 
-- [Good feedback](https://www.notion.so/What-is-good-feedback-e85484c8d1af4e76a8993f4ff8141516) (TODO: Update link)
-- [How can you receive feedback well?](https://www.notion.so/How-can-you-receive-feedback-well-4b805ee9b4844637b01d9bb3b63cea6f) (TODO: Update link)
+- [Good feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md)
+- [How can you receive feedback well?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-can-you-receive-feedback-well.md)
+
 
 ### Making an equal contribution
 
