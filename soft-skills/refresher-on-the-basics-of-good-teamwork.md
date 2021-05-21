@@ -61,7 +61,7 @@ While working on the team agreements, you would have read about figuring out the
 
 **Refresh your memory on conversation starters to use when practicing best communication in a team:**
 
-- [Examples of conversation starters to use when practicing best communication in a team](https://www.notion.so/Examples-of-conversation-starters-to-use-when-practicing-best-communication-in-a-team-ccacfdd1841c47448d3cdb77f5914d96) (TODO: Update link)
+- [Examples of conversation starters to use when practicing best communication in a team](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/examples-of-conversation-starters-to-use-when-practicing-best-communication-in-a-team.md)
 
 ### Giving and receiving feedback
 
