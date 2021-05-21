@@ -8,7 +8,7 @@
 
 ### **Estimated time**: 0.5hr
 
-## Understanding cross-cultural communication
+### Understanding cross-cultural communication
 
 *Read through the following section on your own while staying on the Zoom call with your group.* 
 
