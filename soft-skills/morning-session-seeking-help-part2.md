@@ -1,4 +1,4 @@
-# Morning session: Seeking help Part 2
+# Morning session: Seeking help part 2
 
 ## Learning objectives
 
