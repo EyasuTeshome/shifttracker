@@ -1,7 +1,5 @@
 # Morning session: Cross-cultural communication skills - part 1
 
-# Cross-cultural communication skills - part 1
-
 ## Learning objectives
 
 - Learn how to use communication and cross-cultural knowledge as tools when conflicts arise in working relationships.
