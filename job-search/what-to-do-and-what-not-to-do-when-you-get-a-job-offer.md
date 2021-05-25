@@ -24,7 +24,7 @@ If a recruiter or hiring manager reaches out to you to ask about your availabili
 
 Once you've determined you have an actual job offer, follow the steps outlined below to know what to do and what not to do when you receive a job offer.
 
-[Dos and don'ts of job offers](https://www.notion.so/Dos-and-don-ts-of-job-offers-b8f0ab85db2e4fc493578495cbc76589)
+[Dos and don'ts of job offers](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/dos-and-donts-of-job-offers.md)
 
 **Refresh your knowledge:**
 
