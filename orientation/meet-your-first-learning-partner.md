@@ -9,7 +9,7 @@
 
 ## Description
 
-The goal of this activity is to get to know your learning partner(s) and set working agreements with them. Connect with your partner(s) in a Zoom call before starting this activity.
+The goal of this activity is to get to know your learning partner(s) and set working agreements with them. Connect with your partner(s) in a Zoom call through your student dashboard before starting this activity.
 
 ### How to connect with your first learning partner(s)
 
