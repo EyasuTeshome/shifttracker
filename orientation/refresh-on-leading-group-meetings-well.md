@@ -51,7 +51,7 @@ Now that you have learned about meeting leadership in general, let's turn to lea
 1. Complete the quiz solo
 2. Review the key together
 
-**Exercise template to copy:** [Refresh on leading group meetings well](https://docs.google.com/document/d/14eeNg9sbXeYeVGvl6IElmiolA2gEdI8olY4iJ__IQTs/edit?usp=sharing)
+**Exercise template to copy:** [Refresher on leading group meetings well](https://docs.google.com/document/d/14eeNg9sbXeYeVGvl6IElmiolA2gEdI8olY4iJ__IQTs/edit?usp=sharing)
 
 ### Submit your exercise
 
