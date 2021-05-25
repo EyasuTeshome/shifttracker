@@ -16,9 +16,9 @@ When applying for developer jobs — whether they are local to your region or if
 
 **Learn more about how to reach out after applying for a job:**
 
-[When and how to follow up on a job application](https://www.notion.so/When-and-how-to-follow-up-on-a-job-application-0b05fc998f26460db77ff8c466976dde)
+[When and how to follow up on a job application](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/when-and-how-to-follow-up-on-a-job-application.md)
 
-[Example reach out emails you can customize](https://www.notion.so/Example-reach-out-emails-you-can-customize-2d697e256df64f9a82b7748928a70d46)
+[Example reach out emails you can customize](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/example-reach-out-emails-you-can-customize.md)
 
 ## Exercise
 
