@@ -1,4 +1,4 @@
-# Refresh on leading group meetings well
+# Refresher on leading group meetings well
 
 ## Learning objectives
 
