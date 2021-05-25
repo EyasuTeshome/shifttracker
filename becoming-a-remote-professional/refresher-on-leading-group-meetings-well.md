@@ -26,7 +26,7 @@ These habits such as time-keeping, leading discussions, and starting and ending 
 **Learn more about:**
 
 - [Refresh on leading the standup meeting](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/what-is-the-role-of-the-leader-in-this-meeting.md)
-- [Reflecting on leading standup meetings and tips on how to do it right](https://www.notion.so/Reflecting-on-leading-standup-meetings-and-tips-on-how-to-do-it-better-9cf8610d187b41fbaf08776084e09a46)
+- [Reflecting on leading standup meetings and tips on how to do it right](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/reflecting-on-leading-standup-meetings-and-tips-on-how-to-do-it-better.md)
 
 ## Exercise
 
