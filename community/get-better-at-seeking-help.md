@@ -33,7 +33,7 @@ Identifying when to ask for help is a key skill to master not only at Microverse
 
 **Learn more about when to seek help:**
 
-[When is the right time to seek help?](https://www.notion.so/When-is-the-right-time-to-seek-help-6ed77b697c3243eb8e45e55261de4eae)
+[When is the right time to seek help?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/when-is-the-right-time-to-seek-help.md)
 
 ### How to seek information on your own
 
@@ -45,7 +45,7 @@ In the last section, you would have identified the problem and are seeking to fi
 
 **Learn more about the ways to find information on your own:**
 
-[Ways to seek information on your own](https://www.notion.so/Ways-to-seek-information-on-your-own-623138f604f34e7fa57fffbfbd377a37)
+[Ways to seek information on your own](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/ways-to-seek-information-on-your-own.md)
 
 ### Ways of getting unstuck
 
@@ -57,7 +57,7 @@ The last 2 sections would have helped you in moving towards getting unstuck. In 
 
 **Learn more about how get unstuck after trying to solve the problem on your own:**
 
-[Ways to get unstuck](https://www.notion.so/Ways-to-get-unstuck-349562c76f0e4c0cba1167de4a806a82)
+[Ways to get unstuck](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/ways-to-get-unstuck.md)
 
 ### Building a long term community of support
 
@@ -71,7 +71,7 @@ However, to ensure better support in our learning and growth it is vital to have
 
 **Learn more about ways to build a long term community of support:**
 
-[Ways to build a community of support](https://www.notion.so/Ways-to-build-a-community-of-support-9d741bf0ce1b4cc1915aedc63597477e)
+[Ways to build a community of support](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/ways-to-build-a-community-of-support.md)
 
 ## Exercise
 
