@@ -98,3 +98,5 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [How to alleviate your stress and ask for help](https://www.forbes.com/sites/kathycaprino/2018/12/03/how-to-alleviate-your-stress-and-ask-for-help-without-appearing-weak/?sh=62adc57111ac)
 - [How to overcome your reluctance to ask for help](https://greatergood.berkeley.edu/article/item/how_to_overcome_your_reluctance_to_ask_for_help_at_work)
+- [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+- [Use Google to solve your programming questions](https://codinginflow.com/google-programming-questions)
