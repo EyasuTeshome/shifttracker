@@ -35,8 +35,6 @@ Read the following blog in silence for 5 minutes.
 
 **Spend 10 minutes working on this exercise.**
 
-[Include in the exercise instructions whether they should do these things together or separately]
-
 1. Complete section 1 solo
 2. Complete section 2 together
 
