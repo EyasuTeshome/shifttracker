@@ -1,8 +1,8 @@
-# Daily Stand-ups: Test Your Knowledge
+# Daily standups: Test your knowledge
 
 ## Learning objectives
 
-- Describe the value of the Daily Standup Team
+- Describe the value of the daily standup team
 - Identify where to submit forms for DSU meetings
 - Show they know how to use the forms to drive successful meeting activities
 
@@ -14,18 +14,11 @@ This quiz is to ensure that you have understood and gained knowledge from previo
 
 ## Exercise
 
-Copy the following template to your Google Drive and answer the questions. At the end, check your answers using the key and correct any you got incorrect.
-
-- [Daily Stand-ups: Test Your Knowledge](https://docs.google.com/document/d/1oCsnrb9RusrO9vIMTI7g11zlKGEB7ea3UFsPQ0cWcvk/edit?usp=sharing)
-
-## Create your exercise
-
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
 **Template to copy**: [Daily Standups: test your knowledge](https://docs.google.com/document/d/1oCsnrb9RusrO9vIMTI7g11zlKGEB7ea3UFsPQ0cWcvk/edit?usp=sharing)
 
 **Step 1:** Answer the questions.
-
 **Step 2:** At the end, check your answers using the key and correct any you had incorrect.
 
 ### Submit your exercise
