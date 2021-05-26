@@ -9,7 +9,7 @@
 
 ## Description
 
-This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day.
+This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day, as you have experienced this week.
 
 ### Why are daily stand-ups important?
 
