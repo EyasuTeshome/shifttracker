@@ -43,7 +43,7 @@ So to apply the SAR method properly, ask yourself the following questions before
 
 ### Example of a good behavioral grid
 
-The link below shows a good example of a behavioral grid. Make sure you read through it and see how each SAR is structured and executed before you start this project.
+The link below shows an example of a good behavioral grid. Make sure you read through it and see how each SAR is structured and executed before you start this project.
 
 - [Behavioral grid example](https://docs.google.com/document/d/1Xvq286JZTJsUD_wYDa-IrzODkqmkAwLJBBrO2B8pkNE/edit?usp=sharing)
 
