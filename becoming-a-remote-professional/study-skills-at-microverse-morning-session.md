@@ -1,4 +1,4 @@
-# Study Skills at Microverse — Morning Session
+# Study skills at Microverse
 
 ## Learning objectives
 
