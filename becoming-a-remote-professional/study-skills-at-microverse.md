@@ -1,4 +1,4 @@
-# Study Skills at Microverse
+# Study skills at Microverse
 
 ## Learning objectives
 
