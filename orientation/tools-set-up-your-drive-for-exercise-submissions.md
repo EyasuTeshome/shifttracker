@@ -1,4 +1,4 @@
-# Tools: Set up your Drive for Exercise Submissions
+# Tools: Set up your Google Drive for exercise submissions
 
 ## Learning objectives
 
