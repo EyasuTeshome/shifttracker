@@ -27,7 +27,7 @@ Guiding questions:
 
 Learn more about our code of conduct:
 
-- [Click here and read our code of conduct](https://www.microverse.org/info/code-of-conduct) (Will move to Student Handbook)TODO
+- [Click here and read our code of conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59)
 
 ### How to report breaches of the code of conduct
 
