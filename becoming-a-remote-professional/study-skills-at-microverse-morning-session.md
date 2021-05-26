@@ -40,7 +40,7 @@ Click on the following links to see the Morning Sessions at Microverse.
 
 Open the Google Doc individually and answer the questions. After everyone has answered, discuss the answers as a group.
 
-**Template to copy:**
+**Template to copy:** [Morning Session group](https://docs.google.com/document/d/10C6h-8Dg0bAecqFmW_2ogaYLszCpWRteWe5ApFEtF2c/edit?usp=sharing)
 
 ### Submit your exercise
 
