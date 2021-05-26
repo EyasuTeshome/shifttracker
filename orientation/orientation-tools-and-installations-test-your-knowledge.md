@@ -23,7 +23,7 @@ This exercise is to ensure that you have understood and gained knowledge from pr
 
 1. Complete the quiz individually
 
-**Exercise template to copy:** [Tools and installation: Test your knowledge](https://docs.google.com/document/d/1SEqgO_CHF1aFr42R7SnYuVFjR18ejINC4AE4FyTpU80/edit)
+**Exercise template to copy:** [Tools and installation: Test your knowledge](https://docs.google.com/document/d/1SEqgO_CHF1aFr42R7SnYuVFjR18ejINC4AE4FyTpU80/edit?usp=sharing)
 
 ### Submit your exercise
 
