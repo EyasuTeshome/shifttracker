@@ -13,7 +13,7 @@ This lesson will take a closer look at which habits will help you be successful 
 
 ### Why is this important?
 
-Adapting to a demanding, full-time Program can be challenging. The remote nature of the Program can bring an extra set of challenges. Proper preparation can help you succeed.
+Adapting to a demanding, full-time program can be challenging. The remote nature of the program can bring an extra set of challenges. Proper preparation can help you succeed.
 
 ### Setting yourself up for success through three areas:
 
