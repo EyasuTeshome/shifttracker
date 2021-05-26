@@ -1,8 +1,8 @@
-# Daily Presence in Remote Environments
+# Daily presence in remote environments
 
 ## Learning objectives
 
-- Describe the Attendance score and attendance expectations
+- Describe the attendance score and attendance expectations
 - Recognize punctuality as a form of respect and key to success in global remote work.
 
 ### Estimated time: 0.25h
