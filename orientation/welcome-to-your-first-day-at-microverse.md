@@ -29,3 +29,6 @@ In the following link we will talk a little bit more about what you can expect d
 
 - [About your first week](first-week-at-microverse.md)
 
+### Additional Links
+- [Here is the Microverse Student Handbook](https://www.notion.so/microverse/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - You can refer to this as you go through the first week and learn how things work at Microverse.
+
