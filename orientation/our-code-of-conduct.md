@@ -33,4 +33,4 @@ Learn more about our code of conduct:
 
 The following link will explain how to report a breach in the code of conduct:
 
-- LINK TO DO
+- [Report a violation of the code of conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)
