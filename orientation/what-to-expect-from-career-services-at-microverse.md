@@ -27,7 +27,6 @@ Click here to learn more about what to expect from Career Services at Microverse
 ### Linked for reference
 
 - [How do I attend Career Services Office Hours?](https://microverse.zendesk.com/hc/en-us/articles/360036510273)
-- [When will I get assigned a career coach?](https://microverse.zendesk.com/hc/en-us/articles/360044233333-When-will-I-get-assigned-a-Career-Coach-) **TODO: must be updated for 2.0**
 
 ## Challenge yourself
 
