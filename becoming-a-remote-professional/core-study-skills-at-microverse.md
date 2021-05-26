@@ -7,7 +7,7 @@
 
 ### Estimated time: 0.5h
 
-### Habits for Success
+## Habits for Success
 
 This lesson will take a closer look at which habits will help you be successful at Microverse and later in your remote job.
 
