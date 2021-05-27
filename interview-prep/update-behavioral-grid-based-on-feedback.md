@@ -23,7 +23,7 @@ This step of the behavioral grid review process will further refine and polish y
 
 ### Using coach feedback to improve your behavioral grid
 
-We've repeatedly discussed the importance and value of good feedback, and you should now recognize how necessary feedback is to the revision process. Just as your code will periodically undergo code reviews and quality control as a software developer, your professional skills projects will also undergo project reviews. You will now be expected to use this feedback to identify areas of improvement in your behavioral grid.
+We've repeatedly discussed the importance and value of good feedback, and you should now recognize how necessary feedback is to the revision process. Just as your code will periodically undergo code reviews and quality control as a software developer, your professional skills projects like your behavioral grid, will also undergo reviews. You will now be expected to use this feedback to identify areas of improvement in your behavioral grid.
 
 Please review the helpful tips below to ensure that you gain the most value from the feedback you receive and that you're able to implement the feedback efficiently and correctly.
 
@@ -35,8 +35,9 @@ Please review the helpful tips below to ensure that you gain the most value from
 
 ### Project Requirements
 
-- [Make sure that your behavioral grid meets every requirement of the rubric linked here.](https://docs.google.com/document/d/1XfaP_8LA7KZ2lUfAUUtG24PIHIJhYHeLd1moq7NutkI/edit?usp=sharing) If you have followed the [behavioral grid curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-your-behavioral-grid.md), it should do so automatically.
 - Make sure that you have addressed each piece of feedback your coach has given you. If you skip over too much feedback, your coach may return the project to you to re-work on and resubmit again.
+- [Make sure that your behavioral grid meets every requirement of the rubric linked here.](https://docs.google.com/document/d/1XfaP_8LA7KZ2lUfAUUtG24PIHIJhYHeLd1moq7NutkI/edit?usp=sharing) If you have followed the [behavioral grid curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-your-behavioral-grid.md), it should do so automatically.
+
 
 ### Submission Instructions
 
