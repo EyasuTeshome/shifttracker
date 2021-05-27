@@ -19,7 +19,7 @@ This step of the behavioral grid review process will further refine and polish y
 ### Project Setup
 
 1. Open up your behavioral grid in Google Docs.
-2. Open the written and numerical feedback from your coach, including any feedback they may have written directly on the Google Doc.
+2. Open the written and numerical feedback from your coach, including any feedback they may have written directly in the Google Doc.
 
 ### Using coach feedback to improve your behavioral grid
 
