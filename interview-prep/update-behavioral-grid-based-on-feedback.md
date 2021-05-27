@@ -4,7 +4,7 @@
 
 - Answer common behavioral questions in the SAR format.
 
-### **Estimated time**: 3h
+### **Estimated time**: 2h
 
 ## Description
 
