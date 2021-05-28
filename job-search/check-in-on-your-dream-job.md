@@ -46,7 +46,7 @@ Go through the checklist slowly, and create little goals for yourself which can 
 
 - What are three things in the Getting Hired checklist above that you would like to work on to get you closer to your dream companies?
 - In the steps to take to get hired by your dream company, which of them would you start with and why?
-- What are your top 2 preferred norms and cultures in a company and how can you ask about them in an interview?
+- What are your top 2 preferred norms and cultures in a company and how can you determine if your dream company has them?
 
 ## Additional materials
 
