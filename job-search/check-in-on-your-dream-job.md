@@ -22,7 +22,7 @@ In the lesson *"[Define your dream companies](https://github.com/microverseinc/c
 
 ### Check-in on your dream companies' norms and cultures
 
-In the lesson "Learn the norms and culture of your future workplace", you created a list of norms and cultures that you wanted to see in your future company. This is a great time to review your dream company list and ask yourself: do these companies have the norms and cultures I want? If they don't you can go back to the list of similar companies you identified in the industry and see if they have the norms and cultures you are interested in. Knowing company norms and cultures that fit you can enable you to ask the right questions in interviews so that you can determine whether the dream company you want to work for fits your style.
+In the lesson "[_Learn the norms and culture of your future workplace_](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-the-norms-and-culture-of-your-future-workplace.md)", you created a list of norms and cultures that you wanted to see in your future company. This is a great time to review your dream company list and ask yourself: do these companies have the norms and cultures I want? If they don't you can go back to the list of similar companies you identified in the industry and see if they have the norms and cultures you are interested in. Knowing company norms and cultures that fit you can enable you to ask the right questions in interviews so that you can determine whether the dream company you want to work for fits your style.
 
 - [A quick reminder of my preferred norms and cultures in my dream company](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learn-the-norms-and-culture-of-your-future-workplace.md)
 
@@ -34,7 +34,7 @@ Students often ask *"What advice can you give me to land a job quickly?"*. In th
 
 ### My Getting Hired checklist
 
-Now that you refined what dream companies you want to work for, what norms and cultures they should have, and what steps to take to get hired at your dream company, it's time to create action steps to take to get closer to your dream companies. To help you with this, we've put together the Getting Hired checklist below, which has clear steps to guide you towards your goal of being hired. Go through the checklist slowly, and create little goals for yourself which can help get you closer to your dream companies.
+Now that you refined what dream companies you want to work for, what norms and cultures they should have, and what steps to take to get hired at your dream company, it's time to create action steps to take to get closer to your dream companies. To help you with this, we've put together the _Getting Hired checklist_ below, which has clear steps to guide you towards your goal of being hired. Go through the checklist slowly, and create little goals for yourself which can help get you closer to your dream companies.
 
 Go through the checklist slowly, and create little goals for yourself which can help get you closer to your dream companies.
 
