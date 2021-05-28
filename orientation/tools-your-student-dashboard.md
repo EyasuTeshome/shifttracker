@@ -22,13 +22,13 @@ Below you will find the information on how to set up the Student Dashboard.
 
 **Please take the following action**
 
-- [Connect your Zoom account your Dashboard](https://www.notion.so/Connect-your-Zoom-account-to-your-Dashboard-0808dc0f90a14fa2b468a79a05b5f69b)
+- [Connect your Zoom account your Dashboard](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/connect-your-zoom-account-to-your-dashboard.md)
 
 ### A tour of the Student Dashboard
 
 Below you will find information with videos on how to use your Student Dashboard. 
 
-- [A tour of your Student Dashboard](https://www.notion.so/A-tour-of-your-Student-Dashboard-b367d2153ecb4818b8151d328e7ee8de)
+- [A tour of your Student Dashboard](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/a-tour-of-your-student-dashboard.md)
 
 ## Challenge yourself
 
