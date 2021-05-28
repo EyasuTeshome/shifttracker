@@ -34,7 +34,7 @@ Students often ask *"What advice can you give me to land a job quickly?"*. In th
 
 ### My Getting Hired checklist
 
-Now that you have an idea of what dream companies you want to work for, what norms and cultures they should have, and what steps to take to get hired at your dream company, you can now create your Getting Hired checklist, which you can use to make sure that you are working towards getting noticed by these companies and eventually if possible getting hired by them.
+Now that you refined what dream companies you want to work for, what norms and cultures they should have, and what steps to take to get hired at your dream company, it's time to create action steps to take to get closer to your dream companies. To help you with this, we've put together the Getting Hired checklist below, which has clear steps to guide you towards your goal of being hired. Go through the checklist slowly, and create little goals for yourself which can help get you closer to your dream companies.
 
 Go through the checklist slowly, and create little goals for yourself which can help get you closer to your dream companies.
 
