@@ -16,7 +16,7 @@ Because checking in on your dream job has a lot of advantages. It will help you 
 
 ### Check-in on your dream company wishlist
 
-In the lesson *"Define your dream companies",* you created a list of the companies you would like to work with,  and also identified similar companies in the industry that you could also work with. This is a great place to restart checking in on your dream companies. Are they still the same? Or have your desires changed? Have you found more companies you would like to add to the list? Give this some thought as you read through your dream company wishlist again.
+In the lesson *"[Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)",* you created a list of the companies you would like to work with,  and also identified similar companies in the industry that you could also work with. This is a great place to restart checking in on your dream companies. Are they still the same? Or have your desires changed? Have you found more companies you would like to add to the list? Give this some thought as you read through your dream company wishlist again.
 
 - [A quick reminder of my list of dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)
 
@@ -28,7 +28,7 @@ In the lesson "Learn the norms and culture of your future workplace", you create
 
 ### Check-in on steps to getting hired at your dream company
 
-Students often ask *"What advice can you give me to land a job quickly?"*. In the lesson *"Define your dream companies",* you learned a very important topic called "How to get hired by your dream company". In that topic, we discussed 5 important steps to take to raise your chances of getting hired by your dream company. Have you been able to execute those 5 steps yet? If not, don't worry because, in this lesson, you will create a checklist that will help you guide you through steps to take to land your dream job.
+Students often ask *"What advice can you give me to land a job quickly?"*. In the lesson *"[Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)",* you learned a very important topic called "_How to get hired by your dream company_". In that topic, we discussed 5 important steps to take to raise your chances of getting hired by your dream company. Have you been able to execute those 5 steps yet? If not, don't worry because, in this lesson, you will create a checklist to guide you in executing each of those steps so you can come closer to landing your dream job.
 
 - [A quick reminder of steps to take to get hired at your dream company](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-get-hired-by-your-dream-company.md)
 
