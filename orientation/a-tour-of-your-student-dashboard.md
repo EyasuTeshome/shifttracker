@@ -1,0 +1,30 @@
+# A tour of your Student Dashboard
+
+In this section, you will have a tour of your Student Dashboard. This will likely feel a little overwhelming as it's a lot of information. That's okay! It will become more clear as you spend more time working on the Dashboard. Pay close attention to the videos. Take notes if that helps you remember better and stop to clarify anything if needed. 
+
+Please only continue with this section after you've finished the previous sections: "Log in to your Student Dashboard" and "Connect your Zoom". 
+
+### Introduction to the dashboard
+
+[Watch this video: Introduction to the dashboard](https://www.loom.com/share/9441371501514ffb9cea9871103ba1d5)
+
+**Important highlights from the video:** 
+
+- The green dot highlights which session is currently taking place.
+- You should always join the call through the "Join call" button on the main dashboard page.
+- The Program hours you see are the UTC-1 or UTC+6 hours, not your local hours.
+
+### View Progress page:
+
+[Watch this video: View Progress Page](https://www.loom.com/share/cb6cef773c5a485298f0c2988b729cb1)
+
+**Important highlights from the video:**
+
+- You'll only be able to work on projects in your current week.
+- You can view the activities by clicking on the link.
+- Feedback forms can take up to one hour before the status changes to "completed".
+- Technical projects always require a "Project completion form" before it's completed. Failure to submit it will result in a repeat week.
+- Group projects (learning partner, standup team, and morning session team) will be done together but submitted individually (this means each student has to submit something).
+- Pair-programming activities will be done together and submitted together (this means only one person will have to submit).
+- Check-point quizzes are different from exercise quizzes and will require a score of 70% to pass the [week.](http://week.You) You only have three attempts to achieve this score.
+- You can undo submissions and submit again for lessons, exercises, feedback forms, and projects.
