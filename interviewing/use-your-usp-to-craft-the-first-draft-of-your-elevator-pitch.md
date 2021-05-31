@@ -58,7 +58,7 @@ In the link below, we'll go over strong and weak introductions, and will explain
 
 ## Conveying your accomplishments and history
 
-Now that you've written your introduction, it's time to **use your USP to write a brief overview of** your **relevant experience**. This should be **no more than 2-3 sentences long**, ****and should focus only on the **best experiences, the most relevant ones, or the ones that tell the best story.**
+Now that you've written your introduction, it's time to **use your USP to write a brief overview of** your **relevant experience**. This should be **no more than 2-3 sentences long**, and should focus only on the **best experiences, the most relevant ones, or the ones that tell the best story.**
 
 You already chose several experiences while [creating your USP in an earlier lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md). In this section, we'll be expanding on those stories with additional detail and context in order to showcase what you've done in your career thus far.
 
