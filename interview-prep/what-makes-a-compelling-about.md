@@ -1,3 +1,5 @@
+# What makes a compelling "About?"
+
 Many students feel intimidated when asked to write a long-form introduction to themselves. The good news, though, is that you've already written one, so now you can use it to fill in the LinkedIn "About." Take a look at this formula:
 
 [Your elevator pitch] + [Your stack] + [A call to action]
