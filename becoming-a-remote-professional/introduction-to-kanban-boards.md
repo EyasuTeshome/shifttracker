@@ -32,3 +32,7 @@ Kanban boards are very popular in software development and you will likely need 
 - [Another video explaining what is a Kanban board?](https://www.youtube.com/watch?v=Bcid33tgq8A)
 - [Kanban vs Scrum | Difference between Kanban and Scrum](https://www.youtube.com/watch?v=F5QIqFEDv2k)
 - [About project boards - GitHub Docs](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

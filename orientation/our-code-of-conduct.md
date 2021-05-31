@@ -34,3 +34,8 @@ Learn more about our code of conduct:
 The following link will explain how to report a breach in the code of conduct:
 
 - [Report a violation of the code of conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#11fe7990692d47e4929f4adaa4fdefbf)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -15,3 +15,8 @@ You will then be asked to answer a few questions about your preferred work cultu
 Finally, you will be asked to upload your resume. **Please upload it as a PDF**, as this will allow you to keep your formatting. If your resume is in Google Docs, click **File >> Download >> PDF Document**.
 
 You'll receive an email asking you to verify your email address. Once you do, you can start working on your profile.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -53,3 +53,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [The most famous internet memes of all time](https://www.pocket-lint.com/apps/news/140427-best-stupidest-and-most-famous-internet-memes-around)
 - [How do you pronounce 'meme'?](https://www.bbc.com/news/blogs-trending-41163774)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

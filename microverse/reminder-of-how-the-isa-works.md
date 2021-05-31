@@ -42,3 +42,8 @@ To complete this task, return to your Dashboard now to complete the ISA acknowle
 
 - [Income share agreement](https://en.wikipedia.org/wiki/Income_share_agreement)
 - [All About ISAs: Income Share Agreements and deferred tuition at coding bootcamps](https://www.coursereport.com/blog/all-about-isas-income-share-agreements-and-deferred-tuition-at-coding-bootcamps)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

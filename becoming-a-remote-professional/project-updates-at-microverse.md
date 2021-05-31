@@ -18,3 +18,8 @@ Each day you should give a project update to your team at an agreed-upon time. Y
 
 ### Where will I give my project updates?
 You will receive a reminder in your group project team's Slack channel, and you should put your project updates there.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

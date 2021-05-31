@@ -45,3 +45,8 @@ Here are some examples of conclusion outlines and their expansions to guide you:
 - **Conclusion expansion 2:** *"So did you like reading this article? Please feel free to share your thoughts and comments!."*
 - **Conclusion outline 3:**  *I will re-inform my readers of the benefit of practicing skills and using them*
 - **Conclusion expansion 3:** *"So the benefit of practicing these skills is that you get XXX. I hope this was useful information for you. See you in my next article."*
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

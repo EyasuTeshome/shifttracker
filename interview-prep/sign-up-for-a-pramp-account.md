@@ -35,3 +35,7 @@ Take some time to explore Pramp yourself before your interview.
 
 - [Pramp FAQs](https://www.pramp.com/faq#/)
 - [Video: Pramp Mock Technical Interview - Data Structures and Algorithms | YouTube](https://www.youtube.com/watch?v=2GOf4bkeP_k)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

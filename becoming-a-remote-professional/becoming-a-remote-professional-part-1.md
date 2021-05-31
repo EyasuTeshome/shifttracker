@@ -55,3 +55,8 @@ Do this exercise individually, but stay on the Zoom call with your group. Submit
 ### Additional Resources
 
 In this article, you can read about a Muslim woman of Bangladeshi origin, now living in the UK, who shares her experiences understanding the concept of punctuality and time across different cultures – especially Western culture as compared to Asian culture: [Understanding The Concept Of Punctuality And Time In Different Cultures.](https://culturallyours.com/2019/05/31/punctuality-across-cultures/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

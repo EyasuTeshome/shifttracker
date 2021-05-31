@@ -23,3 +23,7 @@ Here are some types of support mentors can provide:
 - **General support:** Some mentors like to provide a space where the mentee has concerns that are not tech-related. For example, feeling excluded, anxiety, being bullied by others, dealing with imposter syndrome, and more. These mentors can contribute to a mentee's growth both personally and professionally.
 
 Knowing the type of support you need will help you to find out which mentor can provide this and help you determine if they are a good fit for you.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

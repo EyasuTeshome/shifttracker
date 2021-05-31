@@ -23,3 +23,8 @@ This dimension was originally described as "Pragmatic Versus Normative (PRA)." I
 **Indulgence Versus Restraint.**
 
 This dimension describes how much a society allows relatively free gratification of basic and natural human drives related to enjoying life and having fun. Indulgence stands for a society that allows relatively free gratification of basic and natural human drives related to enjoying life and having fun. Restraint stands for a society that suppresses gratification of needs and regulates it by means of strict social norms
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -67,3 +67,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Job-search motivation: 6 ways to stay positive during the hunt](https://www.topresume.com/career-advice/6-ways-to-stay-positive-in-your-job-search)
 - [5 ways to stay motivated in a frustrating job hunt](https://www.themuse.com/advice/5-ways-to-stay-motivated-in-a-frustrating-job-hunt)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

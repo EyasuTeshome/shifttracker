@@ -32,3 +32,8 @@ Remember that even if you add this section, your resume should still be 1-page l
 If you've decided to include an "Other Experience" section, you must also include **1-3 results-focused bullet points** (or a short summary) per entry. Refer back to the previous lesson on writing achievement-focused bullet points.
 
 Limit yourself to **no more than 3 bullet points per position**. Again, the "Other Experience" is less important than the "Work/Relevant Experience" section, so it should be shorter.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

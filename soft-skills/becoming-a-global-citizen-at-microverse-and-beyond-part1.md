@@ -65,3 +65,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [How to demonstrate respect in the workplace](https://www.thebalancecareers.com/how-to-demonstrate-respect-in-the-workplace-1919376).
 - [Culture awareness in the workplace](https://smallbusiness.chron.com/culture-awareness-workplace-737.html).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

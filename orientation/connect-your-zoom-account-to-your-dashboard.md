@@ -39,3 +39,8 @@ There could be a few reasons why you don't see the Join Call Button. Follow thes
 - **Has your dashboard had time to update?** The first reason is that the first time you connect your Zoom account to your Dashboard, the Dashboard has not yet updated and needs to refresh before you can see the button. If this is the first time you connect, please wait for 15 minutes, and if the button does not appear, keep reading.
 - **Is it the right time of day?** The Join Call Button appears only at certain times of the day. In the screenshot above you can see that the Join Call Button has appeared for the first collaborative learning session. Please check that you should be able to see the Join Call Button right now based on your program timezone and your local time. Remember that the times shown in the schedule are not your local time but the timezone of the program you signed up for.
 - **Still not working?** If you have waited 15 minutes and confirmed that you are in the program time for your time zone, please reach out to us using the Support button on your Dashboard explaining that you have followed the steps in this article but you cannot see the Join Call Button. Make sure to send us a screenshot of your schedule and a link to this article.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

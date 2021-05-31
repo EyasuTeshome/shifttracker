@@ -39,3 +39,8 @@ The following section talks more about what outcome-based assessment is and what
 - What are the soft skills you will gain from doing capstone projects?
 - How will you be able to utilize the capstone projects after you've finished them?
 [Click here to check your answers to these questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/challenge-yourself-answers.md)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

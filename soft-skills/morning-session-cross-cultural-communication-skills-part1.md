@@ -65,3 +65,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [How to say no politely](https://dictionaryblog.cambridge.org/2016/11/09/how-to-say-no-politely/)
 - [Top ten tips for effective cross-cultural communication](https://www.chrysos.org.uk/blog/top-ten-tips-for-effective-cross-cultural-communi)
 - [What to do after an uncomfortable conversation with a coworker](https://hbr.org/2019/05/what-to-do-after-an-uncomfortable-conversation-with-a-coworker)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

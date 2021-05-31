@@ -62,3 +62,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [I found the world's first meme with help from meme historians](https://www.thrillist.com/entertainment/nation/first-meme-ever)
 - [Stress relief from laughter? It's no joke](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relief/art-20044456)
 - [Funniest work memes ever](https://www.dockethq.com/resources/funniest-work-memes-ever/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

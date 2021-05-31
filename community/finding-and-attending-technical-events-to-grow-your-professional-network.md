@@ -71,3 +71,8 @@ You should aim to attend at least 1 event per month. This will allow you to meet
     - DM all the attendees
 
 Click [here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/challenge-yourself-answers.md) to check your answers to these questions.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

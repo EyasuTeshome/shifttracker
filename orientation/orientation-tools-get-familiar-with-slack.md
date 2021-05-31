@@ -35,3 +35,8 @@ Now that you are in Slack and familiar with the channels at Microverse, it's imp
 
 - [Collaborate with kindness: Consider these etiquette tips in Slack](https://slack.com/intl/en-es/blog/collaboration/etiquette-tips-in-slack)
 - [Student guidelines for communicating in online, professional contexts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/teaching-tips-learning-activities/student-guidelines-communicating-online-professional)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

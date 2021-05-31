@@ -21,3 +21,8 @@ Example 2: **What major problems have you encountered while working with a team 
 **Sample response for the situation:** In one of my internships, I had a team member who was working along with me on designing a product.  One day, I got to know that this team member has been sharing stories that weren't true behind my back. 
 
 **Sample response for the action:** I feel that the best way to deal with any challenges is to meet them head-on. I knew it would be a difficult conversation and might sound like blame. Rather than increasing the tension, I decided to approach my team member directly to talk about what I had heard.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

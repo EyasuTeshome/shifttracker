@@ -36,3 +36,8 @@ If one of your projects **does not** have a thumbnail, **add** **link previews t
 LinkedIn only shows the first 3 featured projects as a default; viewers have to scroll to see the rest of them. Therefore, you need to make sure that your best projects come first. Click the pencil/edit icon and then click and drag your projects to fit the order that you'd like.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b0e87a5-524d-4a3d-b192-2f1484b28f3c/LI6.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b0e87a5-524d-4a3d-b192-2f1484b28f3c/LI6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T033145Z&X-Amz-Expires=86400&X-Amz-Signature=e560d127f0207b1500180304d26d60369b972b6c3a1c272c1068bea5770b4a0a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI6.gif%22)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

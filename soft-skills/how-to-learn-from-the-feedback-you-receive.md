@@ -41,3 +41,7 @@ Most of the time, feedback here will be constructive. Micronauts actively suppor
 **Step 6: Thank the giver for their feedback!**
 
 Feedback can save you from possible pitfalls down the road. This person just invested in you by providing you with feedback so remember to thank them!
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -77,3 +77,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [When to debrief or reflect?](https://www.playmeo.com/episode46/)
 - [Positive feedback boosts our happiness at work](https://www.linkedin.com/pulse/positive-feedback-boosts-our-happiness-work-aurelie-litynski/)
 - [The importance of positive feedback and how to deliver it to others](https://www.indeed.com/career-advice/career-development/importance-of-positive-feedback)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

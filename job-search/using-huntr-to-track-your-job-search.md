@@ -48,3 +48,8 @@ Huntr is the tool you will use to track your job applications, interviews, and j
 - What is the Microverse job portal in Huntr?
 
 Click here to check your answers to these questions: [Answers to the 'Challenge yourself' questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/answers-to-the-challenge-yourself-questions-using-huntr.md)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -72,3 +72,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [TED talk by Amy Cuddy on showing self-confidence using your body language](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are/transcript)
 - [10 ways to build your confidence during a job search](https://interestingengineering.com/10-ways-to-build-your-confidence-during-a-job-search)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -7,3 +7,8 @@ Follow the steps below to get unstuck:
 3. Post your question on discussion forums of coding platforms such as Microverse's Discourse, Stack Overflow, GitHub, etc.  
 
 Always be sure to express gratitude for the help/support you have received.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

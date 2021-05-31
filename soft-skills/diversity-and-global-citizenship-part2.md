@@ -61,3 +61,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [Out and equal: non-binary inclusion in the workplace](https://outandequal.org/wp-content/uploads/2018/11/OE-Non-Binary-Best-Practices.pdf)
 - [The gender gap in employment: What's holding women back?](https://www.ilo.org/infostories/en-GB/Stories/Employment/barriers-women#intro)
 - [Speak up at school](https://www.learningforjustice.org/sites/default/files/2019-04/TT-Speak-Up-Guide.pdf)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

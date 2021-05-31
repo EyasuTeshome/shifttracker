@@ -26,3 +26,8 @@ Deciding what to include in the Education section isn't always straightforward, 
 1. If your degree is **in progress** and you are still actively pursuing your degree, format your experience and dates like so: Bachelor of Science in Biology (In Progress), Expected Graduation Date June 2021. If your degree is **incomplete** and you don't plan to continue pursuing your degree, format your experience like so: Bachelor of Science in Biology (Incomplete).
 2. Remember that your resume should be 1-page long. If you have several college experiences and your resume is bleeding into 2 pages, omit the least relevant or the oldest experiences.
 3. Use the achievement formats in the "Experience" section to format your Education bullet points (if any).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

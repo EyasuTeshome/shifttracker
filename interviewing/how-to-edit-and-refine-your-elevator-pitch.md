@@ -21,3 +21,8 @@ Nearly every sentence of that pitch begins the same way: "I did this," or "I am 
 
 Not only is the second pitch stronger, it also just *sounds* better; it uses a mixture of short sentences and long ones, and not every single sentence starts with the word "I."
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

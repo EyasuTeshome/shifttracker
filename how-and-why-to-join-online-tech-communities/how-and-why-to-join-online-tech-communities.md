@@ -71,3 +71,7 @@ Finally, once you're in a group, you'll want to take action to get yourself noti
 - Which online tech community has over 25,000 developers focused on React, React Native, Jest, Redux, and GraphQL?
 
 Click [here](challenge-yourself-answers.md) to check your answers to these questions
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

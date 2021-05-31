@@ -21,3 +21,8 @@ The last question, related to company size, is a new question that you may have 
 Again, you should have answered most of these questions when creating your AngelList account. **Review them to make sure your answers are up to date.**
 
 The final two questions, related to markets, are new. **Please answer** the "Which markets are you MOST interested in working in?" question, even if you already listed preferred markets in your public profile. However, you **do not** have to answer the "Which markets are you NOT willing to work in?" question if you don't want to.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

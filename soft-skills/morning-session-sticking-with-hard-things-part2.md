@@ -83,3 +83,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Six famous people who failed before succeeding](https://propertyupdate.com.au/six-famous-people-who-failed-before-succeeding/) (blog post)
 - [The unexpected benefit of celebrating failure](https://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure?referrer=playlist-the_benefits_of_failure) (TedX video)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

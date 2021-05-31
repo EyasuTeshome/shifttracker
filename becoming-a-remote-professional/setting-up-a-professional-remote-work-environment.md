@@ -28,3 +28,7 @@ Video technology is also an incredible tool to leverage when working remotely. I
 - Test out your computer microphone, speakers and camera before important meetings to make sure they work.
 - Be conscious of your physical background when in meetings, change to something more professional when needed.
 - Use your video camera whenever possible—keeping your camera on can improve understanding and communication.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

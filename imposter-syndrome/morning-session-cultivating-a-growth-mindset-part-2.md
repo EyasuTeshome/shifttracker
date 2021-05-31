@@ -55,3 +55,7 @@ Once you have completed the exercise above, spend 5 minutes discussing the follo
 [15 benefits of adopting a Growth Mindset](https://alexvermeer.com/15-benefits-growth-mindset/)
 
 [Fixed Vs Growth Mindset and how they shape our lives by Carol Dweck](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

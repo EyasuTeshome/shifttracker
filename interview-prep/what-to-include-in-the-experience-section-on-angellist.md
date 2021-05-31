@@ -11,3 +11,8 @@ Other than that, here are three additional notes to keep in mind:
 - If you'd like to add multiple positions at the same company, click the "Add another role" button underneath the "This is a current position" checkbox.
 
 Now that you've read over what to be aware of when filling out the Experience section on AngelList, start copy/pasting your content from LinkedIn into AngelList!
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

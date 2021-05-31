@@ -32,3 +32,8 @@ The aim of the daily standup and weekly retrospective forms is and has always be
 Both the daily standup and weekly retrospective forms are now more orientated to setting goals. In the weekly retrospective, you will set three goals for the week ahead. The following week you will let us know if you met these three goals and identify the reasons why you either did or didn't meet your goals. If you were blocked by anything, you'd be able to let us know, but we have also provided a space for you to think about what actions you can take to make sure you are not blocked by the same blocker next week. For example, if you didn't meet your goals because hardware issues blocked you, you should use the form to think about what you can do to solve these issues before next week.
 
 The daily standup form also follows the same routine, but you'll be thinking about your daily goals this time. Let's say you set a weekly goal on Friday to complete the HTML Bootstrap project each day. We can break this big goal into smaller goals, such as completing the required readings or committing more code to your project. You will then ask yourself each day if you met your goals from yesterday and why. Maybe you didn't complete the readings because you worked on a side project, or maybe you had a computer issue that stopped you from committing any code. You can then think about what you'll do tomorrow to make sure these blockers get demolished!
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

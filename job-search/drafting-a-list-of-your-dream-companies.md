@@ -21,3 +21,8 @@ There are creative ways to build your target list so you can find your own job l
 5. **Expand your search.** 
 
     Now expand your search by thinking about competitors, affiliates, and clients of the companies on your list. You can generate this list by running further search queries until you have enough companies on your wishlist (ideally 10 - 15 😃).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

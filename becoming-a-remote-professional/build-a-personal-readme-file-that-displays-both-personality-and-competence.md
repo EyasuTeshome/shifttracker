@@ -24,3 +24,8 @@ The best way to create a great personal README is to see what other people have 
 Again, the personal README is optional, but is **highly recommended**. It may require a small investment in time, but it's a quick, fun way to immediately catch a hiring manager's eye by showing them who you are and what you're capable of.
 
 [You can find a tutorial with some great examples here](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

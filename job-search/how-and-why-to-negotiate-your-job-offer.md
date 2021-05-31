@@ -50,3 +50,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [13 Tips to Negotiate Your Salary and Job Offer](https://www.indeed.com/career-advice/pay-salary/how-to-negotiate-salary)
 - [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)
 - [How to Negotiate Your Salary](https://www.glassdoor.com/blog/guide/how-to-negotiate-your-salary/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

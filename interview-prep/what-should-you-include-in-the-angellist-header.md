@@ -43,3 +43,8 @@ At a **minimum**, you **must include these 3 links**:
 If you have a professional Twitter account, or an active blog or Stack Overflow account, you may also link those. However, don't link to miscellaneous empty accounts; only link to accounts that are professional, valuable, and in-use.
 
 When you're done, click the blue "Save" button to save changes. Then click "Next" to continue.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

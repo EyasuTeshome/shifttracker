@@ -47,3 +47,7 @@ Everyone is different. People might have different ways of communicating, learni
 ### 5) Come from a place of openness and curiosity
 
 Ask questions so you can learn about different people and their cultures. Most people love talking about their own culture, but they won't always think to share until you ask. Some people say culture for people is like water to a fish. The fish doesn't know any different than water, so can't imagine the world beyond. Ask questions to learn more, and share when others ask you.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

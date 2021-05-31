@@ -16,3 +16,8 @@ Once you have prepared your feedback, record a video of yourself delivering the 
 
 Share your video with your coding partner and ask them to watch the video. Ask them to share their video as well. Then, give each other suggestions for improvement and talk about your preferences for giving and receiving feedback.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -8,3 +8,8 @@ A common practice in the remote work environment is icebreaker questions. They s
 - How old were you when you first heard about software development?
 - Do you prefer reading or watching movies?
 - If you could pick up a new skill in an instant what would it be?
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

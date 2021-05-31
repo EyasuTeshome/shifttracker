@@ -43,3 +43,7 @@ We used this method to blur one of the photos above. Take a look at the before a
 Blurring the background of a photo manually takes time, effort, and most of all, attention to detail. Blurring the background **badly is worse than not blurring it at all**. If at all possible, we **strongly recommend** choosing Options 1 or 2 instead. This option should only be used if you truly cannot take a new photo.
 
 **Important note: don't try to blur the background until you've verified that your photo meets all of the other requirements of a strong professional profile photo.** If not, you might spend a lot of time trying to perfectly blur your background, only to discover that you needed to choose another photo anyway.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

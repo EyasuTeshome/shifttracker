@@ -25,3 +25,7 @@ Spend 10 minutes reading through the following areas of common working agreement
   - If you both like studying together, do you want to make a set time every day when you study together?
 - Workspace and equipment
   - If one of you has a lot of background noise, or problems with your equipment, what will you do?
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

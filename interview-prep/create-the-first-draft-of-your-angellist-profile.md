@@ -196,3 +196,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [How to Make Your AngelList Profile Stand out from the Competition](https://angel.co/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
 - [9 Tips for Making the Most of an AngelList Profile](https://businesscollective.com/9-tips-for-making-the-most-of-an-angellist-profile/index.html)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -29,3 +29,8 @@ Below you will have a refresher on how to use Kanban boards for the benefit of t
 
 - [Using Kanban boards for team updates](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/Using-kanban-boards-for-team-updates.md)
 - [Using Kanban boards to guide meetings](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/Using-Kanban-boards-to-guide-meetings.md)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

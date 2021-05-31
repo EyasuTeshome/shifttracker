@@ -20,3 +20,8 @@
 
   Whether you are DM'ing through LinkedIn or Slack, make sure to include a link to your portfolio, GitHub, or LinkedIn in your message so they can see your work and determine if you are a good fit.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

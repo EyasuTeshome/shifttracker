@@ -8,3 +8,8 @@ If you would like to assert a waiver based on total and permanent disability, yo
 
 Please refer to the ISA document you signed for more information.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

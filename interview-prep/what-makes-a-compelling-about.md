@@ -21,3 +21,8 @@ If you'd like, you can also add a little more information, such as:
 However, all you need in order to create a fantastic About Me is are those three elements: your elevator pitch, your stack, and a short call to action.
 
 Take 10 minutes to write an elevator pitch and general call to action, and then copy/paste your stack into your About Me.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

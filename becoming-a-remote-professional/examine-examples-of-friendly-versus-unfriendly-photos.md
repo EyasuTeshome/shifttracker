@@ -24,3 +24,8 @@ All of the subjects in the photo above look friendly and warm; the sort of peopl
 
 A simple smile goes a long way; make sure that your professional photo looks friendly, or you will be asked to submit a different photo.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -18,3 +18,7 @@ Leading a discussion can feel like a scary task at first. But below are two tips
 
 1. **Appoint people to respond if participation is low.** Ask your team members direct questions if no one wants to go first, especially if you don't have a lot of time. Time can be wasted by waiting for someone to speak up so it helps to appoint names. This is also a great tool for when a team member hasn't said anything.
 2. **Ask follow-up questions to make the discussion flow.** Some examples are: Has anyone else felt like team member X? Has anyone felt anything different from team member X?
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

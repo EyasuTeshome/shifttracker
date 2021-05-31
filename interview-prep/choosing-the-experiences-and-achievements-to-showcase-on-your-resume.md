@@ -51,3 +51,8 @@ Take a few minutes to think about what **made you special as an employee**. Here
 - Something your manager always asked you to do, because you did it better than anyone else
 
 **Identify 3-5 achievements, skills, or awards per job**. Once you've identified them, we'll learn how to format them to catch a hiring manager's attention.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

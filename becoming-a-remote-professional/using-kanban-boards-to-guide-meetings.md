@@ -9,3 +9,8 @@ On the first day, talk about your priorities for the week based on the Kanban ta
 For other days, give short updates on the tasks that you have "In Progress" that day. Talk briefly about which cards you completed and how the work went. Also, talk about the cards that you plan to start next and what steps you will take for those. Discuss any blockers for any of the tasks that are either in "This Sprint", "In Progress", or "In Review".
 
 At the end of the update, make sure the next steps are discussed for the blockers of any teammates.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

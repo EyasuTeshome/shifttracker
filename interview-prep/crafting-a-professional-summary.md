@@ -27,3 +27,8 @@ There are many ways to create a strong professional summary, and you can find se
 - Professional summaries should not be written in complete sentences.
 - Bullet points can improve readability, but can also potentially take up more space than desired. Don't use bullet points if you already have a lot of content to add to your resume, and if you decide to use bullet points, limit your total personal summary to **no more than 4-5 lines.**
 - **Do not include an objective,** such as "Looking for a software development job." The hiring manager knows you're looking for a job. Objectives are outdated and waste resume space.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

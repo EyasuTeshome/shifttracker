@@ -14,3 +14,8 @@ Now that you have explained why you feel a connection with the company, you need
 - Explaining why you believe in the importance of the company's mission
 - Discussing specific company values you see in yourself, being sure to provide evidence/examples of how you've demonstrated those values
 - Explaining why a specific company program or value means so much to you
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

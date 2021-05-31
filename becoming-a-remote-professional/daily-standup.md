@@ -63,3 +63,8 @@ Now go to your Student Dashboard and fill in your daily standup.
 - [The value and potential of daily standups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/value-and-potential-of-daily-standups.md)
 - [How to set SMART goals | Goal setting for students](https://www.youtube.com/watch?v=i0QfCZjASX8)
 - [The small-win principle for maximum performance | Robin Sharma](https://www.youtube.com/watch?v=OtfW8RDmOUo)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

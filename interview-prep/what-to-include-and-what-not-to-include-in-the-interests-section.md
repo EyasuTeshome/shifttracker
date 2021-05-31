@@ -18,3 +18,8 @@ Although the Interest section is mostly personal and unique to you, it's best to
 We also recommend considering before you add interests that can make you seem more "junior" than you are; if you join a group called "Junior Software Developers," you risk potential employers thinking that you don't know enough to qualify for a position.
 
 Pick your Interests wisely, and try to focus only on those that you think could have a positive effect on your career path.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

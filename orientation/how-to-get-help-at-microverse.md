@@ -60,3 +60,8 @@ Each communication site has a different purpose, and getting your questions answ
 
 - [Student support](https://www.notion.so/microverse/Student-support-c56b7501302e4f7b93c48b4ac85893a4)
 - [First day questions](https://www.notion.so/microverse/First-day-questions-d012141de4d342a8b0c373a2a41c6a9f)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

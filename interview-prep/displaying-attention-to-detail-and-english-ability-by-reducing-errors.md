@@ -36,3 +36,8 @@ Sentence clarity is probably the most difficult aspect of English, and if you sp
 - Ask your standup team (especially English as a Second Language speakers) to review your resume, and ask them if there are any sentences that confuse them. If so, try to make those sentences simpler and shorter.
 - [Use Hemingway](http://www.hemingwayapp.com/) to identify sentences that are longer than 25 words. **Focus on the red highlights** (don't worry too much about the other colors). It's okay if you have a few longer sentences, but if more than 25% of your sentences are 25+ words, shorten them.
 - Again, read sentences aloud.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

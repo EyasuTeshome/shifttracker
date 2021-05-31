@@ -4,3 +4,8 @@ As we have a lot of diversity due to the different cultures and countries at Mic
 
 To avoid misunderstanding, miscommunication, and conflict, try to keep your communication professional by focusing on the task you are working on. Of course, sometimes we have more casual conversations between partners and groups that are not related to code.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

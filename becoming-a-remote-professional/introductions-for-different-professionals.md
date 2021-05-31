@@ -21,3 +21,8 @@ Apart from the above-mentioned common aspects, every professional because of the
 - **Engineer:** Engineers would be more interested to know about some **technical projects** that you have worked on and how the work on those projects would be helpful in the role that you want to apply for.
 - **Potential** **team member:** With a potential team member you can share your **present work** and **technical skills** that you have learned.
 - **Founder:** A founder would be keen on hearing your **goal, your excitement and pride about the goal**, and how the **role that are you applying for fits in with your goal**.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

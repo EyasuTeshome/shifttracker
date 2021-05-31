@@ -21,3 +21,8 @@ Set one daily goal with the SMART Method:
 - My goal is 𝓐**chievable** and not too ambitious as two hours is the general time it takes to finish this milestone.
 - My goal is 𝓡**elevant** because it helps me move forward in the Microverse curriculum.
 - My goal is 𝓣**ime-Bound** because I defined when I would start and when I need to finish.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -54,3 +54,7 @@ Now go to your Student Dashboard and submit your exercise.
 - [Share your calendar - tutorial](https://youtu.be/q6rG0CyLeFc)
 - [Set up notifications - tutorial](https://youtu.be/asxtTNlMNqE)
 - [Automatically add Zoom links to your Google Calendar - tutorial](https://youtu.be/Qhculbcktuw)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

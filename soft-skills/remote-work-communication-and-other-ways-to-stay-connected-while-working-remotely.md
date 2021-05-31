@@ -26,3 +26,8 @@ Connecting with colleagues in a remote setting could also involve keeping in tou
 - Contribute or comment on jokes in the Slack channel, but remember to keep it work appropriate.
 - Celebrate personal milestones like yours or a colleague's birthday, graduation, and so on.
 - Join professional developer groups like Slack developer communities and forums.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

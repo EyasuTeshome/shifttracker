@@ -21,3 +21,8 @@ You can find the link to the survey below.
 
 - [Click here to go to the survey](https://airtable.com/shrMQNOnTMSwQ1ww0)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

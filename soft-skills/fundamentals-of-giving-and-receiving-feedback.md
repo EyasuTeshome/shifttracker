@@ -76,3 +76,8 @@ Click [here](challenge-yourself-answers.md) to check your answers to these quest
 - [The Complete Guide on How to Receive Feedback | Medium](https://medium.com/live-your-life-on-purpose/the-complete-guide-on-how-to-receive-feedback-f25c29913c93)
 - [Getting Feedback | MindTools](https://www.mindtools.com/pages/article/getting-feedback.htm)
 - [Taking Constructive Criticism Like a Champ | The Muse](https://www.themuse.com/advice/taking-constructive-criticism-like-a-champ)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

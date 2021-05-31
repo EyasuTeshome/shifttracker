@@ -72,3 +72,8 @@ The tester is the person who writes and executes tests on the application to mak
 - Create test cases based on different user scenarios and test each of those.
 - Perform unit tests, integration tests, and any other tests needed for the application to function correctly and to ensure a bug-free user experience.
 - Ensure that the application runs correctly in the development environment as well as the production environment when deployed, with no bugs.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

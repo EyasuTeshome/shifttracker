@@ -10,3 +10,8 @@
 
 Networking is about building relationships. True, genuine relationships. Think of it as being similar to making friends in real life. The key to efficient networking is to network with people a) you're **actually** interested in connecting with, and b) who have the potential to make an impact on your job search and your tech career.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

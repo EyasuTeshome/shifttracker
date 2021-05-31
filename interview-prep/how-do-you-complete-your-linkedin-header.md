@@ -85,3 +85,8 @@ Once you click those buttons, a pop up will appear containing the job titles you
 2. Click the **I'm open to remote work** checkbox.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af54f76f-4195-4bfc-b202-7d8897c33746/LI2.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af54f76f-4195-4bfc-b202-7d8897c33746/LI2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T031808Z&X-Amz-Expires=86400&X-Amz-Signature=a66aff5a39cb0a045cfbaf5128d0776822153993c31348acf7c23a6a929449a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI2.png%22)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

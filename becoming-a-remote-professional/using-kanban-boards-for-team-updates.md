@@ -43,3 +43,8 @@ Aim to work on one task and finish it before moving on to a new task to avoid mu
 - You have too many tasks in "In Review" which means that someone else is blocking you.
 
 Assess who is responsible for reviewing your tasks and what is blocking them. Discuss by when they can review your tasks and appoint a new reviewer if needed.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

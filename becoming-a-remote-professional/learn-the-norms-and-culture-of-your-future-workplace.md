@@ -73,3 +73,7 @@ Now go to your Student Dashboard and submit your exercise.
 - [How team norms can boost team effectiveness](https://www.techwell.com/2012/10/how-team-norms-can-boost-team-effectiveness)
 - [As remote working becomes the norm, how can we maintain company culture?](https://bmmagazine.co.uk/in-business/advice/as-remote-working-becomes-the-norm-how-can-we-maintain-company-culture/)
 - [Creating team norms:](https://www.stickyminds.com/article/creating-team-norms) This article gives examples of team norms, as well as how to create team norms and refine them with time.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

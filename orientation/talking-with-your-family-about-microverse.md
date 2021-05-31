@@ -54,3 +54,7 @@ Now go to your Student Dashboard and submit your exercise.
 - [How do I set great goals?](https://microverse.zendesk.com/hc/en-us/articles/360049913274-How-do-I-set-great-goals-)
 - [Does remote work affect your family life? 10 recommendations to keep a healthy work-life balance](https://traqq.com/blog/does-remote-work-affect-your-family-life-10-recommendations-to-keep-a-healthy-work-life-balance/)
 - [How family and friends can support your remote working](http://www.generationy.com/remote-working-family-support/)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -9,3 +9,8 @@ The bullet points below are guidelines to help give you direction in your online
 - Does the job description list at least one of the professional skills I have learnt at Microverse?
 - Does the job description say that it is remote to only Europe or America? Or does it simply say remote?
 - Does the job description have any contact details (email, LinkedIn profile) for me to reach out to the recruiter later on if needed?
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

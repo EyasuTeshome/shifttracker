@@ -11,3 +11,8 @@ Choose **3-5 of your strongest projects** and copy/paste them over from LinkedIn
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b45fdcea-a6f4-4fc6-97cc-ccb0d8dca471/AL2.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b45fdcea-a6f4-4fc6-97cc-ccb0d8dca471/AL2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T125846Z&X-Amz-Expires=86400&X-Amz-Signature=c39850ac5c80b8c54107a6273b121ed66d85adbc2ea0aa976819e9ab107247f3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22AL2.png%22)
 
 Again, make sure to add no less than 3 and no more than 5 of your best, most complex projects.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

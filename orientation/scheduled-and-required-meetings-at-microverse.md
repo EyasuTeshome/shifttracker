@@ -29,3 +29,7 @@ Reaching the 90% attendance rate start by knowing your schedule and knowing whic
   - Any time you write a line of code for a collaborative project, you **must** be on a call with your partner doing pair programming.
 - Daily Standup meetings
   - During daily stand-up, each student must spend at least 10 minutes on the call.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

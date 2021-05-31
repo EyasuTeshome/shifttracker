@@ -63,3 +63,8 @@ Remember that we are not trying to write the perfect essay for your English clas
     - *I will re-inform my readers of the benefit of practicing skills and using them.*
     - *I will explain how I will continue to work on these skills at Microverse and beyond (once I get a job as a developer)"*
     - *I will ask my readers to share their thoughts and comments.*
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

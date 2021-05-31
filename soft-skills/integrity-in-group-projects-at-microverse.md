@@ -15,3 +15,7 @@ Cheating in teamwork can lead to other negative consequences besides conflict. T
 ## How do we assess equal contributions at Microverse?
 
 To assess equal contribution in group projects, all team members will fill out a form that assesses each team member's contribution to the project. You will also report on your own perception of your contribution. If all team members assess that one person did not contribute to the project, that person will fail the project and will have to repeat it.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

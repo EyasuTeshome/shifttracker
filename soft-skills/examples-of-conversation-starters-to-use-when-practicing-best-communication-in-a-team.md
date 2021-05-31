@@ -72,3 +72,8 @@
 
     - Okay so now that we are halfway through the project, should we take 30-minutes to reflect on what we did well, what we aren't doing so well, and how we can improve?
     - Huge congratulations to us all for the work we have done on the project! Now that we have it, how does everyone feel? Do you feel like we worked well together? Did we practice our project-management skills? Our teamwork and collaboration skills? Our ability to communicate through conflict?
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

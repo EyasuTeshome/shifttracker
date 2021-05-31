@@ -50,3 +50,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [The Ultimate Guide to Researching a Company Pre-Interview](https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview)
 - [How to Ask for an Informational Interview (and Get a “Yes”)](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

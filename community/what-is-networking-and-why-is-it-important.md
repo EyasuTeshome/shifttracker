@@ -46,3 +46,7 @@ This second part of the lesson focuses on the different networks you can join an
 - [Twitter Networking: How to use Twitter to network your way to your dream job](https://microverse.zendesk.com/hc/en-us/articles/360053070313)
 - [Slack Networking: How to use Slack channels to network and build relationships](https://microverse.zendesk.com/hc/en-us/articles/360051489133)
 - [Event Networking: How to network at meetups and events](https://microverse.zendesk.com/hc/en-us/articles/1500003242702)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

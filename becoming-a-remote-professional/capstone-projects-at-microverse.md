@@ -15,3 +15,8 @@ Once your project achieves mastery, you will be able to move forward to the next
 ### How can I utilize the capstone projects after the Microverse curriculum?
 
 Capstone projects provide you with great material for your portfolio that you can leverage once you start job searching. When you include capstone projects in your portfolio you give hiring managers an overview of the type of project you know how to build. You'll have similar projects that you need to build during interview processes and later in your software development jobs.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

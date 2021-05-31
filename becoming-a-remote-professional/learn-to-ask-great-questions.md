@@ -66,3 +66,7 @@ Now go to your Student Dashboard and submit your exercise.
 - [Leaders know this simple trick for asking better questions](https://www.forbes.com/sites/davidmarquet/2017/02/19/leaders-know-this-simple-trick-for-asking-better-questions/?sh=607728877f06)
 - [The stupid easy change that made me ask better questions (and led to better answers)](https://www.themuse.com/advice/easy-change-ask-better-questions-get-better-answers)
 - [The art of asking questions](https://www.freecodecamp.org/news/the-art-of-asking-questions-84c01c9987a4/)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

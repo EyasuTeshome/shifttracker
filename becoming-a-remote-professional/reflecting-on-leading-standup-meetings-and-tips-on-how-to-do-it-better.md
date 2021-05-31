@@ -56,3 +56,8 @@ If people are talking about blockers in the standup meeting that aren't being so
 Wrap up the call and remind people of any topics that need to be discussed after the standup:
 
 *"Okay, thanks, everyone! We had a lot to discuss but we managed to stick to the time. Great time-management skills. Fatima, you will follow up with Juan about your blocker after the call. Let us know if you're still not able to solve your blocker."*
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

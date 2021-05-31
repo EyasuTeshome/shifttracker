@@ -31,3 +31,8 @@ The link below is a quick reminder of techniques to building a growth mindset:
  **A quick reminder on techniques to build a growth mindset:**
 
 - [Techniques to developing a growth mindset to see failure and challenges constructively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/techniques-to-developing-a-growth-mindset-to-see-failure-and-challenges-constructively.md)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

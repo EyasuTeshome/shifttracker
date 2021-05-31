@@ -11,3 +11,8 @@ We've mentioned calls to action (CTA) repeatedly while discussing elevator pitch
 ### Give a polite farewell, followed by your name
 
 Now that you've explained why you would be a good fit for the position, it's time to end the cover letter by thanking the reader for their time and wishing them farewell. This requirement ensures that the cover letter does not stop abruptly, but that it ends naturally with a short goodbye.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

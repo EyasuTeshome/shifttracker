@@ -55,3 +55,8 @@ Go through the checklist slowly, and create little goals for yourself which can 
 - [Podcast - define your dream tech job before it defines you](https://youaretechy.com/21-1/)
 - [How to design a dream job in tech](https://www.themuse.com/advice/how-to-design-a-dream-job-in-tech)
 - [A step-by-step guide to finding your dream job in tech](https://blog.manningglobal.com/guide-dream-job-in-tech/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

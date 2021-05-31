@@ -96,3 +96,8 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [Some behavioral interview questions with sample responses](https://www.thebalancecareers.com/job-interview-questions-and-answers-2061204)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

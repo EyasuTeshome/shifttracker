@@ -84,3 +84,7 @@ Finally, in this part of the lesson, we will look at how you can find a professi
 - [The power of the technical mentor](https://technical.ly/philly/2019/09/09/angel-young-web-developer-power-technical-mentor/)
 - [How I mentored women and helped them get into tech during a world pandemic](https://www.freecodecamp.org/news/mentoring-women-in-tech-during-a-pandemic/)
 - [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/#when-you-are-a-mentee)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

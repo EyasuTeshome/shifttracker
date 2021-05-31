@@ -21,3 +21,8 @@ If you've ever been in a conversation with someone who didn't seem like they act
 ### The introduction needs to briefly explain why the applicant would be a good fit for the job
 
 The goal of the introduction is twofold: firstly, to explain what you admire about a specific company or position, and second, to explain why the hiring manager should be interested in you, rather than in any of the other applicants. This is a chance to explain briefly why you're special, and why you would be a better hire than any of your competitors. This requirement checks to see whether the student has included an explanation of why they specifically would be a good choice for a hiring manager.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

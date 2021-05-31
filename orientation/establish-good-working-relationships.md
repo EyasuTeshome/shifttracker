@@ -53,3 +53,7 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [The power of working agreements: How to drive your agile team](https://techbeacon.com/app-dev-testing/power-working-agreements-how-drive-your-agile-team)
 - [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/knowledge/articles/360050419034/en-us?brand_id=360002597114&return_to=%2Fhc%2Fen-us%2Farticles%2F360050419034)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

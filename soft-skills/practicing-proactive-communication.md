@@ -24,3 +24,8 @@ There are a few simple steps you can take to move towards a more proactive metho
 
 There are many ways you can engage in proactive communication and develop trust with your colleagues, and these are just a few. Practice these methods during your morning sessions and group projects, and remember to give yourself time and grace to make mistakes and learn from them.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -41,3 +41,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [What you need to know about a virtual coffee chat](https://www.fullyprepped.ca/blog-posts/what-you-need-to-know-about-a-virtual-coffee-chat)
 - [The Do’s and Don’ts of a Coffee Chat](https://blog.transparentcareer.com/college-students/career-advice/dos-donts-coffee-chat/)
 - [The Power of Virtual Coffee Chats](https://medium.com/@chrisweier_/the-power-of-virtual-coffee-chats-1774bca8959b)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

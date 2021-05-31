@@ -24,3 +24,8 @@ Here are the benefits of being punctual at work:
 - Meeting deadlines and timelines assures clients and colleagues that they can count on you to get the job done. Without professional punctuality, customers might look for another company to supply their needs. Striving to meet deadlines helps establish your strong work ethic and your desire to be productive.
 - Being punctual helps you establish your reputation as a dependable and consistent worker. In an interdependent work environment, everything runs like a well-oiled piece of machinery. Being on time helps ensure that you're doing your best to keep things running smoothly.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

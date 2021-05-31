@@ -24,3 +24,8 @@ If you receive a plagiarism notice message from us, and you know your work isnâ€
 ### What happens if you are flagged for plagiarism for the second time?
 
 If you plagiarize for the second time, and do not have a valid explanation for the similarity of your code,Â **you will be removed from the program without the chance to redo the assignment.**
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

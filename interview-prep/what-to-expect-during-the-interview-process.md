@@ -93,3 +93,8 @@ Click here to check your answers to these questions: [Answers to the 'Challenge 
 - [A take-home test example for a full-stack developer position at ShopPad](https://github.com/shoppad/takehome-test)
 - [Examples of questions Amazon asks prospective software engineers during interviews](https://www.glassdoor.fr/Interview/Amazon-Software-Development-Engineer-I-Interview-Questions-EI_IE6036.0,6_KO7,38.htm?countryRedirect=true)
 - [A list of 20+ public repos created by software developers working on take-home tests](https://github.com/topics/take-home-test)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

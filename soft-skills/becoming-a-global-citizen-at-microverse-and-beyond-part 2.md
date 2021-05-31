@@ -55,3 +55,8 @@ Watch this video as a group. Think about how a Code of Conduct can help you deal
 - [Code of Conduct and ethics for employees](https://www.youtube.com/watch?v=-gRLHf6ZBM4).
 - [Techniques to positive criticizing](https://smallbusiness.chron.com/techniques-positive-criticizing-73087.html).
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

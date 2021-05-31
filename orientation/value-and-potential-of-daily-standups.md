@@ -30,3 +30,8 @@ Below you can find more details about daily standups and weekly retrospectives a
 - [Hold yourself accountable and never be held back](https://www.ted.com/talks/janyssa_berrios_hold_yourself_accountable_and_never_be_held_back)
 - [3 ways owning your mistakes will make you powerful](http://entrepreneur.com/article/232417)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

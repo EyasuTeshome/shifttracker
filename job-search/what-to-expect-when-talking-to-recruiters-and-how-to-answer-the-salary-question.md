@@ -48,3 +48,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Interview Question: "What Are Your Salary Expectations"](https://www.thebalancecareers.com/interview-questions-about-your-salary-expectations-2061235)
 - [How to Answer, 'What's Your Expected Salary?'](https://www.roberthalf.com/blog/salaries-and-skills/how-to-answer-whats-your-expected-salary)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -30,3 +30,8 @@ The examples above are strong because they end with a **short, reasonable ask.**
 
 The call to action is the last sentence of your elevator pitch.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

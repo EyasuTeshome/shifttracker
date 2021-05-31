@@ -81,3 +81,8 @@ In the "Jobs Profile" field of your [Account Settings](https://github.com/settin
 ![https://cdn.filestackcontent.com/hVC7oG5S3Ks890B3kbDH](https://cdn.filestackcontent.com/hVC7oG5S3Ks890B3kbDH)
 
 You've now completed your GitHub bio. There are still several sections to complete, though, so continue reading this lesson for more information.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -81,3 +81,7 @@ Now go to your Student Dashboard and submit your exercise.
 - [How to make peace with failure](https://www.forbes.com/sites/susantardanico/2012/09/27/five-ways-to-make-peace-with-failure/?sh=513fe56b3640)
 - [How to explain the growth mindset with Neuroplasticity activities](https://biglifejournal.com/blogs/blog/teach-kids-growth-mindset-neuroplasticity-activities)
 - [7 ways to teach kids failure is a great thing](https://biglifejournal.com/blogs/blog/help-kids-overcome-fear-failure)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

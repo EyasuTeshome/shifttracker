@@ -54,3 +54,8 @@ Example of a SMART networking goal:
 - **A**: I will share the daily progress of the development of my TO-DOist clone app. I will also respond to insightful tweets with my thoughts and opinions.
 - **R**: I will accomplish this goal because I am passionate about sharing web development ideas, and the networking will improve my job search progress in future.
 - **T**: I will achieve this goal in nine months.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

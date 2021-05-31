@@ -43,3 +43,7 @@ Use this [Google Doc Template](https://docs.google.com/document/d/14pYLYX70tmL05
 ### Submit your exercise
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -12,3 +12,7 @@ The mentor, on the other hand, should aim to provide the following services in a
 - **Accountability:** The mentor should establish realistic goals with their mentee and hold them accountable for making constant progress, no matter how big or small. Accountability enables both parties to have a sense of direction and accomplishment when the goal has been attained.
 - **Understanding and patience:** This is necessary to keep the relationship peaceful and constructive. Being patient will allow the mentee to feel safer and more confident in their ability to grow. This, in turn, will help increase their motivation to learn more with their mentor.
 - **Encouragement**: Mentors should show that they understand the struggles of the mentee and provide genuine encouragement. This is really important.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

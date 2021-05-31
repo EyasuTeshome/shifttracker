@@ -90,3 +90,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [Thank-you notes: they’re not about thanking anyone](https://www.askamanager.org/2012/06/thank-you-notes-theyre-not-about-thanking-anyone.html)
 - [Professional writing skills](https://www.youtube.com/watch?v=l7QfTE2vauU)
 - [9 tips to improve your email writing skills](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/improve-email-writing-skills)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

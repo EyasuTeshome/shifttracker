@@ -10,3 +10,8 @@ As you can see, diversity refers to a lot of different characteristics like race
 
 Diversity brings a lot of benefits to teams and organizations. Also you can gain a lot from working with a diverse group of people. As globalization grows and companies want to invest more in diversity and multicultural teams, the need for talent that can work in a multicultural environment grows too. At Microverse, we value diversity. We believe that everyone has potential and should have the opportunity to participate in the job market. As you'll work with Micronauts from different parts of the world, with different religions, cultures, gender, and so on- you will practice applying the skills needed to create an inclusive environment.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

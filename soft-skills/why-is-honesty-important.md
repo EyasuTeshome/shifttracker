@@ -6,3 +6,8 @@ It may seem obvious to say honesty is important. Of course, we shouldn't cheat! 
 
 But honesty is important even if it doesn't immediately get you anything. Employers, other students and the Microverse staff want you to be a reliable team member who they can trust. If you get caught lying once, that trust is broken and sometimes cannot be rebuilt.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

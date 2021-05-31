@@ -6,3 +6,8 @@
 
 **Tech Slack communities:** Just like you have your Microverse Slack channel where you are in a community with other Micronauts, tech Slack communities are channels where tech professionals are in a community mixing with other tech professionals and tech recruiters. There are over 4,000 Slack channels in the world for different industries. Slofile is a huge public database that allows you to search for any Slack channels. Just type in a keyword and it will bring up all the Slack channels with that keyword. This is a great exploration tool that we highly recommend you take a look at.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

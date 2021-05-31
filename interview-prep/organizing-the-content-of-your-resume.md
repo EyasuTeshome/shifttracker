@@ -54,3 +54,8 @@ In order to create a thorough, well-balanced resume, each experience should cont
 ### **Limit your resume to 1-page in length**
 
 Hiring managers read dozens or hundreds of resumes, and will often immediately reject resumes that are too short or too long. That means properly prioritizing and organizing information to make sure that you keep your resume to the 1-page limit, and potentially adding or deleting optional sections in order to meet that limit.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -40,3 +40,7 @@ Before taking or selecting a photo, you must first make sure that you'll meet th
 **Strong example 3:** This person is wearing a nice shirt, and their overall appearance is tidy, professional, and work-appropriate.
 
 The focus of your photo should not be your outfit; it should be your face. If your outfit is distracting (either because it's unprofessional or because it draws attention away from your face for any reason), you should replace your outfit or choose another photo.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

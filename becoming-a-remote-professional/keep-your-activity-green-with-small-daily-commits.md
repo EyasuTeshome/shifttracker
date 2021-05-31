@@ -11,3 +11,8 @@ For reference, this is what you want your GitHub profile to look like!
 ![https://cdn.filestackcontent.com/n1KGkIKRHS6gwaRGkI6H](https://cdn.filestackcontent.com/n1KGkIKRHS6gwaRGkI6H)
 
 It will take time to build your Activity chart. Just continue working every day, and soon your Activity chart will look as green (or even greener) than the one above!
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

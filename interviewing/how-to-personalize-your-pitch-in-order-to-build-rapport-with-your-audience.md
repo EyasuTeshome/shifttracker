@@ -48,3 +48,7 @@ When writing your personal elevator pitch, **pick a company, person, or audience
 - A recruiter on LinkedIn who just said they're looking for remote software developers, specifically for an education technology company
 - An entrepreneur building a project you think could be exciting
 - Anyone else!
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

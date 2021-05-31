@@ -48,3 +48,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Employment: What is it?](https://www.thebalancecareers.com/what-is-employment-1918114) - This article also further defines and describes what employment is.
 - [Job Offers: What are they?](https://www.thebalancecareers.com/what-is-a-job-offer-1918166#:~:text=A%20job%20offer%20is%20an,details%20of%20your%20employment%20offer.&text=This%20includes%20salary%2C%20benefits%2C%20job,reporting%20manager's%20name%20and%20title) - An article with a more detailed description of a job offer. For optional study, the article also goes further to provide tips on how to counter or negotiate a job offer.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

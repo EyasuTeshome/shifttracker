@@ -22,3 +22,8 @@ Take turns asking each other these questions, or choose 1 at a time, and both an
 
 Talk about as many questions as you have time for in about 10 minutes, and then return to the main activity page to continue.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

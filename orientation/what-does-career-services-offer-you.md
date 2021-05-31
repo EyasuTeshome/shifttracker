@@ -63,3 +63,7 @@ Even after you leave Microverse and start working, Career Services will still be
 Career Services at Microverse exists to help you navigate interviews, job searching, and the professional working environment. Just as importantly, though, we also exist to help provide you with accountability and emotional support. Whatever career-related question you may have, Career Services will always be available to you, even once you've completed Microverse and taken your next steps in the world of software development. We can't wait to meet you individually, and we look forward to getting to know you over the next few months.
 
 Again, congratulations, and welcome to Microverse!
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
