@@ -56,7 +56,7 @@ Now, let's apply this to Microverse. Together with your learning partner(s), rea
 2. Discuss your agreements
 3. Write down what you agree to in your own template
 
-**Exercise template to copy:** [First working agreements](https://docs.google.com/document/d/1eZuxJUVKFns-R2TH58LZGIW5Ashq80HKvyiJINtMngw/edit)
+**Exercise template to copy:** [First working agreements](https://docs.google.com/document/d/1eZuxJUVKFns-R2TH58LZGIW5Ashq80HKvyiJINtMngw/edit?usp=sharing)
 
 ### Submit your exercise
 
