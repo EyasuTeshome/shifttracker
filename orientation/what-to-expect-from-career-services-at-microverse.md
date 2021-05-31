@@ -32,23 +32,41 @@ Click here to learn more about what to expect from Career Services at Microverse
 
 Check your understanding of this lesson. Below you can find a quiz that will help you to test yourself.
 
-Q1: When can you **start** asking a career coach questions?
+**Q1:** When can you **start** asking a career coach questions?
 
-A. When you're assigned a career coach near the end of the Microverse curriculum **B. From your first day at Microverse** C. After you start working on application-related projects like your resume D. Once you start working on React and Redux E. The first time you attend office hours
+- A. When you're assigned a career coach near the end of the Microverse curriculum 
+- B. From your first day at Microverse
+- C. After you start working on application-related projects like your resume 
+- D. Once you start working on React and Redux 
+- E. The first time you attend office hours
 
-Q2: How should you reach out to a career coach with questions?
+**Q2:** How should you reach out to a career coach with questions?
 
-A. Via Zendesk ticket B. Via Slack DM C: By showing up at office hours D: Both A and C are correct E: All of the above
+- A. Via Zendesk ticket
+- B. Via Slack DM
+- C: By showing up at office hours
+- D: Both A and C are correct
+- E: All of the above
 
-Q3: What can career coaches help you with?
+**Q3:** What can career coaches help you with?
 
-A: Applying to jobs B: Personalizing your job application material C: Negotiating or handling job offers D: Both A and B are correct E: All of the above
+- A: Applying to jobs
+- B: Personalizing your job application material
+- C: Negotiating or handling job offers
+- D: Both A and B are correct
+- E: All of the above
 
-Q4: When do you receive your individual career coach assignment?
+**Q4:** When do you receive your individual career coach assignment?
 
-A: When you first start Microverse B: Once you start working on application-related projects like your resume C: Right before you're ready to start job searching D: Right before you're ready to start Interview Prep E: Once you get a job
+- A: When you first start Microverse
+- B: Once you start working on application-related projects like your resume
+- C: Right before you're ready to start job searching
+- D: Right before you're ready to start Interview Prep
+- E: Once you get a job
 
-Answers: Q1: B: From your first day at Microverse
+**Answers:**
+
+Q1: B: From your first day at Microverse
 
 Q2: D: Both A and C are correct
 
