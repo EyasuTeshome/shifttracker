@@ -26,5 +26,5 @@ Please only continue with this section after you've finished the previous sectio
 - Technical projects always require a "Project completion form" before it's completed. Failure to submit it will result in a repeat week.
 - Group projects (learning partner, standup team, and morning session team) will be done together but submitted individually (this means each student has to submit something).
 - Pair-programming activities will be done together and submitted together (this means only one person will have to submit).
-- Check-point quizzes are different from exercise quizzes and will require a score of 70% to pass the [week.](http://week.You) You only have three attempts to achieve this score.
+- Check-point quizzes are different from exercise quizzes and will require a score of 70% to pass the week. You only have three attempts to achieve this score.
 - You can undo submissions and submit again for lessons, exercises, feedback forms, and projects.
