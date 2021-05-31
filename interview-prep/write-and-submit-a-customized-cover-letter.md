@@ -16,7 +16,7 @@ In this project, we'll walk you through how to create a cover letter that expand
 
 For as long as human beings have existed, we've told each other stories. Our societies are built on stories, and good stories can help even strangers feel like they already know you. That's the purpose of a cover letter: to tell a story of who you are, why you're a strong job candidate, and why you'd be an exceptional employee. Most cover letters do nothing but summarize a person's job experiences, which wastes the opportunity to talk about what makes you special. A strong cover letter, however, is an opportunity to frame your experiences and professional strengths, and to explain why you would make a better prospective hire than any other job applicant in an application pile. This project will walk you through **how to write a cover letter designed to tell a compelling story that showcases your professional strengths and uniqueness, regardless of your previous experience**.
 
-[Comparing weak cover letters versus strong cover letters (video lesson)](https://www.notion.so/Comparing-weak-cover-letters-versus-strong-cover-letters-video-lesson-c2c0e008117541c7b486950e0ed7e104)
+[Comparing weak cover letters versus strong cover letters (video lesson)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/comparing-weak-cover-letters-versus-strong-cover-letters.md)
 
 ### Project Setup
 
@@ -29,7 +29,7 @@ Your cover letter header **is intended to quickly link hiring managers to your o
 
 **Learn more about what to include in your cover letter header:**
 
-[What should you add to your cover letter header?](https://www.notion.so/What-should-you-add-to-your-cover-letter-header-26f83245dc0c46008acbe8a7302408aa)
+[What should you add to your cover letter header?](what-should-you-add-to-your-cover-letter-header.md)
 
 **Apply what you've learned**
 
@@ -41,7 +41,7 @@ Your introduction is the first opportunity you have in your cover letter to catc
 
 **Learn more about the introduction of a cover letter:**
 
-[Write a strong, focused introduction to your cover letter](https://www.notion.so/Write-a-strong-focused-introduction-to-your-cover-letter-1517d4936d9a4c778a1f2035e50a3f6d)
+[Write a strong, focused introduction to your cover letter](write-a-strong-focused-introduction-to-your-cover-letter.md)
 
 **Apply what you've learned**
 
@@ -55,7 +55,7 @@ The first supporting paragraph of your cover letter is intended to introduce a h
 
 **Learn more about how to write a compelling, story-centric supporting paragraph:**
 
-[Write your first supporting paragraph](https://www.notion.so/Write-your-first-supporting-paragraph-da8615a3d3854c9c915677a1ff802e03)
+[Write your first supporting paragraph](write-your-first-supporting-paragraph.md)
 
 **Apply what you've learned**
 
@@ -68,7 +68,7 @@ Just as your first supporting paragraph is intended to tell a story showcasing y
 
 **Learn more about how to write an engaging supporting paragraph two:**
 
-[Write a second supporting paragraph](https://www.notion.so/Write-a-second-supporting-paragraph-70d660f0c3a041acb22d285c47925afd)
+[Write a second supporting paragraph](write-a-second-supporting-paragraph.md)
 
 **Apply what you've learned**
 
@@ -81,7 +81,7 @@ The purpose of the third and final supporting paragraph is to clearly reiterate 
 
 **Learn how to wrap up your cover letter with a third supporting paragraph:**
 
-[Write a compelling, individualized final supporting paragraph](https://www.notion.so/Write-a-compelling-individualized-final-supporting-paragraph-0d6137da7c51429b8310918f019adfc3)
+[Write a compelling, individualized final supporting paragraph](write-a-compelling-individualized-final-supporting-paragraph.md)
 
 **Apply what you've learned**
 
@@ -94,7 +94,7 @@ The conclusion of your cover letter is meant to reiterate your interest in a pos
 
 **Learn more about how to wrap up your cover letter with a brief but powerful conclusion:**
 
-[Write a conclusion to your cover letter](https://www.notion.so/Write-a-conclusion-to-your-cover-letter-4b973425588f4b60b224a2b11597ce00)
+[Write a conclusion to your cover letter](write-a-conclusion-to-your-cover-letter.md)
 
 **Apply what you've learned**
 
@@ -106,7 +106,7 @@ Attention to detail is one of the most valuable skills needed for software devel
 
 **Learn more about how to locate and fix errors in your cover letter:**
 
-[Review your cover letter for mistakes and areas of improvement](https://www.notion.so/Review-your-cover-letter-for-mistakes-and-areas-of-improvement-f23a67a0b54140f3b9c42e4bb563d739)
+[Review your cover letter for mistakes and areas of improvement](review-your-cover-letter-for-mistakes-and-areas-of-improvement.md)
 
 **Apply what you've learned**
 
