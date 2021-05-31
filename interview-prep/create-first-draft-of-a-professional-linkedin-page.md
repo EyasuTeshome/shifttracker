@@ -30,7 +30,7 @@ We'll discuss how to fill out each field step by step.
 
 **Learn more about how to complete your LinkedIn Intro Block:**
 
-[How do you complete your LinkedIn header?](https://www.notion.so/How-do-you-complete-your-LinkedIn-header-4bbfa155a39b4eb18f666e529a3f2924)
+[How do you complete your LinkedIn header?](how-do-you-complete-your-linkedin-header.md)
 
 **Apply what you've learned**
 
@@ -42,7 +42,7 @@ According to most students, the "About Me" is the hardest (and most intimidating
 
 **Learn more about the "About" section:**
 
-[What makes a compelling "About?"](https://www.notion.so/What-makes-a-compelling-About-0fd2ed7edeb14162855321cd38e05659)
+[What makes a compelling "About?"](what-makes-a-compelling-about.md)
 
 **Apply what you've learned**
 
@@ -54,7 +54,7 @@ The Featured section is one of the first blocks that a hiring manager will see w
 
 **Learn more about how to create an eye-catching Featured section:**
 
-[What makes a strong "Featured" section?](https://www.notion.so/What-makes-a-strong-Featured-section-7847abc967384508bf76d4efb6820200)
+[What makes a strong "Featured" section?](what-makes-a-strong-featured-section.md)
 
 **Apply what you've learned**
 
@@ -67,13 +67,13 @@ The Experience section is the most important part of your LinkedIn profile. This
 
 **Learn more about what to include in the "Experience" section:**
 
-[Create an achievements-focused Experience section](https://www.notion.so/Create-an-achievements-focused-Experience-section-0f77c6a5da74449f9561893650c3d537)
+[Create an achievements-focused Experience section](create-an-achievements-focused-experience-section.md)
 
 **Apply what you've learned**
 
 1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist above** to help identify any copy/paste errors.
-3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to **review the resume curriculum on how to phrase achievements so that they stand out [ADD LINK HERE]**, and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Fill in the Education section
 
@@ -81,13 +81,13 @@ You're more than halfway done with your LinkedIn profile, and we'll continue our
 
 **Learn how to highlight knowledge and professional expertise in the Education section:**
 
-[What makes a strong Education section?](https://www.notion.so/What-makes-a-strong-Education-section-72f5254f730546b6a827c4488fef0186)
+[What makes a strong Education section?](what-makes-a-strong-education-section.md)
 
 **Apply what you've learned**
 
 1. Take 5 minutes to copy/paste your education from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to **review the resume curriculum on how to phrase achievements so that they stand out [ADD LINK HERE]**, and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Decide whether to include a Volunteer section
 
@@ -97,13 +97,13 @@ If you already have volunteer experience, though (either at Microverse or anyone
 
 **Learn more about what to include in a Volunteer section:**
 
-[How can you showcase volunteer experiences on LinkedIn?](https://www.notion.so/How-can-you-showcase-volunteer-experiences-on-LinkedIn-acd6823e5d3d42bc8f502d2b3f18384b)
+[How can you showcase volunteer experiences on LinkedIn?](how-can-you-showcase-volunteer-experiences-on-linkedin.md)
 
 **Apply what you've learned**
 
 1. If relevant, take 5 minutes to copy/paste your volunteer experience from your resume into LinkedIn.
 2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to **review the resume curriculum on how to phrase achievements so that they stand out [ADD LINK HERE]**, and then write your bullet points using the achievements-focused formulas found in the curriculum.
+3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Add keywords to your LinkedIn by completing the Skills section
 
@@ -111,7 +111,7 @@ The Skills section is important because all of the skills you add to your profil
 
 **Learn more about which skills to add to your LinkedIn:**
 
-[Preparing your LinkedIn for both keyword searches and hiring managers with the Skills section](https://www.notion.so/Preparing-your-LinkedIn-for-both-keyword-searches-and-hiring-managers-with-the-Skills-section-ae0742a2907b49e2a884143282c882b1)
+[Preparing your LinkedIn for both keyword searches and hiring managers with the Skills section](preparing-your-linkedin-for-both-keyword-searches-and-hiring-managers-with-the-skills-section.md)
 
 **Apply what you've learned**
 
@@ -124,7 +124,7 @@ Recommendations are a great way of providing context to recruiters and hiring ma
 
 **Learn more about the art of writing recommendations:**
 
-[How to ask for recommendations and write strong recommendations yourself](https://www.notion.so/How-to-ask-for-recommendations-and-write-strong-recommendations-yourself-323433d2242a40aeab39c4ae303596b2)
+[How to ask for recommendations and write strong recommendations yourself](how-to-ask-for-recommendations-and-write-strong-recommendations-yourself.md)
 
 **Apply what you've learned**
 
@@ -139,7 +139,7 @@ Fortunately, all you need to do to complete this section is copy/paste directly 
 
 **Learn more about how to make your Accomplishment section stand out:**
 
-[Selecting projects (and other achievements) for the Accomplishments section](https://www.notion.so/Selecting-projects-and-other-achievements-for-the-Accomplishments-section-098af619f10f4d9a8a0cec3aa9ab2f70)
+[Selecting projects (and other achievements) for the Accomplishments section](selecting-projects-and-other-achievements-for-the-accomplishments-section.md)
 
 **Apply what you've learned**
 
@@ -151,7 +151,7 @@ The Interests section is generally **a section for you, not for hiring managers*
 
 **Learn more about how to (wisely) select entries for the Interests section:**
 
-[What to include (and what not to include) in the Interests section](https://www.notion.so/What-to-include-and-what-not-to-include-in-the-Interests-section-f28edff7a5dd4aa9a8ad536f64ac167f)
+[What to include (and what not to include) in the Interests section](what-to-include-and-what-not-to-include-in-the-interests-section.md)
 
 **Apply what you've learned**
 
@@ -163,7 +163,7 @@ The Activity section is **optional**. It won't affect the score that Microverse 
 
 **Learn more about how to use LinkedIn to network:**
 
-[Networking via LinkedIn](https://www.notion.so/Networking-via-LinkedIn-addec717a6354d1e8e28e134ed7d982d)
+[Networking via LinkedIn](networking-via-linkedin.md)
 
 **Apply what you've learned**
 
