@@ -2,7 +2,7 @@ Many students feel intimidated when asked to write a long-form introduction to t
 
 [Your elevator pitch] + [Your stack] + [A call to action]
 
-As you know, an elevator pitch is a short, persuasive introduction to who you are and your major accomplishments—**[and you wrote one at the very beginning of your Microverse journey](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/use-your-usp-to-craft-the-first-draft-of-your-elevator-pitch.md
+As you know, an elevator pitch is a short, persuasive introduction to who you are and your major accomplishments—**[and you wrote one at the very beginning of your Microverse journey](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interviewing/use-your-usp-to-craft-the-first-draft-of-your-elevator-pitch.md
 )**. Copy/paste your approved elevator pitch into the "About" section, and then add your stack and a call to action. Listing your preferred stack gives recruiters a quick idea of the technologies you've worked with, and the call to action will invite recruiters, hiring managers, and others to contact you.
 
 For an example that follows this formula almost exactly, look below:
