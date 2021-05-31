@@ -21,7 +21,7 @@ You will be using AngelList extensively during your job search process--not only
 ### Project Setup
 
 1. If you don't already have an AngelList profile, [sign up for one here](https://www.angel.co).
-2. If you have trouble creating an account, [please use this tutorial on how to create an AngelList account](notion).
+2. If you have trouble creating an account, [please use this tutorial on how to create an AngelList account](how-to-create-an-angellist-profile.md).
 
 ## Thoroughly fill in your AngelList header
 
@@ -29,7 +29,7 @@ The AngelList profile header is a short, focused space to input contact info, br
 
 **Learn more about the AngelList header block:**
 
-[What should you include in the AngelList header?](https://www.notion.so/What-should-you-include-in-the-AngelList-header-29e5e8be5585477d88cff884c6382cf9)
+[What should you include in the AngelList header?](what-should-you-include-in-the-angellist-header.md)
 
 **Apply what you've learned**
 
@@ -41,7 +41,7 @@ By this point, filling out the Experience section will be simple; just start cop
 
 **Learn more about the Experience section in AngelList:**
 
-[What to include in the Experience section on AngelList](https://www.notion.so/What-to-include-in-the-Experience-section-on-AngelList-7d385a90b9a64afdbc7e5150acbbd3c3)
+[What to include in the Experience section on AngelList](what-to-include-in-the-experience-section-on-angellist.md)
 
 **Apply what you've learned**
 
@@ -54,7 +54,7 @@ The AngelList projects section is virtually identical to the LinkedIn projects s
 
 **Learn more about how to creating a mini-portfolio using the AngelList Projects section:**
 
-[What should you include in the Projects section?](https://www.notion.so/What-should-you-include-in-the-Projects-section-56cd418418cf49b9929ac204ee7a3b80)
+[What should you include in the Projects section?](what-should-you-include-in-the-projects-section.md)
 
 **Apply what you've learned**
 
@@ -67,7 +67,7 @@ Once you've listed your projects, it's time to start filling in the Education se
 
 **Learn more about what to include in the Education section:**
 
-[Highlight experience and accomplishments in the Education section](https://www.notion.so/Highlight-experience-and-accomplishments-in-the-Education-section-1008320055b6478ebfba4956fc74e7c1)
+[Highlight experience and accomplishments in the Education section](highlight-experience-and-accomplishments-in-the-education-section.md)
 
 **Apply what you've learned**
 
@@ -80,7 +80,7 @@ The "What I Do" field in AngelList is the equivalent of the "About" section in L
 
 **Learn how to condense your elevator pitch into a shorter "What I Do":**
 
-[Condense your elevator pitch into 300 characters](https://www.notion.so/Condense-your-elevator-pitch-into-300-characters-490bcd535b50412f9d2c11cadedc71fd)
+[Condense your elevator pitch into 300 characters](condense-your-elevator-pitch-into-300-characters.md)
 
 **Apply what you've learned**
 
@@ -93,7 +93,7 @@ The purpose of the Achievements section is to list career highlights: things tha
 
 **Learn more about what to include in the Achievements section:**
 
-[How to compellingly include career highlights in the Achievements section](https://www.notion.so/How-to-compellingly-include-career-highlights-in-the-Achievements-section-e5cea17991e1489b9b44b1c61a16d1f1)
+[How to compellingly include career highlights in the Achievements section](how-to-compellingly-include-career-highilghts-in-the-achievements-section.md)
 
 **Apply what you've learned**
 
@@ -107,7 +107,7 @@ The AngelList Skills section is great because it not only allows recruiters to f
 
 **Learn more about adding skills to your AngelList:**
 
-[How to correctly fill in the Skills section of your AngelList profile](https://www.notion.so/How-to-correctly-fill-in-the-Skills-section-of-your-AngelList-profile-1d5a7bdef9e2414486b8de5549218df0)
+[How to correctly fill in the Skills section of your AngelList profile](how-to-correctly-fill-in-the-skills-section-of-your-angellist-profile.md)
 
 **Apply what you've learned**
 
@@ -120,7 +120,7 @@ The Locations field is exactly what it sounds like: a section where you can list
 
 **Learn more about what to include in the Locations field**
 
-[Selecting locations to add to your AngelList profile](https://www.notion.so/Selecting-locations-to-add-to-your-AngelList-profile-af7a383c228b4c91a2fae2b748e5af75)
+[Selecting locations to add to your AngelList profile](selecting-locations-to-add-to-your-angellist-profile.md)
 
 **Apply what you've learned**
 
@@ -132,7 +132,7 @@ The Markets field is the area where you can list any industry that you're intere
 
 **Learn more about how to use the Markets field to personalize your profile**
 
-[What should you add to the Markets field?](https://www.notion.so/What-should-you-add-to-the-Markets-field-3b4cc43d944d45c19ff3d2c02cfc3d42)
+[What should you add to the Markets field?](what-should-you-add-to-the-markets-field.md)
 
 **Apply what you've learned**
 
@@ -144,7 +144,7 @@ This section on AngelList is optional, but we strongly recommend reaching out to
 
 **Learn more about how to ask for references:**
 
-[A short guide to asking for references](https://www.notion.so/A-short-guide-to-asking-for-references-36ec65e8c9a74d1398e9b125f8437327)
+[A short guide to asking for references](a-short-guide-to-asking-for-references.md)
 
 **Apply what you've learned**
 
@@ -156,7 +156,7 @@ Just like the reference section, the Q&A section is optional, but it can be a ni
 
 **Learn more about the Q&A section:**
 
-[How to fill out the Q&A section on AngelList](https://www.notion.so/How-to-fill-out-the-Q-A-section-on-AngelList-ab676dd4db804ed79075dcb299e7092d)
+[How to fill out the Q&A section on AngelList](how-to-fill-out-the-q-and-a-section-on-angellist.md)
 
 **Apply what you've learned**
 
@@ -168,7 +168,7 @@ Your [AngelList Talent Profile](https://angel.co/profile/edit) and your AngelLis
 
 **Learn more about ensuring the completeness of your Talent Profile:**
 
-[How to make sure that your Talent Profile is complete](https://www.notion.so/How-to-make-sure-that-your-Talent-Profile-is-complete-84939bc515d342e1b730fe983b0d8af9)
+[How to make sure that your Talent Profile is complete](how-to-make-sure-that-your-talent-profile-is-complete.md)
 
 **Apply what you've learned**
 
@@ -178,7 +178,7 @@ Your [AngelList Talent Profile](https://angel.co/profile/edit) and your AngelLis
 
 ### Project Requirements
 
-- [Make sure that your AngelList meets every requirement of the AngelList rubric.](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit) [](https://docs.google.com/document/u/1/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit)
+- [Make sure that your AngelList meets every requirement of the AngelList rubric.](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit)
 
 ### Submission Instructions
 
