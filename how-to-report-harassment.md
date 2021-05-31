@@ -17,3 +17,8 @@ You might feel hesitant to report because you don't want to make a big deal of i
 This will depend from situation to situation. At the very least, the person will receive a warning. At three warnings, the student will be expelled. We will have to assess this case-by-case because if the harassment is very severe, we might expel the student after strike one.
 
 We will handle every case with care, respect, and the personalization it deserves.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -13,3 +13,7 @@ At Microverse, you are already familiar with Scrum. The Kanban method has a lot 
 At Microverse, you are familiar with GitHub already. One of GitHub's especially useful features is known as GitHub Projects which allows you to arrange GitHub issues on a Kanban board.
 
 Take a look at [this video to see how to use the GitHub Projects Kanban board](https://www.loom.com/share/2d7f38b91a4b472c8b8cfaeab8eb2c68).
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

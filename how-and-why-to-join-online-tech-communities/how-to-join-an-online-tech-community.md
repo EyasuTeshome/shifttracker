@@ -10,3 +10,8 @@
 
 - **Sign up to join the community:** For some of them, this may take 1-3 days before the administrator approves your request. Make sure that if you are asked for a reason why you are joining in the sign-up form, that you give a professional reason. For example: "*I am a developer in Ruby and I am looking to meet with other Ruby developers around the world*".
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

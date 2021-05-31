@@ -42,3 +42,8 @@ This is the most difficult part of your resume, so don't be worried if you find 
 ### **Finalize the Relevant Experience section**
 
 Remember: your resume should not be more than 1 page long, and the Relevant Experience section should take up roughly 50-60% of the whole resume. Aim for **10-15 bullet points** in the entire Rele vant Experience section. If this section takes up too much space, pick 1 or 2 of the "weakest" bullet points and delete them.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

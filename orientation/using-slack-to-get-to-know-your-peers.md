@@ -32,3 +32,8 @@ Take a look around in Slack and get to know our different channels. We use chann
 - **#announcements-** This is where the Microverse staff make announcements to the school.
 - **#achievements-** A Slack channel where you should post about your own achievements and celebrate the achievements of others
 - **#lunch-and-learn-** This is where you will receive updates about lunch and learns that are taking place in the Program where a student talks about their journey to a software development job.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

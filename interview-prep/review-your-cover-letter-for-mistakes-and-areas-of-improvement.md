@@ -19,3 +19,8 @@ Sentence clarity is an extremely important factor to demonstrate strong written 
 ### Ensure that the cover letter is an appropriate length: no less than 2/3rds of a page, no more than 1 page.
 
 A good cover letter should make the case for an applicant's technical and professional skills, and should provide enough context to be both compelling and thorough. A cover letter that is too short (shorter than perhaps 2/3rds of a page) will have a difficult time of doing this fully. However, hiring managers don't typically have enough time to read extremely long cover letters from every applicant, so an overlong cover letter (longer than a single page) can also be detrimental to a job application.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

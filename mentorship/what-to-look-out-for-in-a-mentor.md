@@ -13,3 +13,7 @@ To determine whether a mentor is a good fit for you, we recommend preparing a fe
 - **Are they willing to listen to my story?** You might be struggling with confidence and need someone to talk to about your tech issues, your bugs, and your general fears about tech. Are they willing to listen to your story?
 - **Are they willing to share their story?** A mentor's time, knowledge, experience, and resources are invaluable to you as a mentee as you will appreciate hearing what worked for them, what didn’t work for them, and more. Is your mentor willing to share their story?
 - **Do you feel comfortable asking your mentor any questions at all?** This is really important to create trust in the relationship.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

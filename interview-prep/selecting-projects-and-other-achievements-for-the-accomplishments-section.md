@@ -28,3 +28,8 @@ Two more things to keep in mind with the Accomplishments section:
 
 - **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, *Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile*).
 - Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to the Publication section of Accomplishments.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

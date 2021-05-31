@@ -38,3 +38,7 @@ If your photo isn't quite as brightly-lit as you would like, you can use photo e
 https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d7a570b-82cc-4f74-ac11-f247421864cd/Photo_-_Lighting_Adjust.mov
 
 As always, editing your photo should be the last resort; your photo will appear much more natural if you have already taken it with good lighting, rather than if you try to manually increase brightness after the fact.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

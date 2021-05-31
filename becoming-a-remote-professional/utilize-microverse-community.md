@@ -14,3 +14,8 @@ Other tips:
 - Schedule 1:1 time with TSE's or post your question on Discourse when you are stuck on a technical problem
 - Reach out to Microverse Staff for help. Especially if you have a collaboration issue if you have problems accessing tools. Reach out to us as soon as possible.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

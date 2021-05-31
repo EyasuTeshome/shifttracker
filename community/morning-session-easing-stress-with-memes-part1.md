@@ -66,3 +66,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [The 4 ingredients of an effective meme](https://www.brianhonigman.com/meme-best-practices/)
 - [What is a meme? Here’s everything you need to know](https://www.digitaltrends.com/computing/what-is-a-meme/)
 - [Maintaining a sense of humor to cope](https://www.verywellmind.com/maintain-a-sense-of-humor-3144888)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

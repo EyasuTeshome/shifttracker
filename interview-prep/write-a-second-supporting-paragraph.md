@@ -13,3 +13,8 @@ Just as the first supporting paragraph tells a story to make a case for a studen
 ### Clearly connect your soft skills to your strength as a developer or job candidate
 
 Because the cover letter is meant to be development-oriented, you need to make it completely clear that the story you've told in the second supporting paragraph is meant to showcase skills that would be useful to you as an employee or developer—*especially* if you're discussing a story that may not be strictly development-related. As mentioned previously, this can be done implicitly--for example, if you've specifically mentioned your skills with debugging code, it's obvious that debugging is a development-related skill. If the skill is not immediately, obviously development-related, however (for example, if you're discussing a soft skill like your continuous desire to learn), the connection should be stated explicitly (for example, by explaining that this desire to learn has helped you pick up a number of frameworks and languages, which has served you well as a developer).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

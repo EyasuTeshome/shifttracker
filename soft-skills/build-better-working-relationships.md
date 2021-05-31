@@ -82,3 +82,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [Establish good working relationships (Module 1)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/establish-good-working-relationships.md)
 - [The only list of icebreaker questions you'll ever need](https://museumhack.com/list-icebreakers-questions/)
 - [Why we need best friends at work by Gallup](https://www.gallup.com/workplace/236213/why-need-best-friends-work.aspx)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -16,3 +16,8 @@ According to author and investor Tim Ferriss, you can get better answers and bui
 
 In short, good questions are focused and require a bit of thought. But don't let this make you think you should labor over all questions or only ask ones that make you look smart! Ferriss also argues that "dumb" questions are extremely valuable for success. The key is to listen well, overcome your hesitations at looking silly, and ask your questions.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

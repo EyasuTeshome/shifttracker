@@ -67,3 +67,7 @@ Programming Languages: Java, C++, Python, JavaScript, C, C#, Swift, Ruby, PHP, G
 ![](https://lh5.googleusercontent.com/7ZITOxO_xaaZMVQT5lEo6UIR41G4QeA7IxxeeS_JnwXznSOnqm0_ouT8THViv3pWmkS2REa6Cl-Q6j9_WyS2kn7BJNNcAwmu2lB6Cv6YpsIoPRXzqVuMNeHko7RUxoTVWfYPOrwA)
 
 ![](https://lh5.googleusercontent.com/u6XyCJ815M-B-_NKwUkuxfC_gshb8cevwbvsNjwumdKJPQij7FQbrgAXN3TTnwb70PLzfNEnUs-O6lyW_s9K0ZjWPB3OcwFi4tDk6t5nVCICEl4FP-MpVaFmCz_ZFerqzCF9HZo1)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

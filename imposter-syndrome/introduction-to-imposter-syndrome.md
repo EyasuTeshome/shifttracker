@@ -37,3 +37,8 @@ Now that you understand what imposter syndrome is and have seen some examples, l
 - [Video - The Stanford Commencement Address by Steve Jobs](https://www.youtube.com/watch?v=UF8uR6Z6KLc&feature=youtu.be)
 - [Fixed Vs Growth Mindset and how they shape our lives by Carol Dweck](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

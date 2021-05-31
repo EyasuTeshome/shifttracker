@@ -41,3 +41,8 @@ You may wonder what you should talk about in the checkins. How will I know what 
 - [Attendance policy at Microverse](https://www.notion.so/microverse/Attendance-policy-c574d1ab41b74692b8d1a4089ea041c3)
 - [World time buddy](https://www.worldtimebuddy.com/)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

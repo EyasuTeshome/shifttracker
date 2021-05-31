@@ -42,3 +42,8 @@ Imposter Syndrome is very common and even more so with software developers. The 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [Refresh the lesson: Introduction to imposter syndrome](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/introduction-to-imposter-syndrome.md)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

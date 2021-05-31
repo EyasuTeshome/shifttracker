@@ -43,3 +43,8 @@ First, you will watch a video together. Before watching think about the followin
 - [Hofstede insights: the six dimensions](https://hi.hofstede-insights.com/national-culture)
 - [Compare countries - Hofstede insights](https://www.hofstede-insights.com/product/compare-countries/)
 - [The application of Hofstede’s cultural dimensions at Botho University: A model for workplace harmony in a multi-cultural business environment](https://core.ac.uk/download/pdf/234671602.pdf)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

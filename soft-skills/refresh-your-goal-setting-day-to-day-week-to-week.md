@@ -57,3 +57,8 @@ Now go to your Student Dashboard and submit your exercise
 - [How to do a great daily standup and weekly retrospective](https://microverse.zendesk.com/hc/en-us/articles/360049914054)
 - [Video - SMART goals overview with 21 SMART goals examples](https://youtu.be/elJcG83m-qg)
 - [How to set weekly goals that get results (with 13 examples)](https://www.developgoodhabits.com/weekly-goals/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

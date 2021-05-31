@@ -12,3 +12,7 @@ The answer is because **elevator pitches are used for more than just in-person n
 - **Answering the dreaded "tell me about yourself" question in job interviews**. This is supposed to be a simple question, but it's the question that nearly all candidates have trouble answering. Your elevator pitch makes the perfect answer.
 
 The elevator pitch is incredibly versatile and will be a huge advantage for you, even if you never do end up riding an elevator with a cool startup CEO.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

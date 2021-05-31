@@ -14,3 +14,8 @@ Let's walk you through how to complete this section:
 4. **Change the order of your bullet points.** While your first bullet points should always be the strongest, if all of your old bullet points come on top, a reader might skim or skip the section entirely. Instead, try to alternate old and new bullet points to keep the reader engaged, or add one of the new bullet points to the very top.
 
 This section might take you a little longer to complete, but it's worth it! By the time you're done, you'll have a list of achievements that will help explain just a few of the things that make you special.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

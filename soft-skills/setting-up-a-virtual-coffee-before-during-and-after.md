@@ -48,3 +48,8 @@ Most people are genuinely flattered by these requests and like to help, so don't
 - [15 Questions to Ask in an Informational Interview](https://www.careercontessa.com/advice/questions-to-ask-informational-interview/)
 - Optional: Install the [Clearbit Connect browser extension](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo) for Google Chrome. It works with Gmail to help find email addresses quickly!
     - *Note: The free version allows 100 searches per month.*
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

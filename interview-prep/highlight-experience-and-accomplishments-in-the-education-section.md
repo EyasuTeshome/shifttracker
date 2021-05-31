@@ -7,3 +7,8 @@ Open your LinkedIn profile and copy/paste the material from your approved Linked
 - **Do not** add your GPA to a degree unless you are both a **recent graduate AND** your **GPA was high** (for example, at least a 3.5 on a 4.0 scale).
 - **Do not** add high school education.
 - If your education is **in-progress**, use your estimated graduation in the date field. If your education is **incomplete** and you don't plan to immediately return to school, use the date that you last attended school in the date field, and in the description field, add a note saying "Degree incomplete."
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

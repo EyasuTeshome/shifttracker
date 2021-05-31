@@ -69,3 +69,8 @@ Scenario Four:
 This was a good example of a good negotiation. The student starts by highlighting their excitement for the role. The student highlights that she has gotten a higher offer from another company, but that this company is her first choice. Then, the student states clearly why they deserve the negotiation explaining the other offer as well as the value that the student will bring to the company.
 
 The student highlights again that she believes she deserves 22,500 even after the hiring manager says no. When the hiring manager mentions that a higher base salary is really not possible, the student offers alternative solutions like more equity or a learning stipend. Finally, the student summarizes again that they are excited about the role and wants to find a solution that's best for both parties, and not only for the student.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

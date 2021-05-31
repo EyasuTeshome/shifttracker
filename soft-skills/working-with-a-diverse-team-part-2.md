@@ -43,3 +43,7 @@ During the final 10 minutes of your Morning Session, discuss the following quest
 
 - [The Challenges of Cultural Diversity](https://www.youtube.com/watch?v=7u_wjH3-Ge8)
 - [It's (past) time to appreciate cultural diversity | Hayley Yeates | TED Institute](https://www.youtube.com/watch?v=C2fyHNMOvjg)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

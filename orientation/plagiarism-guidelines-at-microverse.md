@@ -40,3 +40,8 @@ Learn more about what happens when an assignment is flagged for plagiarism:
 - [What is code plagiarism in computer science?](https://codequiry.com/code-plagiarism)
 - [Plagiarism and programming: how to code without plagiarizing?](https://www.turnitin.com/blog/plagiarism-and-programming-how-to-code-without-plagiarizing-2)
 - For a video explanation of our plagiarism policy, [watch this student assembly](https://drive.google.com/file/d/1rYbZ2NssazFwBB6DRnMwIu6_P9BCqTT1/view) on plagiarism.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

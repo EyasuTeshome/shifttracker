@@ -24,3 +24,8 @@ Working or studying from home brings a set of distractions which are not common 
 
 Family and friends can prove to be distractions as well. Asking you to do certain chores, starting small talk or asking non-urgent questions can be difficult to avoid. You need to make sure they understand which disruptions are acceptable and which can wait until you complete your study day.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

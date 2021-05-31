@@ -55,3 +55,8 @@ The best way to determine the strength of a project is to view the code, but som
 GitHub automatically checks your code in order to identify the most-used language in a project, and then uses that to assign a language tag to the repository. However, sometimes GitHub makes mistakes.
 
 If you need to change the language tag for a project, please [review this tutorial](https://www.loom.com/share/59fa5b6712184de09e8a527da02706d3?t=0).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

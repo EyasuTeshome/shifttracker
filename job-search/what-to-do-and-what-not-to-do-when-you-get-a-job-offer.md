@@ -36,3 +36,8 @@ Once you've determined you have an actual job offer, follow the steps outlined b
 
 - [How to Negotiate, Accept, or Decline a Job Offer](https://www.thebalancecareers.com/how-to-negotiate-accept-or-decline-a-job-offer-2061398)
 - [Video: How to Negotiate Salary after Job Offer | 5 Practical Tips](https://www.youtube.com/watch?v=J30wmYgzVXM)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

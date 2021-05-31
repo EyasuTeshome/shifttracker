@@ -51,3 +51,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [How to Respond to a Job Rejection Email (Indeed)](https://www.indeed.com/career-advice/finding-a-job/how-to-respond-to-a-job-rejection-email)
 - [How to Respond to a Job Rejection Email (The balance careers)](https://www.thebalancecareers.com/follow-up-letter-example-rejected-by-company-2060752)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -36,3 +36,8 @@ Headers are somewhat customizable, but there are a few things you **must** inclu
 2. Your gender or orientation
 3. Your ethnicity
 4. Your previous salary information
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

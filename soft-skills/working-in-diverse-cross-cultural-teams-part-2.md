@@ -42,3 +42,7 @@ Please discuss the following questions with your teammembers:
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - Refresh on this article from an earlier activity: [Cross-cultural communication styles: High and low context](examples-of-differences-between-high-context-and-low-context-communication.md)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

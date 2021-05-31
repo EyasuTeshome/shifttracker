@@ -15,3 +15,8 @@ Time management skills and best practices include various skills and tips that w
 - **Staying organized**: Maintaining a clear picture of what you need to complete and when is an effective organization skill. Being well-organized might mean maintaining an up-to-date calendar, locating certain documents easily, having a tidy environment, and taking detailed, diligent notes.
 - **Communicating**: Developing strong communication skills can allow you to make your plans and goals clear to people you work with. It also allows you to ask for help, which is important in a remote study and working environment. During your time at Microverse, we shall talk about communication a lot to help you develop these skills that are key to success in a remote professional environment.
 - **Managing stress**: Staying attentive to your mental health is a relevant time management best practice. Positively handling stress can help you stay motivated and perform well in your daily activities. You might do this by including small breaks throughout your day, recognizing and communicating personal problems that are out of your control, or rewarding yourself in small ways as you accomplish tasks.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

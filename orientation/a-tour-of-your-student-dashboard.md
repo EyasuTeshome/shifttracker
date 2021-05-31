@@ -28,3 +28,8 @@ Please only continue with this section after you've finished the previous sectio
 - Pair-programming activities will be done together and submitted together (this means only one person will have to submit).
 - Check-point quizzes are different from exercise quizzes and will require a score of 70% to pass the week. You only have three attempts to achieve this score.
 - You can undo submissions and submit again for lessons, exercises, feedback forms, and projects.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

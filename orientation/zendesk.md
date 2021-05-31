@@ -6,3 +6,8 @@ Much of the information you will need during onboarding lives in Zendesk so it's
 Please go ahead and log in to Zendesk using Google SSO: [https://microverse.zendesk.com/hc/en-us](https://microverse.zendesk.com/hc/en-us)
 
 Please bookmark the Zendesk page once you have access to it so you can easily access the FAQs.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

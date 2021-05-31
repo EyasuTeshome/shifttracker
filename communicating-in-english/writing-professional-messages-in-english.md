@@ -62,3 +62,8 @@ Use this [Google Doc Template](https://docs.google.com/document/d/1ruKnTS11DLhFG
 
 - [Professional Letter and Email Examples](https://www.thebalancecareers.com/professional-letter-examples-2062811)
 - [The 28 Key Email Templates You’ll Need](https://www.themuse.com/advice/key-email-templates-youll-need-this-year)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

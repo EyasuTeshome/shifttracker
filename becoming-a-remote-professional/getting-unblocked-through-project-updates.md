@@ -21,3 +21,8 @@ Make agreements with your team on who will help unblock when another team member
 
 There are different ways to solve the blocker depending on the type of blocker. Sometimes more questions need to be asked. Sometimes the team member will need to explain where they are stuck using a Loom or in an ad-hoc Zoom call. This will depend on the difficulty of the blocker. Always try to solve it asynchronously first and if the problem is too complex you can jump on a call. For example, if a problem requires more than two Loom videos to answer the question, you should schedule a quick call.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

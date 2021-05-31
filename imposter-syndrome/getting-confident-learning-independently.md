@@ -59,3 +59,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [You learn one of these 5 ways](https://www.inc.com/damon-brown/you-learn-1-of-these-5-ways-guaranteed-infographic.html)
 - [How to accommodate different learning styles](https://www.umassd.edu/dss/resources/faculty--staff/how-to-teach-and-accommodate/how-to-accommodate-different-learning-styles/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

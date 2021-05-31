@@ -80,3 +80,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [The must-know’s of cross-cultural collaboration](https://medium.com/swlh/a-guide-to-your-globalizing-career-necessary-know-hows-for-cross-cultural-collaborations-950a4d09acd7)
 - [All about cultural competence and workplace culture](https://www.indeed.com/career-advice/career-development/cultural-competence)
 - [How multicultural business relationships can make you a better professional](https://www.forbes.com/sites/forbesagencycouncil/2017/03/24/how-multicultural-business-relationships-can-make-you-a-better-professional/?sh=3a9f60446c44)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

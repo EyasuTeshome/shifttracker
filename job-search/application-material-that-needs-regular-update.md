@@ -12,3 +12,8 @@ Some of the top things that go out of date are:
     Logically, the more jobs you apply to, the more people should visit your portfolio. If your portfolio **does not** see an increase in visitors, then you can assume that’s because your resume and application aren’t currently strong enough to get a hiring manager’s attention. In that case, start working on improving your resume. 
 
     Let’s say that Google Analytics shows that people do start visiting your portfolio, but you never receive requests for interviews. In that case, you can assume that your resume and application are strong, but that your portfolio isn’t showcasing your strength. In that case, you can begin working on expanding portfolio projects or revamping the UI.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

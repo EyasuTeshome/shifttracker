@@ -25,3 +25,8 @@ When giving feedback, leave your personal feelings out of it and make sure your 
 Your communication is only relevant if related to what the other person wants, expects, needs, fears or desires. Figure out how what you’ll say or write is relevant to your colleague, then tell them about it. If what you’re communicating is indeed relevant to them, then it will keep them listening to or reading what you’re trying to say.
 
 Overall, when communicating with your colleagues, you should maintain confidentiality and treat them as you’d like to be treated. It’s also important to have open lines of communication between colleagues and team members to serve each other better.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

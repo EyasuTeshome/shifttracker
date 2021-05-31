@@ -64,3 +64,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [How to handle a conflict with a coworker](https://www.bustle.com/articles/103025-8-ways-to-handle-a-conflict-with-a-coworker)
 - [6 strategies to resolve conflict at work](https://www.entrepreneur.com/article/303617)
 - [4 Steps to Take When Handling Conflict With Your Co-Worker](https://www.newerahrsolutions.com/2018/04/30/steps-to-handling-conflict-with-co-worker/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

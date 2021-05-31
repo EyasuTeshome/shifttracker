@@ -32,3 +32,8 @@ In the following link we will talk a little bit more about what you can expect d
 ### Additional Links
 - [Here is the Microverse Student Handbook](https://www.notion.so/microverse/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - You can refer to this as you go through the first week and learn how things work at Microverse.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -25,3 +25,8 @@
 7. **Tailored support for yourself:** Huntr will also allow you to see where your job search is working and where it is not. For example, are you getting rejected after the behavioral interview? or the technical interview? or at the phone screen interview? When you have the data, you can analyze your progress and take the right action.
 
 8. **Maintaining good Progress scores:** Your Progress score on your Student Dashboard is partly calculated with the number of job applications you make each week. This information is obtained from Huntr so this is also why you need to use Huntr to track your job search. The higher your progress score, the better your chances of being considered for future hiring partner connections.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -42,3 +42,8 @@ Click here to check your answers to these questions: [Answers to the 'Challenge 
 - [How Following Up Can Help You Land the Job](https://www.themuse.com/advice/how-following-up-can-help-you-land-the-job)
 - [Follow-up email after an interview: 10 samples & templates that work](https://zety.com/blog/follow-up-email-after-interview)
 - [Follow-up email examples for after the interview](https://www.indeed.com/career-advice/interviewing/follow-up-email-examples-after-interview)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

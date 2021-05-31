@@ -41,3 +41,8 @@ In previous lessons and morning sessions, you learned and practiced giving and r
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [Kill your tech interview - 3877 full-stack, coding and system design interview questions](https://www.fullstack.cafe/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

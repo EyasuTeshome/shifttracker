@@ -100,3 +100,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [How to overcome your reluctance to ask for help](https://greatergood.berkeley.edu/article/item/how_to_overcome_your_reluctance_to_ask_for_help_at_work)
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 - [Use Google to solve your programming questions](https://codinginflow.com/google-programming-questions)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

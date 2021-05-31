@@ -12,3 +12,8 @@ To complete your Experience section, open up your resume and start copy-pasting 
 ### **If I have other experiences I didn't list on my resume, can I add them to LinkedIn?**
 
 Sure! As we've mentioned, your resume is a **curated, 1-page document**, and that means you sometimes have to leave out less-important information. If you'd like to include them in your LinkedIn profile, **feel free to do so**. **However**, if you plan to add other experiences to your LinkedIn, [please return to the resume curriculum](create-the-first-draft-of-your-resume.md) and review the lesson on how to write accomplishment-focused bullet points** so that project reviewers/career coaches are able to approve your LinkedIn quickly.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

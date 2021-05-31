@@ -30,3 +30,8 @@ All of the photos above are blurry, and the last photo also seems somewhat pixel
 
 All of these examples are crisp and high-quality; the individuals can be clearly seen, and there is no blurriness to distract from their photos.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

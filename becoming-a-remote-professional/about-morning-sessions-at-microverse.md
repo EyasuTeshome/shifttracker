@@ -37,3 +37,8 @@ The presenter changes each day and everyone must get a chance to present regular
 - Ask questions.
 - Help the presenter if needed.
 - Give constructive feedback.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

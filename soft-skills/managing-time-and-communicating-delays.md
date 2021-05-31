@@ -67,3 +67,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [Interview Question "How Do You Handle Stress?"](https://www.indeed.com/career-advice/interviewing/interview-question-how-do-you-handle-stress)
 - [What is the difference between synchronous and asynchronous remote work?](https://microverse.zendesk.com/hc/en-us/articles/360052011513-What-is-the-difference-between-synchronous-and-asynchronous-remote-work-)
 - [Time management strategies using the 4-quadrant method.](https://appfluence.com/productivity/time-management-strategies-for-busy-people-using-the-4-quadrant-method/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

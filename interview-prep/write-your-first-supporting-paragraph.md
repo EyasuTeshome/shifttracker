@@ -24,3 +24,8 @@ This should be longer than the previous section: at least 2-5 sentences. The aim
 ### Clearly connect your soft skills to your strength as a developer or job candidate
 
 Students must clearly explain why the story, example, or praise you've discussed in your first supporting paragraph is clearly relevant to your future success as software developers. This can be done implicitly (for example, by telling a specifically development-related story) or explicitly (for example, by telling a story that discusses your customer-first mindset and then explicitly explaining how you bring that customer-first mindset to fruition when designing the UX of an app).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

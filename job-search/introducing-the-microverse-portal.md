@@ -11,3 +11,8 @@ Every week, career coaches will be curating job opportunities that we believe wi
 **You can watch the loom video below for an example of how to add a job to your board:**
 
 [Video to watch: see an example of how to add a job to your Huntr board](https://www.loom.com/share/191c83c20acb4e38a3d72f8d07f55b76)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

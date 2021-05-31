@@ -59,3 +59,8 @@ Now go to your Student Dashboard and submit your project.
 
 - [Some behavioral interview questions with sample responses](https://www.thebalancecareers.com/job-interview-questions-and-answers-2061204)
 - [How to prepare for a behavioral interview](https://www.indeed.com/career-advice/interviewing/how-to-prepare-for-a-behavioral-interview)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

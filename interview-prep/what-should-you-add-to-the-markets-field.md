@@ -7,3 +7,8 @@ As we've mentioned, you can add any specific industries you're interested in joi
 Adding specific Markets **will not limit you**; you can still apply to jobs in any industry you want. But it's a quick, easy way of establishing rapport with a hiring manager: showing them that you're interested not only in making money but in what their company actually does.
 
 **You must add at least 1 market in order to complete this section**.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

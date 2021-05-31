@@ -9,3 +9,8 @@ You may need to edit this section a bit to make it fit into 300 characters. Here
 **AngelList:** *Career coach, educator, and no-code developer who specializes in building complex automations using tools like Zapier and Integromat. The type of person who thinks that spending an afternoon on Metabase is a legitimately good time. Currently working at Microverse, helping others change the world.* (297 characters)
 
 It may take a few minutes to condense your elevator pitch into a 300-character "What I Do" section, but the time is worth it. After you've condensed your pitch, make sure to read your "What I Do" aloud--this will help you ensure that you haven't accidentally introduced any copy/paste errors.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

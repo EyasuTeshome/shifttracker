@@ -19,3 +19,8 @@ Example 2: **What major problems have you encountered while working with a team 
 **What the interviewer wants to know:** With this question, the interviewer is seeking insight into how you handle difficult situations at work. Focus on how you’ve solved a problem or compromised when there was a workplace disagreement.
 
 **Sample response for the situation:** In one of my internships, I had a team member who was working along with me on designing a product.  One day, I learned that this team member had been sharing stories that weren't true behind my back.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

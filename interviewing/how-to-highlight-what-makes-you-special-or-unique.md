@@ -47,3 +47,7 @@ Just like we discussed in the previous examples, these examples are strong becau
 3. They **show why you're special**. Each of the examples showcases an achievement, or something the speaker is proud of: specific projects, a high-energy attitude, a life of coding challenges.
 
 Again: focus on what makes you special. People want to know that you're capable of accomplishing cool things, so showcase what you've already accomplished. Even if an accomplishment hasn't been in the world of development (like in the call center example above), you can still explain why those experiences would **benefit** your development.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

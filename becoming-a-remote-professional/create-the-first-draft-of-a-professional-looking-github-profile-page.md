@@ -104,3 +104,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [Activity Traces and Signals in Software Developer Recruitment and Hiring](https://www.cs.cmu.edu/~xia/resources/Documents/Marlow-cscw13.pdf). A note: this is a research paper, and therefore will be more difficult to read than a blog post, but the information included here is very useful. If you view nothing else, view the table on page 4, which contains 5 common "activity traces" that hiring managers and recruiters look for.
 - [Here's what 4 companies really look for on your GitHub profile](https://www.builtinchicago.org/2018/05/08/what-companies-look-for-on-github)
 - [Video - Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

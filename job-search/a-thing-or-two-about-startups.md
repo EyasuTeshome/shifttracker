@@ -11,3 +11,8 @@ To apply for a job on AngelList, you have to click on “Apply Now.” If the co
 ### Hacker News
 
 Hacker News is a forum and community created by Y Combinator, the accelerator where Airbnb, Dropbox, and Stripe got started, among many others. Hacker News is an amazing source of news and interesting resources for developers, hackers, and founders. Among those resources, a list of companies looking for software developers and freelancers is posted every month.  Every month, you will see two new posts created by that account: companies looking for employees and another for companies looking for freelancers. You should take a look at both of them. Just scan through the list and notice if there is any company that gets your attention. They will include information about the role and how to apply to it. Just keep in mind that many of those jobs are only available to people in the US, but not exclusively.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

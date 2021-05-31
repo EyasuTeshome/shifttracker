@@ -15,3 +15,8 @@ As a web developer working on professional skills and being visible online, you'
 - You need to take the time to evaluate the job description and see if it sounds interesting to you. Don't be afraid to ask for the job description if the recruiter has not included it in their message to you. Once you've read the full job description, if you don't think you'll like to follow through with the application, don't hesitate to communicate this with the recruiter politely. Be sure to close the conversation on a good note so that you can reach out to the recruiter in the future.
 
 Now that you know the difference between a job offer and an information call, we hope you will be able to use the appropriate terms when expressing any job search updates you may have to avoid confusing your coaches and fellow students. We also hope that you now understand how to react and respond to messages from recruiters.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

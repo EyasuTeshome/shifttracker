@@ -49,3 +49,7 @@ When you’re working in a remote/distributed team, everyone’s going to have s
 https://www.youtube.com/embed/p1UJdgMVZYE
 
 We've listed the first few and basic calendar management practices above, but there are many other calendar management practices to be implemented using your Google Calendar. Go to the main activity page for additional resources and tutorials.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -28,3 +28,8 @@ Discourse is a platform used for technical questions. Other students and code-re
 - How do I solve this error running npx stylelint?
 - How do I query the leaderboard API for the JavaScript Capstone?
 - How to remove a commit from git?
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

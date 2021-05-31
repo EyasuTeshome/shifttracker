@@ -37,3 +37,7 @@ These examples are good for two major reasons:
 2. They include **detail and context**: The first example gives context by explaining what Microverse is, and a few of the projects they've built. The second example gives detail on how the speaker transitioned from sales to development. The third example gives detail on a major project the speaker worked on.
 
 You do not need to write something very long; the good examples above are all 1-3 sentences long. But it's important to provide enough detail that it's obvious why your history is unique, and why that history would be useful as a software developer.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

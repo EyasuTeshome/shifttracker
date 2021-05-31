@@ -15,3 +15,8 @@ We'll begin this lesson by giving you a comparison of a **weak** cover letter 
 Now, please review the following video:
 
 [VIDEO: A comparison of a strong cover letter versus a weak one](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6d495465-8f96-4406-a3d2-a4421a99dd0d/Cover_Letter_Comparison.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T153805Z&X-Amz-Expires=86400&X-Amz-Signature=ae23c59059d87c668ccd7de560a92939495dbcef08600ad3261d3efd684e4274&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Cover_Letter_Comparison.mp4%22)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

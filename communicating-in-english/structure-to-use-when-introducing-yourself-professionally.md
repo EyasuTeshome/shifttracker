@@ -7,3 +7,8 @@
 - **Share excitement and pride about your goal:** This is a great way to show enthusiasm, passion, and drive to your listener or reader.
 - **End with a** **question:** When introducing yourself to recruiters or hiring managers, it's always nice to end with a question so that they have a reason to get back to you.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

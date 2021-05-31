@@ -38,3 +38,8 @@ Below you will find information with videos on how to use your Student Dashboard
 - Where can I submit feedback?
 - Where can I see my attendance record?
 - Where can you see what activities you need to submit in a day?
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

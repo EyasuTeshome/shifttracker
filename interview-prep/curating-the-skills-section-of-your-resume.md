@@ -10,3 +10,8 @@ The Skills section lists languages, technologies, and frameworks you know, along
 The template resumes already list skills you've likely learned at Microverse. Update it as needed, and feel free to add other development-related skills you know as well.
 
 **An important note: only list skills you have an intermediate-level knowledge of.** If a skill is on your resume you'll probably get asked about it during an interview, and if you can't answer intermediate-level questions, the hiring manager might assume you were lying. That can mean **immediate rejection**.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

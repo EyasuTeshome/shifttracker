@@ -33,3 +33,8 @@ If you are willing to relocate, then you should not just look for local and remo
 ### **Local jobs**
 
 Finally, there are local jobs with no remote teams. Unless you live in a developed country and in a major city, your chances and your salary will be limited in this case, but a local and low-pay job is better than no job if you have never worked as a software developer before. Remember that you can always move to a new job when a better opportunity comes up. We will recommend that you start with the other types of jobs, but you should keep your eyes open for local opportunities too, especially if you don't already have software development experience.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

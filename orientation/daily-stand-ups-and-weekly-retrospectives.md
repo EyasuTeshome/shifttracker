@@ -20,3 +20,8 @@ By self-assessing and identifying the blockers, you can actively do something to
 
 Did you achieve a goal faster than expected? Great! Write it down. Did you get positive feedback from someone? Also, write it down! It's important to keep track of things that go well to celebrate small wins and to give ourselves an overview of what our strengths are so we can do more of that in the future. Celebrating what went well is also known to raise motivation! Make sure you have a document like a Google Doc or notes where you can look back on at the end of the week to help you fill out this information.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

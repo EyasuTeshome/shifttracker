@@ -72,3 +72,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [50 most common interview questions](https://www.glassdoor.com/blog/common-interview-questions/)
 - [New survey reveals 85% of all Jobs are filled via networking](https://www.linkedin.com/pulse/new-survey-reveals-85-all-jobs-filled-via-networking-lou-adler/)
 - [Master the informational interview : proven tactics & language](https://ns-careers.com/blog/2016/9/30/master-the-informational-interview-proven-tactics-language)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

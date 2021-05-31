@@ -51,3 +51,7 @@ Let’s quickly take a look at the above message to see how it lines up with the
 **A brief repetition of thanks:** *“Again, thank you. You’re one of the devs I most look up to in the community…”*
 
 **A friendly closing:** *“I’d absolutely love to talk to you again whenever you have time (and no, not just about work!), but until then, I hope you have a great rest of your week!”*
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

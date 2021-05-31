@@ -73,3 +73,7 @@ Your "changed HTML” :
 This is very bad practice, as the point of the assignment is to rebuild a website from scratch, and see how you can build a website that looks the same. If you copy the majority of the existing website's code, you will not learn how to write HTML properly, and will not know how to build a new design handed to you in a job.
 
 **This would be flagged as plagiarism.**
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

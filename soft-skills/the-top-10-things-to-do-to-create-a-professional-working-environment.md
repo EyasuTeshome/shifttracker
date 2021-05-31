@@ -11,3 +11,8 @@
 8. Communicate with your team members when you are having an issue so they are aware and can plan accordingly. They may also be able to provide support.
 9. Dress smart-casual.
 10. Be dedicated to doing good work and communicating well with others.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

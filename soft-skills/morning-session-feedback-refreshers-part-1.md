@@ -64,3 +64,7 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [5 Steps to Giving Good Feedback | The Muse](https://www.themuse.com/advice/5-steps-to-giving-good-feedback)
 - [The Complete Guide on How to Receive Feedback | Medium](https://medium.com/live-your-life-on-purpose/the-complete-guide-on-how-to-receive-feedback-f25c29913c93)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

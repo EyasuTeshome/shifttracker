@@ -71,3 +71,8 @@ Now go to your Student Dashboard and fill in your weekly retrospective form.
 - [Self-reflection, retrospective and journaling](https://agileleanlife.com/self-reflection-retrospective-and-journaling/)
 - [Golden rules of goal setting](https://www.mindtools.com/pages/article/newHTE_90.htm)
 - Refresh yourself on goal-setting in this lesson: [Goal setting - day to day, week to week](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/goal-setting-day-to-day-week-to-week.md)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

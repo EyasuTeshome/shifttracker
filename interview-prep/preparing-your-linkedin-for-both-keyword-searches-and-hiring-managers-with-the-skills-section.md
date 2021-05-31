@@ -11,3 +11,8 @@ Unfortunately, unlike other sections, you cannot copy/paste all of your skills a
 Hiring managers don't view LinkedIn endorsements as highly as they view your actual projects, but LinkedIn endorsements can still be a quick way for a recruiter to decide whether they want to message you or not.
 
 Ask your coding partner, standup team, and/or mentor to [endorse your skills](https://www.linkedin.com/help/linkedin/answer/33196/endorsing-someone-s-skills?lang=en), especially technical skills they've seen you work with. Once done, please endorse their skills in exchange.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

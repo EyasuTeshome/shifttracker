@@ -58,3 +58,8 @@ Choose one of your problems and describe it to the others in your group.
 **These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.**
 
 - [The 5 pillars of the Microverse Program that make remote learning possible](https://microverse.zendesk.com/hc/en-us/articles/360046598213)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

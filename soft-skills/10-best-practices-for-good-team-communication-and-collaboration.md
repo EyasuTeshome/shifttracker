@@ -19,3 +19,8 @@
 9. **Recognize each other for something positive:** Give a shoutout to a member of your team when they have done something positive, no matter how big or small.
 
 10. **Reflect on your teamwork as a group:** What have you learned about teamwork by doing this project together? What can you improve for your next team project? What will you take into your future workplace? Reflection is extremely important to help you grow your teamwork and collaboration skills.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

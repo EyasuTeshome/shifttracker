@@ -57,3 +57,8 @@ The following links are FAQs with more information if you find that helpful:
 - [How do I report an absence](https://microverse.zendesk.com/hc/en-us/articles/360043576994-How-do-I-report-an-absence-)
 - [The Daily Schedule at Microverse](https://microverse.zendesk.com/hc/en-us/articles/360046155554)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

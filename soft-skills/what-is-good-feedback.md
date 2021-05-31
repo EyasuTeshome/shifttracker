@@ -23,3 +23,8 @@ This is better for the following reasons:
 - It is direct. The main point is in the first sentence.
 - It is kind. This feedback gets across how you're feeling accurately without being mean about it.
 - It is respectful and promotes conversation. By asking the recipient what they think can be done to resolve the issue, this feedback feels less like a lecture and more like a conversation about how to move forward together.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

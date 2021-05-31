@@ -11,3 +11,8 @@ How to make a good question in the remote environment:
 - Are there previous events or actions that this person should know about to answer my question?
 - What solutions have I tried to find to this question that did not work? If you're making a Loom video, it's good to include these.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

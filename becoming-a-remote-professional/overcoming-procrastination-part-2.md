@@ -58,3 +58,7 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Top 10 ways to beat procrastination and get things done](https://scholarship-positions.com/top-ways-to-beat-procrastination-and-get-things-done/2019/04/01/)
 - [Read step 3 of this article: How to stop procrastinating](https://www.mindtools.com/pages/article/newHTE_96.htm)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

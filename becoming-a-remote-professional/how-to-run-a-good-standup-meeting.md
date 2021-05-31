@@ -26,3 +26,8 @@ If you can find quick solutions you can continue discussing during the standup m
 ## What to do after the meeting?
 
 Circle back to any blockers that are left unsolved and submit the standup team form from Monday to Thursday (on Fridays you will submit a weekly retrospective instead).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

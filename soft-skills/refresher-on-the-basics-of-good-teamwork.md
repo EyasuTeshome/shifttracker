@@ -100,3 +100,8 @@ The thought of working in a large group can be daunting. It can feel like you ne
 - [Software development team structure – who brings what to the table?](https://tsh.io/blog/software-development-team-structure/)
 - [How to balance team workload fairly?](https://blog.gainapp.com/how-to-balance-your-teams-workload-fairly-and/)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

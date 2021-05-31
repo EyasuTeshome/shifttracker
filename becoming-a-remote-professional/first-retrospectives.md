@@ -50,3 +50,8 @@ Now go to your Student Dashboard and fill in your retrospective form.
 - [Self-reflection, retrospective and journaling](https://agileleanlife.com/self-reflection-retrospective-and-journaling/)
 - [How to Do Your Own Personal Retrospective?](https://blog.jthoenes.net/2012/09/20/how-to-do-your-own-personal-retrospective/)
 - [Golden Rules of Goal Setting](https://www.mindtools.com/pages/article/newHTE_90.htm)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

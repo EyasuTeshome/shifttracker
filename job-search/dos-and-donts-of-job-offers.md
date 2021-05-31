@@ -32,3 +32,8 @@ Remember, they have just spent a lot of time putting you through the interview p
 1. Fill out the [New or Updated Job Offer form](https://airtable.com/shrHyefik2tK4E4qo)
 2. Attend [Career Services Office Hours](https://microverse.zendesk.com/hc/en-us/articles/360036510273-How-do-I-attend-Career-Services-Office-Hours-)
 3. [Optional] Submit a Zendesk ticket to the Career Services on-call career coach
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

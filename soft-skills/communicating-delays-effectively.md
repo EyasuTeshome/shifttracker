@@ -9,3 +9,8 @@ Here are some practical ways to recognise and communicate delays:
 - **Recognize and acknowledge that a situation is beyond your control or the task is beyond your capacity.** An example could be an electricity/power issue or a bad connectivity/internet issue that cannot be resolved within a significant time-frame without impacting your schedule. It could also be a health-related issue or a family emergency. Whatever the situation may be, ensure to have an awareness of it.
 - **Estimate how long the delay could last and proactively consider the impact of the delay.** An example would be estimating that a nation-wide internet disruption would last for 24 hours, and proactively checking if you would miss your deadline with a 24 hour delay.
 - **Be honest and transparent, and continue to make communication a top priority.** Use the given or recommended communication tools to update and stay in touch with relevant parties, including your coding partner and the Student Success team. Asynchronous communication will be helpful in cases like this. See below for links on the difference between synchronous and asynchronous remote work.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

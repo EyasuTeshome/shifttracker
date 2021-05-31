@@ -32,3 +32,8 @@ Below, we'll take a look at a few examples.
 
 All of the photos above are taken either torso-up or shoulders-up, making the primary focus of the photo the subject's face. This allows a viewer (who could be a hiring manager or recruiter) to clearly see you and form an immediate, instinctual rapport.
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

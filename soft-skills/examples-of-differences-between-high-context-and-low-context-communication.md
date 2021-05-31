@@ -25,3 +25,7 @@ Ben listened to what Juan said and expects that Juan will only be out for parts 
 ### How to avoid conflict at Microverse and in the workplace:
 
 In a cross-cultural and remote environment, you must always be direct, clear with as many details as possible. In this case, Juan should have been more specific by saying that he will be out for the majority of the day. It would help the collaboration if Juan told Ben at what times of the day he could check in and give Juan updates on his availability. For example: "I will be out the majority of the day. I will check in with you at noon to give an update on whether I will be able to work in the afternoon as it depends on whether my child can sleep or not."
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

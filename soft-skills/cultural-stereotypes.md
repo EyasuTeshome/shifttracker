@@ -13,3 +13,7 @@ North Americans are wealthy, Europeans don't work hard, South Americans are extr
 ### Working against the stereotypes.
 
 We need to recognize that we have explicit or inexplicit stereotypes about certain cultural backgrounds and actively learn to see the person before their culture and to question the stereotypes and beliefs that we have. While you work with people from different cultures at Microverse, take an active learning approach to work against the stereotypes and learn about the person you are working with. Understand that stereotypes do not define a person. Instead of focusing on the stereotypes, focus on the person's capabilities, actions and words.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

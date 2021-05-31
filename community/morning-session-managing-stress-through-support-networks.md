@@ -73,3 +73,7 @@ Here are more resources on managing stress through social support:
 - [5 tips to turn your online connections Into meaningful relationships](https://www.forbes.com/sites/shelcyvjoseph/2018/11/12/5-tips-to-turn-your-online-connections-into-meaningful-relationships/?sh=53fc3cc86442)
 - [Sansum Clinic | Stress Management Series | Episode # 9 Compassion and Purpose](https://www.youtube.com/watch?v=Hn-dl7iMQ8c)
 - [Stress and Your Health | Part 3: Coping with Stress | AXA Research Fund](https://www.youtube.com/watch?v=rWzDq2318g8)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

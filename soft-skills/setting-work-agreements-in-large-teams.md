@@ -20,3 +20,8 @@ Read through the following areas of common working agreements:
     - How you will study? (alone or in group)
 - **Workspace and equipment**
     - What you will do in case the workspace is causing problems with productivity?
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

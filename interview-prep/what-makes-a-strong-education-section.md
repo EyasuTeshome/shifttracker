@@ -10,3 +10,8 @@ There are also a few additional things to keep in mind that are Education-specif
 
 Again, if you'd like to add additional education entries, feel free to do so. However, like we mentioned previously, **if you want to add more entries**, [you must return to the resume module
 ](create-the-first-draft-of-your-resume.md) to review writing achievements-focused bullet points. Failure to do so will likely result in your LinkedIn going through multiple reviews.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

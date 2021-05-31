@@ -21,3 +21,8 @@ Another way to show grammatical consistency is to be consistent in punctuation u
 - Created an award-winning mobile app for nursing students with 30,000 downloads.
 
 The first bullet point does not end in a period. However, the second and third **do** end in periods. Pick one method and stick with it. Again, while these errors are small, they signal a lack of attention to detail.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

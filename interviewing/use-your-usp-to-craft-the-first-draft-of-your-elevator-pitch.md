@@ -164,3 +164,8 @@ If you'd like to learn more about how to create compelling elevator pitches, tak
 - [Video - How to create an elevator speech about yourself - elevator speech sample!](https://www.youtube.com/watch?v=6C03u9qvSEQ)
 - [Video - Create the perfect elevator pitch & sales pitch - best elevator pitch examples & template](https://www.youtube.com/watch?v=3qd2GbnKjio)
 - [Article - how to write a sure-fire elevator pitch for your job search](https://www.recruiter.com/i/how-to-write-a-sure-fire-elevator-pitch-for-your-job-search/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

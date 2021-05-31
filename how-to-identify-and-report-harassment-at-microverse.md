@@ -36,3 +36,8 @@ Here you will find a link that explains the different processes to report sexual
 
 - [Microverse Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#e94e818ec5b84dc3ab664461e3a5f99e)  
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -25,3 +25,7 @@ To limit the challenges of remote work and increase the benefits, it's important
   - Try to help them understand that during the Program hours you cannot be distracted or interrupted at home as you are focused on learning.
   - Communicate clearly with them about your ability to do chores, prepare food or transport family members only outside the Program hours.
   - Help them understand that your studies are the beginning of new habits you will have in your remote career.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

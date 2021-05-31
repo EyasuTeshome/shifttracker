@@ -39,3 +39,8 @@ Your choice of font can be the difference between a rejection and an interview. 
 Don't choose a quirky or "fun" font because you think it will get a hiring manager's attention. It won't be effective--at least, not in a positive way. Instead, choose a professional font, like Lato, Open Sans, or Georgia. Remember that hiring managers spend hours in front of a computer each day, and if your fonts are difficult to read, you’ll probably get immediately rejected.
 
 For reference, [here’s a list of 10 readable fonts that work well on resumes](https://www.freecodecamp.org/news/these-are-the-most-effective-resume-fonts-in-2019/).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

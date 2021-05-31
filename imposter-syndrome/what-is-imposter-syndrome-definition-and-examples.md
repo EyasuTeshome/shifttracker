@@ -51,3 +51,7 @@ As you saw above, imposter syndrome can take many forms. This syndrome can also 
 If you have ever worked in an office environment before, you will notice that it is much easier to communicate with your colleagues face-to-face, to talk about issues you have with your manager, and to discuss freely with your collaborators. This is because of the physical and human connection you feel when you are in-person. In a remote-environment however, this connection is reduced because you are mainly working on your own, without anyone to share your feelings with or talk to. Remote environments increase the possibility of imposter syndrome which is why it is really important to identify it as soon as possible and deal with it. We will discuss later on in this lesson how to deal with your imposter syndrome.
 
 Now that you understand what imposter syndrome is and have seen some examples, let's return to the main page and look at the impacts of this syndrome and how to deal with it.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

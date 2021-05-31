@@ -8,3 +8,8 @@ Open up LinkedIn and start adding all of the skills you've included there to you
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3fbfd4c-b876-46a8-a080-56cf191a7ab5/AL4.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3fbfd4c-b876-46a8-a080-56cf191a7ab5/AL4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T130805Z&X-Amz-Expires=86400&X-Amz-Signature=620d67dfacbb1292bde7503b2ee081cc84348eb00fafbdce99004e6526eed9ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22AL4.png%22)
 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

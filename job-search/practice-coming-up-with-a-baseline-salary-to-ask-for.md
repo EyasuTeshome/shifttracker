@@ -53,3 +53,8 @@ Now go to your Student Dashboard and submit your exercise.
 - [Video - How to negotiate salary](https://youtu.be/Xap454_Nq2g)
 - [Interview question: "What are your salary expectations"](https://www.thebalancecareers.com/interview-questions-about-your-salary-expectations-2061235#:~:text=You%20can%20try%20to%20skirt,Offer%20a%20range.)
 [](https://buffer.com/resources/salary-formula/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

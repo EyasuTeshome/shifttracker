@@ -65,3 +65,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [5 effective LinkedIn networking tips for students](https://www.linkedin.com/pulse/5-effective-linkedin-networking-tips-students-vidya-srinivasan/)
 - [How to stay positive during a long and exhausting job search](https://www.forbes.com/sites/jackkelly/2020/08/17/how-to-stay-positive-during-a-long-and-exhausting-job-search/?sh=6b26e2eb7991)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -50,3 +50,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Why procrastinators procrastinate -  Tim Urban](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 - [Becoming the boss of our brain: The procrastination matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

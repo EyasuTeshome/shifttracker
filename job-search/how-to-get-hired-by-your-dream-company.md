@@ -18,3 +18,8 @@ Here are some tips on tracking your ideal company and getting noticed by them:
     - It's okay to reach out to the hiring manager or better still - the network you have inside, to let them know of your further interest in an open position and that you have applied. Following up alone doesn't guarantee that you will get a call-back, but your chances will be higher.
 
 The big lesson here is that going after what you want teaches you to put in the work and effort that comes with it. Getting the reward of that is always worth the wait. Good luck!
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

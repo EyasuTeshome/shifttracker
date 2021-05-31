@@ -10,3 +10,7 @@ There are a few skills that are very important to make sure that you become a su
 - You are not afraid to go on google or youtube to find out answers. (but remember the time-boxing tip from earlier!)
 
 ### 
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -27,3 +27,8 @@ Example 2: **What major problems have you encountered while working with a team 
 **Sample response for the action:** I feel that the best way to deal with any challenges is to meet them head-on. I knew it would be a difficult conversation and might sound like blame. Rather than increasing the tension, I decided to approach my team member directly to talk about what I have heard. 
 
 **Sample response for the result:** It turned out they had misunderstood what I had said, and I was able to set the record straight with them, and my supervisor. This experience also made it clear that disagreements and conflicts are inevitable at the workplace. When they are not addressed, it affects the working of team members. I also learned how a disagreement or a conflict can be handled with respect and care.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -43,3 +43,7 @@ The examples above first give the speaker's name, explain that the speaker is a 
 Helena has experience with multiple languages/frameworks and has built software solutions for small businesses; this would be a great pitch if she were meeting the CEO of an early-stage startup. Luis loves UX, UI, and accessibility; wouldn't he be great at improving old, div-soupy code? Muhammad is passionate about environmentalism: a recruiter at a green energy company would love to meet him. Ana doesn't have much experience yet, but she's enrolled in a school that uses real-world practices like pair-programming to teach development.
 
 **Your introduction will (and should) be different!** But the essence should be the same: introduce yourself, give your job role, and talk about what **specific** value you would add to a business.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

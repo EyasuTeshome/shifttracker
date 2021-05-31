@@ -51,3 +51,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [10 best practices for good team communication and collaboration](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/10-best-practices-for-good-team-communication-and-collaboration.md)
 - [Effective collaboration is the secret to your software development project success](https://steelkiwi.com/blog/collaboration-is-a-key-to-project-success/)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

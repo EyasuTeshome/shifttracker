@@ -75,3 +75,8 @@ Click here to check your answers to these questions: [Answers to the 'Challenge 
 - [25 phone interview tips to get you to the next round (with video)](https://www.indeed.com/career-advice/interviewing/phone-interview-tips-to-get-you-to-the-next-round)
 - [What is a phone screen interview and how does it work?](https://www.thebalancecareers.com/what-is-a-screening-interview-2062094)
 - [The cheat sheet you should fill out before every phone interview](https://www.themuse.com/advice/phone-interview-cheat-sheet)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

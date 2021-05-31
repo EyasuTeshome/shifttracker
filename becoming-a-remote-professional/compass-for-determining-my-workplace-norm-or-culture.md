@@ -28,3 +28,7 @@ When you start your new job, use this compass to decipher some of the unspoken w
   - Do team members show respect to each other in meetings? Do they talk over each other in meetings or wait for others to have their turn?
   - In meetings do people multi-task? Or do they listen attentively? Do they get a warning when they multitask during a meeting? Or when they are on their cell phones during a meeting?
   - Do people tend to share personal details like their holidays, hobbies, etc? Or do they prefer to keep this a strict work-only environment?
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -57,3 +57,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Video - How to use others' feedback to learn and grow | Sheila Heen | TEDx](https://www.youtube.com/watch?v=FQNbaKkYk_Q)
 - [Why are my contributions not showing up on my profile?](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) - A GitHub guide to keeping your Activity chart green by understanding which contributions are and aren't counted on your Activity chart.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

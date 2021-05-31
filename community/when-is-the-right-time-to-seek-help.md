@@ -21,3 +21,8 @@ Now take some time to go through the steps below:
     5. What have you tried so far?
 
 In case you have reached the last step and have not tried anything so far, then at least try 2-3 possible solutions. Refer to the next sections for help on figuring out ways to seek answers on your own.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
