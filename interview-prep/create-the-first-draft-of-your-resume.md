@@ -125,7 +125,7 @@ The Projects Section is technically optional, but many students would benefit fr
 
 Every resume should have an Education section, even if you never completed a formal degree program. But what you choose to include in the Education section will depend on the amount of and type of education you have. We'll discuss three common student scenarios below.
 
-**An important note:** do **not** include high school/secondary school education in this section. The Education section is only for college/university/grad school or ****for long-term software development programs like Microverse.
+**An important note:** do **not** include high school/secondary school education in this section. The Education section is only for college/university/grad school **or** for long-term software development programs like Microverse.
 
 **Learn more about creating a strong Education section in your resume:**
 
