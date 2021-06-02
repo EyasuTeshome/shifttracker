@@ -38,7 +38,7 @@ Read the following blog in silence for 5 minutes.
 1. Complete section 1 solo
 2. Complete section 2 together
 
-**Exercise template to copy:** [Core Study Skills Part 2](https://docs.google.com/document/d/1nz2_RMNFkZH58qJcGMlFG_kjn49J-Wsb2FrFwD_653w/edit?usp=sharing)
+**Exercise template to copy:** [Core Study Skills Part 2](https://docs.google.com/document/d/1nz2_RMNFkZH58qJcGMlFG_kjn49J-Wsb2FrFwD_653w/edit)
 
 ### Group Discussion
 
