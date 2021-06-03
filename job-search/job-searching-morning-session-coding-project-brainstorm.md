@@ -18,7 +18,7 @@ Great ideas can come from anywhere and anyone and you're most likely to find gre
 
 **Learn more about brainstorming**
 
-[The rules of good brainstorming](https://www.notion.so/The-rules-of-good-brainstorming-e290464d182a46a98cef635a06da3b20)
+[The rules of good brainstorming](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/the-rules-of-good-brainstorming.md)
 
 ## Exercise
 
