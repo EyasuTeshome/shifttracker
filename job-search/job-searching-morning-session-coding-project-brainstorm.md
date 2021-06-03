@@ -43,10 +43,8 @@ Instructions:
 2. Choose the first person who will present their side project idea or brainstorming topic. 
 3. Choose the person who will keep track of time: allow 6 minutes per person/project.
 4. Make sure you take notes of the ideas for your project.
-
-Now as a group, brainstorm and share ideas!
-
-After 6 minutes, thank each other and move on to the next person. 
+5. Still staying in your breakup rooms, brainstorm and share ideas with each other.
+6. After 6 minutes, thank each other and move on to the next person.
 
 ### Submit your exercise
 
