@@ -22,9 +22,8 @@ Below is a list of websites that offer tech-related events to help you decide wh
 - [Eventbrite](https://www.eventbrite.com/d/online/free--events/tech/?page=1) - Eventbrite might primarily be used for social events, but it’s also a great place for finding tech events as well (and many of them are free!).
 - [Confs.tech](https://confs.tech/) - is a crowd-sourced site that lists recent tech conferences. You can sort by language and location to find any that might be a good fit for you.
 - Your [Microverse Events calendar](https://airtable.com/shrAR9LEzMrF5z0CX/tblUpfLCb0CUHXqqT) which you can also find in the left column of your student dashboard.
-- Scouting events hosted by your dream company: In the exercise "*[Define your dream companies](https://www.notion.so/Prof-Skills-Activity-Define-your-dream-companies-2bd2097a99304329a8187cba878fe091)*", you learned how to create your list of dream companies, and how to get hired by them. Attending events hosted by your dream company and networking at them is a very effective way of getting into your dream company.
+- Scouting events hosted by your dream company: In the exercise "*[Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)*", you learned how to create your list of dream companies, and how to get hired by them. Attending events hosted by your dream company and networking at them is a very effective way of getting into your dream company.
 
-**[TODO: Link referenced in the last bullet point above should be referenced in Git too]**
 
 ## Exercise
 
