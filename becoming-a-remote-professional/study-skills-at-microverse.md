@@ -29,7 +29,7 @@ Below is a video that talks about the 5 pillars at Microverse that will allow yo
 2. **Utilize Microverse community and tools:** This means asking for help when needed and leaning on other Micronauts
    - [Microverse community and tools](utilize-microverse-community.md)
 3. **Learn skills for learning independently:** This means being able to being able to find your own answers or knowing who to ask for if you don't.
-   - [Learning independently at Microverse](study-skills-at-microverse.md)
+   - [Learning independently at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/learning-independently-at-microverse.md)
 
 ## Create your exercise
 
