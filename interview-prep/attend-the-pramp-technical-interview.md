@@ -23,7 +23,7 @@ Repeated interview practice can boost your confidence and reduce impostor syndro
 
 ### Submission Instructions
 
-1. Go to your Student Dashboard, click on the project called "*Pramp Technical Interview*" and complete the associated form.
+1. [Submit your feedback](https://airtable.com/shrFfFd7tJ2xnXP92) using this form.
 
 ### Submit your project
 
