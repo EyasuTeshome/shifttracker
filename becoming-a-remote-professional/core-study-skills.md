@@ -22,7 +22,7 @@ Here we talk about ways to deal with your stress by leaning on your Microverse c
 
 Watch the video below. One person can share their screen (including audio) so you can watch it together.
 
-- [Stress Relief Tips - 7 Ways on How to Lower Stress | Anthem](https://www.youtube.com/watch?v=eGVRvNe1-A)
+- [Stress Relief Tips - 7 Ways on How to Lower Stress | Anthem](https://www.youtube.com/watch?v=eGVWRvNe1-A)
 
 ## Create your exercise
 
