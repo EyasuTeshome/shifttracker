@@ -2,7 +2,7 @@
 
 Norms are divided into two categories: spoken and unspoken norms. The spoken norms are usually written down in an official document called a "*Code of Conduct"* and everybody in the company must adhere to those norms for the team to work well together.
 
-Here are some examples of common unspoken norms in the workplace:
+Here are some examples of common spoken norms in the workplace:
 
 - No sexual harassment accepted
 - No racist, ageist or homophobic comments allowed
