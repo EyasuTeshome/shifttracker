@@ -26,7 +26,7 @@ In this project, you will be answering two behavioral questions and recording yo
 
 1. Choose two behavioral video questions that you would like to answer. You have a choice: you can either choose questions from your behavioral grid or the following link: [30 behavioral interview questions you should be ready to answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer).
 2. Quickly read through the guidelines above for creating a good behavioral video.
-3. Record yourself answering your two behavioral questions.
+3. Record yourself answering your two behavioral questions. **We recommend you make only one recorded video link containing both of your answers**.  We also recommend you use [the loom video recording tool](https://www.loom.com/) to record your answers.
 
 ## Project Submission
 
@@ -41,8 +41,6 @@ In this project, you will be answering two behavioral questions and recording yo
 1. Copy the link to the recording of your behavioral videos.
 
 ### Submit your project
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.* 
 
 Now go to your Student Dashboard and submit your project.
 
