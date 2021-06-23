@@ -36,8 +36,6 @@ In this project, you will be answering two behavioral questions and recording yo
 
 ### Submission Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
-
 1. Copy the link to the recording of your behavioral videos.
 
 ### Submit your project
