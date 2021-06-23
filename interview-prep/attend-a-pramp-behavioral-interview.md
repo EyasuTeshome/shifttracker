@@ -23,7 +23,7 @@ After each Pramp session, you will receive feedback from your partner on your co
 
 ### Submission Instructions
 
-1. [Submit your feedback](https://airtable.com/shrFfFd7tJ2xnXP92) using this form.
+1. Submit your feedback [using this form](https://airtable.com/shrFfFd7tJ2xnXP92).
 
 ### Submit your project
 
