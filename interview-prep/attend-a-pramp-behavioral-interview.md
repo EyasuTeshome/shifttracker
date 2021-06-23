@@ -18,12 +18,11 @@ After each Pramp session, you will receive feedback from your partner on your co
 
 ### Project Requirements
 
-1. Attend the Pramp behavioral interview you scheduled previously. 
-2. Take a screenshot of the feedback you received from your interview partner.
+1. Attend the Pramp behavioral interview you scheduled previously.
 
 ### Submission Instructions
 
-1. Submit your feedback [using this form](https://airtable.com/shrFfFd7tJ2xnXP92).
+1. Take a screenshot of the feedback you received from your interview partner.
 
 ### Submit your project
 
