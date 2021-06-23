@@ -39,6 +39,7 @@ In this project, you will be answering two behavioral questions and recording yo
 1. Copy the link to the recording of your behavioral videos.
 
 ### Submit your project
+Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project. 
 
 Now go to your Student Dashboard and submit your project.
 
