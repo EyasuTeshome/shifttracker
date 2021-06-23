@@ -28,7 +28,7 @@ We've repeatedly discussed the importance and value of good feedback, and you sh
 
 1. Carefully review **all feedback** from your coach on your behavioral videos.
 2. Quickly read through [these guidelines for creating a good behavioral video](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/guidelines-for-creating-a-good-behavioral-video.md).
-3. Re-record yourself answering your behavioral questions.
+3. Re-record yourself answering your behavioral questions. As before, we recommend you use [the loom video recording tool](https://www.loom.com/) to record your answers.
 
 ## Project Submission
 
