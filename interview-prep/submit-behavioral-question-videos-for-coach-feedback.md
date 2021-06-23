@@ -45,3 +45,11 @@ In this project, you will be answering two behavioral questions and recording yo
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.* 
 
 Now go to your Student Dashboard and submit your project.
+
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [Video - hear tips from career coach Jen on how to answer the top 6 common interview questions](https://youtu.be/rcrnHWv-wHc)
+- [Some behavioral interview questions with sample responses](https://www.thebalancecareers.com/job-interview-questions-and-answers-2061204)
+- [How to prepare for a behavioral interview](https://www.indeed.com/career-advice/interviewing/how-to-prepare-for-a-behavioral-interview)
