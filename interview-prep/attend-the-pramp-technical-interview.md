@@ -18,12 +18,11 @@ Repeated interview practice can boost your confidence and reduce impostor syndro
 
 ### Project requirements
 
-1. Attend the Pramp technical interview you scheduled previously
-2. Take a screenshot of the feedback you received from your interview partner.
+1. Attend the Pramp technical interview you scheduled previously.
 
 ### Submission Instructions
 
-1. [Submit your feedback](https://airtable.com/shrFfFd7tJ2xnXP92) using this form.
+1. Take a screenshot of the feedback you received from your interview partner.
 
 ### Submit your project
 
