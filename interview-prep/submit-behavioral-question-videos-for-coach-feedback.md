@@ -20,7 +20,7 @@ The reason we ask you to record yourself doing these videos is so that the coach
 
 In this project, you will be answering two behavioral questions and recording yourself in a video as you answer them. The guidelines below will help you create a good behavioral video:
 
-- [Guidelines for creating a good behavioral video](https://www.notion.so/Guidelines-for-creating-a-good-behavioral-video-cd1e164b591843a7b3041624f9e8ceb9)
+- [Guidelines for creating a good behavioral video](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/guidelines-for-creating-a-good-behavioral-video.md)
 
 ### Project Setup
 
