@@ -39,11 +39,10 @@ We've repeatedly discussed the importance and value of good feedback, and you sh
 
 ### Submission Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
-
 1. Copy the link to the re-recording of your new behavioral videos.
 
 ### Submit your project
+Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project. 
 
 Now go to your Student Dashboard and submit your project.
 
