@@ -29,7 +29,7 @@ The following section talks more about what outcome-based assessment is and what
 **Learn more about outcome-based assessment:**
 
 - [Outcomes-based assessment](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/outcome-based-assessment.md)
-- [Capstone projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/Capstone-projects-at-Microverse.md)
+- [Capstone projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/capstone-projects-at-microverse.md)
 
 ## Challenge yourself
 
