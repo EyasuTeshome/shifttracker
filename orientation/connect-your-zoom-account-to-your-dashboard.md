@@ -8,13 +8,13 @@ After you have completed this tutorial you should be able to meet your coding pa
 
 1. Please [click this link to visit the Microverse Zoom login page](https://microverse.zoom.us/) as shown below. Then you need to click the 'Sign in' button highlighted below.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d241461e-65c9-46bc-aff2-e56ae1dbacda/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d241461e-65c9-46bc-aff2-e56ae1dbacda/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210528%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210528T073652Z&X-Amz-Expires=86400&X-Amz-Signature=7d68e523b0473812f0124fe1733f99ef988a56e3d5b5e4d2d150db2483ce97a2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![images/connect-your-zoom-account-to-your-dashboard1.png](images/connect-your-zoom-account-to-your-dashboard1.png)
 
 2. After you have clicked **'Sign in**' you should see the page below. Please sign in using your **Microverse Student Dashboard credentials**. It's really important that you sign in using the same information that you used to login to the dashboard so that we can link your Zoom account to your dashboard. If you need help with this, please reach out to us via Zendesk.
 
 If you didn't see the screen below, but instead you were taken to your personal Zoom account you need to log out of your Zoom account, clear your cookies and repeat the step above until you see the screen below.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8aa42ad-5a97-45f2-b492-2ac7c78a5cc2/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8aa42ad-5a97-45f2-b492-2ac7c78a5cc2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210528%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210528T073748Z&X-Amz-Expires=86400&X-Amz-Signature=e05ec5e5cdcafaeeda7fa7bdd19a226a3565995381286b3963771803dd8ea8ff&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![images/connect-your-zoom-account-to-your-dashboard2.png](images/connect-your-zoom-account-to-your-dashboard2.png)
 
 3. If everything worked you should now be logged into the Microverse Zoom account! **It's important that you always use the Microverse Zoom account to attend your meetings or you will be detected as absent.**
 
@@ -24,7 +24,7 @@ Now that you have linked your dashboard to our Zoom account you should be able t
 
 [Click this link to go to the Dashboard](https://dashboard.microverse.org/dashboard). You should scroll down the page to see your daily schedule as below. If you were successful in setting up your Zoom account you should see the Join Call button. If you can't see the Join Call button keep reading.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/926efd8a-a7f2-4654-b48f-8c44e492fdaf/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/926efd8a-a7f2-4654-b48f-8c44e492fdaf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210528%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210528T073820Z&X-Amz-Expires=86400&X-Amz-Signature=07c2e9524e2f182794e7566f9fc9ea8db9e5cacb49e40730a4bed89859244352&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![images/connect-your-zoom-account-to-your-dashboard3.png](images/connect-your-zoom-account-to-your-dashboard3.png)
 
 ### Troubleshooting Issues
 
