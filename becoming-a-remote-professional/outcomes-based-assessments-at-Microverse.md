@@ -12,7 +12,7 @@ This lesson will get you acquainted with the type of assessments we have at Micr
 
 ### Why is outcome-based assessment important?
 
-Our program is build in an outcome-based way, which that we have the goal of helping you achieve specific outcomes needed for success. At Microverse, this means getting hired as a software developer. Our way of learning—our meetings, forms, curriculum, and assessments—are all designed to get you hired as a software developer. In this lesson, you will understand what this means for how assessments work here, and how this will help you in your future jobs.
+Our program is built in an outcome-based way, which means we have the goal of helping you achieve specific outcomes needed for success. At Microverse, this means getting hired as a software developer. Our way of learning — our meetings, forms, curriculum, and assessments — are all designed to get you hired as a software developer. In this lesson, you will understand what this means for how assessments work here, and how this will help you in your future jobs.
 
 ### Outcome-based assessment
 
