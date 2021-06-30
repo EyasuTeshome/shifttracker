@@ -27,7 +27,7 @@ Guiding questions:
 Please watch the video and read the article below individually while staying in the call with your team:
 
 - [Leadership speaker Erin Meyer: Low context vs. high context societies](https://www.youtube.com/watch?v=9oYfhTC9lIQ)
-- [Example of difference between high context and low context communication](https://www.notion.so/Examples-of-differences-between-high-context-and-low-context-communication-96987ec3a207464d921a401d0ffb78b1)
+- [Example of difference between high context and low context communication](examples-of-differences-between-high-context-and-low-context-communication.md)
 
 ### Discussion
 
