@@ -46,25 +46,25 @@ The following videos are examples of good and bad job offer negotiation tactics 
 
 Context: You have just received an offer as a Junior Ruby on Rails Software Developer at Slack. This is a remote position, while most of your colleagues are based in the USA. You are tasked with negotiating the base salary from 18,000 USD to 22,500 USD. 
 
-[Video to watch:Scenario One](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60495a58-d3a8-4292-90ba-1aa97147c891/scenario1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210518T140547Z&X-Amz-Expires=86400&X-Amz-Signature=fe6c3b2071434f699b9bcd86288f1487ee8eb685c2865c6aa62ca18b1b9eb4b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scenario1.mp4%22)
+[Video to watch: Scenario One](https://drive.google.com/file/d/1QapbluL7pTv5blqCQgYbUHWpRrUoaQ0X/view?usp=sharing)
 
 This is an example of a bad negotiation. Although the student said she was happy and thankful for the offer, the student asked for a higher salary in a demanding way, by saying "I cannot work for this type of salary, developers in your country made at least 22,5000 USD or more so I want to have at least the same". Lastly, the student did not give any arguments about why the organization should offer a higher salary.
 
 Scenario Two:
 
-[Video to watch:Scenario Two](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af23ef98-e19c-499c-93c4-fd84aa5b09f1/scenario_2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210518T141118Z&X-Amz-Expires=86400&X-Amz-Signature=68492e82dca57cdfba201fd3b848b4408401c2acefde86f646db9fae3e0a8977&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scenario_2.mp4%22)
+[Video to watch: Scenario Two](https://drive.google.com/file/d/1vAxBnzjnwGSjZ0MoB3CMhTgAURVzdy8n/view?usp=sharing)
 
 This is an example of a bad negotiation. The beginning started well as the student tells the organization that they are thankful and excited about the offer. When explaining why they think they deserve a raise, they talk only about factors that are important to the student, not the company. Therefore the hiring manager does not see a reason why they should invest more money in the student.
 
 Scenario Three: 
 
-[Video to watch:Scenario Three](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ac63aa99-98d1-4d81-9c0c-6a5f8cd444c3/scenario_3.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210518T141200Z&X-Amz-Expires=86400&X-Amz-Signature=184efdc0cfe0ec678167235cceec11923555a5520daa3c5b1ed5c6f6c3542917&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scenario_3.mp4%22)
+[Video to watch: Scenario Three](https://drive.google.com/file/d/1ZN6OgHyDWbGAwZRJjvouQSOwuXD5V1lA/view?usp=sharing)
 
 This is an example of a good negotiation. The student highlights that they are excited about the offer. They request the negotiating, in a kind and non-demanding manner. When asking for a higher base salary, the student highlights what value they will bring to the company, therefore, helping the hiring manager understand why they should invest more in the student and what they will get for that in return. The student reiterates that she is excited about the offer she got. The employer is not able to offer the student exactly what the student asked for, but offered the student an increase from what they initially offered. Therefore both parties are satisfied.
 
 Scenario Four: 
 
-[Video to watch:Scenario Four](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2644cdbc-469b-4171-b47a-0a41ce5535c8/scenario_4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210518T141237Z&X-Amz-Expires=86400&X-Amz-Signature=cacc3af8a6def334e2a46be052f2765e47f4fc0edbc3ac9c6f552337bac332de&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scenario_4.mp4%22)
+[Video to watch: Scenario Four](https://drive.google.com/file/d/1lI_U3PmA12UEqhAGRvcoyuBjbXFOSwbR/view?usp=sharing)
 
 This was a good example of a good negotiation. The student starts by highlighting their excitement for the role. The student highlights that she has gotten a higher offer from another company, but that this company is her first choice. Then, the student states clearly why they deserve the negotiation explaining the other offer as well as the value that the student will bring to the company.
 
