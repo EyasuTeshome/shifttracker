@@ -6,7 +6,7 @@ Before you get started working on your profile, you should know that AngelList a
 
 To access the Public AngelList profile, visit the [Talent Profile](https://angel.co/profile/edit) and then click **View Public Profile.**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6c61842-356f-408a-8c88-b933a539374a/AL1.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6c61842-356f-408a-8c88-b933a539374a/AL1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T125231Z&X-Amz-Expires=86400&X-Amz-Signature=530033ceec689bd2c910d4ca93ffe7b73922e5558904577f4e1d8b795d3e9962&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22AL1.png%22)
+![images/AL1.png](images/AL1.png)
 
 There, you will see your incomplete public profile; this is what everyone else sees when they visit your AngelList, and this is what we'll be editing today.
 

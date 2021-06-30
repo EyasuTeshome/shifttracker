@@ -18,7 +18,7 @@ A meme is an image or a video that displays a certain concept, idea, behavior, o
 
 Memes are older than you think. The word meme originated in 1967 from a British scientist who coined it while researching memes from hundreds of years back. Although it is difficult to determine what was the first meme ever made, did you know that Dancing Baby is considered to be the first internet meme ever? 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18916d6b-3575-4d70-97a8-2c60d1f04f71/dancing_baby.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18916d6b-3575-4d70-97a8-2c60d1f04f71/dancing_baby.jpg)
+![images/dancing_baby.jpg](images/dancing_baby.jpg)
 
 Today, most memes can be divided into two categories: 
 
@@ -29,7 +29,7 @@ Today, most memes can be divided into two categories:
 
 Today's fast-paced, constantly changing and ever-connected world tends to leave us feeling stressed. Although stress is a normal feeling nowadays, and you might have experienced it yourself in the past few weeks at Microverse, it is imperative to know how to mitigate it. One of the best methods to relieve stress is through jokes and laughter! It has been proven that laughing produces endorphins (happy chemicals in the brain) and relaxes the body. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4005f888-6079-40ad-90dd-03d8c3c60b5c/Why-Do-You-Ask.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4005f888-6079-40ad-90dd-03d8c3c60b5c/Why-Do-You-Ask.jpg)
+![images/Why-Do-You-Ask.jpg](images/Why-Do-You-Ask.jpg)
 
 By creating or viewing acceptable and humorous content, memes provide beneficial distractions and make you laugh. The humor in memes can be seen as temporary anxiety relief, as well as a community builder when you laugh with a group of peers. 
 

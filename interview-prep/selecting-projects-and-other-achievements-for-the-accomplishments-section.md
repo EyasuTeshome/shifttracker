@@ -2,7 +2,7 @@
 
 To fill out your Accomplishments section, **add a** **Projects section.**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c984e78-9826-43cc-9322-da8f59948e93/LI8.jpeg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8c984e78-9826-43cc-9322-da8f59948e93/LI8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T040637Z&X-Amz-Expires=86400&X-Amz-Signature=9d48260c8507f9da97f22e5f589aeb1a5ff593e091d6fac12d31ddf9f1a6b4f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI8.jpeg%22)
+![images/LI8.jpg](images/LI8.jpg)
 
 ### **What should you include in the Projects section?**
 
@@ -18,7 +18,7 @@ Pick **at least 3-4 projects** that you think are particularly strong. **Do not 
 
 We encourage you to also fill in other fields, like dates and additional creators, but at a minimum you must include these three fields per project.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6535b81-8f62-4f44-b1c0-1d80e251974d/LI9.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6535b81-8f62-4f44-b1c0-1d80e251974d/LI9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T040701Z&X-Amz-Expires=86400&X-Amz-Signature=4c8407c964917fbf7c00165754052f72bbba581356d304ba720f12bfaeb73a5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI9.png%22)
+![images/LI9.png](images/LI9.png)
 
 ### **Should you include other blocks in the Accomplishments section?**
 

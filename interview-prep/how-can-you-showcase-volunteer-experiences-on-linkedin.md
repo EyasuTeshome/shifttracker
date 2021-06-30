@@ -4,7 +4,7 @@
 
 The Volunteer section isn't one of LinkedIn's defaults: you'll need to add it manually. To add a Volunteer section, click the "Add profile section" button in your Intro block, click "Background," and then click "Volunteer experience." The image below shows an example.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c336c1-abb7-40f4-8f89-a4e7011ac8c7/LI7.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f0c336c1-abb7-40f4-8f89-a4e7011ac8c7/LI7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T035712Z&X-Amz-Expires=86400&X-Amz-Signature=afc72b4387b95bda03861dd73d27759f79cd91b5feeb626ff4d9b163e09b53f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI7.png%22)
+![images/LI7.png](images/LI7.png)
 
 If you included your volunteer experience in your resume, **copy/paste that into the Volunteer section in the "description"** field.
 

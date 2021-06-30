@@ -4,7 +4,7 @@
 
 Firstly, make sure that you’ve updated the default LinkedIn URL to a professional, personalized one (preferably using some combination of your first, middle, and/or last names). You can edit this easily by navigating to your profile page and clicking “Edit public profile & URL.” If you're not sure how to do so, (or why it’s important) watch the following video:
 
-[How to edit your LinkedIn URL](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c5e679c6-4ac8-4df0-a3c0-de3ee876b028/Linkedin_How_to_Edit_URL_%281%29.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T031355Z&X-Amz-Expires=86400&X-Amz-Signature=36851ea7b2bfa8076c06009d412239bae9096929bfcdc2152017f0b93d5771f3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Linkedin_How_to_Edit_URL_%281%29.mp4%22)
+[How to edit your LinkedIn URL](https://drive.google.com/file/d/14OAX6l4heEKCC73k4rxmPz2BJgZw64nm/view?usp=sharing)
 
 ### **Add a cover photo**
 
@@ -12,7 +12,7 @@ Adding a cover photo to your LinkedIn is a quick, simple way to personalize your
 
 To update your cover photo, click the pencil icon in the upper right corner of the default photo. You can see an example below.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0619a664-44e5-40f0-b8be-5503e9c91ebc/LinkedIn_Header.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0619a664-44e5-40f0-b8be-5503e9c91ebc/LinkedIn_Header.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T031541Z&X-Amz-Expires=86400&X-Amz-Signature=a5bb8450c7eaf42982bd17e7fa409b8392c8c75c30175c956d4d33af608c6a79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn_Header.png%22)
+![images/LinkedIn_Header.png](images/LinkedIn_Header.png)
 
 ### **Upload a professional profile photo**
 
@@ -22,7 +22,7 @@ You should already have taken a professional photo in an earlier lesson of this 
 
 If you're not sure how to upload your photo, use the gif below as an example.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ab2e624-662f-4d3d-8228-d9673bec72dc/ezgif.com-gif-maker.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4ab2e624-662f-4d3d-8228-d9673bec72dc/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T031618Z&X-Amz-Expires=86400&X-Amz-Signature=3b3cd4941f6b23998aa30055d25441c5aff657d0b98123f3e55db11979330bd9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif.com-gif-maker.gif%22)
+![images/ezgif.com-gif-maker.gif](images/ezgif.com-gif-maker.gif)
 
 ### **Add your headline**
 
@@ -63,7 +63,7 @@ As a default, LinkedIn will showcase your latest education experience (which for
 
 If you would like to change the education entry that shows up, click the drop down in the edit box  and select the entry you would like to choose. See the image below for an example.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7199448-e185-49b8-8914-d9b120e393f3/LI_1.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7199448-e185-49b8-8914-d9b120e393f3/LI_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T031739Z&X-Amz-Expires=86400&X-Amz-Signature=d2de1fc322bf5b5f47cd60f0b9f5e8c96f9bda3064153261ed184ec037c0a1b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI_1.png%22)
+![images/LI_1.png](images/LI_1.png)
 
 ### **Add your contact information**
 
@@ -84,7 +84,7 @@ Once you click those buttons, a pop up will appear containing the job titles you
 1. Add **five related job titles** (see the photo below for examples).
 2. Click the **I'm open to remote work** checkbox.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af54f76f-4195-4bfc-b202-7d8897c33746/LI2.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af54f76f-4195-4bfc-b202-7d8897c33746/LI2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210531T031808Z&X-Amz-Expires=86400&X-Amz-Signature=a66aff5a39cb0a045cfbaf5128d0776822153993c31348acf7c23a6a929449a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LI2.png%22)
+![images/LI2.png](images/LI2.png)
 
 
 ------

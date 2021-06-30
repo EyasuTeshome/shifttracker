@@ -24,7 +24,7 @@ Additionally, **if you are including a project because it is significant** (larg
 
 The templates above have built-in examples of how to format your project. Here's an example below:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9214eb3-3201-4cd7-a832-ab59fddab86f/Screen_Shot_2021-02-01_at_11.22.46_AM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9214eb3-3201-4cd7-a832-ab59fddab86f/Screen_Shot_2021-02-01_at_11.22.46_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210421%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210421T174836Z&X-Amz-Expires=86400&X-Amz-Signature=6ce9c9554441ddb92319c2670880dd8f1dde689d1d867f97570575629e4eda17&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2021-02-01_at_11.22.46_AM.png%22)
+![images/project_example.png](images/project_example.png)
 
 
 ------
