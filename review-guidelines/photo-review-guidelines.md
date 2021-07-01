@@ -1,4 +1,4 @@
-# Taking a Professional Photo
+# Review the Professional Photo
 
 ## Description
 Students take a professional photo in order to later use on their professional online profiles. Here, project reviewers will assess the strengths of those photos and provide feedback where necessary.
