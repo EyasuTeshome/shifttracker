@@ -21,7 +21,7 @@ Both of these tasks allow you to get valuable feedback about your code and allow
 
 ### How to select a presenter for the morning session
 
-The presenter changes each day and everyone must get a chance to present regularly. You each will take turns being the presenter. Each day a person should volunteer to be the presenter, keeping in mind that everyone should do it once a week. Make sure that you switch between leading technical and professional morning session so you become acquinted with both. If you are unable to decide who should be the presenter, the Master of Morning Sessions can use the sorting hat in Slack to randomly select a presenter. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
+The presenter changes each day and everyone must get a chance to present regularly. You will assign a presenter when everyone arrives in the call before starting the session. Each day a person should volunteer to be the presenter. Each member should be the presenter atleast once a week. Make sure that you switch between leading technical and professional morning session so you become acquinted with both. If you are unable to decide who should be the presenter, the Master of Morning Sessions can use the sorting hat in Slack to randomly select a presenter. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
 
 ### What does the presenter do in morning sessions?
 
