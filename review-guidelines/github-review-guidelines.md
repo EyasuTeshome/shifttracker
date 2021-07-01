@@ -1,4 +1,4 @@
-# Taking a Professional Photo
+# Assess the GitHub Profile
 
 ## Description
 Students here will work on building a GitHub profile that showcases their strengths as a developer. Project reviewers will then assess the strengths of those profiles and provide feedback where necessary.
