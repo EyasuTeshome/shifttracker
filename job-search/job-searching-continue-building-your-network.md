@@ -56,4 +56,4 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [How do I create a strong social media presence?](https://microverse.zendesk.com/hc/en-us/articles/360049910314-How-do-I-create-a-strong-social-media-presence-)
-- [7 networking tips for getting a job](https://www.indeed.com/career-advice/finding-a-job/how-to-network-for-a-job).
+- [7 networking tips for getting a job](https://www.indeed.com/career-advice/finding-a-job/how-to-network-for-a-job)
