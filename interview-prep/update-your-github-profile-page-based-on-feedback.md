@@ -29,7 +29,7 @@ In the link below, we'll discuss a few helpful tips to ensure that you gain the 
 
 **Learn more about how to use feedback to improve projects:**
 
-- [How to use project reviewer feedback to improve your professional skills projects](https://github.com/microverseinc/curriculum-professional-skills/blob/0f6e6e0b145e9af18fa0a9d01f477142ad88abdc/interview-prep/how-to-use-project-reviewer-feedback-to-improve-your-professional-skills-projects.md)
+- [How to use project reviewer feedback to improve your professional skills projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-use-project-reviewer-feedback-to-improve-your-professional-skills-projects.md)
 
 ## Project submission
 
