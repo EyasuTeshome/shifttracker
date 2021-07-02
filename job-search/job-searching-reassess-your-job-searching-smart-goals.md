@@ -1,6 +1,6 @@
 # Job Searching - Reassess your job searching SMART goals
 
-### **Estimated time**: 1.5h
+### **Estimated time**: 1h
 
 ## Introduction
 
@@ -24,7 +24,7 @@ Refresh your memory on how to create SMART goals for the job search process.
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-**Spend up to 75 minutes working on this exercise.**
+**Spend up to 45 minutes working on this exercise.**
 
 1. Open your copy of the exercise template below and complete the sections. 
 
