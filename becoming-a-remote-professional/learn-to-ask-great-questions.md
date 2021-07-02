@@ -51,7 +51,7 @@ Guiding questions:
 2. Complete part 2
 3. Send out your message to the designated person using e-mail, Slack, LinkedIn, etc.
 
-**Exercise template to copy:** [Learn to ask great questions](https://docs.google.com/document/d/1vl3UoQfPrOR4yI-smIkxApoyyRyrV2lca68tcU65pSA/edit?usp=sharing)
+**Exercise template to copy:** [Learn to ask great questions exercise](https://docs.google.com/document/d/11G1pIb0pfM9D5ojdD_nQUwPOYXrVbKlagh9NO5ol0MY/edit)
 
 ### Submit your exercise
 
