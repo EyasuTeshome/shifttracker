@@ -22,7 +22,7 @@ Breakout rooms will help you get into pairs or groups of 2 specifically for beha
 
 Click the link below and follow the steps to setup breakout rooms:
 
-[Setting up breakout rooms](https://www.notion.so/Setting-up-breakout-rooms-c56fde83bbb847c7bea879e94bc0a487)
+[Setting up breakout rooms](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/setting-up-breakout-rooms.md)
 
 ## Exercise
 
