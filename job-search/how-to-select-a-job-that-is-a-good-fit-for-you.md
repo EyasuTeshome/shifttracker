@@ -28,9 +28,10 @@ Every job posting will ask for different skills, experiences, and requirements. 
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Open your copy of the template below and complete all sections.
+1. Make sure you have read through the link above called "_Pointers to consider when finding a good fitting job_".
+2. Open your copy of the template below and complete all sections.
 
-**Exercise template to copy:** [Selecting a good fitting job to apply to](https://docs.google.com/document/d/1mHSId0Eqr7E8yPJDQ82KzhkgJaGaiND8E28R6nXa2KQ/edit?usp=sharing)
+**Exercise template to copy:** [Selecting a good fitting job to apply to](https://docs.google.com/document/d/1mHSId0Eqr7E8yPJDQ82KzhkgJaGaiND8E28R6nXa2KQ/edit?usp=sharing).
 
 ### Submit your exercise
 
