@@ -31,6 +31,7 @@ In the following link we will talk a little bit more about what you can expect d
 
 ### Additional Links
 - [Here is the Microverse Student Handbook](https://www.notion.so/microverse/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - You can refer to this as you go through the first week and learn how things work at Microverse.
+- [Here is the link to the recording of our Welcome call](https://drive.google.com/file/d/1htTA7Ke5QyY9PTaaO-Mpqhk2sC2OlBNi/view?usp=sharing) - Did you miss our Welcome Call on Day 1? Do you feel lost and like you don't know what you're doing on Day 1? Please watch the recording.
 
 
 
