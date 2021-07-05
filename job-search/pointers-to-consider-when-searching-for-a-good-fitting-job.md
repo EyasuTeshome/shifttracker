@@ -1,4 +1,4 @@
-# Pointers to consider when searching for a good fitting job
+# Pointers to consider when searching for a good-fitting job
 
 - **Check the level of experience they are looking for:** Most job descriptions will ask for a certain number of years of experience which you can use as a benchmark to determine if you want to apply or not. Junior developer roles tend to require 1-3 years' experience, mid-senior roles tend to require 3 - 6 years' experience, and senior roles tend to require 7+ years of experience. If you have just started your coding journey and do not have 1 year of experience, it is still important to apply to junior roles, leveraging your Microverse training, elevator pitch, and personalized cover letter to help you stand out.
 
