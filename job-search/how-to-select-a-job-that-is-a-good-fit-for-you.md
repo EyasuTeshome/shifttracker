@@ -20,7 +20,7 @@ Every job posting will ask for different skills, experiences, and requirements. 
 
 **Learn more about the pointers to consider when searching for a good fitting job:**
 
-- [Pointers to consider when finding a good fitting job](https://www.notion.so/Pointers-to-consider-when-searching-for-a-good-fitting-job-64e190bafed14fc7b2c95352d8b59386)
+- [Pointers to consider when finding a good fitting job](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
 
 ## Exercise
 
