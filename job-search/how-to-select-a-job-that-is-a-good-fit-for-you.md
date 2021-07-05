@@ -16,7 +16,7 @@ Applying to jobs can be a very exhausting process, and even more so if you are a
 
 ### Pointers to consider when searching for a good fitting job
 
-Every job posting will ask for different skills, experiences, and requirements. Knowing which pointers to look out for can help you quickly identify whether the job is a good fit for you and in turn, help you determine if you should apply.
+Every job posting will ask for different skills, experiences, and requirements. Knowing which pointers to look out for can help you quickly identify whether the job is a good fit for you to apply to.
 
 **Learn more about the pointers to consider when searching for a good fitting job:**
 
