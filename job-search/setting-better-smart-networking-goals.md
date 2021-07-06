@@ -32,7 +32,7 @@ Building a valuable network takes time and effort. There are no shortcuts and no
 
     It's good to make connections, but it’s what happens afterward that either result in a valuable relationship being fostered or lost. 
 
-    One way to approach this is to [c](https://tribemineblog.com/the-short-online-networking-course/)onsider what type of relationship you want to have with a connection and how you want to offer and receive value from them. For each connection chosen, create a path from where you are to where you want the relationship.
+    One way to approach this is to [consider](https://tribemineblog.com/the-short-online-networking-course/) what type of relationship you want to have with a connection and how you want to offer and receive value from them. For each connection chosen, create a path from where you are to where you want the relationship.
 
     For example, you may want to move a particular relationship from being a contact to an ally (a close connection) by the end of the current year (assuming it’s near the beginning of that year). To explain further, an ally would be someone who initiates contact with you of their own accord on a fairly regular basis (once every few weeks or so), and so that would be the test for success or failure of the goal. 
 
