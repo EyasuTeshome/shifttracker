@@ -5,7 +5,7 @@ To complete your Experience section, open up your resume and start copy-pasting 
 1. **Make sure that each bullet point is on a separate line**, and that all descriptions are formatted correctly. LinkedIn occasionally messes up formatting when copy/pasting. 
 2. **Copy/pasting errors are common**; read your project descriptions out loud to make sure that you didn't accidentally omit a word or punctuation mark.
 3. **Don't add Microverse to the Experience section unless you were a code reviewer, project reviewer, or otherwise were a contractor for Microverse**! The LinkedIn Experience section is for work experiences. You can add internships or part-time jobs here, but listing Microverse here (unless you actually did work for Microverse) can lead a hiring manager to think that you're trying to purposefully mislead them. 
-4. If you listed "Self-Employed Software Engineer" or similar as a job title in your resume, **just list "Software Engineer" in LinkedIn**. Instead, click the *"Employment type"* field and enter "Self-Employed" there. See the image below for an example.
+4. **If you want your Microverse projects to be featured in the Experience section of your LinkedIn**, you can add a new experience called "Full Stack Software Developer" or similar, and in the "company name" field, enter the text "Highlighted Personal Projects". You can then proceed to describe the awesome projects you created at Microverse in this section. See the image below for an example.
 
 ![images/employment_type.png](images/employment_type.png)
 
