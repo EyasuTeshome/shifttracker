@@ -8,21 +8,21 @@ Review the scenarios below and pick the one that most closely aligns with your w
 
 Add **2 fields** to your Relevant Experience section:
 
-- "Freelance Software Developer." This entry will be used to describe achievements and projects you've worked on while studying development.
+- "Full Stack Software Developer." This entry will be used to describe achievements and projects you've worked on while studying development.
 - "Software Development Mentor (Volunteer)." Most Microverse students eventually serve as mentors. This section will be used to describe how you assisted junior software developers.
 
 **Scenario 2: You have no work experience of any kind, but you do have development-related volunteer activities, extracurriculars, teaching assistantships, or internships.**
 
 Add **2-4 fields** to your Relevant Experience section:
 
-- "Freelance Software Developer." This entry will be used to describe achievements and projects you've worked on from your time studying development.
+- "Full Stack Software Developer." This entry will be used to describe achievements and projects you've worked on from your time studying development.
 - Entries for 1-3 development-related volunteer/extracurricular/etc. positions (for example, if you volunteered with Girls Who Code, or if you were a teaching assistant in a college computer science class).
 
 **Scenario 3: You have no development or technical work experience, but you do have work experience in other fields:**
 
 Add **2-4 fields** to your Relevant Experience section:
 
-- "Freelance Software Developer." This section will be used to describe achievements and projects you've worked on from your time studying development.
+- "Full Stack Software Developer." This section will be used to describe achievements and projects you've worked on from your time studying development.
 - Entries for 1-3 work experiences. Choose positions that you think will do the best job of demonstrating transferrable skills (such as communication, conflict management, work ethic, or commitment to excellence).
 
 **Scenario 4: You have some development or technical work experiences (including internships), and some work experience in other fields:**
