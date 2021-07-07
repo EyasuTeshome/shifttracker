@@ -4,7 +4,7 @@
 
 Before you add a Projects section, it's important to determine whether a Projects section would help you or not. Let's take a look at a few common student scenarios:
 
-If you've had no formal software development jobs: **yes**, you should include projects, but **don't list them in their own section**. Instead, add them under your "Freelance Software Developer Experience" entry (see [this template](https://docs.google.com/document/d/1isShs6xwmLqRoBjsmDgMq1SBXkvd0GcKSOwpI4rAboE/edit) for an example). **Add 3-4 projects**, depending on how much space you have.
+If you've had no formal software development jobs: **yes**, you should include projects, but **don't list them in their own section**. Instead, add them under your "Full Stack Software Developer Experience" entry (see [this template](https://docs.google.com/document/d/1isShs6xwmLqRoBjsmDgMq1SBXkvd0GcKSOwpI4rAboE/edit) for an example). **Add 3-4 projects**, depending on how much space you have.
 
 If you've had 1-2 software development jobs in the past: **yes**, you should include projects **in their own Projects section (**see [this template](https://docs.google.com/document/d/1jMxmTpC1kZT2F6wcyXeM_0NEdhuWbRhYeYUSaP0qNAk/edit) for an example). **Add 2-3 projects**, depending on how much space you have.
 
