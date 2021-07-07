@@ -20,7 +20,7 @@ Juan is from a high-context culture and Ben is from a low-context culture.
 
 Juan's babysitter is suddenly sick and he will unexpectedly need to take care of his child today. He tells his partner Ben that the babysitter is sick and that his priorities may lie elsewhere for parts of the day. By saying this, Juan believes that Ben will understand that the child takes priority over the Program and that Ben will be off most of the day.
 
-Ben listened to what Juan said and expects that Juan will only be out for parts of the day. When Ben is unresponsive for more than half of the day, Ben is confused. Why wouldn't Juan tell him that he will be out for the majority of the day?
+Ben listened to what Juan said and expects that Juan will only be out for parts of the day. When Juan is unresponsive for more than half of the day, Ben is confused. Why wouldn't Juan tell him that he will be out for the majority of the day?
 
 ### How to avoid conflict at Microverse and in the workplace:
 
