@@ -41,7 +41,7 @@ Once you have found an event you want to attend, it's time to prepare for it. It
 
 - [How to prepare before attending a tech event](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/how-to-prepare-before-attending-a-tech-event.md).
 - [Meetup.com](http://meetup.com): This website allows you to DM attendees before an event.
-- [Conference.io](http://conference.io): This website allows you to buddy-up with someone so you can both attend an event together.
+- [Conferencebuddy.io](https://www.conferencebuddy.io/): This website allows you to buddy-up with someone so you can both attend an event together.
 
 ### Getting the most out of the event
 
