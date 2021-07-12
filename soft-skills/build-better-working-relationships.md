@@ -66,7 +66,7 @@ We often talk at Microverse about the importance of relationship-building with t
 
 1. Open the template and follow the directions for the exercise.
 
-**Exercise template to copy:** [Get to know your group project teammates](https://docs.google.com/document/d/1NtvZVTa1LVMW33K_KVviMbAB0Rmu9nokmPS2BLMX1dY/edit#heading=h.xxbwa9v0mrav)
+**Exercise template to copy:** [Get to know your group project teammates](https://docs.google.com/document/d/1WFrlXMbgDXvQPCiXYL__b-DNSff_ZTIDO9Bue05qOrU/edit#)
 
 ### Submit your exercise
 
