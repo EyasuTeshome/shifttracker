@@ -11,7 +11,7 @@ Use your Stand Up team & coding partner as accountability partners. Share your g
 Other tips:
 
 - If you get stuck on a problem for longer than 30 minutes- ask for help!
-- Schedule 1:1 time with TSE's or post your question on Discourse when you are stuck on a technical problem
+- Schedule 1:1 time with a Code Reviewer or post your question on Discourse when you are stuck on a technical problem
 - Reach out to Microverse Staff for help. Especially if you have a collaboration issue if you have problems accessing tools. Reach out to us as soon as possible.
 
 
