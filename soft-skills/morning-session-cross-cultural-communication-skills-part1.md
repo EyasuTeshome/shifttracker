@@ -44,7 +44,7 @@ As a group, watch this video about [direct and indirect communication styles](ht
 1. Open and copy the exercise template
 2. Read the situations and fill out your responses in the table. 
 
-**Exercise template to copy:** [Morning session: Cross-cultural communication skills - part 1](https://docs.google.com/document/d/10n2oyNmSkiElH_sVgMc81ZYo3KgbGvHZgaIiIm15Xxk/edit#heading=h.7ld2gr2it03y)
+**Exercise template to copy:** [Morning session: Cross-cultural communication skills - part 1](https://docs.google.com/document/d/1ba-IcortHf0HTQQTSoJtGpKutIxqMtlIcO8VnXGD-vA/edit#)
 
 ### Group discussion
 
