@@ -48,7 +48,7 @@ Guiding questions:
 
 Share your responses to the exercise together as a group. Compare your responses. Which strategy does the group believe is used most often by everyone? Which is used least often? In the exercise template, put an X next to the appropriate strategy in the second table in the document. 
 
-**Exercise template to copy:** [Morning session: Cross-cultural communication skills - part 2](https://docs.google.com/document/d/1lnNEDsmqwirb3_U1PxKATenbKb-OLtug4DHqZwHQvQA/edit#heading=h.4odxd618z97)
+**Exercise template to copy:** [Morning session: Cross-cultural communication skills - part 2](https://docs.google.com/document/d/1RG69X1lqBVOFMZdfsuDzSg4dKl02vmVG4bOPrLmqZwg/edit#)
 
 ### Submit your exercise
 
