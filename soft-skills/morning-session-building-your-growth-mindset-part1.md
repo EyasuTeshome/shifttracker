@@ -46,7 +46,7 @@ Learn more about ways to build a growth mindset:
 3. Write your responses in the table.
 4. Share and compare your responses with the group. 
 
-**Exercise template to copy:** [Building your growth mindset - part 1](https://docs.google.com/document/d/11hgQ9Jqb1hhyTGEKCcD5JtqAYXD2M_MWp6mwNBQMRJE/edit#heading=h.xpd83izgky4y)
+**Exercise template to copy:** [Building your growth mindset - part 1](https://docs.google.com/document/d/1sEryC2KavdsbIHNgZGc48c9RkIQcrGC-kwjNExy19FA/edit#)
 
 ### Group discussion
 
