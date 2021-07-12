@@ -37,7 +37,7 @@ Project updates are also useful to bring blockers to the surface and let team me
 1. Spend 15 minutes coming up with the agreements individually.
 2. Message your group project team to set a time for meeting together as a group; after this solo exercise you should get together with them for a 15-minute meeting to set group agreements (see activity that follows this one in your Dashboard for instructions).
 
-**Exercise template to copy:** [Using project updates to work better as a team](https://docs.google.com/document/d/19q91IjBSk9AJcN1X92dfgt909k79e-f0nkYvrIg40eM/edit?usp=sharing)
+**Exercise template to copy:** [Using project updates to work better as a team](https://docs.google.com/document/d/1tIXgjYp_8mEMO_dBjQavpBTdKAWAScnI8K4baBgFGHY/edit#)
 
 ### Submit your exercise
 
