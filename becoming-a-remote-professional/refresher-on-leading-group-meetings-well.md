@@ -36,7 +36,7 @@ These habits such as time-keeping, leading discussions, and starting and ending 
 
 1. Open the template and follow the directions for the exercise.
 
-**Exercise template to copy:** [Refresher on leading group meetings well](https://docs.google.com/document/d/1mmXBLJhM8xLp13vfT1wCr27HScJmYXXSJuhXzercZbI/edit?usp=sharing)
+**Exercise template to copy:** [Refresher on leading group meetings well](https://docs.google.com/document/d/16_7NevVpQHSt2-QP9isSIhxgPys4redA4u7F5v4oMqg/edit#heading=h.yegj1fdxqsoo)
 
 ### Submit your exercise
 
