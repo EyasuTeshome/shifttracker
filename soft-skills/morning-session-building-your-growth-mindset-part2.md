@@ -41,7 +41,7 @@ Sometimes vulnerability can be seen as "weakness" However, work by Brené Brown 
 2. Practice being vulnerable. Write down two things that you have found particularly difficult during your participation in the Microverse program that you have been hesitant to share with others.  
 3. Share your challenges with the group. Remember, they are here to support you!
 
-**Exercise template to copy:** [Building your growth mindset - part 2](https://docs.google.com/document/d/1P2-3fIdJ5d2l1Y8_EsyqOXYUxCCjQYWJ_lYmzaoCbDo/edit#heading=h.xpd83izgky4y)
+**Exercise template to copy:** [Building your growth mindset - part 2](https://docs.google.com/document/d/1DPg12nwQivAiB8lS2XHBvyYRu0gGC0kb21x7ve9ZCKg/edit#)
 
 ### Group discussion
 
