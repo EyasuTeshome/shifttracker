@@ -14,7 +14,7 @@ This lesson will explain how to store your exercises on your Drive in an organiz
 
 The exercises you submit help you build skills that you will use later in the program. You should be able to access your previous exercises at any time. Therefore you should have an organized folder so you can easily access the information. You will be building on these skills as you move through the Program so you should be able to easily go back to your exercises to review them.
 
-Having good systems of personal organization will enable you to be more effective in your role as a software engineer and impress their coworkers, you will have the information you need accessible, and finally having an organized workspace and folders will bring more mental clarity. If you're generally not an organized person it can be very helpful to have monthly audits of your folders and machine to reorganize yourself.
+Having good systems of personal organization will enable you to be more effective in your role as a software engineer and impress your coworkers, you will have the information you need accessible, and finally having an organized workspace and folders will bring more mental clarity. If you're generally not an organized person it can be very helpful to have monthly audits of your folders and machine to reorganize yourself.
 
 ### Setting up your Drive in the correct way
 
