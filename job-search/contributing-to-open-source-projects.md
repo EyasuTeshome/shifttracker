@@ -1,0 +1,19 @@
+# Contributing to open source projects
+
+When contributing to open source, you'll want to mix it up by picking a lot of different kinds of projects to contribute to. Some big, some small, some frontend, some backend, etc. Developers who are active in the open source community and contribute to a wide range of projects tend to do better on the job market because they have a proven track record of contributing high-quality code to a range of projects and working well with others across cultures and time zones.
+
+When considering what big open source projects to contribute to, first consider what apps, libraries, or frameworks do you really like or find useful? For example, are you a fan of VS Code? Consider fixing a bug in it by examining their issue queue or consider implementing a new feature. You could also make an extension for it! Finding a large open source codebase to make your mark on is a great way to show employers that you have what it takes to effectively contribute code to a large, mature codebase, which is what many companies will want you to do on the job.
+
+Of course contributing to smaller projects is useful too, and often much easier! Try looking at the dependencies of the projects you've already built and consider a Ruby gem or npm module you use often that might be fun to contribute something to. Is there a React component library you're sourcing from npm that you can fix a bug in or add something useful to? Give it a shot! Is there a Ruby gem you're using in your Rails projects that makes life easier that you think you could improve in some way? Go for it! Not sure what to improve? Look at their issue queues. Or help them increase test coverage in their automated testing.
+
+If you’re still having trouble figuring out a good starter project to contribute to, check out this [curated list of beginner-friendly projects](https://github.com/MunGell/awesome-for-beginners).
+
+Remember that contributing to open source for the first time is not easy, but it’s worth it. Start small by setting up the development environment and by trying to fix something in the documentation. You can move to more complicated tasks once you are more familiar with the code.
+
+### **Open source etiquette**
+
+It's important to remember to use open source contributions as an opportunity to show off your professional skills at their best. The rules of etiquette and expected behavior will vary across projects just as they will vary across companies. Make sure to spend some time reading the public discussions between the project maintainers and other contributors before diving in. If the project has documentation explaining how people should contribute code, be sure to read it before opening a pull request. The better you follow that project's formal and informal rules and norms of behavior, the more grateful the project maintainers will likely be to have you contributing.
+
+Also be aware that not every open source project is governed by particularly friendly, professional, or welcoming people. However, most open source projects are more welcoming to newcomers, so you should make sure to join projects that appear to have a more friendly community because these will be more worth your time. While it's important to respect the project's culture and practices, you deserve to be treated with respect too.
+
+Last but not least, don’t forget that contributing to open source is a networking opportunity. For each company in your dream company spreadsheet, fill in the cell with the list of open source projects they maintain. Take a look at those projects and see if there are a few of them that you like and that you could help with. As you start making contributions, notice who the developers are reviewing and approving your pull requests, find them on Twitter, and add them to your “Software Development” list.
