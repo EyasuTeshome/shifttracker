@@ -88,8 +88,9 @@ Your Activity chart is **the quickest way** a recruiter has **to view** **your c
 
 ### Submission Instructions
 
-1. Use Grammarly and/or copy/paste the text of your profile (including your bio, personal README, and project descriptions) into a Google Doc, in order to double-check for spelling errors and grammatical issues.
+1. Use Grammarly and/or copy/paste the text of your profile (including your bio, personal README, and project descriptions) into a Google Doc, in order to double-check for spelling errors and grammatical issues. Identify any errors, then return to your GitHub profile and correct those errors.
 2. Verify that all technologies and proper nouns are correctly capitalized (for example, use "JavaScript" instead of "Javascript").
+3. Submit a link to your GitHub profile.
 
 ### Submit your exercise
 
