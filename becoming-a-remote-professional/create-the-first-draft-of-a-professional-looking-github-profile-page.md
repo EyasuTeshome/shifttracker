@@ -96,7 +96,7 @@ Your Activity chart is **the quickest way** a recruiter has **to view** **your c
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit your exercise.
+Now go to your Student Dashboard and submit your GitHub profile.
 
 ## Additional materials
 
