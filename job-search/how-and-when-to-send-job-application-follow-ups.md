@@ -1,4 +1,4 @@
-# How to send job application follow-ups
+# How and when to send job application follow-ups
 
 It doesn't matter if you have been in contact with a recruiter on LinkedIn, or if you applied to a job directly, you can use the same method.
 
