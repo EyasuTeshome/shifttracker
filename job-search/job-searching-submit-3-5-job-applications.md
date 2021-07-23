@@ -22,7 +22,7 @@ You have many options!
 
 Microverse has its own job portal in Huntr. This is a place where Microverse career coaches regroup the job opportunities they saw online and that they think could fit you. And they're already in Huntr, so that makes it super easy to add them directly to your board.
 
-[Introducing the Microverse Job Portal](https://www.notion.so/Introducing-the-Microverse-Job-Portal-7d2fabb88cb5402db19f2716b4034bc0)
+[Introducing the Microverse Job Portal](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/introducing-the-microverse-portal.md)
 
 2. **All the other places you can look for jobs online:**
 
