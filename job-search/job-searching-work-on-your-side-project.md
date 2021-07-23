@@ -31,5 +31,5 @@ In solo, in a group or as a contributor to an open-source project, there are man
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Job Searching - How to plan a good side project](https://www.notion.so/Prof-Skills-Activity-Job-Searching-How-to-plan-a-good-side-project-d67644c7121349dba28bcbc63aa60956) (TO DO - INCLUDE GITHUB LINK WHEN AVAILABLE)
-- [Job Searching - Start a new side project](https://www.notion.so/Prof-Skills-Activity-Job-Searching-Start-a-new-side-project-693b6bcfb5674197a48d6f134d881678)  (TO DO - INCLUDE GITHUB LINK WHEN AVAILABLE)
+- [Job Searching - How to plan a good side project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-plan-a-good-side-project.md)
+- [Job Searching - Start a new side project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-start-a-new-side-project.md)
