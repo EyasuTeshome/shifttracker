@@ -18,4 +18,4 @@ Weekly interviews are the best way to practice your interview skills. The link b
 
  **Refresh your memory on weekly interviews:**
 
-- Job Searching - Introduction to weekly interviews TO DO (add link when available)
+- [Job Searching - Introduction to weekly interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-introduction-to-weekly-interviews.md)
