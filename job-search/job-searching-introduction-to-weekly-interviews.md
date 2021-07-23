@@ -27,7 +27,7 @@ Practicing each week is a great way to stay motivated and engaged until you get 
 
 The link below shows you three ways you can practice interviews: 
 
-[Three ways to practice interviews](https://www.notion.so/Three-ways-to-practice-interviews-addae0094b0143a2820cfd2cebd54f64)
+[Three ways to practice interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/three-ways-to-practice-interviews.md)
 
 ### Refresher on how to follow up after an interview
 
