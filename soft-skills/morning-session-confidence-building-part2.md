@@ -29,7 +29,7 @@ Use this topic to question and recognize your blockers relating to confidence an
 
 **Learn more about building self-confidence:**
 
-- [Building self-confidence](https://www.notion.so/Building-self-confidence-493f3b7ae6e04092814618d4b344775c)
+- [Building self-confidence](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/building-self-confidence.md)
 
 ## Exercise
 
