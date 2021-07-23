@@ -28,7 +28,7 @@ Microverse has its own job portal in Huntr. This is a place where Microverse car
 
 You will find in the sub-article below an extensive list of websites you can visit to find jobs. 
 
-[Where do I find jobs to apply to?](https://www.notion.so/Where-do-I-find-jobs-to-apply-to-ed57b8a8c20a4118885791a960ba3d4d)
+[Where do I find jobs to apply to?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
 
 ## Additional materials
 
