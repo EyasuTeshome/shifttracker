@@ -21,7 +21,7 @@ Before sending follow-up emails, remember the following tips:
 
 **Refresh your memory with other useful tips:**
 
-- TO DO -  ADD STUDENT FACING URL TO [How to send job application follow-ups](https://www.notion.so/Prof-Skills-Activity-Job-Searching-How-to-send-job-application-follow-ups-6bbfcd429fae419bbaeb24c8e0b13625)
+- [How to send job application follow-ups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-send-job-application-follow-ups.md)
 
 ## Exercise
 
