@@ -19,4 +19,4 @@ However, one way to increase your chances of getting interviews is to send follo
 Knowing the right time to send your application follow-up message as well as what to write in it, are crucial when you are in your interview stage. If done wrongly, you can limit your chances of getting to the next stage of the interview process. The link below gives you more information on how to write a good follow-up message and when to send it. Make sure you watch the Loom video provided in the link below and install Clearbit Connect as recommended. 
 
 **Learn more about how and when to send job application follow-ups:**
-- [How to send job application follow-ups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-and-when-to-send-job-application-follow-ups.md)
+- [How and when to send job application follow-ups](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-and-when-to-send-job-application-follow-ups.md)
