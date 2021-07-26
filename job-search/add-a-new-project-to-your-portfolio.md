@@ -18,6 +18,14 @@ Portfolios are the easiest way of showing what you’re truly capable of as a de
 
 This not only helps in getting better job opportunities or projects but also becomes a way to track how you are growing in your skills with each project. 
 
+
+## Important note for transition students
+You might not have a portfolio yet at this stage of the Curriculum so, in the exercise below, you will simply be required to pin your new project in your GitHub profile and to submit a link to your profile. Later on, when you get to the Job Searching part of the Curriculum, you will create your portfolio as a side project. For now, jump straight to the Exercise section of this lesson and complete the exercise.
+
+## Important note for non-transition students
+At this stage, you might already have a portfolio ready. It is important to make it look presentable to employers and recruiters. Read through all the sections below and then complete the exercise at the bottom of this page.
+
+
 ### Gather screenshots of your projects
 
 **Guiding questions:**
@@ -47,7 +55,7 @@ There are a few pointers to keep in mind when including links to GitHub Source C
 **Spend 45 minutes working on this exercise.**
 
 1. Open your copy of the exercise template below.
-2. Complete all the steps in Section 1 in your copy.
+2. Complete all the Sections that apply to you in your copy.
 
 **Exercise template to copy:** [Add a new project to your portfolio](https://docs.google.com/document/d/1EAFpW4nQAmn259YWlr1ew0-bV8wz3zbcl_u5VFd3oHE/edit#)
 
