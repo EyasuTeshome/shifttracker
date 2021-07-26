@@ -55,7 +55,7 @@ There are a few pointers to keep in mind when including links to GitHub Source C
 **Spend 45 minutes working on this exercise.**
 
 1. Open your copy of the exercise template below.
-2. Complete all the Sections that apply to you in your copy.
+2. Complete all the sections that apply to you.
 
 **Exercise template to copy:** [Add a new project to your portfolio](https://docs.google.com/document/d/1EAFpW4nQAmn259YWlr1ew0-bV8wz3zbcl_u5VFd3oHE/edit#)
 
