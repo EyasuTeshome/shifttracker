@@ -10,6 +10,8 @@
 
 In this project, you will use the Unique Selling Point (USP) you created earlier in the curriculum to craft the first draft of your elevator pitch: a short speech that you'll use regularly during interviews and while networking, and that summarizes who you are, what makes you special, and why you'd be a good fit for a specific job. Remember, this is your first draft, so don't expect it to be perfect. You'll have an opportunity to receive feedback and make changes in later activities.
 
+**If you are a transitioned student who did not create a USP in previous lessons**, please take a moment to [read our curriculum on what a Unique Selling Point is and how to create one for yourself](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/what-makes-you-unique-define-your-personal-usp.md). You **do not** need to complete the "Define your personal USP" activity. Instead, please take 20-30 minutes to read the articles on [how to create a USP](https://www.coburgbanks.co.uk/blog/candidate-tips/8-tips-to-developing-a-killer-usp/) and [how to create a USP that compels people to hire you](https://www.jobinterviewtools.com/why-should-i-hire-you-how-to-create-a-usp-that-compels-employers-to-hire-you/).
+
 *IMPORTANT NOTE: Read through each section thoroughly, and then add on to your project as you move through the lesson.*
 
 ## Why is an elevator pitch important?
