@@ -41,7 +41,7 @@ As always, please review the article below to ensure that you've remained famili
 ### **Submission instructions**
 
 - Carefully review **all feedback** given to you by your project reviewer, including both written feedback and verbal feedback they may have given over video platforms like Loom.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. If you don't understand a piece of feedback, **reach out to the project reviewer using the instructions found at the top of your Zendesk feedback ticket.**
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Copy/paste the text of your AngelList into a Google Document and then run the text through a spellcheck and grammar check tool before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making changes to a piece of text.
 
 ### Submit your project
