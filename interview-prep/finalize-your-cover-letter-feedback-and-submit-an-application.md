@@ -36,7 +36,7 @@ Please review the article below (for the final time, at least as a requirement!)
 ### Project requirements
 
 - [Make sure that your cover letter meets every requirement of the cover letter rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit). If you have followed the [cover letter curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md), it should do so automatically. 
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. **If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again, which could delay your progress in the program.**
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. **If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again, which could delay your progress in the program.** You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - **Open up the job posting you are applying to**
 
 ### **Submission instructions**
@@ -44,7 +44,7 @@ Please review the article below (for the final time, at least as a requirement!)
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
 
 - Carefully review **all feedback** given to you by your project reviewer, including comments and suggestions written directly on the Google Doc and any verbal feedback over video platforms like Loom.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submission form below.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submission form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Run your document through Grammarly before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making edits/changes to a piece of text.
 - **Once you have completed revisions**, start completing all fields in the job application. Carefully review each field to make sure you have not made any spelling errors. Upload all required documents. 
 - **Keep the following note in mind:** Most applications give you the ability to upload your cover letter as its own document, but some don't. If this job application does not have an individual field for a cover letter, then extract both your resume and cover letters as PDF files and then use [a PDF combiner like SmallPDF](https://smallpdf.com/merge-pdf) to merge both documents together, ensuring that your resume comes first.
