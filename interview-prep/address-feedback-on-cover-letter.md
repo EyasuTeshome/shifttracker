@@ -17,7 +17,7 @@ The cover letter has the potential to be one of the most powerful documents in a
 ## Project Setup
 
 - Open up your cover letter.
-- Open the written and numerical feedback from your project reviewer, including any feedback they may have left via video platforms like Loom.
+- Open the written and numerical feedback from your project reviewer, including any feedback they may have left via video platforms like Loom. You can find written feedback on your dashboard for each project under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to improve your cover letter
 
