@@ -19,7 +19,7 @@ This step of the resume writing process is used to further refine and polish you
 ## Project Setup
 
 - Open up your resume in Google Docs.
-- Open the written and numerical feedback from your project reviewer, including any feedback they may have written directly on the Google Doc.
+- Open the written and numerical feedback from your project reviewer, including any feedback they may have written directly on the Google Doc. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to improve your resume
 
@@ -36,14 +36,14 @@ Please review the helpful tips below to ensure that you gain the most value from
 ### Project requirements
 
 - [Make sure that your resume meets every requirement of the resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit). If you have followed the [resume curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), it should do so automatically.
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
 
 - Carefully review **all feedback** given to you by your project reviewer, including comments and suggestions written directly on the Google Doc.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Run your document through a spellcheck and grammar check tool before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making changes to a piece of text.
 
 ### Submit your project
