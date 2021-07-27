@@ -21,7 +21,7 @@ Remember: the effort you invest into refining your GitHub profile is an effort t
 ## Project Setup
 
 - Log in to your GitHub account.
-- Open all written and numerical GitHub profile feedback from your project reviewer(s).
+- Open all written and numerical GitHub profile feedback from your project reviewer(s). You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to finalize your GitHub profile
 
