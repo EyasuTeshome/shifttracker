@@ -18,7 +18,7 @@ If your project reviewer has left you with any feedback, please follow that feed
 
 ## Project Setup
 
-- Open all written and numerical photo feedback from your project reviewer(s).
+- Open all written and numerical photo feedback from your project reviewer(s). You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - If you need to take a new photo, [review the photo curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/take-a-professional-photo.md) to ensure that your new photo will meet all requirements.
 - If you need to make minor edits to your photo, open a photo editor ([like the free Pixlr Editor](https://pixlr.com/e/)) and upload your photo.
 
@@ -37,12 +37,12 @@ Please review the article below once more to ensure that you've memorized our mo
 ### Project requirements
 
 - [Make sure that your photo meets every requirement of the photo rubric](https://docs.google.com/document/d/1c8ee1i_MU9jumfgDbROa4R3kszViDSIZ0NOnOrassPM/edit). If you have followed the curriculum above, it should do so automatically. If you have followed the [photo curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/take-a-professional-photo.md), it should do so automatically.
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you**. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you**. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - **Remember that this will be your final revision round for your photo until you reach the end of Microverse**. If you rush through the feedback or editing process, any remaining errors or areas of improvement could potentially be left remaining on your professional social media profiles for months, and those errors could mean missing out on job opportunities you might otherwise have been qualified for. The effort you put into taking a stellar professional photo today is an investment; invest that effort wisely.
 
 ### **Submission instructions**
 
-- Carefully review **all feedback** given to you by your project reviewer.
+- Carefully review **all feedback** given to you by your project reviewer. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below.
 - Upload your professional photo online.
 - Ensure that the link to your photo is accessible to **anyone with the link**. If you have uploaded it to Google Drive, you may need to manually change the Share settings.
