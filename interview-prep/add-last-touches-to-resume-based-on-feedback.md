@@ -21,7 +21,7 @@ Remember: the effort you invest in creating and refining your resume is an effor
 ## Project Setup
 
 - Open up your resume in Google Docs
-- Open all written and numerical resume feedback from your project reviewer(s).
+- Open all written and numerical resume feedback from your project reviewer(s). You can find written feedback on your dashboard for each project under the **Action-->View Reviews** button.
 
 ## Using project reviewer feedback to finalize your resume
 
