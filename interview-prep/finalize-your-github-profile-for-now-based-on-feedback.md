@@ -38,13 +38,13 @@ Please review the article below once more to ensure that you've memorized our mo
 ### Project requirements
 
 - [Make sure that your GitHub profile meets every requirement of the GitHub rubric](https://docs.google.com/document/d/1A1x6Vqm6rmChKkb3T3IXBWRNyygTZ2oiHCPZq4IrXT4/edit). If you have followed the [GitHub curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md), it should do so automatically.
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - **Remember that this will be your final revision round for your GitHub profile until you reach the end of Microverse**. If you rush through the feedback process, any remaining errors or areas of improvement could potentially be left remaining on your public GitHub for months. If recruiters or hiring managers stumble upon your GitHub profile in the meantime, those errors could mean missing out on job opportunities you might otherwise have been qualified for. The effort you put into your GitHub profile today is an investment; invest that effort wisely.
 
 ### **Submission instructions**
 
 - Carefully review **all feedback** given to you by your project reviewer.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Run all text on your GitHub profile (including project descriptions, personal README text, and your bio) through a spellcheck and grammar check tool before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making edits/changes to a piece of text.
 
 ### Submit your project
