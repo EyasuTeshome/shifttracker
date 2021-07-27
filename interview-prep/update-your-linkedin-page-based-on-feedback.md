@@ -17,7 +17,7 @@ Your LinkedIn profile is an extremely powerful networking and marketing tool: it
 ## Project Setup
 
 - Open up your LinkedIn.
-- Open the written and numerical feedback from your project reviewer, including any feedback they may have left via video platforms like Loom.
+- Open the written and numerical feedback from your project reviewer, including any feedback they may have left via video platforms like Loom. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to improve your LinkedIn
 
@@ -34,12 +34,12 @@ Please review the helpful tips below to ensure that you gain the most value from
 ### Project requirements
 
 - [Make sure that your LinkedIn profile meets every requirement of the LinkedIn rubric](https://docs.google.com/document/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit). If you have followed the [LinkedIn curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md), it should do so automatically.
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
 
 - Carefully review **all feedback** given to you by your project reviewer, including both written feedback and verbal feedback they may have given over video platforms like Loom.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Copy/paste the text of your LinkedIn into a Google Document and then run the text through a spellcheck and grammar check tool before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making changes to a piece of text.
 
 ### Submit your project
