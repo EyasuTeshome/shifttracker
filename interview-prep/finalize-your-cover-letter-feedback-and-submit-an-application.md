@@ -21,7 +21,7 @@ Remember: the effort you invest in creating and refining your cover letter is an
 ## Project Setup
 
 - Open up your cover letter in Google Docs
-- Open all written and numerical cover letter feedback from your project reviewer(s), including any feedback you received directly on the Google Doc and/or any video feedback you received over video platforms like Loom.
+- Open all written and numerical cover letter feedback from your project reviewer(s), including any feedback you received directly on the Google Doc and/or any video feedback you received over video platforms like Loom. You can find written feedback on your dashboard for each project under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to finalize your cover letter
 
