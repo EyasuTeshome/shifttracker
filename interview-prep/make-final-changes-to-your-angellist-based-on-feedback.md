@@ -21,7 +21,7 @@ Remember: the effort you invest in creating and refining your AngelList profile 
 ## Project Setup
 
 - Open up your AngelList profile.
-- Open the written and numerical feedback from your project reviewer, including any feedback they may have left via video platforms like Loom.
+- Open the written and numerical feedback from your project reviewer, including any feedback they may have left via video platforms like Loom. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to improve your AngelList
 
