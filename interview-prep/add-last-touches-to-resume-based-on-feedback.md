@@ -36,14 +36,14 @@ Please review the article below once more to ensure that you're familiar with th
 ### Project requirements
 
 - [Make sure that your resume meets every requirement of the resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit). If you have followed the [resume curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), it should do so automatically.
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. **If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again, which could delay your progress in the program.**
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. **If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again, which could delay your progress in the program.** You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
 
 - Carefully review **all feedback** given to you by your project reviewer, including comments and suggestions written directly on the Google Doc.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submission form below.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submission form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Run your document through Grammarly before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making edits/changes to a piece of text.
 
 ### Submit your project
