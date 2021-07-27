@@ -21,7 +21,7 @@ This step of the elevator pitch writing process is used to further refine and po
 ## Project Setup
 
 - Open up your elevator pitch in Google Docs
-- Open the Zendesk ticket with written and numerical feedback from your project reviewer.
+- Open the Zendesk ticket with written and numerical feedback from your project reviewer. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ## Using project reviewer feedback to improve your elevator pitch
 
@@ -38,14 +38,14 @@ In the link below, we'll discuss a few helpful tips to ensure that you gain the 
 ### Project requirements
 
 - [Make sure that your elevator pitch meets every requirement of the elevator pitch rubric](https://docs.google.com/document/d/1ULe_jeJfj38Pm_Aj_jqVkUVyL8E-dJn6inLB1ITcUF8/edit). If you have followed the [elevator pitch curriculum](use-your-usp-to-craft-the-first-draft-of-your-elevator-pitch.md), it should do so automatically. 
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** Do not skim their feedback; read it aloud carefully to ensure that you don't miss suggestions. If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
 - Carefully review **all feedback** given to you by your project reviewer, including comments and suggestions written directly on the Google Doc.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Run your document through Grammarly before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making edits/changes to a piece of text.
 
 ### Submit your project
