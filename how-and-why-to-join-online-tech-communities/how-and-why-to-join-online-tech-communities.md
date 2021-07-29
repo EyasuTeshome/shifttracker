@@ -1,10 +1,10 @@
-# How and why to join online tech communities
+# Joining and networking in online tech communities
 
 ## Learning objectives
 
 - Apply networking skills to join two online tech communities and start engaging.
 
-### Estimated time: 1h
+### Estimated time: .75 hr
 
 ## Description
 
