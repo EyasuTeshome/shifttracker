@@ -29,7 +29,7 @@ At Microverse, learning to code is your primary focus. It's your technical skill
 
 Read **two** of the following three articles on writing in technical jobs:
 
-- [The Importance of Writing in Tech-Related Fields](https://chroniclevitae.com/news/1073-the-importance-of-writing-skills-in-tech-related-fields)
+- [The Importance of Writing in Tech-Related Fields](https://davidmmerchant.files.wordpress.com/2020/03/lecture-14e28094the-importance-of-writing-skills-in-tech-related-fields-vitae.pdf)
 - [Why Developers Should Know How to Write](https://www.freecodecamp.org/news/why-developers-should-know-how-to-write-dc35aa9b71ab/)
 - [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 
