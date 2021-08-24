@@ -26,8 +26,6 @@ An elevator pitch is a short speech designed to show others who you are and what
 
 Create a Google Doc and open up the share settings to allow **anyone with the link** to **leave suggestions** directly on the document. 
 
-![Gif Showing How to Share Document](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c19d077d-63fe-434e-a5d7-b7f88ba148a5/Share_Your_Document.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210726%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210726T180209Z&X-Amz-Expires=86400&X-Amz-Signature=2575971e906d844ec5cc7fbcaf3f8c8e464507b0ad9280a39ee59f9f4ce6ae28&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Share_Your_Document.gif%22)
-
 ## Maintaining focus on development in your elevator pitch
 
 As you start writing your pitch, remember this: **every single line should be related to software development.**
