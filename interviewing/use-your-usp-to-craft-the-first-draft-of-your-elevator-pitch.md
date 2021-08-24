@@ -149,8 +149,7 @@ In the link below, we'll discuss a few strategies you can use to help edit and r
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-- Make sure that your Google Doc is shared so that **anyone with the link can leave edits or suggestions**. If you do not share the document, your project reviewer will return the document to you without review. Your document permissions **must look like this**:
-- ![Shared document with commenting permissions](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e6763754-e65f-46fe-948d-56dce6f4de63/Screen_Shot_2021-07-21_at_10.32.06_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210726%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210726T180243Z&X-Amz-Expires=86400&X-Amz-Signature=c40a8ca8581a60648def2e33a5bfe51ee06f5410b8a1f09594e3144c11ba20e1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2021-07-21_at_10.32.06_PM.png%22)
+- Make sure that your Google Doc is shared so that **anyone with the link can leave edits or suggestions**. If you do not share the document, your project reviewer will return the document to you without review.
 - Run your document through Grammarly before you submit it.
 
 ### Submit your project
