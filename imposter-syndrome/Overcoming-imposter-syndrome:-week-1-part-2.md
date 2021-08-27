@@ -1,4 +1,4 @@
-# Overcoming imposter syndrome: week 1, part 2
+# Overcoming imposter syndrome: part 1.2
 
 ## Learning objectives
 
