@@ -27,8 +27,8 @@ Below you will have a refresher on how to use Kanban boards for the benefit of t
 
  **Learn more about Kanban boards:**
 
-- [Using Kanban boards for team updates](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/Using-kanban-boards-for-team-updates.md)
-- [Using Kanban boards to guide meetings](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/Using-Kanban-boards-to-guide-meetings.md)
+- [Using Kanban boards for team updates](using-kanban-boards-for-team-updates.md)
+- [Using Kanban boards to guide meetings](using-kanban-boards-to-guide-meetings.md)
 
 
 ------
