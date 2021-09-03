@@ -1,4 +1,4 @@
-# Morning session: Overcoming imposter syndrome: part 2.2
+# Morning session: Overcoming imposter syndrome: part 2.1
 
 ## Learning objectives :
 
