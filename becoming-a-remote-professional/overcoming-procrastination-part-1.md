@@ -1,4 +1,4 @@
-# Overcoming procrastination part 1.1
+# Overcoming procrastination part 1
 
 ## Learning objectives
 
