@@ -60,7 +60,7 @@ Take-home projects have been growing increasingly common over the years, and as 
 
  **Learn more about knowing what to expect from a take-home project:**
 
-- [I have received a take-home project, what do I need to know?](https://microverse.zendesk.com/hc/en-us/articles/360058088094-A-Step-by-Step-Guide-to-Preparing-for-an-Interview)
+- [I have received a take-home project, what do I need to know?](https://microverse.zendesk.com/hc/en-us/articles/360051544614-I-have-received-a-take-home-project-what-do-I-need-to-know-)
 
 ### Know how take-home projects are evaluated
 
