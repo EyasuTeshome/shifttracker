@@ -31,7 +31,7 @@ Secondly, it requires some thought to ask questions and communicate about indivi
 **Learn more about communication:**
 
 - [Your guide to talking about diversity](https://www.hivelearning.com/site/resource/diversity-inclusion/your-guide-to-talking-about-diversity/)
-- [Don’t be afraid to ask about differences](https://hiring.monster.ca/employer-resources/workforce-management/workplace-diversity/ask-about-differences-canada/)
+- [How to have diversity conversations with confidence](https://www.forbes.com/sites/forbescoachescouncil/2020/02/12/how-to-have-diversity-conversations-with-confidence/?sh=5f17209227a6)
 
 ## Exercise
 
