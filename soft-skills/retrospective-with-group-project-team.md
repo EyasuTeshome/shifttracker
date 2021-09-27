@@ -5,7 +5,7 @@
 - Learn the value of regular project status updates for group projects and practice daily with teammates.
 - Use daily team updates to identify and overcome project blockers.
 - Support teammates and team progress through daily updates and discussion of blockers.
-- Learn from feedback about areas to improve as a team member in key areas including reliability, commitment, communication, time management.
+- Learn from feedback about areas to improve as a team member in key areas including collaboration, reliability, commitment, communication, time management.
 
 ### **Estimated time**: 0.5h
 
