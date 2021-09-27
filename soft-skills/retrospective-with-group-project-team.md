@@ -56,8 +56,9 @@ We all have both strengths and weaknesses. It's just as important for people to 
 
 1. Open the exercise template.
 2. In Section 1, write your reflections about the team's successes and challenges.
-3. In Section 2,  write one thing each person on the team did that you (individually) would like to celebrate.
-4. Meet back in the group. Share and compare your answers about your work as a team. Then, take turns sharing your *shout-outs.*
+3. In Section 2, write your reflections about your collaboration with your teammembers.
+4. In Section 3,  write one thing each person on the team did that you (individually) would like to celebrate.
+5. Meet back in the group. Share and compare your answers about your work as a team. Then, take turns sharing your *shout-outs.*
 
 **Exercise template to copy:** [Retrospective with group project team](https://docs.google.com/document/d/1azQ1-k2MRLxnpJklRQyV1TKRQGJPCDH2P3eispYhG6I/edit#heading=h.4tz3w18lrbm)
 
