@@ -5,13 +5,13 @@
 - Learn the value of regular project status updates for group projects and practice daily with teammates.
 - Use daily team updates to identify and overcome project blockers.
 - Support teammates and team progress through daily updates and discussion of blockers.
-- Learn from feedback about areas to improve as a team member in key areas including collaboration, reliability, commitment, communication, time management.
+- Learn from feedback about areas to improve as a team member in key areas including collaboration, reliability, commitment, communication, and time management.
 
 ### **Estimated time**: 0.5h
 
 ## Looking back to move ahead
 
-In our busy lives, we can get so focused on moving forward and getting things done that we forget to give ourselves time to think about how we got there. It is helpful to stop and reflect on what has happened. A retrospective (or debrief) after a project can provide that opportunity for reflection.
+In our busy lives, we can get so focused on moving forward and getting things done that we forget to give ourselves time to think about how we got there. It is helpful to stop and reflect on what has happened. A retrospective (or debrief) after a project can provide that opportunity for reflection. Here at Microverse, we ask you to do a retrospective following group projects as a best practice during the program, and to prepare you for the final capstone, where you will be assessed on your team collaboration by a mock interviewer.
 
 ### Why is reflection important?
 
