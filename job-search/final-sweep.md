@@ -29,4 +29,4 @@ In order to make the best use of your time and your coach's time, make sure you 
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit your project. The dashboard should automatically pull the links from projects you've already submitted, so your submission here just notifies your coach that you are ready for review.
+Now go to your Student Dashboard and submit your project. Once you are assigned a career coach, they will get you feedback on this, so you can make updates as you start job searching. 
