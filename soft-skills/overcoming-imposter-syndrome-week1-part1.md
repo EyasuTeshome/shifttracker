@@ -26,9 +26,9 @@ Imposter Syndrome is very common and even more so with software developers. The 
 **Learn more about imposter syndrome for the people from Microverse:**
 
 - [Eric Newport - software developer and Microverse career coach](https://www.loom.com/share/2277336b4f1d44a3a24cfd504ec05511)
-- [Mateo - software developer and Microverse alumni](https://drive.google.com/drive/u/0/folders/18sWDxk10yPtlVTaib-o2HRS9HIFgQdnv)
-- [Cecilia - software developer and Microverse alumni](https://drive.google.com/drive/u/0/folders/18sWDxk10yPtlVTaib-o2HRS9HIFgQdnv)
-- [Joseph - software developer and Microverse alumni](https://drive.google.com/drive/u/0/folders/18sWDxk10yPtlVTaib-o2HRS9HIFgQdnv)
+- [Mateo - software developer and Microverse alumni](https://drive.google.com/file/d/1_ABVLsynD3lMDK7knkJ5NmMGEjGD8Jzr/view)
+- [Cecilia - software developer and Microverse alumni](https://drive.google.com/file/d/1_QsLM1ABGG99WFQwCBnwCFXXo-1SaJYX/view)
+- [Joseph - software developer and Microverse alumni](https://drive.google.com/file/d/1JjjMkTPYvlYnbcwy0dP16f5hZP346K2g/view)
 
 ### Group discussion
 
