@@ -39,11 +39,11 @@ Great ideas can come from anywhere and anyone and you're most likely to find gre
 
 Instructions: 
 
-1. Split up into two breakup rooms of 2-3 people.
+1. Split up into two breakout rooms of 2-3 people, or choose to stay together in one larger group.
 2. Choose the first person who will present their side project idea or brainstorming topic. 
 3. Choose the person who will keep track of time: allow 6 minutes per person/project.
 4. Make sure you take notes of the ideas for your project.
-5. Still staying in your breakup rooms, brainstorm and share ideas with each other.
+5. Still staying in your breakout rooms, brainstorm and share ideas with each other.
 6. After 6 minutes, thank each other and move on to the next person.
 
 ### Submit your exercise
