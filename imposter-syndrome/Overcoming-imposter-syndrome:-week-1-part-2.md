@@ -30,7 +30,7 @@ In the following videos, you will see experienced people who explain their exper
 *Have one person share their screen and watch these videos together as a group.*
 
 - [Ariel Camus, CEO at Microverse](https://www.loom.com/share/617c2732c1054cdba2f22995bb96a6ac)
-- [Anthony Ngene, software developer at Google](https://www.youtube.com/watch?v=O0dnb1DVlDo)
+- [Anthony Ngene, software developer at Google](https://drive.google.com/drive/u/0/recent)
 
 ### Group discussion
 
