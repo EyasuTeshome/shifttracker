@@ -28,6 +28,8 @@ Starting on Monday, you will have a **learning partner**. As learning partners, 
 
 This is different from weeks where you have **coding partners,** where you collaborate on technical projects together through pair programming. You will have coding partners later in the Program.
 
+If you do not hear back from your learning partner or your parner isn't following the collaboration requirements, please reach out to Student Success right away so we can help figure out what is going on. 
+
 For onboarding, you will work together with your partner once you've linked your Zoom Account to your dashboard. (more on that later!)
 
 
