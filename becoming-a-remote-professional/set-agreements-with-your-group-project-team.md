@@ -11,7 +11,7 @@
 
 This activity focuses on getting together with your group project team and setting your agreements together. Refer to earlier activities from today as needed for reminders of what group agreements are and how to make them, in particular your answers to the exercise in the activity, [Using project updates to work better as a team](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/using-project-updates-to-work-better-as-a-team.md) and what you learned about group agreements in your [morning session today](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/morning-session-making-strong-teams-part-1.md).
 
-*In group projects we will be looking for equal commits from different team members. If you experience difficulties while collaborating with your group, please reach out to Student Success so we can help you! We are here to support you. Some difficulties might include a partner not showing up, a partner not doing any part of the work, a partner not holding up to their part of the agreement. Students who do not do their part of the work and let their group do everything will repeat the week.*
+*In group projects we will be looking for equal commits from each team members. If you experience difficulties while collaborating with your group, please reach out to Student Success right away so we can help you! We are here to support you. Some difficulties might include a partner not showing up, a partner not doing any part of the work, a partner not holding up to their part of the agreement. Students who do not do their part of the work and let their group do everything will repeat the week.*
 
 ## Exercise
 
