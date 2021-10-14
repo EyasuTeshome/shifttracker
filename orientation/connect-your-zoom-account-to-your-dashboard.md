@@ -33,12 +33,13 @@ Now that you have linked your dashboard to our Zoom account you should be able t
 If this is happening something went wrong! Even though you can type in your name, you should not connect that way because it means something did not go right and it can potentially impact your attendance in the future. To avoid this, make sure you log out of Zoom, clear all of your cookies and then repeat this process in a private window.
 
 **I don't see the Join Call button**
+
 -Please note you will not be able to see the Join button before your First day of the programme. 
 
 There could be a few reasons why you don't see the Join Call Button. Follow these steps to figure out what might be going wrong. 
 
 - **Has your dashboard had time to update?** The first reason is that the first time you connect your Zoom account to your Dashboard, the Dashboard has not yet updated and needs to refresh before you can see the button. If this is the first time you connect, please wait for 15 minutes, and if the button does not appear, keep reading.
-- **Is it the right time of day?** The Join Call Button appears only at certain times of the day. In the screenshot above you can see that the Join Call Button has appeared for the first collaborative learning session. Please check that you should be able to see the Join Call Button right now based on your program timezone and your local time. Remember that the times shown in the schedule are not your local time but the timezone of the program you signed up for,also, you will not be able to see the join butoon until 5 minutes before the start time.
+- **Is it the right time of day?** The Join Call Button appears only at certain times of the day. In the screenshot above you can see that the Join Call Button has appeared for the first collaborative learning session. Please check that you should be able to see the Join Call Button right now based on your program timezone and your local time. Remember that the times shown in the schedule are not your local time but the timezone of the program you signed up for,also , you will not be able to see the join button until 5 minutes before the start time.
 - **Still not working?** If you have waited 15 minutes and confirmed that you are in the program time for your time zone, please reach out to us using the Support button on your Dashboard explaining that you have followed the steps in this article but you cannot see the Join Call Button. Make sure to send us a screenshot of your schedule and a link to this article.
 
 
