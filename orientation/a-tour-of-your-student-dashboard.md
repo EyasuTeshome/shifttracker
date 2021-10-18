@@ -6,7 +6,7 @@ Please only continue with this section after you've finished the previous sectio
 
 ### Introduction to the dashboard
 
-[Watch this video: Introduction to the dashboard](https://www.loom.com/share/9441371501514ffb9cea9871103ba1d5)
+[Watch this video: Introduction to the dashboard](https://www.loom.com/share/6c72582670794e42a44b2dff288918cf)
 
 **Important highlights from the video:** 
 
@@ -16,7 +16,7 @@ Please only continue with this section after you've finished the previous sectio
 
 ### View Progress page:
 
-[Watch this video: View Progress Page](https://www.loom.com/share/cb6cef773c5a485298f0c2988b729cb1)
+[Watch this video: View Progress Page](https://www.loom.com/share/117ef893eadb4033b6b2c20c26c9bcee)
 
 **Important highlights from the video:**
 
