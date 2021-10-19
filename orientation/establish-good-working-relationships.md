@@ -19,7 +19,7 @@ Microverse is a community of people focused on the same goal of learning to code
 
 Use the following questions to spend 10 minutes talking with your new partner(s) and getting to know each other.
 
-- [Questions to get to know your first pair programming partner(s)](questions-to-get-to-know-your-pair-programming-partners.md)
+- [Questions to get to know your pair programming partner(s)](questions-to-get-to-know-your-pair-programming-partners.md)
 
 ### Set your working agreements
 
