@@ -28,7 +28,7 @@ Job searching can be a long process with a lot of rejection along the way. There
 
 [What goes into job searching?](https://www.notion.so/What-goes-into-job-searching-98d56d22e73d4c20b11746d16b70a17b)
 
-- [Watch this video](https://www.notion.so/03484f0ba4c343fabbbed9390573dc70) introducing job searching at Microverse
+- [Watch this video](https://www.loom.com/share/03484f0ba4c343fabbbed9390573dc70?t=48) introducing job searching at Microverse
 
 ### What will my daily structure look like while I'm job searching?
 
