@@ -26,7 +26,7 @@ Job searching can be a long process with a lot of rejection along the way. There
 
  **Learn more about what goes into a successful job search:**
 
-[What goes into job searching?](https://www.notion.so/What-goes-into-job-searching-98d56d22e73d4c20b11746d16b70a17b)
+[What goes into job searching?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching)
 
 - [Watch this video](https://www.loom.com/share/03484f0ba4c343fabbbed9390573dc70?t=48) introducing job searching at Microverse
 
@@ -44,8 +44,8 @@ While you are job searching, you will still attend your full-time Microverse sch
 
  **Learn more about how to structure your day as a job searcher:**
 
-- [What to expect from your day-to-day while you're job searching](https://www.notion.so/9944a3868da74fa9bb56557d90814c58) - Watch this short video talking about what to expect while you're job searching
-- [How to use your weekly retrospectives to guide your job search](https://www.notion.so/f14cc2e66fb648a2abde849d657fa644) - Watch this short video for more guidance
+- [What to expect from your day-to-day while you're job searching](https://www.loom.com/share/9944a3868da74fa9bb56557d90814c58) - Watch this short video talking about what to expect while you're job searching
+- [How to use your weekly retrospectives to guide your job search](https://www.loom.com/share/f14cc2e66fb648a2abde849d657fa644?t=0) - Watch this short video for more guidance
 - [Click here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-to-expect-from-your-daily-schedule-while-job-searching.md) to read the same material that was shared in the video.
 
 ### How will I track my progress while job searching?
