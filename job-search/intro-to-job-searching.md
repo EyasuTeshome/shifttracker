@@ -26,7 +26,7 @@ Job searching can be a long process with a lot of rejection along the way. There
 
  **Learn more about what goes into a successful job search:**
 
-[What goes into job searching?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching)
+[What goes into job searching?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching.md)
 
 - [Watch this video](https://www.loom.com/share/03484f0ba4c343fabbbed9390573dc70?t=48) introducing job searching at Microverse
 
