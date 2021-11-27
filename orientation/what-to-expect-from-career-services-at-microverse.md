@@ -72,7 +72,7 @@ Q2: D: Both A and C are correct
 
 Q3: E: All of the above
 
-Q4: Right before you're ready to start job searching
+Q4: C: Right before you're ready to start job searching
 
 
 
