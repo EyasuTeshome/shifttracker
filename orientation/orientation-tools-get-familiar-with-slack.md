@@ -34,7 +34,7 @@ Now that you are in Slack and familiar with the channels at Microverse, it's imp
 *These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
 
 - [Collaborate with kindness: Consider these etiquette tips in Slack](https://slack.com/intl/en-es/blog/collaboration/etiquette-tips-in-slack)
-- [Student guidelines for communicating in online, professional contexts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/teaching-tips-learning-activities/student-guidelines-communicating-online-professional)
+- [Student guidelines for communicating in online, professional contexts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/learning-activities/student-guidelines-communicating-online-professional)
 
 
 ------
