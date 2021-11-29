@@ -12,7 +12,7 @@ Please only continue with this section after you've finished the previous sectio
 
 - The green dot highlights which session is currently taking place.
 - You should always join the call through the "Join call" button on the main dashboard page.
-- The Program hours you see are the UTC-1 or UTC+6 hours, not your local hours.
+- The Program hours you see are the UTC+1 or UTC-6 hours, not your local hours.
 
 ### View Progress page:
 
