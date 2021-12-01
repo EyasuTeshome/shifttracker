@@ -20,7 +20,7 @@ There are some parts of the application material which doesn't need to be update
 
 ### What application material needs update?
 
-There are many parts in an application material that needs an update. Moreover, some parts of our application material do require regular monitoring if not a regular update. For a refresher on how to add a new project to your portfolio check [here](https://www.notion.so/Prof-Skills-Activity-Add-a-new-project-to-your-portfolio-dc3f01a953544d59a3215158b807ce2b) (TODO: Update Link). 
+There are many parts in an application material that needs an update. Moreover, some parts of our application material do require regular monitoring if not a regular update. For a refresher on how to add a new project to your portfolio check [here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/add-a-new-project-to-your-portfolio.md). 
 
 **Guiding questions:**
 
