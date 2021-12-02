@@ -57,9 +57,10 @@ We created the Microverse job portal, which is a place in Huntr where career coa
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
 1. [Click here to sign up for Huntr and create your board.](https://huntr.co/microverse/signup)
-2. Open the link in the section above called "*How can I find jobs to apply to?*". Scroll down to the bottom of the page and you will see a list of remote website links.
-3. Take some time to through some of these websites, and seek out **ONE** suitable role that you might want to apply to later in the future. **Do not get distracted and start applying to many roles**. This exercise is just for you to practice.
-4. Open up your copy of the template and complete all sections.
+2. Install [this Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en)
+3. Open the link in the section above called "*How can I find jobs to apply to?*". Scroll down to the bottom of the page and you will see a list of remote website links.
+4. Take some time to through some of these websites, and seek out **ONE** suitable role that you might want to apply to later in the future. **Do not get distracted and start applying to many roles**. This exercise is just for you to practice.
+5. Open up your copy of the template and complete all sections.
 
 **Exercise template to copy:** [Adding a job to your Huntr board](https://docs.google.com/document/d/1rZ1Dn_JGFVbLwBQGK01kXZJRqYOIK-A8Kp5xc92vmTY/edit#heading=h.jgs62vtxnleo)
 
