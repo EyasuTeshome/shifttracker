@@ -54,7 +54,7 @@ We created the Microverse job portal, which is a place in Huntr where career coa
 
 This quick 2-minute video below shows you how to add jobs to your Huntr board:
 
-- [How to add jobs to your Huntr board](https://www.loom.com/share/191c83c20acb4e38a3d72f8d07f55b76)
+- [Video - How to add jobs to your Huntr board](https://www.loom.com/share/191c83c20acb4e38a3d72f8d07f55b76)
 
 
 ## Exercise
