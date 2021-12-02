@@ -58,7 +58,7 @@ We created the Microverse job portal, which is a place in Huntr where career coa
 
 1. [Click here to sign up for Huntr and create your board.](https://huntr.co/microverse/signup)
 2. Install [this Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en)
-3. Open [this link to the Microverse Job Portal](https://huntr.co/microverse/job-portal) and check out the different job postings. Select one you would like to apply to.
+3. Open [this link to the Microverse Job Portal](https://huntr.co/microverse/job-portal) and check out the different job postings. Then select **ONE** suitable role that you might want to apply to in the future.
 4. If you did not find a suitable job posting in Point 3 above, open the link in the section above called "*How can I find jobs to apply to?*". Scroll down to the bottom of the page and you will see a list of remote website links.
 5. Take some time to through some of these websites, and seek out **ONE** suitable role that you might want to apply to later in the future. **Do not get distracted and start applying to many roles**. This exercise is just for you to practice.
 6. Open up your copy of the template and complete all sections.
