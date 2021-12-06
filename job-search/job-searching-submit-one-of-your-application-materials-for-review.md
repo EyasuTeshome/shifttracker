@@ -6,6 +6,8 @@
 
 Today you will submit one of your application materials for review. This is also an opportunity for you to make some changes, if necessary, before continuing to apply to jobs.
 
+**Note: You need to submit this project in time for your coach to review it this week.** That means working to submit it before Wednesday, so your coach is able to provide feedback in a timely fashion. 
+
 ### Why is submitting one of your application materials for review important?
 
 Because feedback is a gift! Sharing your application material with your career coach is a great way to get some constructive feedback on the work you've done. This will allow you to make sure your material is compelling to recruiters and hiring managers and to amend accordingly if necessary. 
