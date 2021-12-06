@@ -6,6 +6,8 @@
 
 Today you will get to reassess your job searching SMART goals and review it with your peers. It's important to do this regularly to ensure you're headed in the right direction. 
 
+**Note: You need to submit this project in time for your coach to review it this week.** That means working to submit it before Wednesday, so your coach is able to provide feedback in a timely fashion. 
+
 ### Why is reassessing job searching SMART goals important?
 
 SMART goals help you see what you need to improve on, help you turn it into a goal, and help you work towards this goal so that you have a clear path of improvement. 
