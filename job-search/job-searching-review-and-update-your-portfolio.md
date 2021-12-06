@@ -10,6 +10,8 @@
 
 Today, as a group, you will take some time to review each other's portfolios, give actionable feedback and make changes to your own portfolio. 
 
+**Note** - If you're working on your portfolio as a side project, run your design ideas by your team members as your contribution to this exercise. You can work together to ensure you build great portfolios this month to add to your job searching work! 
+
 ### Why is reviewing and updating your portfolio important?
 
 Having a professional and up-to-date portfolio shows what you are capable of and will make it much easier for you to convince employers that you have the skills it takes to do the job. While you're building new things as you job search, keep adding them to your portfolio to keep it refreshed and reflecting your latest skills and projects. 
