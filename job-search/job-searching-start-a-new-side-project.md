@@ -24,6 +24,8 @@ And thirdly, new projects mean new things to talk about in interviews! You'll ne
 
 - [Job Searching - How to plan a good side project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-plan-a-good-side-project.md)
 
+**Note** - If you haven't created a [web development portfolio](https://45royale.com/blog/web-developer-portfolio/) or you haven't looked at your portfolio in a long time, you should plan your first side project to be either creating or overhauling your portfolio. That way you'll have a way to showcase your work to employers, as well as something to keep coding while you're job searching :)
+
 ## Exercise
 
 ### Instructions
