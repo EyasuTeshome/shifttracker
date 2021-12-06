@@ -6,6 +6,8 @@
 
 Today you will take time to analyze your job search. 
 
+**Note: You need to submit this project in time for your coach to review it this week.** That means working to submit it before Wednesday, so your coach is able to provide feedback in a timely fashion. 
+
 ### Why is analyzing your job search important?
 
 By analyzing your job search you'll be able to identify what you're doing right and what could be improved. This is how you'll be able to optimize your search and maximizing your chance of landing your dream job. 
