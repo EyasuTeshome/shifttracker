@@ -10,6 +10,8 @@
 
 In this project, you will be practice answering and recording two behavioral questions.
 
+**Note** - This project will be reviewed by one of our career coaches. In order to ensure they are able to review it in a timely fashion, please do your best to submit this no later than the end of your day Wednesday. 
+
 ### Why is practicing behavioral questions important?
 
 At Microverse, our objective is to get you ready for real-life interviews, whether they are behavioral interviews or technical interviews.
