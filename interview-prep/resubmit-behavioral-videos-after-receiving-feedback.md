@@ -10,6 +10,8 @@
 
 In this project, you will be updating your behavioral videos after receiving feedback from your coach.
 
+**Note** - This project will be reviewed by one of our career coaches. In order to ensure they are able to review it in a timely fashion, please do your best to submit this no later than the end of your day Wednesday. 
+
 ### Why is updating your behavioral videos important?
 
 Your behavioral videos are designed to help you showcase your best skills, both technical and interpersonal, so that you can be prepared for any behavioral interview with recruiters. 
