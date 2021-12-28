@@ -13,7 +13,7 @@
 
 *Spend 5 minutes on this section individually*
 
-In this morning session, you will continue practicing how to give and receive feedback.
+In this morning session, you will continue practicing how to give and receive feedback. This is very important for the final capstone project, since you'll be evaluated on your teamwork skills, including giving and receiving feedback.
 
 ### Why is feedback in larger teams important?
 
