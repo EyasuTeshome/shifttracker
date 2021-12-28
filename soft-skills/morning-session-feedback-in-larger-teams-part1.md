@@ -1,4 +1,4 @@
-# Morning session: Feedback in larger teams part 2
+# Morning session: Feedback in larger teams part 1
 
 ## Learning objectives
 
@@ -21,13 +21,11 @@ Because when working in teams, we are working with people who have different per
 
 ### Refreshers on the fundamentals of giving feedback
 
-- [Giving constructive feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/giving-constructive-feedback.md)
 - [What is good feedback?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md)
 
 ### Refreshers on the fundamentals of receiving feedback
 
 - [How to learn from the feedback you receive](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-to-learn-from-the-feedback-you-receive.md)
-- [How can you receive feedback well?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-can-you-receive-feedback-well.md)
 
 ## Exercise
 
@@ -40,13 +38,13 @@ Because when working in teams, we are working with people who have different per
 1. Individually, open your copy of the template below.
 2. As a group, come together and complete all sections in your copy of the template.
 
-**Exercise template to copy:** [Feedback in larger teams part 2: Feedback chain](https://docs.google.com/document/d/16_I6SsiCOGgHtCaXLiBRljRz6HnAYkNDKDOwI8pReKk/edit#heading=h.7249cal1f183)
+**Exercise template to copy:** [Feedback in larger teams part 1: Noticing and communicating](https://docs.google.com/document/d/1I7OYxNwPoFBsuGjl0oyhS4JSUiPrgH3wcQSgIxHMlQ4/edit?usp=sharing)
 
 ### Group discussion
 
 For the last 5 minutes of the session, come together as a group and discuss the following point:
 
-- How do you feel about giving and receiving feedback?
+- How do you feel about hearing positive feedback? What about constructive feedback? Name some of your words and reflect with the group.
 
 ### Submit your exercise
 
