@@ -1,4 +1,4 @@
-# Morning session: Feedback in larger teams part 1
+# Morning session: Feedback in larger teams part 2
 
 ## Learning objectives
 
@@ -13,7 +13,7 @@
 
 *Spend 5 minutes on this section individually*
 
-In this morning session, you will continue practicing how to give and receive feedback. This is very important for the final capstone project, since you'll be evaluated on your teamwork skills, including giving and receiving feedback.
+In this morning session, you will continue practicing how to give and receive feedback. This is very important for the final capstone project where you'll be evaluated on your teamwork skills by the evaluator, including giving and receiving feedback.
 
 ### Why is feedback in larger teams important?
 
@@ -40,7 +40,7 @@ Because when working in teams, we are working with people who have different per
 1. Individually, open your copy of the template below.
 2. As a group, come together and complete all sections in your copy of the template.
 
-**Exercise template to copy:** [Feedback in larger teams - part 1](https://docs.google.com/document/d/16_I6SsiCOGgHtCaXLiBRljRz6HnAYkNDKDOwI8pReKk/edit#heading=h.7249cal1f183)
+**Exercise template to copy:** [Feedback in larger teams part 2: Feedback chain](https://docs.google.com/document/d/16_I6SsiCOGgHtCaXLiBRljRz6HnAYkNDKDOwI8pReKk/edit#heading=h.7249cal1f183)
 
 ### Group discussion
 
