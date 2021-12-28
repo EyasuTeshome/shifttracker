@@ -1,4 +1,4 @@
-# Morning session: Feedback in larger teams - Part 2
+# Morning session: Feedback in larger teams part 2
 
 ## Learning objectives
 
