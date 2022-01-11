@@ -17,7 +17,7 @@ Throughout your job search, you will be using Huntr to track your job search pro
 Huntr is the tool you will use to track your job applications, interviews, and job offers so you can see the status of each application as you progress through hiring pipelines. 
 
 ### Refresher - Create your Huntr board
-If you have not yet create your Huntr board, create it now by following the steps in [this exercise: Search for a job online and add it to your Huntr board](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/search-for-a-job-online-and-add-it-to-your-huntr-board.md)
+If you have not yet created your Huntr board, create it now by following the steps in [this exercise: Search for a job online and add it to your Huntr board](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/search-for-a-job-online-and-add-it-to-your-huntr-board.md)
 
 **Refresher on Huntr, how to use it during the job search process and benefits of using it:**
 
