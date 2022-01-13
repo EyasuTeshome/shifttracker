@@ -50,6 +50,8 @@ Please review the article below once more to ensure that you've memorized our mo
 
 ### Submit your project
 
+**Remember that this project must be “approved” before you submit it as complete.**
+
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
 Now go to your Student Dashboard and submit your exercise.
