@@ -49,6 +49,8 @@ Please review the helpful tips below to ensure that you gain the most value from
 
 ### Submit your project
 
+**Remember that this project must be “approved” before you submit it as complete.**
+
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.* 
 
 Now go to your Student Dashboard and submit your project.
