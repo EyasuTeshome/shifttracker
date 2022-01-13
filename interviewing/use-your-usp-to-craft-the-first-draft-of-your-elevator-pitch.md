@@ -4,7 +4,7 @@
 
 - Confidently pitch yourself in a short Elevator Pitch.
 
-### **Estimated time: 1.5h**
+### **Estimated time: 1.25h**
 
 ## **Description**
 
