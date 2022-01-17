@@ -26,11 +26,11 @@ In the lesson ["How and why to join online tech communities"](how-and-why-to-joi
 
 - [Find and join a LinkedIn group](https://www.linkedin.com/help/linkedin/answer/186/find-and-join-a-linkedin-group?lang=en)
 
-### Joining a tech Slack group
+### Joining a tech Slack or Discord group
 
-In the lesson ["How and why to join online tech communities"](how-and-why-to-join-online-tech-communities.md), you also learned how to join a Slack group and how to message people in the group. The link below is a quick reminder of which tech Slack groups you can join.
+In the lesson ["How and why to join online tech communities"](how-and-why-to-join-online-tech-communities.md), you also learned how to join a Slack or Discord group and how to message people in the group. The link below is a quick reminder of which tech Slack or Discord groups you can join.
 
-- [Find and join a tech Slack group](https://microverse.zendesk.com/hc/en-us/articles/360051489133-How-to-use-Slack-channels-to-network-and-build-relationships)
+- [Find and join a tech Slack group](https://microverse.zendesk.com/hc/en-us/articles/360051489133-How-to-use-Slack-channels-to-network-and-build-relationships) (also includes some Discord links)
 
 ## Exercise
 

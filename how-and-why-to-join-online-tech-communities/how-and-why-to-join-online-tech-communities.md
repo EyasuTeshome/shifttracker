@@ -28,7 +28,7 @@ The first part of this lesson focuses on deciding which tech communities you can
 **Learn more about which online tech communities to join:**
 
 - [Which online tech communities should I join?](online-tech-communities-to-join.md)
-- [Video to watch: step by step guide on which slack channels to join and why](https://drive.google.com/file/d/1lADBzrORtoancX_qdg-Tb-sM8j6q-AnB/view?usp=sharing)
+- [Video to watch: step by step guide on which Slack or Discord channels to join and why](https://drive.google.com/file/d/1lADBzrORtoancX_qdg-Tb-sM8j6q-AnB/view?usp=sharing)
 
 ### How to join an online tech community
 
@@ -37,7 +37,7 @@ In this section, you will learn about how to join communities. It's up to you wh
 **Learn more about how to join an online tech community using the links below:**
 
 - [How to join an online tech community](how-to-join-an-online-tech-community.md)
-- [10 developer-focused Slack channels to find your next remote job](https://hackernoon.com/developer-slack-channels-remote-job-freelance-project-98e9b70d6275)
+- [10 developer-focused Slack or Discord channels to find your next remote job](https://hackernoon.com/developer-slack-channels-remote-job-freelance-project-98e9b70d6275)
 
 Since most of our students join groups in three specific spaces, we include here more information about those three and what it will look like for you to find and join them.
 
