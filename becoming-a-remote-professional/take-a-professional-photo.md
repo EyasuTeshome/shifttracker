@@ -8,7 +8,9 @@
 
 ## Description
 
-In this project, you will take the professional photo that you will later be using as your profile picture on professional sites like LinkedIn and GitHub. Be sure to read through the entire article before taking a new photo, to ensure that you know everything you need to do to make it a great photo.
+In this project, you will take the professional photo that you will later be using as your profile picture on professional sites like LinkedIn and GitHub. Be sure to read through the entire article before taking a new photo, to ensure that you know everything you need to do to make it a great photo. 
+
+(Note: If you have a reason such as religious practices that make it so taking a photo of yourself and putting it online is uncomfortable or not allowed, please reach out to Student Success to request an exception for this assignment.)
 
 ### Why is taking a professional photo important?
 
