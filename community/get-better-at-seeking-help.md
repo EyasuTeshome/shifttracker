@@ -1,7 +1,7 @@
 # Get better at seeking help
 ## Learning objectives
 
-- Recognize what a reasonable amount of time is to try solving someone on your own before
+- Recognize what a reasonable amount of time is to try solving something on your own before
 seeking help.
 - Apply varied techniques for getting unstuck as needed while learning new coding skills.
 - Demonstrate the ability to seek out information on your own before asking for an answer.
