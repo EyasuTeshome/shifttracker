@@ -14,7 +14,7 @@
 
 We talked previously about how we all face challenges and make mistakes, both in our educational journeys and in our careers. The first step in dealing with those challenges and mistakes is admiting to ourselves and others that they exist. This often requires that we allow ourselves to be vulnerable. 
 
-### Why is vulnterability an important part of a growth mindset?
+### Why is vulnerability an important part of a growth mindset?
 
 Sometimes vulnerability can be seen as "weakness" However, work by Brené Brown has helped to redefine vulnerability as an act of courage. Taking a chance on a new career as a developer is an act of courage. Allowing ourselves to be vulnerable during this process by admitting when we face challenges or make mistakes helps to remind us that the path we are taking is not easy, while also showing us that we can be successful and are not on the journey alone.  
 
