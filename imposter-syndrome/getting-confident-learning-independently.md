@@ -26,7 +26,7 @@ When we learn in classrooms, teachers not only provide subject matter informatio
 
 There are 4 keys ways that people prefer to learn: visually (seeing); auditorily (hearing), reading/writing, and kinesthetically (doing). Some people use a combination of these styles. Review the article and video below to learn more about different learning styles.
 
-- [4 different learning styles you should know: The VARK model](https://educationonline.ku.edu/community/4-different-learning-styles-to-know)
+- [4 different learning styles you should know: The VARK model](https://kueducation.es501.com/community/4-different-learning-styles-to-know)
 - [Discover your learning style](https://www.youtube.com/watch?v=_IopcOwfsoU)
 
 **Identifying your own learning style**
