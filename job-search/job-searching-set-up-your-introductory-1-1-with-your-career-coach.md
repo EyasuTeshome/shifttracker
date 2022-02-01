@@ -4,7 +4,9 @@
 
 ## Introduction
 
-You should have received a notification to schedule your introductory 1:1 session with your career coach. Today you'll take the time to set up this meeting. 
+You should receive a notification to schedule your introductory 1:1 session with your career coach by Thursday. Once you do so, take the time to prepare for this meeting. 
+
+**If you haven't been assigned a career coach by Thursday, please contact Student Success on Friday.** 
 
 ### Why is meeting up with your career coach important?
 
