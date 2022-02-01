@@ -66,7 +66,7 @@ While you are job searching, you will still attend your full-time Microverse sch
 
 During job searching, you will communicate with your career coach in group meetings and you will be able to get in touch with them through Zendesk to get support for any immediate needs throughout the process, such as preparing for an interview that has just been scheduled.
 
-You will be assigned a career coach by Thursday at latest. If you don't receive an email notification with this information, please contact student support.
+You will be assigned a career coach by Thursday at latest. If you don't receive an email notification with this information, please contact Student Success.
 
 
 **Guiding questions:**
