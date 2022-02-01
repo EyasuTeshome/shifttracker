@@ -64,7 +64,10 @@ While you are job searching, you will still attend your full-time Microverse sch
 
 ### How will I communicate with my career coach?
 
-While you are job searching, you will still attend your full-time Microverse schedule. However, there will be more 
+During job searching you will interact with your career coach both in weekly group meetings. Also, you will be able to get in touch with them through Zendesk to get support for any specific need throughout the process, such as preparing for an interview.
+
+You will be assigned a career coach by Thursday at latest. If you don't receive an email notification with this information, please contact student support.
+
 
 **Guiding questions:**
 
