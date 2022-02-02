@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Link to an activity with a bug*
+**Link to an activity with a bug**
 Paste a link to the activity.
 
 **Suggested fix**
