@@ -8,8 +8,6 @@
 
 ## Description
 
-*Read through the following section on your own while staying on the Zoom call with your group.* 
-
 In this exercise, you will learn how to add a new project to your portfolio by gathering screenshots of your projects and including links to your GitHub Source Code and to Live Demos.  
 
 ### Why is adding a new project to your portfolio important?
