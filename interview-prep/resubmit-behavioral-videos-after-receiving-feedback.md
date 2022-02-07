@@ -43,7 +43,12 @@ We've repeatedly discussed the importance and value of good feedback, and you sh
 
 1. Copy the link to the re-recording of your new behavioral videos.
 
-### Submit your project
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 **Remember that this project must be “approved” before you submit it as complete.**
 
