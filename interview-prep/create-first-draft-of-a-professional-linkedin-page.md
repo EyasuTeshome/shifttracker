@@ -179,7 +179,11 @@ The Activity section is **optional**. It won't affect the score that Microverse 
 
 1. Make sure that you have thoroughly completed each section of the LinkedIn profile.
 
-### Submit your exercise
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your exercise
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
