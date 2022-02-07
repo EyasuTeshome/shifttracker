@@ -47,7 +47,12 @@ Please review the article below once more to ensure that you've memorized our mo
 - Upload your professional photo online.
 - Ensure that the link to your photo is accessible to **anyone with the link**. If you have uploaded it to Google Drive, you may need to manually change the Share settings.
 
-### Submit your project
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 **Remember that this project must be “approved” before you submit it as complete.**
 
