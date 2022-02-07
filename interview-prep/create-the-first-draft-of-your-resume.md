@@ -189,7 +189,11 @@ Proper grammar, spelling, and sentence clarity is essential not only to showing 
 2. Your resume is a Google Doc.
 3. You have shared your resume so that **anyone with the link** can leave suggestions.
 
-### Submit your exercise
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your exercise
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
