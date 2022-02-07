@@ -49,7 +49,11 @@ Please review the article below (for the final time, at least as a requirement!)
 - **Once you have completed revisions**, start completing all fields in the job application. Carefully review each field to make sure you have not made any spelling errors. Upload all required documents. 
 - **Keep the following note in mind:** Most applications give you the ability to upload your cover letter as its own document, but some don't. If this job application does not have an individual field for a cover letter, then extract both your resume and cover letters as PDF files and then use [a PDF combiner like SmallPDF](https://smallpdf.com/merge-pdf) to merge both documents together, ensuring that your resume comes first.
 
-### Submit your project
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 **Remember that this project must be “approved” before you submit it as complete.**
 
