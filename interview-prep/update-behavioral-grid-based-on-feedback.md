@@ -47,7 +47,12 @@ Please review the helpful tips below to ensure that you gain the most value from
 2. Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below or leave a comment to your coach directly in the grid document explaining why you skipped over that feedback.
 3. Run your document through a spellcheck and grammar check tool like Grammarly before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making changes to a piece of text.
 
-### Submit your project
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 **Remember that this project must be “approved” before you submit it as complete.**
 
