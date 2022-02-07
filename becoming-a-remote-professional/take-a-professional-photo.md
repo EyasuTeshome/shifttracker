@@ -191,7 +191,12 @@ You've learned all about the elements of a great professional photo. In this las
 2. Upload your professional photo online.
 3. Ensure that the link to your photo is accessible to **anyone with the link**. If you have uploaded it to Google Drive, you may need to manually change the Share settings.
 
-### Submit your project
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.*
 
