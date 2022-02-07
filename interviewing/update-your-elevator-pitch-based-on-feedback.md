@@ -48,7 +48,12 @@ In the link below, we'll discuss a few helpful tips to ensure that you gain the 
 - Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submissions form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Run your document through Grammarly before you submit it, even if you did so previously; it is very common to accidentally introduce new errors when making edits/changes to a piece of text.
 
-### Submit your project
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
