@@ -50,7 +50,7 @@ Once you have completed the exercise above, spend 5 minutes discussing the follo
 
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
-[Understanding the power of reflection](https://www.nexusinnovations.com/the-power-of-reflection/#:~:text=Purpose%3A,a vacation helps make memories.)
+[Understanding the power of reflection](https://www.nexusinnovations.com/the-power-of-reflection/#:~:text=Purpose%3A,a)
 
 [15 benefits of adopting a Growth Mindset](https://alexvermeer.com/15-benefits-growth-mindset/)
 
