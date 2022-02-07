@@ -152,7 +152,12 @@ In the link below, we'll discuss a few strategies you can use to help edit and r
 - Make sure that your Google Doc is shared so that **anyone with the link can leave edits or suggestions**. If you do not share the document, your project reviewer will return the document to you without review.
 - Run your document through Grammarly before you submit it.
 
-### Submit your project
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your project
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
