@@ -92,7 +92,13 @@ Your Activity chart is **the quickest way** a recruiter has **to view** **your c
 2. Verify that all technologies and proper nouns are correctly capitalized (for example, use "JavaScript" instead of "Javascript").
 3. Submit a link to your GitHub profile.
 
-### Submit your exercise
+
+
+## Review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
+
+## Submit your exercise
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
