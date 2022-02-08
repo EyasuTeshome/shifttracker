@@ -1,4 +1,4 @@
-# Add last touches to resume based on feedback
+# Make final changes to resume based on feedback
 
 ## **Learning objectives**
 
