@@ -16,7 +16,7 @@ Phone screens are usually the first stage of any interview process. Doing a mock
 
 ### Guidelines to completing your phone screen
 
-In this exercise, you will watch a few videos of career coach Eric who will act as a recruiter and ask you both behavioral and technical questions. Each of your answers should be no longer than 3 minutes so make sure you set a timer next to you. In the end, you will self-assess how you did on the phone screen.
+In this exercise, you will watch a few videos of career coach Eric who will act as a recruiter and ask you both behavioral and technical questions. Each of your answers should be no longer than 3 minutes so make sure you set a timer next to you. Be sure to use the [SAR format](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-does-sar-mean.md) when you answer behavioral questions. In the end, you will self-assess how you did on the phone screen.
 
 ## Exercise
 
