@@ -16,7 +16,7 @@ There are several problems with that feedback:
 - It is hostile rather than kind. There are better ways to tell someone their phone distractions are creating problems for your collaboration than to say that it's really annoying.
 - It is disrespectful and shuts down conversation. Don't tell your partner or teammate that they need to stop doing something because it is incredibly unprofessional. This will make them feel scolded and condescended to. And it certainly doesn't foster an open conversation about what's going on.
 
-Here's a better version of that same feedback: *"I think the most important thing for you to work on is improving your focus when we meet. Seeing you get distracted by your phone while we're trying to collaborate frustrates me and impedes our productivity. What do you think we can do to make it easier for you to stay focused when we're working together? I really enjoy working with you and I think with greater focus we would be even more effective together."*
+Here's a better version of that same feedback: *"In our last meeting, when we were working on XYZ project, I noticed you were often looking at your phone. This made me feel that the meeting was not interesting to you and that we were progressing slowly, which was frustrating to me as it impedes our productivity. What do you think we can do to improve the focus when we're working together? I really enjoy working with you and I think with greater focus we would be even more effective together."*
 
 This is better for the following reasons:
 
