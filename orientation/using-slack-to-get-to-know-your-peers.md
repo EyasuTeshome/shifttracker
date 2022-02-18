@@ -32,6 +32,7 @@ Take a look around in Slack and get to know our different channels. We use chann
 - **#announcements-** This is where the Microverse staff make announcements to the school.
 - **#achievements-** A Slack channel where you should post about your own achievements and celebrate the achievements of others
 - **#lunch-and-learn-** This is where you will receive updates about lunch and learns that are taking place in the Program where a student talks about their journey to a software development job.
+- **#sideprojects-** This channel is created for students to connect with other Micronauts who want to go beyond the core curriculum and use extra time or time outside of the program to work on side projects.
 
 
 ------
