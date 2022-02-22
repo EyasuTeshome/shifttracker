@@ -20,7 +20,7 @@ In the lesson "_How to follow-up after an interview_", you learned when it is ap
 
 **Refresh your memory about how to follow up after an interview :**
 
-- [How to follow up after an interview](https://www.notion.so/Prof-Skills-Activity-How-to-follow-up-after-an-interview-dcc694cade7645b79a30a0c6945ef82c)
+- [How to follow up after an interview](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-follow-up-after-an-interview.md)
 - [How do I follow up with recruiters and hiring managers?](https://microverse.zendesk.com/hc/en-us/articles/360051285013-How-do-I-follow-up-with-recruiters-and-hiring-managers-)
 
 ## Exercise
