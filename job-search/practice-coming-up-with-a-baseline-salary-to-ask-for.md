@@ -47,7 +47,6 @@ Now go to your Student Dashboard and submit your exercise.
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Stack Overflow salary calculator](https://stackoverflow.com/jobs/salary)
 - [Buffer's remote work salary calculator](https://buffer.com/resources/salary-formula/)
 - [Clockify's hourly rate calculator for freelancers](https://clockify.me/hourly-rate-calculator)
 - [Video - How to negotiate salary](https://youtu.be/Xap454_Nq2g)
