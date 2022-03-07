@@ -17,7 +17,7 @@ Adapting to a demanding, full-time program can be challenging. The remote nature
 
 ### Setting yourself up for success through three areas:
 
-By knowing when your deadlines are, proactively communicating, and adjusting to your new schedule, you will be ready to get far ahead in the Microverse program. Please read through the information together with your standup team. You should not mute yourself while doing this exercise.
+By knowing when your deadlines are, proactively communicating, and adjusting to your new schedule, you will be ready to get far ahead in the Microverse program. Please read through the information together with your morning session team. You should not mute yourself while doing this exercise.
 
 - [Three habits for success](three-habits-for-success.md)
 
