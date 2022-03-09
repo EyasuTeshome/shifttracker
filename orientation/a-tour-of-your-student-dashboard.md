@@ -13,7 +13,7 @@ Please only continue with this section after you've finished the previous sectio
 - The green dot highlights which session is currently taking place.
 - You should always join the call through the "Join call" button on the main dashboard page.
 - The Program hours you see are the UTC+1 or UTC-6 hours, not your local hours.
-- In the homepage, ou can see your progress in the Program, as well as the modules and blocks you have repeated.
+- You can see your progress in the Program, as well as the modules and blocks you have repeated, in the homepage.
 - Your progress in the current block appears in the Progress View page.
 
 ### View Progress page:
@@ -24,7 +24,8 @@ Please only continue with this section after you've finished the previous sectio
 
 - You'll find here the activities for your current week.
 - You can also see activities for previous and next weeks in the module, but you won't be able to work on future ones.
-- You have to complete all core requirement activities by Satudary 11:59, you may skip one skippable activity per block, and you may carry over up to 5 carry-over activities and finish them the following week.
+- You have to complete all core requirement activities as well as any activity that you have carried over by Satudary 11:59. 
+- You may skip one skippable activity per block and you may carry over up to 5 carry-over activities to the following week.
 - You can view the activities by clicking on the link.
 - Technical projects always require a "Project completion form" before it's completed. Failure to submit it will result in a repeat week.
 - Check-point quizzes will require a score of 70% to pass the week. You only have three attempts to achieve this score.
