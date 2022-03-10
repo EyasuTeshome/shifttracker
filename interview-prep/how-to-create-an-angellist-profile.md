@@ -2,9 +2,7 @@
 
 First step: [visit AngelList and create an account](https://angel.co/).
 
-During the sign-up process, AngelList will ask you to fill in a few basic fields, such as your location, your desired salary, and whether or not you are willing to work remotely. You can come back and edit this information later on, but for now, fill it out as thoroughly as possible. If you're not sure what to put for desired salary, do a quick Google search for the average salary that software developers of your level (junior/senior/etc.) make in your country.
-
-![https://cdn.filestackcontent.com/TT492yqDQHe4WsPqzLJ5](https://cdn.filestackcontent.com/TT492yqDQHe4WsPqzLJ5)
+During the sign-up process, AngelList will ask you to fill in a few basic fields, such as your location, your role, your experience and education, your desired salary, and whether or not you are willing to work remotely. You can come back and edit this information later on, but for now, fill it out as thoroughly as possible. If you're not sure what to put for desired salary, do a quick Google search for the average salary that software developers of your level (junior/senior/etc.) make in your country.
 
 ![https://cdn.filestackcontent.com/40Oq27g5Qjij30AzAwD5](https://cdn.filestackcontent.com/40Oq27g5Qjij30AzAwD5)
 
