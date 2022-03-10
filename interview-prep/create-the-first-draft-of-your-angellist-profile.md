@@ -74,20 +74,24 @@ Once you've listed your projects, it's time to start filling in the Education se
 1. Take 10 minutes to copy/paste your education from LinkedIn into AngelList.
 2. Take an additional 5 minutes to carefully reread your education entries and identify any copy/paste errors.
 
-## Update the What I Do section
+## Update the About section
 
-The "What I Do" field in AngelList is the equivalent of the "About" section in LinkedIn. The only difference is that there is a 300 character limit. Therefore, while you can copy/paste some of it, you probably won't be able to paste the entire thing.
+The About section in AngelList shows your skills, achievements and locations. Now, edit this section to continue working on your skills and achievements. 
 
-**Learn how to condense your elevator pitch into a shorter "What I Do":**
+## Completely fill in your Skills
 
-[Condense your elevator pitch into 300 characters](condense-your-elevator-pitch-into-300-characters.md)
+The AngelList Skills section is great because it not only allows recruiters to find your profile via keyword searches, it also allows hiring managers to very quickly get an idea of what you're good at. And just like on LinkedIn, AngelList allows you to focus on both technical skills and soft skills.
+
+**Learn more about adding skills to your AngelList:**
+
+[How to correctly fill in the Skills section of your AngelList profile](how-to-correctly-fill-in-the-skills-section-of-your-angellist-profile.md)
 
 **Apply what you've learned**
 
-1. Spend 10 minutes condensing your elevator pitch/LinkedIn "About" into a 300-character "What I Do" section.
-2. Spend 5 additional minutes reviewing this section for any grammatical errors.
+1. Take 10 minutes to copy/paste your skills from LinkedIn to AngelList.
+2. Take an additional 5 minutes to ensure that each skill has been copy/pasted correctly, and that you are not accidentally duplicating skills.
 
-## Select accomplishments for the Achievements section
+## Show your accomplishments in Achievements 
 
 The purpose of the Achievements section is to list career highlights: things that would make you stand out from a crowd of job applicants, events or accomplishments you're particularly proud of, or anything else you'd like to call attention to. While you will be able to copy/paste part of this section from LinkedIn, this is the one section of your AngelList profile where you may need to write some new material. Even though this means that completing this section may take longer than others, it is still important; the Achievements section is where you prove to recruiters that you go above and beyond.
 
@@ -101,58 +105,9 @@ The purpose of the Achievements section is to list career highlights: things tha
 2. Take an additional 15 minutes to brainstorm additional achievements.
 3. Spend 5-10 minutes examining your text for grammatical or spelling errors.
 
-## Completely fill in the Skills section
+## (Optional) Personalize your profile by filling out the Investments and Q&A section
 
-The AngelList Skills section is great because it not only allows recruiters to find your profile via keyword searches, it also allows hiring managers to very quickly get an idea of what you're good at. And just like on LinkedIn, AngelList allows you to focus on both technical skills and soft skills.
-
-**Learn more about adding skills to your AngelList:**
-
-[How to correctly fill in the Skills section of your AngelList profile](how-to-correctly-fill-in-the-skills-section-of-your-angellist-profile.md)
-
-**Apply what you've learned**
-
-1. Take 10 minutes to copy/paste your skills from LinkedIn to AngelList.
-2. Take an additional 5 minutes to ensure that each skill has been copy/pasted correctly, and that you are not accidentally duplicating skills.
-
-## Add potential locations to your profile
-
-The Locations field is exactly what it sounds like: a section where you can list locations you're potentially interested in relocating to. Including multiple locations can signal that you have a multicultural mindset, that you're open to relocation, and/or that you're flexible with working with companies based all over the world, so it's important to fill this section in.
-
-**Learn more about what to include in the Locations field**
-
-[Selecting locations to add to your AngelList profile](selecting-locations-to-add-to-your-angellist-profile.md)
-
-**Apply what you've learned**
-
-1. Take 5 minutes to add locations to your profile.
-
-## Identify markets of interest
-
-The Markets field is the area where you can list any industry that you're interested in. Let's say you have a passion for environmentalism: in the Markets field, you can list Clean Energy. Or maybe you've been investing in Bitcoin since 2012: add Cryptocurrency to the Markets field. You can add almost anything to this field—within reason.
-
-**Learn more about how to use the Markets field to personalize your profile**
-
-[What should you add to the Markets field?](what-should-you-add-to-the-markets-field.md)
-
-**Apply what you've learned**
-
-1. Spend 5 minutes adding markets to your AngelList profile.
-
-## (Optional) Ask peers and managers for references
-
-This section on AngelList is optional, but we strongly recommend reaching out to peers, coworkers, and past managers in order to collect recommendations. Luckily, AngelList makes it pretty easy to do so.
-
-**Learn more about how to ask for references:**
-
-[A short guide to asking for references](a-short-guide-to-asking-for-references.md)
-
-**Apply what you've learned**
-
-1. Spend 5 minutes filling out the Interests section.
-
-## (Optional) Personalize your profile by filling out the Q&A
-
-Just like the reference section, the Q&A section is optional, but it can be a nice way of further personalizing your profile and showing hiring managers the person behind the developer. Below, we'll briefly discuss how to fill it out. 
+The Investments and Q&A section are optional. Answering some questions can be a nice way of further personalizing your profile and showing hiring managers the person behind the developer. 
 
 **Learn more about the Q&A section:**
 
@@ -160,7 +115,7 @@ Just like the reference section, the Q&A section is optional, but it can be a ni
 
 **Apply what you've learned**
 
-1. Optional: take 10-15 minutes to answer the sample questions in the Q&A field.
+1. Optional: take 10-15 minutes to fill the Investment section answer the sample questions in the Q&A field.
 
 ## Make sure that your Talent Profile has been filled out
 
