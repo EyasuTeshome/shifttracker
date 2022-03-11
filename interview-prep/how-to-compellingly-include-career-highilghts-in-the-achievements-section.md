@@ -1,6 +1,6 @@
 # How to compellingly include career highlights in the Achievements section
 
-The "Achievements" section can be up to 3000 characters long, but you **do not** have to use all of that; in fact, we recommend sticking to 1000-1500 characters (or about 150-250 words), which will help increase readability. You can write in **either paragraphs or bullet points** (copy/paste the following bullet point: • ).
+The "Achievements" section can be up to 1000 characters long (or about 150). You can write in **either paragraphs or bullet points** (copy/paste the following bullet point: • ).
 
 Let's walk you through how to complete this section:
 
