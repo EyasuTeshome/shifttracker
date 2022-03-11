@@ -10,7 +10,7 @@
 
 ## Introduction
 
-The purpose of this lesson is to introduce the key skills needed to successfully work remotely. In this article we focus on punctuality as a remote work skills.
+The purpose of this lesson is to introduce the key skills needed to successfully work remotely. In this article we focus on punctuality as a remote work skill.
 
 ### Why are remote work skills important?
 
