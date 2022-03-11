@@ -12,7 +12,9 @@ If you have made updates to your resume, or if you neglected to upload a resume 
 
 ### **Preferences**
 
-You should have answered most of these questions when first creating your AngelList account. **Please review them to ensure the information is accurate and up to date**. Consider including multiple locations, because it can signal that you have a multicultural mindset, that you're open to relocation, and/or that you're flexible with working with companies based all over the world. Also, make sure that you have also clicked the **Open to working remotely** button.
+You should have answered most of these questions when first creating your AngelList account. **Please review them to ensure the information is accurate and up to date**. 
+
+Consider including multiple locations, because it can signal that you have a multicultural mindset, that you're open to relocation, and/or that you're flexible with working with companies based all over the world. Also, make sure that you have also clicked the **Open to working remotely** button.
 
 **Learn more about what to include in the Locations field**
 
