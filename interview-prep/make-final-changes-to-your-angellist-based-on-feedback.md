@@ -16,7 +16,7 @@ AngelList is one of the largest startup job boards on the internet, so if you pl
 
 The purpose of this final revision round is to ensure that neither you nor your project reviewers have missed an error or area of improvement that could potentially prevent you from receiving interview requests from AngelList hiring managers. It's also intended to catch any errors that may have been accidentally introduced in previous editing processes.  
 
-Remember: the effort you invest in creating and refining your AngelList profile right now is an effort that will be repaid once you start job searching. **Put as much effort as possible into the LinkedIn editing process**; your future, newly-employed self will thank you.
+Remember: the effort you invest in creating and refining your AngelList profile right now is an effort that will be repaid once you start job searching. **Put as much effort as possible into the AngelList editing process**; your future, newly-employed self will thank you.
 
 ## Project Setup
 
