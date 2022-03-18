@@ -2,11 +2,11 @@
 
 ## **Make sure your projects are actually pinned**
 
-First: make sure that your projects are actually pinned. If you have not pinned projects, GitHub will automatically choose your 6 most popular repositories to showcase on your dashboard. However, your popular repositories are constantly updating, which means you will not have control over which projects a visitor sees.
+If you have not pinned projects, GitHub will automatically choose your 6 most popular repositories to showcase on your dashboard. However, your popular repositories are constantly updating, which means you will not have control over which projects a visitor sees.
 
-Make sure that your dashboard says "**Pinned," NOT "Popular repositories."** If your dashboard says "Popular repositories," that means you have not actually pinned any projects, and a project reviewer will automatically reject your project and send it back to you for edits.
+First, make sure that your dashboard says "**Pinned," NOT "Popular repositories."** If your dashboard says "Popular repositories," that means you have not actually pinned any projects, and a project reviewer will automatically reject your project and send it back to you for edits.
 
-## **Choose 6 of your best projects to pin**
+## **Select the projects to pin (at least, one)**
 
 The are **two factors to consider** when choosing projects to pin:
 
@@ -17,14 +17,14 @@ The are **two factors to consider** when choosing projects to pin:
 
 Good software developers are expected to know several technologies: languages, frameworks, etc. In other words, if you **only pin** Ruby projects to your GitHub dashboard, a recruiter might think that you only know Ruby. That's not good!
 
-Instead, make sure that your six pinned projects feature **at least 3 different technologies**. **A note:** languages, libraries, and frameworks count as different technologies. For example, JavaScript, Ruby, and React would count as 3 different technologies, and Ruby and Ruby on Rails would count as 2 different technologies.
+If you don't have programming experience before Microverse, you may only have one or two projects by now. Start by pinning at least one and, as you work on others, remember to pin them. When you start job searching, it is very important that you have 6 pinned projects and that they feature **at least 3 different technologies**. **A note:** languages, libraries, and frameworks count as different technologies. For example, JavaScript, Ruby, and React would count as 3 different technologies, and Ruby and Ruby on Rails would count as 2 different technologies.
 
-# Showcasing your best, most complex projects
+### Showcasing your best, most complex projects
 
-Since your pinned projects are probably the first projects a visitor to your GitHub profile will see, it's important that you pin the **best** projects. That means choose projects that are complex, attractive, and clean.
+Since your pinned projects are probably the first ones that a visitor to your GitHub profile will see, it's important that you pin the **best** projects. That means choosing projects that are complex, attractive, and clean. Also, make sure that you have made important contribution to these projects.
 
 - **Don't pin website clones** (unless you are a new student and have only created clones so far). Pinning website clones implies that you are brand new to development and have only learned HTML or CSS so far. If you've only created clones so far, you may pin them, but **set a 1-2 month reminder to come back and pin more complex projects later.**
-- If you have previous developer experience, **it's okay to pin projects you built previously**! If you previously worked on a cool Python project, feel free to pin it; you don't only have to pin Microverse projects.
+- If you have previous developer experience, **it's okay to pin projects you built previously**! If you worked on a cool Python project, feel free to pin it; you don't only have to pin Microverse projects.
 - **Only pin open-source projects if you made significant contributions**. Be careful not to mislead people into thinking you're a major contributor to a significant open source project unless you actually are. If you implemented a significant feature (especially if you've gotten multiple separate commits into the project) go ahead and list it. However, if your contribution was relatively minor (e.g. fixing a minor bug in React or adding some documentation), then you shouldn't pin that project.
 
 # **Write a strong project description for all 6 pinned projects**
