@@ -53,7 +53,7 @@ GitHub allows you to create a personal README file that displays at the top of y
 
 ## Pin strong, diverse projects to showcase your development skills
 
-Your pinned projects are the **first** projects a visitor to your GitHub will ever see. It's therefore **incredibly important** to pin **six complex, sophisticated projects** and **include compelling, detailed project summaries for all six**. Let's talk about how to make sure that your pinned projects impress a recruiter!
+Your pinned projects are the **first** projects a visitor to your GitHub will ever see. When you are searching for a job, it's therefore **incredibly important** to have pinned **six complex, sophisticated projects** and **include compelling, detailed project summaries for all six**. Right now, start by pinning at least one project; as you complete the program, you will develop more projects and you can pin them later. Let's talk about how to make sure that your pinned projects impress a recruiter!
 
 **Learn more about how to choose which projects to pin:**
 
@@ -61,10 +61,10 @@ Your pinned projects are the **first** projects a visitor to your GitHub will ev
 
 **Apply what you've learned**
 
-1. Pin six of your most complex, attractive projects, ensuring that your pinned projects showcase a breadth of technologies.
-2. Write detailed, thorough descriptions for each project, including a brief summary of the project, the technologies you used to build it, and 1-2 major features.
-3. Ask your peers to star your repos.
-4. If needed, use the tutorial in the link above to change the tagged language of the GitHub project.
+1. Pin at least one complex, attractive project. If you have worked on several projects already, it is a good idea to pin them also. Try to showcase the breadth of technologies that you master.
+3. Write detailed, thorough descriptions for each project, including a brief summary of the project, the technologies you used to build it, and 1-2 major features.
+4. Ask your peers to star your repos.
+5. If needed, use the tutorial in the link above to change the tagged language of the GitHub project.
 
 ## Showcase your commitment with your Activity chart
 
