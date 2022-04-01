@@ -24,7 +24,7 @@ As a programmer or technical professional, you must be able to both write code *
 **Learn more about the key skills for writing professional emails and their importance for people working in technical professions**
 
 - [How to write a professional email](https://www.indeed.com/career-advice/career-development/how-to-write-a-professional-email)
-- [12 tips for writing effective emails](https://drexel.edu/goodwin/professional-studies-blog/overview/2018/October/12-tips-for-writing-effective-emails/)
+- [12 tips for writing effective emails](https://drexel.edu/graduatecollege/professional-development/blog/2018/October/12-tips-for-writing-effective-emails/)
 
 ### Adapting email communication based on the audiences and situations
 
