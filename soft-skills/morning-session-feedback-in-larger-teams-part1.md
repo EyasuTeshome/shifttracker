@@ -44,8 +44,10 @@ Because when working in teams, we are working with people who have different per
 
 For the last 5 minutes of the session, come together as a group and discuss the following points:
 
-- How do you feel about hearing positive feedback? What about constructive feedback? Share the words that each of you registered in Step 4 to describe your feelings when you received feedback. Remember that putting into words what we notice and what we feel is essential to communicate with others.
-- What did you learn in this exercise? 
+- How do you feel about hearing positive feedback? What about constructive feedback? Share the words that each of you registered in Step 4 to describe your feelings when you received feedback. 
+- What did you learn in this exercise?
+
+Remember that putting into words what we notice and what we feel is essential to communicate with others. 
 
 ### Submit your exercise
 
