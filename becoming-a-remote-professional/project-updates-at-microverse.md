@@ -2,7 +2,7 @@
 
 ### How to use daily project updates?
 
-The first and foremost purpose of project updates is to let your team know the status is of your task. Project updates will make sure that there is transparency in the team and there are no surprises of unfinished tasks by the end of the week.
+The first and foremost purpose of project updates is to let your team know the status of your task. Project updates will make sure that there is transparency in the team and there are no surprises of unfinished tasks by the end of the week.
 
 Project updates will help you as an individual because they push you to think and plan: What will I be working on by the next update? What blockers might I experience tomorrow?
 
