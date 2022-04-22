@@ -48,7 +48,7 @@ Context: You have just received an offer as a Junior Ruby on Rails Software Deve
 
 [Video to watch: Scenario One](https://drive.google.com/file/d/1QapbluL7pTv5blqCQgYbUHWpRrUoaQ0X/view?usp=sharing)
 
-This is an example of a bad negotiation. Although the student said she was happy and thankful for the offer, the student asked for a higher salary in a demanding way, by saying "I cannot work for this type of salary, developers in your country made at least 22,5000 USD or more so I want to have at least the same". Lastly, the student did not give any arguments about why the organization should offer a higher salary.
+This is an example of a bad negotiation. Although the student said she was happy and thankful for the offer, the student asked for a higher salary in a demanding way, by saying "I cannot work for this type of salary, developers in your country made at least 22,500 USD or more so I want to have at least the same". Lastly, the student did not give any arguments about why the organization should offer a higher salary.
 
 Scenario Two:
 
