@@ -33,9 +33,9 @@ Mindset is the way our brain perceives ourselves and the world. A growth mindset
 
 A fixed mindset means you think you can’t get better at things, even if you practice. Having a fixed mindset means believing you were born one way and cannot change. A fixed mindset makes you want to quit or give up at the first failure because you decide you are just not good at it.
 
-**Learn more about the difference between a growth mindset and a fixed mindset:**
+**Learn more about the difference between a growth mindset and a fixed mindset in this video:**
 
-- [The differences between a growth mindset and a fixed mindset](https://www.screwtheninetofive.com/differences-between-growth-and-fixed-mindset/)
+- [Growth mindset vs fixed mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU)
 
 ### What exactly is a challenge or a failure?
 
