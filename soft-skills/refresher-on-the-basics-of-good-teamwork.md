@@ -34,7 +34,7 @@ Often times when new people come together it does take in a while to get adjuste
 
 Icebreaker questions can help you get started with knowing each other and breaking the ice.
 
-Once you get to know each other, *setting working agreements with teammates you'll be interacting with every day will help you stay coordinated and work more smoothly together this week*. 
+Once you get to know each other, **setting working agreements with teammates you'll be interacting with every day** will help you stay coordinated and work more smoothly together this week. 
 
 **Remind yourselves what icebreaker questions are, and how to use them in meetings:** 
 
