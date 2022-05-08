@@ -1,6 +1,6 @@
 # Answer to the challenge questions
 
-- You perform a final sweep of your application materials before submitting them to your career coach and after making all the changes requested by reviewers.
+- You perform the final sweep of your application materials before submitting them to your career coach and after making all the changes requested by reviewers.
 - You will review and update your application materials many times as you are job searching. Prepping them will be an iterative process, where your coach will give you feedback and you make changes accordingly.
 - In the final sweep, you look for mistakes or omissions in content and format, and you verify that it meets all the requirements in the rubric.
 
