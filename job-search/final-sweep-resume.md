@@ -33,6 +33,8 @@ To review your resume, it is important to read it through several times, looking
 5. Finally, look at the feedback that you received from your reviewers and verify that you made all the corrections they requested.
 6. Read it carefully one more time to make sure that you didn’t miss anything.
 
+**Keep a record of all the edits that you made to your resume in the final sweep so that you can integrate them into other application materials, in particular, your Linkedin, AngelList or GitHub profile.**
+
 ## Submission instructions
 
 - Save this new version of your resume in Google Drive with the file name: Final_sweep_resume_yourname.
