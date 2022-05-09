@@ -25,7 +25,7 @@ You've used the curriculum and project revision process to create your resume an
 
 To review your resume, it is important to read it through several times, looking at specific attributes each time, and making the necessary changes: 
 
-1. First, observe carefully the format of your resume. Does it follow the template you chose? Are the styles are applied consistently? Is it readable and attractive?
+1. First, observe carefully the format of your resume. Is it readable and attractive? Does the template that you chose work well for the information you are presenting? Are the styles are applied consistently? 
 2. Check that all links function properly.
 3. Read the resume through a first time and analyze if it provides a clear picture of your knowledge, skills and experience. Make note of information that might be missing.
 3. Using the rubric, verify that each section meets the requirements. Refer to the resume walkthrough if you have questions about a particular section. Identify phrases that seems confusing and rewrite them if necessary. Update or add any information that was missing (and that you identified in the previous step).
