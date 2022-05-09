@@ -12,7 +12,7 @@ In this exercise, you'll look at your resume and make any necessary edits before
 
 ## Why is it important to make one last round of revisions before submitting your resume to your coach?
 
-You've used the curriculum and project revision process to create your resume and improve it substantially using the feedback from reviewers. Yet, there might have some mistakes stills, or there might be out-dated information, links that don’t work, or areas of improvement that you or the reviewer didn’t notice. The goal of the final sweep is to identify anything that you might have missed and to correct and update it. It's also intended to catch any errors that may have been accidentally introduced in previous editing processes.  
+You've used the curriculum and project revision process to create your resume and improve it substantially using the feedback from reviewers. Yet, there might be some mistakes, out-dated information, links that don’t work, or areas of improvement that you or the reviewer didn’t notice. The goal of the final sweep is to identify anything that you might have missed, to correct or update it. It's also intended to catch any errors that may have been accidentally introduced in previous editing processes.  
 
 ## Project setup
 
