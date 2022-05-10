@@ -16,17 +16,17 @@ The final sweep is an in-depth revision of your application materials to identif
 
 ### Why is the final sweep important?
 
-Job searching can be a long process. In order to reduce the time it takes for you to land your next role at a company you love, you want to make sure that you've done everything you can to make your application look excellent and stand out from the crowd. This means checking there are no spelling or grammar mistakes and you've highlighted your achievements, showcasing your best projects, and keeping your GitHub green with projects that have compelling READMEs. You've gotten reviews from project reviewers on this work so far, but now your career coach will come through and take a look at everything to help you get your application materials to a 100%. 
+Job searching can be a long process. In order to reduce the time it takes for you to land your next role at a company you love, you want to make sure that you've done everything you can to make your application look excellent and stand out from the crowd. This means checking there are no spelling or grammar mistakes, that you've highlighted your achievements, showcased your best projects, and kept your GitHub green with projects that have compelling READMEs. You've gotten reviews from project reviewers on this work so far, but now your career coach will come through and take a look at everything to help you get your application materials to a 100%. 
 
-Prepping your application materials will take a couple of weeks and a dedicated effort from you. It will require several rounds of revisions, where your coach gives you specific feedback and you make corrections. To make the best use of your time and your coach's time, it is important that you perform a thorough final sweep of your application materials before the first submission. Then, throughout Module 7, you and your coach will dig deeply into the content of each material and strengthen it to increase your opportunities of being invited to participate in interviews.
+You will work on improving your application materials over the next couple of weeks, and it will take a dedicated effort from you. It will require several rounds of revisions where your coach gives you specific feedback and you make corrections. To make the best use of your time and your coach's time, it is important that you perform a thorough final sweep of your application materials before the first submission. Then, throughout the next month, you and your coach will dig deeply into the content of each material and strengthen it to increase your opportunities of being invited to participate in interviews.
 
-**To make the best use of your coach's time, it's very important that you put all of your efforts into editing your application materials before submitting them.** Your future, newly-employed self will thank you.
+**To make the best use of your time with your coach, it's very important that you put all of your efforts into editing your application materials before submitting them.** Your future, newly-employed self will thank you.
 
 ### How will you perform the final sweep?
 
-You will look carefully through each of your application materials to correct any mistakes or omissions in format or content, update anything that is out-of-date, and check the functionality of all links. As a reminder of what to look for in each material, you will refer to the initial walkthroughs that you used in the core curriculum and you will check that it meets all the requirements using the rubrics.
+You will look carefully through each of your application materials to correct any mistakes or omissions in format or content, update anything that is out-of-date, and check the functionality of all links. As a reminder of what to look for in each material, you will refer to the initial walkthroughs that you used in the core curriculum, and you will check that it meets all the requirements using the rubrics.
 
-**Put all of your efforts into editing your application materials before submitting them.** Your future, newly-employed self will thank you.
+**Put all of your efforts into editing your application materials before submitting them.** Again, your future, newly-employed self will thank you.
 
 ## Challenge yourself
 
