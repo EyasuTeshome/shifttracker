@@ -24,7 +24,7 @@ Now, learning how to write cover letters that get you interviews is not easy and
 - Open the cover letter rubric.
 - Open the walkthrough to create a first version of your cover letter.
 
-## For the final sweep, create a customized cover letter for the new job searching position that you selected. 
+## Create a customized cover letter for a job posting 
 
 Using the cover letter that you wrote in Module 5 as a reference, you write a cover letter for a new job posting. Remember that compelling cover letters tell a story about you, your knowledge, skills, and previous experience, in the context of a specific job posting and a particular company. To write your cover letter, you begin by analyzing carefully the role you are applying to and then, thinking through the information about you to highlight in each paragraph. As in other final sweep activities, it’s important to read through your cover letter several times with different intentions.
 
