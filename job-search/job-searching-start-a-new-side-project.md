@@ -6,8 +6,6 @@
 
 Today you are going to make a start on your side project and share what you plan to build this month.
 
-**Note: You need to submit this project in time for your coach to review it this week.** That means working to submit it before Wednesday, so your coach is able to provide feedback in a timely fashion. 
-
 ### Why is working on side projects important?
 
 Working on side projects is important for a variety of reasons. 
