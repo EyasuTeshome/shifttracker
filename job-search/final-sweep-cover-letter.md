@@ -21,8 +21,8 @@ Now, learning how to write cover letters that get you interviews is not easy and
 
 - Open up in Google Docs the cover letter that you wrote in Module 5.
 - Open all the written and numerical feedback that you received from your project reviewer(s) about your cover letter. You can find written feedback on your dashboard for each project under the **Action-->View Reviews** button.
-- Open the cover letter rubric.
-- Open the walkthrough to create a first version of your cover letter.
+- Open the [cover letter rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit).
+- Open the [walkthrough to create a first version of your cover letter](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md).
 
 ## Create a customized cover letter for a job posting 
 
