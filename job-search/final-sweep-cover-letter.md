@@ -8,13 +8,13 @@
 
 ## **Description**
 
-In this exercise, you will write a cover letter that explains why you are a good candidate for a new job posting and provides convincing arguments to sustain this claim. As a starting point, you will use and edit the cover letter that you created in Module 5.  
+In this exercise, you will rewrite your cover letter to customize it for a new job posting, before submitting it to your career coach. 
 
 ## Why is it important to become skillful in creating customized cover letters for each job application?
 
 Cover letters are a gateway to getting interviews because they give hiring managers a quick perspective of who you are and why you are a good fit for the job you are applying to. Thus, a compelling cover letter might make a difference in your chances of moving forward in the recruitment process. 
 
-Now, learning how to write cover letters that get you interviews is not easy and it will require lots of practice and a sustained effort from you. Your first attempts might not be perfect, but, don’t worry! It’s a skill that you can develop with the feedback and support from your coach reviewer. As a starting point, it’s important that you submit the best possible cover letter you can create in the final sweep. This will give your coach a clear idea of your strengths when writing cover letters as well as an insight into the challenges you are facing. 
+Now, learning how to write customized cover letters that get you interviews is not easy and it will require lots of practice and a sustained effort from you. Your first attempts might not be perfect, but, don’t worry! It’s a skill that you can develop with the feedback and support from your coach reviewer. As a starting point, it’s important that you submit the best possible cover letter you can create in the final sweep. This will give your coach a clear idea of your strengths when writing cover letters as well as an insight into the challenges you are facing. 
 
 
 ## Project setup
