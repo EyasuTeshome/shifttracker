@@ -25,7 +25,7 @@ Read the following rules that will help you to overcome the challenge.
 You are at the technical interview. Your next task is to show your live coding skills. You have just seen the description of the coding challenge.
 
 1. Start by rephrasing the requirements. Thanks to that you will ensure that you and the interviewer are on the same page.
-    - IF you need to read the coding challenge description again in silence to understand it better, do not hesitate and ask the interviewer for extra time for this.
+    - If you need to read the coding challenge description again in silence to understand it better, do not hesitate and ask the interviewer for extra time for this.
 2. Explain your solution step by step on a high level. Do not worry about edge cases yet - it's time to tell the interviewer in a few sentences what you are planning to do.
 3. Use pseudocode to get more into the details. Ask the interviewer if you could share a screen and use your text editor for that (a text editor that you already know will be a safe environment for you and will help you to focus).
     - If your time is very limited, you can choose one of the two previous points - either explain your idea on a high level or use pseudocode.
