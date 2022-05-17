@@ -74,11 +74,6 @@ Note that this will **not** make your private projects public. It will merely sh
 
 ![https://cdn.filestackcontent.com/e5NizlaSnGp7oyDygXV4](https://cdn.filestackcontent.com/e5NizlaSnGp7oyDygXV4)
 
-## Jobs profile
-
-In the "Jobs Profile" field of your [Account Settings](https://github.com/settings/profile), check the box to set yourself available for hire. This will allow you to see jobs posted on GitHub on your dashboard. View the image below for an illustration.
-
-![https://cdn.filestackcontent.com/hVC7oG5S3Ks890B3kbDH](https://cdn.filestackcontent.com/hVC7oG5S3Ks890B3kbDH)
 
 You've now completed your GitHub bio. There are still several sections to complete, though, so continue reading this lesson for more information.
 
