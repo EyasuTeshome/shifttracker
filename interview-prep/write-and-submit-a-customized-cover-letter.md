@@ -1,4 +1,4 @@
-# Write and submit a customized cover letter.
+# Write and submit a customized cover letter
 
 ## Learning objectives
 
