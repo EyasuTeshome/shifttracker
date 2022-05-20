@@ -9,8 +9,9 @@ The Skills section lists languages, technologies, and frameworks you know, along
 
 The template resumes already list skills you've likely learned at Microverse. Update it as needed, and feel free to add other development-related skills you know as well.
 
-**An important note: only list skills you have an intermediate-level knowledge of.** If a skill is on your resume you'll probably get asked about it during an interview, and if you can't answer intermediate-level questions, the hiring manager might assume you were lying. That can mean **immediate rejection**.
-
+Two important notes: 
+- **Only list skills you have an intermediate-level knowledge of.** If a skill is on your resume you'll probably get asked about it during an interview, and if you can't answer intermediate-level questions, the hiring manager might assume you were lying. That can mean **immediate rejection**.
+- **Don't rate your skills with stars or percentage.** Stars and percentages are very subjective; include only official certificates of your skills from well-known organizations.
 
 ------
 
