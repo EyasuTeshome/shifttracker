@@ -18,3 +18,8 @@ We have broken down the areas of your job search you do have control over into f
 - Completed 6 mock interviews
 - Reached out for 11 networking opportunities
 - Continuously honed your application materials and interviewing skills based on feedback during the job search and regular analysis of the process
+
+
+---
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
