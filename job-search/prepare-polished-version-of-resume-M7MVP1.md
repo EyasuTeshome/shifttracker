@@ -39,7 +39,7 @@ To review your resume, it is important to read it through several times, looking
 
 5. Read your resume again, this time check the spelling and grammar carefully. Grammarly is a great resource for this!
 
-6. Now, analyze if you meet each and every one of the requirements of the resume rubric. Use the [Assess your resume rubric worksheet](https://docs.google.com/document/d/1vCBlhu1NlNKuj2KAct1EZI_nMU1vkd6QU60rUiUUqD0/edit) to register your scores and find the learning resources that you can use to improve your resume. You don’t need to submit this worksheet. Keep it at hand as a reference during this week’s round of revisions.
+6. Now, analyze if you meet each and every one of the requirements of the resume rubric. Use the [Assess your resume rubric worksheet](https://docs.google.com/document/d/1vCBlhu1NlNKuj2KAct1EZI_nMU1vkd6QU60rUiUUqD0/edit?usp=sharing) to register your scores and find the learning resources that you can use to improve your resume. You don’t need to submit this worksheet. Keep it at hand as a reference during this week’s round of revisions.
 
 7. Read your resume one more time to make sure that you didn’t miss anything. Your resume should now be ready for your career coach to review!
 
