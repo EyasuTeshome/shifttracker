@@ -39,3 +39,8 @@ You will find in the sub-article below an extensive list of websites you can vis
 - [10 ways to build your confidence during a job search](https://interestingengineering.com/10-ways-to-build-your-confidence-during-a-job-search)
 - [Sticking with hard things - part 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/morning-session-sticking-with-hard-things-part1.md)
 - [Sticking with hard things - part 2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/morning-session-sticking-with-hard-things-part2.md)
+
+
+---
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
