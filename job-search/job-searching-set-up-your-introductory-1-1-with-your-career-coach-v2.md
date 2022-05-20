@@ -18,8 +18,10 @@ It is when you get to talk about your job search and the challenges that come wi
 
 You don't need much preparation, but as a good practice, make sure to:
 
+- Use the SMART method to set goals and prepare a draft of you job searching plan. Check how to apply this method to job searching [here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-the-smart-method-to-create-your-job-search-plan.md). During your meeting, make sure you have your list close to you so you can share it with your coach easily.
+
 - Be ready to take notes. This means have a pen and notebook ready for your session, or a clean new file open on your computer.
-- Have your Job Searching SMART goals with you. Make sure you have your list close to you so you can share them easily.
+
 - Be prepared to talk about your goals and to work together on a plan to achieve them.
 
 ## Exercise
