@@ -1,32 +1,30 @@
 # Deal with common issues during interviews: intro
 
 ## Learning objectives
-- WIP
+
+- Learn about common issues that occur during technical job interviews.
 
 ### Estimated time: 0.5h
 
 ## Description
 
+During technical job interviews, you will experience quite a few stressful moments. To help prepare you for this, we have collected a list of common issues that our job searchers have faced.
 
-- common issues that we listed based on experience of other people
+As the best way to prepare yourself is through practice, we created a set of activities that you will perform with your peers. Thanks to these activities you will experience those stressful situations in a friendly environment first.
 
-- the best way is to practice them so we give you a chance for that
-- Morning meetings  in the first week of job searching - live cooding as it was reported as the most stresful part of technical jon interview
-
-
+This week we will focus on the live coding part of job interviews as many Micronauts have shared that this was the most difficult part of the technical job interview.
 
 ### Why is it important?
 
-- as job interview is stressful,  you will experience at leas a few of common issues
+During your job interviews, you will be under big pressure and you will need to overcome some of the common issues we identified. By practicing parts of the job interviews in advance, you will make yourself more comfortable with job interviews and raise your chances of performing well and landing that amazing next role.
 
-### How to prepare for solve and explain sessions
+### How to prepare for peer-to-peer interview practice
 
-*IMPORTANT NOTE: Today, you **do not need** to perform any peer-to-peer interview session.*
-*Your current task is to get yourself familiar with the scenario of this kind of meeting, so you can smoothly perform it with your team when the time comes.*
+*IMPORTANT NOTE: Today, you **do not** need to perform any peer-to-peer interview session. Your current task is to get yourself familiar with the outline of this kind of meeting, so you can smoothly perform it with your team in future activities.*
 
-- Read a list of [common issues](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/artciles/common_issues_during_interviews.md)
-- Read the description of the [How to deal with common issues during interviews - peer-to-peer practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/artciles/peer_common_issues_practice_meeting_outline.md).
+- Read [the list of common issues students face during live coding interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/common_issues_during_interviews.md).
+- Read the article: [How to deal with common issues during interviews - peer-to-peer practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/peer_common_issues_practice_meeting_outline.md).
 
-------
+---
 
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
