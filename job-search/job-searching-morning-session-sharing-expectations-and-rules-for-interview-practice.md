@@ -1,4 +1,4 @@
-# Sharing expectations and setting rules about this week’s morning sessions 
+# Sharing expectations and setting rules for interview practice this week  
 
 ## Learning objectives
 
@@ -40,7 +40,7 @@ This week, you and your teammates will practice how to deal with common intervie
 3. Follow the instructions to complete parts 1, 2, and 3.
 4. Everyone should take notes and submit them.
 
-**Exercise template to copy:** [Sharing expectations and concerns about morning sessions and setting rules](https://docs.google.com/document/d/1z1L9dXvlxkxLxHLHXUnW1N5gBIG0d5jTbpB2vdCLRYM/edit#)
+**Exercise template to copy:** [Sharing expectations and setting rules for interview practice](https://docs.google.com/document/d/1z1L9dXvlxkxLxHLHXUnW1N5gBIG0d5jTbpB2vdCLRYM/edit#)
 
 
 ### Submit your exercise
