@@ -10,9 +10,9 @@ In order to assist you and keep you going, we've regrouped below some of the dif
 
 ### Why is submitting job applications important?
 
-Job searching is more of a marathon than a sprint race. In this regard, regularity and consistency are key to ensure job opportunities come your way. 
+Job searching is more of a marathon than a sprint race. In this regard, regularity and consistency are key to ensure job opportunities come your way. Keeping the pace is also essential. Running too fast will burn you, too slow will take a very long time to get to the finish line. 
 
-By sending applications every day, you will increase your chances of getting job interviews and finding your dream job.  
+By sending applications one or two every day, while making sure that your application materials showcase the skills and attributes that make you an excellent candidate **for the particular role and company that you are applying for**you will increase your chances of getting job interviews and finding your dream job. So the quality of your applications is more important than the quality. 
 
 ### So, where to look for jobs online?
 
