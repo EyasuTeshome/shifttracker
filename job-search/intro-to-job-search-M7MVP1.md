@@ -94,3 +94,8 @@ You will be assigned a career coach by Thursday at latest. If you don't receive 
 1. The same as when you were in the Core Program, and you should plan on being available for the program time until you accept a job. 
 2. Reach out to your career coach immediately and share all the context you have about the offer, so they can help you make the right choice for you. 
 3. Send job applications and commit at least one line of code (keep that GitHub green!)
+
+
+---
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
