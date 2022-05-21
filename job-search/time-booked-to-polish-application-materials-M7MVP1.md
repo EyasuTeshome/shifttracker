@@ -12,7 +12,7 @@ Your coach will let you know when your application material is ready in a Zendes
 
 As in other projects, we give you flexibility. Use the time that best fits your schedule and that lets you get an approved version of your application material by the end of the week. As a reference to the steps you and your coach will go through, refer to the intro to these projects in the lesson:
 
-- [Prepare a polished version of your resume to start the revision process](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/Prepare-polished-version-of-resume.md)
+- [Project introduction: Review your application materials to boost your job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/intro-review-your-application-materials-M7MVP1.md)
 
 ### Should I make a submission now?
 No. You will only submit the final version, once it is approved by your coach, as a separate exercise in your Dashboard.
