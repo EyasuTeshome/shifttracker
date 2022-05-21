@@ -121,7 +121,7 @@ Do all of my links work? (You can use a broken link checker like [Dead Link Chec
 Do all of my links go where they’re supposed to go?
 Do all of my images load properly?
  
-## **Step 11: Don’t Forget Your Attributions. **
+## **Step 11: Don’t Forget Your Attributions.**
 
 It’s incredibly important to add attributions for every photo, icon, and web concept you used. In the footer of the webpage (or in a separate page), mention that you implemented a portfolio concept designed by {designer_name}, for example. If you also used photos from a stock image websites, make sure to credit the artist as well. This can be as simple as “Photos by {artist_name}.”
 
