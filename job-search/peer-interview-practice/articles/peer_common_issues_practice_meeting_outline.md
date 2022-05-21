@@ -18,7 +18,7 @@
 1. In your breakout rooms, you will take turns.
     1. Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
 2. In each interview, follow these steps:
-    1. The interviewers [starts timer (**7 minutes**)](https://timer.onlineclock.net/).
+    1. The interviewers starts timer (**7 minutes**).
     2. The interviewer shares the question/challenge with an applicant.
     3. The interviewer opens the rubric (rubric is provided in the specific exercise).
     4. The applicant answers the question/challenge by following the rules for the specific issue.
