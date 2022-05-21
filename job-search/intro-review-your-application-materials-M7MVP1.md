@@ -48,12 +48,6 @@ The time booked for the project changes is an estimate, so it is ok if it occasi
 
 **Remember that the goal is to make sure that your resume is ready to successfully help you get an amazing job.**
 
-### Ensure you are ready to use your coach’s feedback to finalize your application materials
-
-Please review the article below once more to ensure that you're familiar with these important tips for using feedback to improve your projects. 
-
-- [How to use project reviewer feedback to improve your professional skills projects](https://microverse.zendesk.com/hc/en-us/articles/1500004961062)
-
 
 ------
 
