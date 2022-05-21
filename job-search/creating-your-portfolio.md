@@ -94,25 +94,25 @@ You’re almost ready to start building your portfolio, but you’ll probably ne
 [Coolors](https://coolors.co/)
 
 
-**Part 7: Decrease Image File Size**
+## **Part 7: Decrease Image File Size**
 
 Page load speed isn’t something we notice at all, unless it’s slow—and if it’s slow, most people would rather close out of a page entirely, rather than wait for it to load.
 
 Gather all the screenshots and image files you’ll be using for your portfolio, and pass them through [TinyPNG](https://tinypng.com/) to reduce their size significantly. This will speed up the loading of your site, and will prevent viewers from leaving.
 
-**Part 8: Include Links to Your GitHub Source Code AND to Live Demos**
+## **Part 8: Include Links to Your GitHub Source Code AND to Live Demos**
 
 This step is incredibly important, and it’s also a step that many people miss. An attractive screenshot can tell a prospective employer that you’re a good designer, and that you have a good understanding of UI/UX. However, that employer will have no idea whether you’re able to write good code unless they can view or test that code themselves.
 
 Make sure that each one of your portfolio projects links to its respective GitHub repository. Make sure to also include live demo links wherever possible. Not all recruiters have a development background, so not everyone who views your profile will be able to accurately decipher your code. However, if you include live demo links, then everyone—whether they understand software development or not—will be able to look at your projects and gain an understanding of your capabilities. 
 
-**Part 9: Create a repository and start building an attractive, responsive portfolio.** 
+## **Part 9: Create a repository and start building an attractive, responsive portfolio.** 
 
 This step is the easiest to talk about, but obviously the hardest to accomplish. If you’re not sure how to get started, [we recommend this article by Cassandra Wilcox](https://codehangar.io/how-to-mockup-to-code-quickly-and-efficiently/), a front-end developer and an instructor at Girls Who Code, on how to quickly turn a mockup into an actual website.
 
 In this case, you don’t have a mockup: you have a fully-fledged design, which should make the process go more smoothly. You should take no more than 2-3 days to build your portfolio. We know that many of you are perfectionists who want to ship only the highest quality products, but developers also need to understand the importance of MVPs. You’ll be able to tweak and iterate upon your portfolio later. For now, take 2-3 days and then stop.
 
-**Part 10: Test it!**
+## **Part 10: Test it!**
 
 Testing a portfolio is obviously going to be a lot simpler than testing a complete back-end, but it’s still very important. Use the following checklist to ensure that your website is portfolio-ready:
 
@@ -121,11 +121,11 @@ Do all of my links work? (You can use a broken link checker like [Dead Link Chec
 Do all of my links go where they’re supposed to go?
 Do all of my images load properly?
  
-**Step 11: Don’t Forget Your Attributions. **
+## **Step 11: Don’t Forget Your Attributions. **
 
 It’s incredibly important to add attributions for every photo, icon, and web concept you used. In the footer of the webpage (or in a separate page), mention that you implemented a portfolio concept designed by {designer_name}, for example. If you also used photos from a stock image websites, make sure to credit the artist as well. This can be as simple as “Photos by {artist_name}.”
 
-**Part 12: Publish Your Website**
+## **Part 12: Publish Your Website**
 
 There are two methods you can use right now to deploy your website.
 
@@ -133,7 +133,7 @@ Method One: you can deploy your website to GitHub Pages. [GitHub Pages](https://
 
 Method Two: buy an inexpensive domain name. Using a personalized domain name can highly improve the credibility of your portfolio. You can buy an inexpensive domain name from any provider (alternative TLDs like .me or .co tend to be even more inexpensive). A combination of your first and last name is a great, straightforward, professional name to use. This is optional at this point; you are absolutely free to use GitHub Pages. Just be aware that by the time you are ready to start your job search, you will be asked to choose a personalized domain.
 
-**Part 13: Add Google Analytics**
+## **Part 13: Add Google Analytics**
 
 There are several reasons you might want to add Google Analytics to your portfolio, but this is the largest: Google Analytics will tell you exactly which of your application materials are strongest and which are weakest, which can then tell you exactly how to improve your chances of getting a job. Let’s explain what we mean by that.
 
@@ -143,13 +143,13 @@ Let’s say that Google Analytics shows that people do start visiting your portf
 
 Google Analytics will tell you exactly where potential hiring managers might be losing interest. [Read this Stack Overflow post for instructions on how to add Google Analytics to GitHub pages](https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages), or [this Google Support page for instructions on how to add Google Analytics to your domain](https://support.google.com/analytics/answer/1008015?hl=en).
 
-**Part 14: Review Your Portfolio Using the Portfolio Rubric**
+##**Part 14: Review Your Portfolio Using the Portfolio Rubric**
 
 [Open up the Portfolio Rubric.](https://docs.google.com/document/d/11zQJ2GF9AJoh79Ije18xeujE08u1AEpsCrX-Lus9SPo/edit) This rubric will walk you through every one of the elements of a strong development portfolio. Please use this rubric to self-assess this project; your goal should be to make sure that each requirement receives the full 3 points.
 
 ﻿Important note: Please do not request access to edit the rubric; if you would like to mark the rubric as you self-assess, please instead make a copy of the document.
 
-**Part 15: Ask your Standup Team to Review your Portfolio.**
+## **Part 15: Ask your Standup Team to Review your Portfolio.**
 
 By this point, you’ve probably been staring at a text editor (and at your Portfolio) for days. You might be very tired of it, or you may no longer have the energy to focus on details. This is the point when you should ask for feedback!
 
