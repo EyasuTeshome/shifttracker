@@ -22,7 +22,7 @@ In this exercise, you will submit the final version of your cover letter through
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) 
 
-Now go to your Student Dashboard and submit the final version of your resume.
+Now go to your Student Dashboard and submit the final version of your cover letter.
 
 ------
 
