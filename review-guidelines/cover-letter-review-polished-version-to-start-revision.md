@@ -1,13 +1,16 @@
-# Review the Cover Letter
+# Review the polished version of the cover letter to start rounds of revision
 
 ## Description
 Job searchers will dedicate one whole week to review their cover letter with feedback from their career coach. In this exercise, the students polish their latest version of the resume and submit it to start the process. In this review, you should do an in-depth revision of the cover letter and send comments so that they can work on them throughout the week. Please request all changes necessary. 
+
 ## Get ready for the review
 
 - ❗️[Open the scoring rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit)
-
+- These are the [instructions they received to polish their cover letter](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-cover-letter-M7MVP1.md).
+- This is a worksheet they used to assess their cover letter. LINK PENDING.
 
 ## Mandatory Requirements
+NOTE: These are the requirements currently used for cover letter review in the core program. Let's work together with you, career coaches, to make sure they are helping us get the job searchers' strong and compelling cover letters.
 
 ### General Requirements
 1. The cover letter is in a Google Doc format.
