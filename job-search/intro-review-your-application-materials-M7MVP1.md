@@ -44,7 +44,7 @@ When you and your coach agree your application material is ready, you will submi
 
 ### What should you do if you need more time for project changes than the amount booked for that?
 
-The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project. This submission of the final version of your application material is a carry-over activity. If you are not able to get your resume approved by the deadline, you will be given one more week to complete it without having to repeat the block.
+The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete a project. This submission of the final version of your application material is a carry-over activity. If you are not able to get your application approved by the deadline, you will be given one more week to complete it without having to repeat the block.
 
 **Remember that the goal is to make sure that your resume is ready to successfully help you get an amazing job.**
 
