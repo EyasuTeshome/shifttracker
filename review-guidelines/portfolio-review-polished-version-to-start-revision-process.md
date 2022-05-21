@@ -1,7 +1,7 @@
 # Review polished version of portfolio to start rounds of revision with job searchers
 
 ## Description
-Job searchers will dedicate one whole week to review their portfolio with feedback from their career coach. In this exercise, the students polish their latest version of the resume and submit it to start the process. In this review, you should do an in-depth revision of the resume and send comments so that they can work on them throughout the week. Please request all changes necessary. 
+Job searchers will dedicate one whole week to review their portfolio with feedback from their career coach. In this exercise, the students polish the latest version of their portfolio and submit it to start the process. In this review, you should do an in-depth revision of the portfolio and send comments so that they can work on them throughout the week. Please request all changes necessary. 
 
 ## Get ready for the review
 
