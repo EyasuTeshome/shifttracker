@@ -1,11 +1,6 @@
 # Prepare a polished version of your cover letter to start the revision process
 
 
-### Submit your exercise
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
-
-Now go to your Student Dashboard and submit your resume.
 
 
 
