@@ -18,7 +18,7 @@
 1. In your breakout rooms, you will take turns.
     1. Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
 2. In each interview, follow these steps:
-    1. The interviewers starts timer (**7 minutes**).
+    1. The interviewers starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     2. The interviewer shares the question/challenge with an applicant.
     3. The interviewer opens the rubric (rubric is provided in the specific exercise).
     4. The applicant answers the question/challenge by following the rules for the specific issue.
