@@ -6,8 +6,8 @@ Job searchers will dedicate one whole week to review their cover letter with fee
 ## Get ready for the review
 
 - ❗️[Open the scoring rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit)
-- These are the [instructions they received to polish their cover letter](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-cover-letter-M7MVP1.md).
-- This is a worksheet they used to assess their cover letter. LINK PENDING.
+- These are the [instructions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-cover-letter-M7MVP1.md) they received to polish their cover letter.
+- This is the [worksheet](https://docs.google.com/document/d/1eW0IbKPn6MN47EMSZ35HPQMsaOuX2e7MdBu-LUb1C44/edit) they used to assess their cover letter.
 
 ## Mandatory Requirements
 NOTE: These are the requirements currently used for cover letter review in the core program. Let's work together with you, career coaches, to make sure they are helping us get the job searchers' strong and compelling cover letters.
