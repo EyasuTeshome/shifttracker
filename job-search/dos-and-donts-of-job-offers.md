@@ -17,7 +17,7 @@ It’s extremely normal and expected to request a few days to consider an offer,
 
 **Share the offer with Microverse.**
 
-Tell us about the job offer by following the link below in the "What do do" section and filling out the job offer form. Then, plan to attend Career Services Office Hours to get advice from a career coach. 
+Tell us about the job offer by following the link below in the "What to do" section and filling out the job offer form. Then, plan to attend Career Services Office Hours to get advice from a career coach. 
 
 If you need help sooner than the next available office hours, you can reach out to the Career Services on-call career coach by submitting a Zendesk ticket. 
 
