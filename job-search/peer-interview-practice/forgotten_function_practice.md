@@ -10,18 +10,19 @@
 
 ### Instructions
 
+💡 **Remember that this meeting should take 1 hour not 30 minutes.**
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
-- Open the [meeting outline](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/peer_common_issues_practice_meeting_outline.md).
-- **Special instructions**
-    
-    *Follow the steps listed in the meeting outline with your team with the following adjustments.*
-    
-    `Preparation`
-    
-    - Read the theory lesson [Deal with common issues during live coding: forgotten function](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/forgotten_function_lesson.md) lesson.
-    
-     `Interviewers setup` 
-    
+- Select a leader who will make sure that you follow the outline below - do not skip any steps!
+
+
+### Preparation - 15 min
+
+1. In a big group, read the theory lesson [Deal with common issues during live coding: forgotten function](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/forgotten_function_lesson.md).
+    - Make sure that everybody understands the issue that is a theme of that lesson.
+
+### Interviewers setup - 10 min
+
+1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
     - Everybody opens the following links:
         - [JavaScript documentation about String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
         - [Ruby documentation about Integer](https://ruby-doc.org/core-3.1.0/Integer.html)
@@ -30,16 +31,33 @@
     - Everybody creates a simple challenge that requires the usage of two selected items.
         - For example [String.repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat) function, the challenges might be as simple as:
             - Repeat the text “I can solve every challenge with only one function!” as many times as the number of chars in your name.
+    - Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1ILBaV5vpVC1FKsyCVA5iwDPFeh0fNlKh9eOS7g_2yzE/edit#)
+2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - If there is an odd number of people in your group, one room will need to have 3 people.
+
     
-     `Quick interviews` 
-    
-    - As an interviewer, give your applicant two challenges and tell them which coding languages the challenges require. The applicant can select which coding challenge they want to solve.
+### Quick interviews - 25 min
+
+1. In your breakout rooms, you will take turns.
+    - Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
+2. In each interview, follow these steps:
+    - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1ILBaV5vpVC1FKsyCVA5iwDPFeh0fNlKh9eOS7g_2yzE/edit#). **You should fill it in during the interview if possible.**
+    - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
+     - The interviewer gives the applicant two challenges and tell them which coding languages the challenges require. The applicant can select which coding challenge they want to solve.
     - As an applicant, by getting a trivial challenge for an obscure method from your interviewer, you should be in a similar situation as you would be in an interview when you forget a method. You can apply all the strategies from the theory lesson.
-    - As an interviewer, you should use the [following rubric for giving advice](https://docs.google.com/document/d/1ILBaV5vpVC1FKsyCVA5iwDPFeh0fNlKh9eOS7g_2yzE/edit#).
+    - **The applicant job is to apply the strategies from [Deal with common issues during live coding: forgotten function](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/forgotten_function_lesson.md).**
+    - The interviewer indicates when the time is up.
+        - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
+3. When all interviews are finished:
+     - All interviewers finish filling the rubric in.
+     - All interviewers share a filled-in rubric with the applicant. **The applicant will use this for their exercise submission**.
     
-    `Recap`
-    
-    - Remember to fill-in this [airtable form](https://airtable.com/shrclyLFtL6b5fMdT).
+### Recap with the big group - 10 min
+
+1. Come back to the main room in Zoom.
+2. Use [this Airtable](https://airtable.com/shrclyLFtL6b5fMdT) form for a self-assessment and rating for the interviewer.
+    - Remember that the interviewer with the highest score and the most valuable feedback after this week will get a Microverse T-shirt!
+3. Share something you will work on based on one piece of feedback with the entire group.
     
 
 ### Submit your exercise
