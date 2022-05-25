@@ -10,29 +10,51 @@
 
 ### Instructions
 
+
+💡 **Remember that this meeting should take 1 hour not 30 minutes.**
+
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
-- Open the [meeting outline](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/peer_common_issues_practice_meeting_outline.md).
-- **Special instructions**
+- Select a leader who will make sure that you follow the outline below - do not skip any steps!
     
-    *Follow the steps listed in the meeting outline with your team with the following adjustments.*
-    
-    `Preparation`
-    
-    - Read the theory lesson [Deal with common issues during live coding: where is that bug?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/debug_lesson.md) lesson.
-    
-     `Interviewers setup` 
-    
+### Preparation - 15 min
+
+1. In a big group, read the theory lesson [Deal with common issues during live coding: where is that bug?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/debug_lesson.md).
+    - Make sure that everybody understands the issue that is a theme of that lesson.
+
+
+### Interviewers setup - 10 min
+
+1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
     - Everybody looks at the list of coding challenges you have previously solved.
     - Everybody places a bug in their code. It can be a wrong number, a wrongly used method, a missing condition in if-else, whatever you can think about. Try to be as tricky as possible!
+    - Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1_BOOXhViki7QD7Go8jMpE9V0J-8v-7syw2R29riAm1c/edit#)
+2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - If there is an odd number of people in your group, one room will need to have 3 people.
     
-     `Quick interviews` 
+### Quick interviews - 25 min
+
+1. In your breakout rooms, you will take turns.
+    - Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
+2. In each interview, follow these steps:
+    - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1_BOOXhViki7QD7Go8jMpE9V0J-8v-7syw2R29riAm1c/edit#). **You should fill it in during the interview if possible.**
+    - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
+    - The interviewer shares the code with a bug with the applicant and ask them for debugging it.
+    - The applicant will need a couple of minutes or understanding the challenge - take your time here.
+    - **The applicant job is to apply the following the strategies from [Deal with common issues during live coding: where is that bug?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/debug_lesson.md).
+    - The interviewer indicates when the time is up**.
+        - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
+3. When all interviews are finished:
+     - All interviewers finish filling the rubric in.
+     - All interviewers share a filled-in rubric with the applicant. **The applicant will use this for their exercise submission**.
     
-    - As an interviewer share the code with a bug with the applicant and ask them for debugging it.
-    - As an interviewer, you should use the [following rubric for giving advice](https://docs.google.com/document/d/1_BOOXhViki7QD7Go8jMpE9V0J-8v-7syw2R29riAm1c/edit#).
-    
-    `Recap`
-    
-    - Remember to fill-in this [airtable form](https://airtable.com/shrclyLFtL6b5fMdT).
+### Recap with the big group - 10 min
+
+1. Come back to the main room in Zoom.
+2. Use [this Airtable](https://airtable.com/shrclyLFtL6b5fMdT) form for a self-assessment and rating for the interviewer.
+    - Remember that the interviewer with the highest score and the most valuable feedback after this week will get a Microverse T-shirt!
+3. Share something you will work on based on one piece of feedback with the entire group.
+
+
 
 ### Submit your exercise
 
