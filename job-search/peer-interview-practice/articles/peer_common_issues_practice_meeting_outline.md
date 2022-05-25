@@ -1,4 +1,4 @@
-# Peer-to-peer interview practice: meeting step-by-step guide
+# Peer-to-peer interview practice: general meeting outline
 
 
 ### Preparation - 15 min
