@@ -15,6 +15,9 @@
 
 ### Instructions
 
+
+💡 **Remember that this meeting should take 1 hour not 30 minutes.**
+
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
 - Select a leader who will make sure that you follow the outline below - do not skip any steps!
 
@@ -33,7 +36,7 @@
 4. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - If there is an odd number of people in your group, one room will need to have 3 people.
 
-### Quick interviews - 21 min
+### Quick interviews - 25 min
 
 1. In your breakout rooms, you will take turns.
     - Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
