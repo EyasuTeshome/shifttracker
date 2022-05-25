@@ -24,16 +24,16 @@
 
 ### Preparation - 15 min
 
-1. In a big group, read the theory lesson [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md) lesson.
+1. In a big group, read the theory lesson [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md).
     - Make sure that everybody understands the issue that is a theme of that lesson.
 
 ### Interviewers setup - 10 min
 
-2. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
+1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
     - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated coding challenge in the 3rd row.
     - Everybody reads the selected challenge - as all of you will be playing the interviewer role you need to get familiar with the challenge.
-    - Make yourself familiar with the [rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#)
-4. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - Everybody makes themselvesfamiliar with the [rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#)
+2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - If there is an odd number of people in your group, one room will need to have 3 people.
 
 ### Quick interviews - 25 min
@@ -42,14 +42,14 @@
     - Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
 2. In each interview, follow these steps:
     - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#). **You should fill it in during the interview if possible.**
-    - The interviewers starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
+    - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer shares a link to the coding challenge that they got familiar with your applicant.
     - The applicant will need a couple of minutes or reading the challenge - take your time here.
-    - The applicant answers the question/challenge by following the strategies from [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md)
-    - The interviewer indicates when the time is up.
+    - **The applicant job is to apply the following the strategies from [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md)
+    - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
 3. When all interviews are finished:
-     - All interviewers finish filling the rubrinc in.
+     - All interviewers finish filling the rubric in.
      - All interviewers share a filled-in rubric with the applicant. **The applicant will use this for their exercise submission**.
 
 ### Recap with the big group - 10 min
