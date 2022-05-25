@@ -44,7 +44,7 @@
     - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#). **You should fill it in during the interview if possible.**
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer shares a link to the coding challenge that they got familiar with your applicant.
-    - The applicant will need a couple of minutes or reading the challenge - take your time here.
+    - The applicant will need a couple of minutes for understanding the challenge - take your time here.
     - **The applicant job is to apply the following the strategies from [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md)
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
