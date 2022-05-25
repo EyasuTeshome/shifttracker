@@ -16,7 +16,7 @@
 ### Instructions
 
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
-- Follow the outline below - do not skip any steps!
+- Select a leader who will make sure that you follow the outline below - do not skip any steps!
 
 
 ### Preparation - 15 min
