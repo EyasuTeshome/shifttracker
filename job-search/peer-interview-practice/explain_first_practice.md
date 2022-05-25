@@ -38,14 +38,16 @@
 1. In your breakout rooms, you will take turns.
     - Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
 2. In each interview, follow these steps:
-    - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#).
+    - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#). **You should fill it in during the interview if possible.**
     - The interviewers starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer shares a link to the coding challenge that they got familiar with your applicant.
     - The applicant will need a couple of minutes or reading the challenge - take your time here.
     - The applicant answers the question/challenge by following the strategies from [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md)
     - The interviewer indicates when the time is up.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
-3. In the end, the interviewer should share a filled-in rubric with the applicant. **The applicant will use this for their exercise submission**.
+3. When all interviews are finished:
+     - All interviewers finish filling the rubrinc in.
+     - All interviewers share a filled-in rubric with the applicant. **The applicant will use this for their exercise submission**.
 
 ### Recap with the big group - 10 min
 
