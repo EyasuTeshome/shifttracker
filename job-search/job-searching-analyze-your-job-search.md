@@ -18,18 +18,6 @@ Review the steps to take to analyze your job search by reading through the lesso
 
 - [How do I analyze how my job search is going?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-why-and-how-to-analyze-your-job-search.md)
 
-## Exercise
-
-### Instructions
-
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
-
-1. Open your copy of the exercise template below and answer the questions asked. Use this document to share with us how you think you’re doing on your job search so far, so that your coach can give you constructive feedback.
-
-**Exercise template to copy:** [Job Searching Analysis](https://docs.google.com/document/d/1FuBJhRFVwzxOsnkgWQmt6i7yAjvXL6rN5FnIRQC_7ao/edit?usp=sharing)
-
-### Submit your exercise
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+## Submit your exercise
 
 Now go to your Student Dashboard and submit your exercise.
