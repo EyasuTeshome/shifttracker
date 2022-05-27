@@ -36,7 +36,7 @@ Please review the helpful tips below to ensure that you gain the most value from
 ### Project Requirements
 
 - Make sure that you have addressed each piece of feedback your coach has given you. If you skip over too much feedback, your coach may return the project to you to re-work on and resubmit again.
-- [Make sure that your behavioral grid meets every requirement of the rubric linked here.](https://docs.google.com/document/d/1XfaP_8LA7KZ2lUfAUUtG24PIHIJhYHeLd1moq7NutkI/edit?usp=sharing) If you have followed the [behavioral grid curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-your-behavioral-grid.md), it should do so automatically.
+- [Make sure that your behavioral grid meets every requirement of the rubric linked here.](https://docs.google.com/document/d/1EARx6VfxiAbqqUrX9FGOFUmw4Rvy1YTQSBMyYJNrHzY/edit?usp=sharing) If you have followed the [behavioral grid curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-your-behavioral-grid.md), it should do so automatically.
 
 
 ### Submission Instructions
@@ -53,8 +53,6 @@ Please review the helpful tips below to ensure that you gain the most value from
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_prof_skills_review.md) to request a  review of your project.
 
 ## Submit your project
-
-**Remember that this project must be “approved” before you submit it as complete.**
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.* 
 
