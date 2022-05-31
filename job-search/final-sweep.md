@@ -25,8 +25,12 @@ In order to make the best use of your time and your coach's time, make sure you 
 - [Write a cover letter template](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md)
 - Portfolio - Review your portfolio and ensure you've added your most recent projects
 
+After you finish reviewing your application materials, create a Google Doc with all the links using this [template](https://docs.google.com/document/d/1BbNMkB9b6hMgiF0x30y55vTAilsL58Tc1xLSboTR68o/edit#).
+
 ### Submit your exercise
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit your project. Once you are assigned a career coach, they will get you feedback on this, so you can make updates as you start job searching. 
+Template to copy: [Final sweep submission](https://docs.google.com/document/d/1BbNMkB9b6hMgiF0x30y55vTAilsL58Tc1xLSboTR68o/edit#)
+
+Now go to your Student Dashboard and **submit your Google Doc with the links to all your application materials**. Once you are assigned a career coach, they will get you feedback on your job searching materials, so you can make updates as you start job searching. 
