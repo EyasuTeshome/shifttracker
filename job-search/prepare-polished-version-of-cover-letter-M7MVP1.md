@@ -57,7 +57,9 @@ Your cover letter is now ready for your career coach to review!
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit your exercise.
+Now go to your Student Dashboard and **submit the link your cover letter for your coach to review.**
+
+Note: **You don't need to submit the worksheet.** It is designed to help you during the review process.
 
 
 ------
