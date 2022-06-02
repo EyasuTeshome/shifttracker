@@ -22,7 +22,7 @@ Now that you've gotten feedback from your coach, make sure to read through it ca
 
 - [Remind yourself about the final sweep submission guidelines](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/final-sweep.md)
 
-After you finish making changes to your application materials, submit the Google Doc with the links to all of your application materials. **Please verify that you have tended to all of your coach's comments and that the links open the updated version of your materials.**
+After you finish making changes to your application materials, submit the Google Doc with the links to all of your application materials. **Please verify that you have tended to all of your coach's comments and that the links open the updated version of the documents.**
 
 
 ### Submit your exercise
