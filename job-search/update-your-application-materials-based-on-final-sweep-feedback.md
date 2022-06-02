@@ -22,8 +22,13 @@ Now that you've gotten feedback from your coach, make sure to read through it ca
 
 - [Remind yourself about the final sweep submission guidelines](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/final-sweep.md)
 
+After you finish making changes to your application materials, submit the Google Doc with the links to all of your application materials. **Please verify that you have tended to all of your coach's comments and that the links open the updated version of your materials.**
+
+
 ### Submit your exercise
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Template to copy: [Final sweep submission](https://docs.google.com/document/d/1BbNMkB9b6hMgiF0x30y55vTAilsL58Tc1xLSboTR68o/edit#)
 
 Now go to your Student Dashboard and submit your project.
