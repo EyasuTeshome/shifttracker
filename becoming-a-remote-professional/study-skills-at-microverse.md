@@ -53,11 +53,6 @@ Choose one of your problems and describe it to the others in your group.
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
 
-### Additional materials
-
-**These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.**
-
-- [The 5 pillars of the Microverse Program that make remote learning possible](https://microverse.zendesk.com/hc/en-us/articles/360046598213)
 
 
 ------
