@@ -51,7 +51,7 @@ While you are job searching, you will still attend your full-time Microverse sch
 
 ### How will I track my progress while job searching?
 
-While you are job searching, you will still attend your full-time Microverse schedule. However, there will be more other things to track besides your progress through the curriculum.
+While you are job searching, you will still attend your full-time Microverse schedule. However, you will be tracking your progress with specific metrics related with your job searching activities, instead of your progress through the curriculum.
 
 **Guiding questions:**
 
