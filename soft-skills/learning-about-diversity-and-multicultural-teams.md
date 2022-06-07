@@ -36,7 +36,7 @@ The following video and article gives more information about why diversity is im
 There are so many differences between people it can be hard to know where to begin to understand them better. To foster cross-cultural collaboration, we have found that there are two helpful tools: Hofstede's Cultural Dimensions and High Context vs Low Context communication.
 
 - [Hofstede's cultural dimensions](https://www.mindtools.com/pages/article/newLDR_66.htm)
-- [Cross-cultural communication styles: High and low context](https://www.communicaid.com/cross-cultural-training/blog/high-and-low-context/)
+- [Cross-cultural communication styles: High and low context](https://www.unitedlanguagegroup.com/blog/communicating-high-context-vs-low-context-cultures)
 
 ### Diversity & inclusion policy at Microverse: 
 
