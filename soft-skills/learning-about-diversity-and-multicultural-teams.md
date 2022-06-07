@@ -10,7 +10,7 @@
 
 ## Introduction
 
-In this lesson, we discuss the importance of diversity and the skills required to work in a multi-cultural environment.
+In this lesson, you will analyze the importance of diversity and the skills required to work in a multi-cultural environment.
 
 ### Why is this important?
 
@@ -59,10 +59,8 @@ Here are a few guidelines that you should follow to set yourself up for success 
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
-**Spend 10 minutes working on this exercise.**
-
-1. Open the Google Doc individually and answer the questions.
-2. Discuss the answers as a group.
+1. Familiarize yourself with key concepts related with multiculatural communication in the articles included in this lesson.
+2. Open the Google Doc. and answer the questions to check your understanding of these key concepts.
 
 **Exercise template to copy:** [Learning about diversity and multicultural teams](https://docs.google.com/document/d/1RSYgkehkx9-AllIKd2BEtFddLGKSdV_0C46WBlIIx4I/edit?usp=sharing)
 
