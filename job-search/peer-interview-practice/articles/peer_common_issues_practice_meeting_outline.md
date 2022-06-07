@@ -30,5 +30,4 @@
 
 1. Come back to the main room in Zoom.
 2. Use [this Airtable](https://airtable.com/shrclyLFtL6b5fMdT) form for a self-assessment and rating for the interviewer.
-    1. Remember that the interviewer with the highest score and the most valuable feedback after this week will get a Microverse T-shirt!
 3. Share something you will work on based on one piece of feedback with the entire group.
