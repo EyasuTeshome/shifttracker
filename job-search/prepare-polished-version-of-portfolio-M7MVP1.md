@@ -48,7 +48,7 @@ Make a note of information that might be missing or anything that is not essenti
      - Is the design simple, but attractive?
      - What about the colors? 
      - And the fonts? Avoid using more than 3 different fonts.
-     - Are the styles are applied consistently? 
+     - Are the styles applied consistently? 
      - Are all the texts readable? Verify that you are using sans-serif fonts and use italics with caution because they are harder to read online.
      - How about the images and screenshots? Are they good quality and professional-looking?
 Make any necessary changes in the format now.
@@ -58,7 +58,7 @@ Make any necessary changes in the format now.
 5. Go through your portfolio again, this time focusing on **functionality**. Open each screen once again and analyze if all the elements included work properly:
      - The page should load in no more than 3 seconds.
      - Check if images and screenshots load fast enough, and if they don’t, decrease the image file size.
-     - Verify that all links take you to the correct page. 
+     - Verify that all links take you to the correct pages. 
 
 6. Now, check these other important details in your portfolio:
      - Have you included **attributions** for every photo, icon, and web concept you used? They can be integrated in the footer of the webpage or in a separate page. You can mention that you implemented a portfolio concept designed by {designer_name}; you can also give credit to the artists whose photos you used.
@@ -78,7 +78,7 @@ Probably, you are thinking that these are too many steps. Well, you will be surp
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit the link to your portfolio so that your coach can review it and give you feedback. 
+Now go to your Student Dashboard and submit the **link to your portfolio** so that your coach can review it and give you feedback. 
 
 
 ------
