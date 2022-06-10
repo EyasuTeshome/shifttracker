@@ -37,9 +37,9 @@ For software developers, building a strong portfolio will require several rounds
 As in the case of other application materials, an effective strategy is to go through your portfolio several times, focusing each one on revising a particular attribute, such as content, design, or functionality. 
 
 1. Read through your portfolio one first time and analyze the content: **what it says and shows about you**. Ask yourself if it provides a compelling picture of your knowledge, skills, and experience as a software developer. 
-- Do the projects that you selected give a broad picture of your skills?
-- Does it showcase your most important skills and all the tools you master? 
-- Is it enough, but not too much?
+     - Do the projects that you selected give a broad picture of your skills?
+     - Does it showcase your most important skills and all the tools you master? 
+     - Is it enough, but not too much?
 Identify information that might be missing or anything that is not essential and make the changes. As you go through the portfolio, make note of any link that is not working or any error you identify, but don’t focus on testing functionality or fixing mistakes. 
 
 2. Continue now by looking carefully at the **evidence that you are providing of your knowledge and skills: links to the respective Github repository and to live demos, when possible**. Employers will only know that you’re able to write good code if they can view or test that code themselves or, if they can look at your projects.
