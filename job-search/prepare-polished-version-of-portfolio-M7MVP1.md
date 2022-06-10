@@ -1,4 +1,4 @@
-# Prepare a polished version of your resume to start the revision process
+# Prepare a polished version of your portfolio to start the revision process
 
 ## **Learning objectives**
 
