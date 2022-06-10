@@ -26,7 +26,7 @@ Watch again the video [What makes a good portfolio](https://microverse.pathwrigh
 ## Project setup
 
 - Open up the latest version of your portfolio.
-- Open the [portfolio rubric](https://docs.google.com/document/d/11zQJ2GF9AJoh79Ije18xeujE08u1AEpsCrX-Lus9SPo/edit?usp=sharing).
+- Open the [Assess your portfolio worksheet]([https://docs.google.com/document/d/11zQJ2GF9AJoh79Ije18xeujE08u1AEpsCrX-Lus9SPo/edit?usp=sharing](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit?usp=sharing)).
 
 ## **Exercise**
 
@@ -68,11 +68,9 @@ Make any necessary changes in the format now.
    
 7. Now, revise the **text** that you included in your portfolio! Read each phrase carefully. Make sure that sentences state complete ideas and that each idea is clearly stated. Identify any grammar or spelling errors, and correct them.
 
-8. Finally, analyze if you meet each and every one of the requirements of the [portfolio rubric](https://docs.google.com/document/d/11zQJ2GF9AJoh79Ije18xeujE08u1AEpsCrX-Lus9SPo/edit?usp=sharing).  Use the [Assess your portfolio rubric worksheet](https://docs.google.com/document/d/1BPBwnvmj5ZnPvPlUAHt_XN90M9Cvni48-okz60OwDp0/edit?usp=sharing) to register your scores and find the learning resources that you can use to improve your portfolio. **You don’t need to submit this worksheet**. Keep it at hand as a reference during this week’s round of revisions.
+8. Finally, analyze if you meet each and every one of the requirements of a strong portfolio using the [Assess your portfolio worksheet](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit?usp=sharing) to register your scores and find the learning resources that you can use to improve your portfolio. **You don’t need to submit this worksheet**. Keep it at hand as a reference during this week’s round of revisions.
 
 Probably, you are thinking that these are too many steps. Well, you will be surprised at how much your portfolio will impact your job opportunities! **Your portfolio demonstrates to employers the quality of your products and shows them that you can take care of details, so it’s worth it to make sure there are no errors**. 
-
-**Exercise template to copy:** [Assess your portfolio worksheet](https://docs.google.com/document/d/1BPBwnvmj5ZnPvPlUAHt_XN90M9Cvni48-okz60OwDp0/edit?usp=sharing)
 
 ### Submit your exercise
 
