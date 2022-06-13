@@ -8,9 +8,9 @@ Many times your code won’t work as expected. And according to [Murphy’s law]
 
 Debugging is definitely a part of a programmer’s job, and this skill is important in itself. In addition, having problems with code during a live coding session might be very stressful for you. Practicing strategies to deal with this can really reduce that stress.
 
-### Strategies to follow
+### Gudielines to follow
 
-Review the following strategies that will help you to make sure that you set up yourself for success when debugging the code.
+Review the following guidelines that will help you to make sure that you set up yourself for success when debugging the code.
 
 **Context**
 *You are at a technical interview. You are almost done with your coding challenge but you discover that something does not work as expected.*
@@ -28,7 +28,7 @@ Review the following strategies that will help you to make sure that you set up 
 
 ### See it in action
 
-Watch the following video to see an example of an interviewee following the above strategies.
+Watch the following video to see an example of an interviewee following the above guideline.
 
  
  [![Watch the video](https://img.youtube.com/vi/u8ojGK0Hx90/0.jpg)](https://www.youtube.com/watch?v=u8ojGK0Hx90)
