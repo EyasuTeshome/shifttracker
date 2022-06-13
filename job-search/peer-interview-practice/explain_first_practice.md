@@ -19,21 +19,25 @@
 💡 **Remember that this meeting should take 1 hour not 30 minutes.**
 
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
-- Select a leader who will make sure that you follow the outline below - do not skip any steps!
+- Select a **leader** who will make sure that you follow the outline below - do not skip any steps!
 
 
 ### Preparation - 15 min
 
 1. In a big group, read the theory lesson [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md).
-    - Make sure that everybody understands the issue that is a theme of that lesson.
+    - Mute your microphones and read in silence.
+    - Once everybody is ready - make sure that everybody understands the issue that is a theme of that lesson.
 
 ### Interviewers setup - 10 min
 
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
     - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated coding challenge in the 3rd row.
     - Everybody reads the selected challenge - as all of you will be playing the interviewer role you need to get familiar with the challenge.
-    - Everybody makes themselvesfamiliar with the [rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#)
+    - **Make sure that you - as an interviewer understand the challenge - so you can help your peer by asking some support questions.**
+2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and its [live sessions](https://codesandbox.io/docs/live) mode.
+3. **Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#).**
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - **Set timer for breakout rooms - it should be 25 minutes.**
     - If there is an odd number of people in your group, one room will need to have 3 people.
 
 ### Quick interviews - 25 min
@@ -44,8 +48,10 @@
     - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1aJDc4X45WmoftWhmDyPafq9ZcXPWBH8av6KhDdGfYpo/edit#). **You should fill it in during the interview if possible.**
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer shares a link to the coding challenge that they got familiar with your applicant.
-    - The applicant will need a couple of minutes for understanding the challenge - take your time here.
-    - **The applicant job is to apply the following the strategies from [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md)
+    - **The applicant will need a couple of minutes for understanding the challenge - take your time here.**
+    - **The applicant job is to apply the following the guidelines from [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md)
+        - - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
+    - The interviewer confirms once they understand the applicant's approach.
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
 3. When all interviews are finished:
