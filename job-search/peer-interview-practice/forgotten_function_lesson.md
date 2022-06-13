@@ -9,9 +9,9 @@ Sometimes, when you are performing the live coding part of a job interview, you 
 
 Time is important during a job interview as you are working against a clock. Reusing already existing functions and not reinventing the wheel can save you some time. Another benefit is that you will have a chance to show still that you have some piece of knowledge - even if you do not remember the details - and you are able to make use of it.
 
-### Strategies to follow
+### Guidelines to follow
 
-Review the following strategies that will help you to make sure that you take your chance to perform better during a job interview even if you do not remember the details about some function/method.
+Review the following guidelines that will help you to make sure that you take your chance to perform better during a job interview even if you do not remember the details about some function/method.
 
 **Context**
 *You are at a technical interview. Your current task is to show your live coding skills. You are in the middle of implementing your solution with code. You know that a function/method that might help you **exists,** but you do not remember its name or which argument you should use.*
@@ -28,7 +28,7 @@ Review the following strategies that will help you to make sure that you take yo
 
 ### See it in action
 
-Watch the following video to see an example of an interviewee following the above strategies.
+Watch the following video to see an example of an interviewee following the above guidelines.
  
  [![Watch the video](https://img.youtube.com/vi/CRy34B7ObPY/0.jpg)](https://www.youtube.com/watch?v=CRy34B7ObPY)
 
