@@ -24,6 +24,7 @@ During your job interviews, you will be under big pressure and you will need to 
 
 - Read [the list of common issues students face during live coding interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/common_issues_during_interviews.md).
 - Read the article: [How to deal with common issues during interviews - peer-to-peer practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/peer_common_issues_practice_meeting_outline.md).
+- Last but not least: sign up for [codesandbox](https://codesandbox.io/signin) and read about [Live sessions](https://codesandbox.io/docs/live). If you need to share your code with your peers and collaborate together, it will be perfect!
 
 ---
 
