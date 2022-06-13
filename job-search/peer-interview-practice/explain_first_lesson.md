@@ -18,8 +18,9 @@ Review the following guidelines that will help you to make sure that you do not 
 1. **Start with rephrasing the requirements** and saying them out loud to your interviewer. This will ensure that you and the interviewer are on the same page, and they can correct anything you misunderstood.
     - If you need to read the coding challenge description again in silence to understand it better, do not hesitate and ask the interviewer for extra time for this.
 2. **Explain your idea on a high level or use pseudocode** (if your task is complex enough you can do both):
-    1. Explain your solution step by step on a high level. If you can think about any edge cases already, mention them as well. But remember that you do not have to solve them at this point.
-    2. Use pseudocode to create an outline for your future code. *Tell your interviewer that you are planning to use pseudocode.* 
+    1. Explain your solution step by step on a high level. If you can think about any edge cases already, mention them as well. But remember that you do not have to solve them at this.
+        1. Do not stress out about the efficiency of your solution. If it is not clear to you from the beginning you can start by saying: "Let me start with a brute force approach to share a general idea for my solution and improve the efficiency in the next step". It is better to show that you can think about a solution and that you are aware of the efficiency issues that get into a rabbit hole of the best and most effective solution if you are not confident about it.
+    3. Use pseudocode to create an outline for your future code. *Tell your interviewer that you are planning to use pseudocode.* 
         1. It is a good idea to create pseudocode as comments in the text editor that will be used for solving the challenge. This will help you to navigate through your code later on.
 3. **Do not rush.** Remember that if you explain your plan well, you will have a big advantage. Even if you don't manage to finish your code, your interviewer will know that you are capable of finding the solution.
 
