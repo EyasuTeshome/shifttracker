@@ -8,9 +8,9 @@ While in a live coding part of a job interview, you might find yourself rushing 
 
 If you explain your idea first before you start coding, you will make sure that you and the interviewer understand the coding challenge in the same way at the very beginning. It is much better than jumping into coding some solution and realizing that you misunderstood something in the middle of solving it. This wastes precious interview time, which is important when working against a clock. Another benefit is that you make sure that your interviewer knows that you have the solution in your mind - even if you won't finish coding the full solution on time.
 
-### Strategies to follow
+### Gudielines to follow
 
-Review the following strategies that will help you to make sure that you do not start coding abruptly.
+Review the following guidelines that will help you to make sure that you do not start coding abruptly.
 
 **Context**
 *You are at a technical interview. Your next task is to show your live coding skills. You have just seen the description of the coding challenge.*
@@ -25,7 +25,7 @@ Review the following strategies that will help you to make sure that you do not 
 
 ### See it in action
 
-Watch the following video to see an example of an interviewee following the above strategies.
+Watch the following video to see an example of an interviewee following the above guidelines.
 
  
 [![Watch the video](https://img.youtube.com/vi/ItbFmUC_VsU/0.jpg)](https://www.youtube.com/watch?v=ItbFmUC_VsU)
