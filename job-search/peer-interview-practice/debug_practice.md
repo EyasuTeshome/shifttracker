@@ -14,21 +14,25 @@
 💡 **Remember that this meeting should take 1 hour not 30 minutes.**
 
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
-- Select a leader who will make sure that you follow the outline below - do not skip any steps!
+- Select a **leader** who will make sure that you follow the outline below - do not skip any steps!
     
 ### Preparation - 15 min
 
 1. In a big group, read the theory lesson [Deal with common issues during live coding: where is that bug?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/debug_lesson.md).
-    - Make sure that everybody understands the issue that is a theme of that lesson.
+    - Mute your microphones and read in silence.
+    - Once everybody is ready - make sure that everybody understands the issue that is a theme of that lesson.
 
 
 ### Interviewers setup - 10 min
 
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
-    - Everybody looks at the list of coding challenges you have previously solved.
-    - Everybody places a bug in their code. It can be a wrong number, a wrongly used method, a missing condition in if-else, whatever you can think about. Try to be as tricky as possible!
-    - Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1_BOOXhViki7QD7Go8jMpE9V0J-8v-7syw2R29riAm1c/edit#)
-2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - Everybody looks at the list of coding challenges you **have previously solved**. ⏰ As you have limited time - do not write a code from the beginning. ⏰
+    - Everybody places a bug in their code. It can be a wrong number, a wrongly used method, a missing condition in if-else, a typo, or whatever you can think about.
+        - It can be a very simple bug in your opinion but it will not be to your peer as they are not fimilair with your code.
+2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and its [live sessions](https://codesandbox.io/docs/live) mode.
+3. **Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1_BOOXhViki7QD7Go8jMpE9V0J-8v-7syw2R29riAm1c/edit#).**
+4. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - **Set timer for breakout rooms - it should be 25 minutes.**
     - If there is an odd number of people in your group, one room will need to have 3 people.
     
 ### Quick interviews - 25 min
@@ -40,7 +44,8 @@
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer shares the code with a bug with the applicant and ask them for debugging it.
     - The applicant will need a couple of minutes or understanding the challenge - take your time here.
-    - **The applicant job is to apply the following the strategies from [Deal with common issues during live coding: where is that bug?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/debug_lesson.md).
+    - **The applicant job is to apply the following the guidelines from [Deal with common issues during live coding: where is that bug?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/debug_lesson.md).
+        - - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
 3. When all interviews are finished:
