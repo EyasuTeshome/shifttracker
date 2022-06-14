@@ -24,13 +24,10 @@
 ### Interviewers setup - 10 min
 
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
-    - Everybody opens the following links:
-        - [JavaScript documentation about String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-        - [Ruby documentation about Integer](https://ruby-doc.org/core-3.1.0/Integer.html)
-    - Everybody looks for an interesting but not well-known JavaScript function and Ruby method.
-        - Extra benefit for you as an interviewer - you can learn something new!
-    - Everybody creates a simple challenge that requires the usage of two selected items.
-        - For example [String.repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat) function, the challenges might be as simple as:
+    - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=1813173909) and gets a randomly generated link to some method/function description.
+    - Everybody reads the documentation and makes sure they understand how to use the selected method/function.
+    - Everybody creates a simple challenge that requires the usage of selected method/function.
+        - Example: for the [String.repeat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat) function, the challenges might be as simple as:
             - Repeat the text “I can solve every challenge with only one function!” as many times as the number of chars in your name.
 2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and its [live sessions](https://codesandbox.io/docs/live) mode.
 3. **Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1ILBaV5vpVC1FKsyCVA5iwDPFeh0fNlKh9eOS7g_2yzE/edit#).**
