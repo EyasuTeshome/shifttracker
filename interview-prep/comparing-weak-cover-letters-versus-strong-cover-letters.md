@@ -1,4 +1,4 @@
-# Comparing weak cover letters versus strong cover letters
+# Comparing weak cover letters versus strong cover letters (a video lesson)
 
 Writing a cover letter is one of the most difficult and time-consuming parts of the job application process, but it’s also a great way to distinguish yourself among a field of other applicants.
 
