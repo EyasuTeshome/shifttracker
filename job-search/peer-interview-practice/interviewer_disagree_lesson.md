@@ -26,13 +26,13 @@ Having that in mind will help you to reduce your stress level.
 
 Then take the following actions:
 1. **Finish your current thought in the way you planned initially.**
-2. **Acknowledge your feeling** Ask your interviewer politely if they agree with you:
+2. **Acknowledge your feeling and confirm your impression.** Ask your interviewer politely if they agree with you:
     - For example: *Excuse me, it looks like you do not agree with me. Is this impression correct?*
-3. If the interviewer confirms your impression ask for additional information and continue the discussion with your interviewer. You can use some of the following questions
+3. If the interviewer confirms your impression, **ask for additional information and continue the discussion with your interviewer**. You can use some of the following questions:
     - *Can we make sure that I understood this question in the right way? Let me rephrase it.*
     - *Can you tell me which part I am getting wrong?*
     - *Can you tell me why you think that my approach is not the best one?*
-4. Otherwise - continue with your answer from the moment you stopped.
+4. Otherwise - **continue with your answer from the moment you stopped**.
 5. In both cases - **thank your interviewer for additional clarification**.
  
 
