@@ -20,7 +20,9 @@ If you'd like, you can also add a little more information, such as:
 
 However, all you need in order to create a fantastic About Me is are those three elements: your elevator pitch, your stack, and a short call to action.
 
-Take 10 minutes to write an elevator pitch and general call to action, and then copy/paste your stack into your About Me.
+Take 10 minutes to write an elevator pitch and general call to action, and then copy/paste your stack into your About section. 
+
+**To edit the About section, click on Add profile section and select Add about from the Core menu options.**
 
 
 ------
