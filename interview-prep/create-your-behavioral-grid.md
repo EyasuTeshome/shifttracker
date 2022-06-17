@@ -8,7 +8,7 @@
 
 ## Description
 
-In this project, you will be creating your behavioral grid composed of 6 different behavioral questions.
+In this project, you will be creating your behavioral grid using one professional position or project to answer four behavioral questions.
 
 **Note** - This project will be reviewed by one of our career coaches. In order to ensure they are able to review it in a timely fashion, please do your best to submit this as soon as possible, and no later than the end of your day Wednesday. 
 
