@@ -34,7 +34,7 @@ If needed, please review the tips below to ensure that you gain the most value p
 ### Project requirements
 
 - [Make sure that your cover letter meets every requirement of the cover letter rubric](https://docs.google.com/document/d/1kiQP_QOxy2Opklleet37kCXbB8uRndRPumtfzKtR9N0/edit). If you have followed the [cover letter curriculum](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md), it should do so automatically. 
-- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** If you skip over too much feedback, your project reviewer may return the project to you as invalid, and you will need to revise it and resubmit it again. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
+- Make sure that you have addressed **each and every piece of feedback your project reviewer has given you.** You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 
 ### **Submission instructions**
 
