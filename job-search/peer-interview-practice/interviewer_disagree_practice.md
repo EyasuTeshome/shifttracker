@@ -3,7 +3,7 @@
 
 ## Learning objectives
 
-- Demonstrate ability to deal with common issues during the live coding session part of a technical interview.
+- Demonstrate ability to deal with common issues during the thechnical question part of a technical interview.
 
 ### Estimated time: 1h
 
