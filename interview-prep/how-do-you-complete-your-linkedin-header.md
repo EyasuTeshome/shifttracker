@@ -55,7 +55,7 @@ Two things to keep in mind:
 
 ### **Add your education to the Intro block**
 
-***Note:** to edit your headline, click the pencil icon in the upper right corner of your Intro block. The gif above shows you how to access it.*
+***Note:** to edit your education, click the pencil icon in the upper right corner of your Intro block. The gif above shows you how to access it.*
 
 Your education may already be listed in your Intro block, but if not, add it. You can do so by clicking the "Edit Intro" pencil icon and then checking the *"Show education in my intro"* checkbox.
 
