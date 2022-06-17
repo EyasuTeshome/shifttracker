@@ -32,7 +32,7 @@
     - Everybody reads the selected question and looks for an answer - as all of you will be playing the interviewer role you need to get familiar with the questions.
     - **Make sure that you - as an interviewer can answer the question - so you can help your peer by asking some support questions.**
 2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and its [live sessions](https://codesandbox.io/docs/live) mode.
-3. **Everybody makes themselves familiar with the [rubric for giving advice]().**
+3. **Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1OF7hWT_WpOUU_ifEWkhkBgujWTrwP8L6IisPiKNSAbQ/edit#).**
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 25 minutes.**
     - If there is an odd number of people in your group, one room will need to have 3 people.
@@ -42,7 +42,7 @@
 1. In your breakout rooms, you will take turns.
     - Make sure that each of you plays the role of an interviewer once and the role of an applicant once.
 2. In each interview, follow these steps:
-    - The interviewer opens the [following rubric for giving advice](). **You should fill it in during the interview if possible.**
+    - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1OF7hWT_WpOUU_ifEWkhkBgujWTrwP8L6IisPiKNSAbQ/edit#). **You should fill it in during the interview if possible.**
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer read the question aloud.
     - **The applicant will need a couple of minutes for understanding the question - take your time here.**
