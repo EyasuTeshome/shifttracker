@@ -1,4 +1,4 @@
-# Selecting projects (and other achievements) for the Accomplishments section
+# Selecting projects for your LinkedIn profile
 
 One of the Additional sections that you can add to your Linkedin profile is the **Projects section**.
 
