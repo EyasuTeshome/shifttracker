@@ -1,8 +1,6 @@
 # Selecting projects (and other achievements) for the Accomplishments section
 
-To fill out your Accomplishments section, **add a** **Projects section.**
-
-![images/LI8.jpg](images/LI8.jpg)
+One of the Additional sections that you can add to your Linkedin profile is the **Projects section**.
 
 ### **What should you include in the Projects section?**
 
@@ -20,11 +18,11 @@ We encourage you to also fill in other fields, like dates and additional creator
 
 ![images/LI9.png](images/LI9.png)
 
-### **Should you include other blocks in the Accomplishments section?**
+### **Should you include other blocks from the Additional section?**
 
-Sure! LinkedIn offers several types of blocks that can be added to Accomplishments, including sections for publications, honors & awards, and languages. **We encourage you to add any other sections that may be relevant to you,** but keep in mind that you are meant to showcase **the best** of your accomplishments; adding a company award is much more valuable than adding an award from high school.
+Sure! LinkedIn offers several types of blocks that can be added to your profile, including sections for publications, honors & awards, and languages. **We encourage you to add any other sections that may be relevant to you,** but keep in mind that you are meant to showcase **the best** of your accomplishments; adding a company award is much more valuable than adding an award from high school.
 
-Two more things to keep in mind with the Accomplishments section:
+Two more things to keep in mind:
 
 - **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, *Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile*).
 - Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to the Publication section of Accomplishments.
