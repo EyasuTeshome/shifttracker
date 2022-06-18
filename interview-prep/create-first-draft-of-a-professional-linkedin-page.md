@@ -36,13 +36,15 @@ We'll discuss how to fill out each field step by step.
 
 1. Fill out your LinkedIn header/intro block with all of the required information listed in the linked lesson above.
 
-## Fill in the "About" section
+## Fill in the About section
+
+You will now add different sections to your profile by selecting them from the Add profile section menu.
 
 According to most students, the "About Me" is the hardest (and most intimidating) section of the LinkedIn profile. The good news, however, is that you've already written most of it, and now you can simply copy/paste it into LinkedIn.
 
-**Learn more about the "About" section:**
+**Learn more about the About section:**
 
-[What makes a compelling "About?"](what-makes-a-compelling-about.md)
+[What makes a compelling About section?](what-makes-a-compelling-about.md)
 
 **Apply what you've learned**
 
@@ -54,16 +56,16 @@ The Featured section is one of the first blocks that a hiring manager will see w
 
 **Learn more about how to create an eye-catching Featured section:**
 
-[What makes a strong "Featured" section?](what-makes-a-strong-featured-section.md)
+[What makes a strong Featured section?](what-makes-a-strong-featured-section.md)
 
 **Apply what you've learned**
 
 1. Take 5 minutes to select 3-5 pieces of media (projects, articles, etc.) that you'd like to add to the Featured section.
 2. Take 10 minutes to add each piece of media to the Featured section, copy/pasting all relevant links and project summaries from GitHub into LinkedIn.
 
-## Fill in the "Experience" section
+## Fill in the Experience section
 
-The Experience section is the most important part of your LinkedIn profile. This is where all recruiters will be spending most of their time. And guess what: you've already written all of it.
+The Experience section is the most important part of your LinkedIn profile. Here you list the positions that you have had in your professional career. This is where all recruiters will be spending most of their time. And guess what: you've already written all of it.
 
 **Learn more about what to include in the "Experience" section:**
 
@@ -71,7 +73,7 @@ The Experience section is the most important part of your LinkedIn profile. This
 
 **Apply what you've learned**
 
-1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn.
+1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn. Note: Click on the Add position option that appear in the Add profile section menu to begin copying your experiences.
 2. Take an additional 10 minutes to **use the checklist above** to help identify any copy/paste errors.
 3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
@@ -88,22 +90,6 @@ You're more than halfway done with your LinkedIn profile, and we'll continue our
 1. Take 5 minutes to copy/paste your education from your resume into LinkedIn.
 2. Take an additional 10 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
 3. Optional: if you intend on including education experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
-
-## Decide whether to include a Volunteer section
-
-Many Microverse students eventually become mentors, so even if you don't currently have volunteer experience, you may gain some experience in the next couple of months. If you plan on becoming a mentor in the future, **set a calendar alert for two months from now** to remind you to add mentorship to the Volunteer section of LinkedIn.
-
-If you already have volunteer experience, though (either at Microverse or anyone else), make sure to add it to your profile!
-
-**Learn more about what to include in a Volunteer section:**
-
-[How can you showcase volunteer experiences on LinkedIn?](how-can-you-showcase-volunteer-experiences-on-linkedin.md)
-
-**Apply what you've learned**
-
-1. If relevant, take 5 minutes to copy/paste your volunteer experience from your resume into LinkedIn.
-2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
-3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Add keywords to your LinkedIn by completing the Skills section
 
@@ -131,23 +117,39 @@ Recommendations are a great way of providing context to recruiters and hiring ma
 1. Take 5 minutes to send at least 1-3 recommendation requests to peers, mentors, previous managers, etc.
 2. Take 15 minutes to write a recommendation for at least 1 peer, mentor, previous manager, etc. whom you enjoyed working with.
 
-## Add your strongest projects to the Accomplishments section
+## Add your strongest projects
 
-The Accomplishments section isn't one of LinkedIn's default blocks, so you'll need to manually add the block to your profile. It's well-worth making time to do so, however; hiring managers look closely at this section, and keyword-heavy accomplishment descriptions allow LinkedIn's matching algorithm to rank you more strongly as a match for jobs.
+It's well-worth making time to do add your strongest projects, since hiring managers look closely at this section, and keyword-heavy descriptions allow LinkedIn's matching algorithm to rank you more strongly as a match for jobs.
 
 Fortunately, all you need to do to complete this section is copy/paste directly from your GitHub.
 
-**Learn more about how to make your Accomplishment section stand out:**
+**Learn more about adding your projects to your profile**
 
-[Selecting projects (and other achievements) for the Accomplishments section](selecting-projects-and-other-achievements-for-the-accomplishments-section.md)
+[Selecting what to include in the projects section](selecting-projects-and-other-achievements-for-the-accomplishments-section.md)
 
 **Apply what you've learned**
 
 1. Spend 10 minutes adding your strongest projects to LinkedIn, ensuring that each contains a working link (to either the repo or the live demo) **and** an approved project summary (copy/pasted from GitHub).
 
-## Fill in the Interests section
+## Decide whether to include a Volunteer section
 
-The Interests section is generally **a section for you, not for hiring managers**: your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, and choosing your Interests wisely can help if you plan on networking within certain companies or industries.
+Many Microverse students eventually become mentors, so even if you don't currently have volunteer experience, you may gain some experience in the next couple of months. If you plan on becoming a mentor in the future, **set a calendar alert for two months from now** to remind you to add mentorship to the Volunteer section of LinkedIn.
+
+If you already have volunteer experience, though (either at Microverse or anyone else), make sure to add it to your profile!
+
+**Learn more about what to include in a Volunteer section:**
+
+[How can you showcase volunteer experiences on LinkedIn?](how-can-you-showcase-volunteer-experiences-on-linkedin.md)
+
+**Apply what you've learned**
+
+1. If relevant, take 5 minutes to copy/paste your volunteer experience from your resume into LinkedIn.
+2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
+3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
+
+## Follow peers or companies for your Interests section
+
+The Interests section is generally **a section for you, not for hiring managers**: your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, and choosing your Interests wisely can help if you plan on networking within certain companies or industries. Nowadays, when you create your LinkedIn account, you are presented with different peers, companies, and organizations for this section. You add others by choosing to follow them later.
 
 **Learn more about how to (wisely) select entries for the Interests section:**
 
