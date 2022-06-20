@@ -47,7 +47,7 @@
     - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1gPG3323BsxZchkHKOZUIHrHwWTqM2BHsb4zGdu4IlAs/edit#). **You should fill it in during the interview if possible.**
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer read the question aloud.
-    - **Even if you understand the question - act as if you did not for the exercise purpose. The goal is to practice the guidelines, so they will become natural for you during a real interview.**
+    - **Even if you understand the question - act as if you did not for the exercise purpose. The goal is to practice the guidelines, so they will become natural raction for you if this issue happens during a real interview.**
     - **The applicant's job is to apply the following the guidelines from [Deal with common issues during answering technical questions: don't understand the question](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/not_clear_question_lesson.md).
         - ❣️❣️❣️ **IMPORTANT: the point is not to answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer indicates when the time is up**.
