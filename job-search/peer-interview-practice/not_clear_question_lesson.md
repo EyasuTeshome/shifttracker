@@ -22,7 +22,7 @@ Review the following guidelines that will help you to make sure that you do not 
 1. **Acknowledge that you did not understand the question.** Say it aloud, so everybody in the interview is aware of the situation.
 2. **Ask for rephrasing or exemplifying the question.** This is the first step. Maybe - when asked in a different way, the question becomes clear to you?
     - For example: *Excuse me, I did not understand the question. Could you rephrase it?*
-3. If you still do not understand the question **start the discussion by listing the things that you did understand and did not understand**.
+3. If you still do not understand the question **open the discussion by listing the things that you did understand and did not understand**.
     - For example:
         - Question: *Describe CRUD verbs and actions.*
         - *I understand the CRUD acronym - it comes from Create, Read, Update, and Delete. However, I am not sure what you mean by verbs and actions.*
