@@ -147,6 +147,19 @@ If you already have volunteer experience, though (either at Microverse or anyone
 2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
 3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
+## **Should you include other sections from the Reccommended or Additional options?**
+
+Sure! LinkedIn offers several types of blocks that can be added to your profile, including sections for publications, honors & awards, and languages. **We encourage you to add any other sections that may be relevant to you,** but keep in mind that you are meant to showcase **the best** of your accomplishments; adding a company award is much more valuable than adding an award from high school.
+
+Two more things to keep in mind:
+
+- **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, *Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile*).
+- Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to the Publication section of Accomplishments.
+
+**Apply what you've learned**
+
+1. Take 5 minutes to add any Additional or Recommended sections applicable to you.
+
 ## Follow peers or companies for your Interests section
 
 The Interests section is generally **a section for you, not for hiring managers**: your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, and choosing your Interests wisely can help if you plan on networking within certain companies or industries. Nowadays, when you create your LinkedIn account, you are presented with different peers, companies, and organizations for this section. You add others by choosing to follow them later.
