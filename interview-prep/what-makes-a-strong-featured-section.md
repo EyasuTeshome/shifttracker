@@ -1,4 +1,4 @@
-# What makes a strong "Featured" section?
+# What makes a strong Featured section?
 
 ### **What should you add to the Featured section?**
 
