@@ -147,7 +147,7 @@ If you already have volunteer experience, though (either at Microverse or anyone
 2. Take an additional 5 minutes to **use the checklist found in the Experience lesson** to help identify any copy/paste errors.
 3. Optional: if you intend on including volunteer experiences that you did not include in your resume, take an additional 15 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
-## **Should you include other sections from the Reccommended or Additional options?**
+## **Should you include other sections from the Recommended or Additional options?**
 
 Sure! LinkedIn offers several types of blocks that can be added to your profile, including sections for publications, honors & awards, and languages. **We encourage you to add any other sections that may be relevant to you,** but keep in mind that you are meant to showcase **the best** of your accomplishments; adding a company award is much more valuable than adding an award from high school.
 
