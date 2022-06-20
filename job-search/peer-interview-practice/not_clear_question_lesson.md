@@ -1,7 +1,7 @@
 # Deal with common issues during answering technical questions: don't understand the question
 
 ## Description
-Many times during job interviews, you will find yourself in a situation when you do not understand the question. 
+Many times during job interviews, you will find yourself in a situation when you do not understand the question or it takes you a significant time to understand it. 
 There is nothing wrong with that - it can happen also to the most experienced web developer.
 However, it is important that you do not freeze and instead, you continue with the conversation as a professional.
 
