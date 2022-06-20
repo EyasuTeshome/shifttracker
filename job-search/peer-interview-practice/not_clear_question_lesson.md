@@ -27,7 +27,7 @@ Review the following guidelines that will help you to make sure that you do not 
         - Question: *Describe CRUD verbs and actions.*
         - *I understand the CRUD acronym - it comes from Create, Read, Update, and Delete. However, I am not sure what you mean by verbs and actions.*
     **Thanks to that you will show that you have some knowledge.**
-4. **Finish with a question that can open a discussion with the interviewer**. This will show that you are able to talk with your future teammates in order to solve problems. 
+4. **Ask a question that can open a discussion with the interviewer**. This will show that you are able to talk with your future teammates in order to solve problems. 
     - For example: *Could you give me a small hint?*
     - For example *Am I going in a good direction?*
 
