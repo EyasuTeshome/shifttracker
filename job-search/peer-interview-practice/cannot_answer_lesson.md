@@ -24,7 +24,7 @@ Review the following guidelines that will help you to act in a professional way 
 *You are at a technical interview. You have just heard a question and you know that you cannot answer it*
 
 
-1. **Acknowledge that you did not understand the question.** Say it aloud, so your interviewer is aware of the situation.
+1. **Acknowledge that you do not know the answer.** Say it aloud, so your interviewer is aware of the situation.
 2. **Ask your interviewer for a correct answer and mention that it can help you to improve.** That will show that you are interested in programming and committed to getting a better web developer.
     - For example: *Would you mind, telling me the correct answer? I am curious and I think it will help me to improve my skills.*
 
