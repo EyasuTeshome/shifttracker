@@ -44,8 +44,8 @@
     - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1ghWQITmBHrVT-h9OGM_FaO4UOiaiR31Ypmw5fCGjCbg/edit#). **You should fill it in during the interview if possible.**
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer read the question aloud.
-    - **The applicant acts as they do not know the answer for the exercise purpose. The goal is to practice the guidelines, so they will become a natural reaction for you if this issue happens during a real interview.**
-    - **The applicant's job is to apply the following the guidelines from [Deal with common issues during answering technical questions: cannot answer a question](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/cannot_answer_lesson.md).
+    - **The applicant acts as if they do not know the answer for the exercise purpose. The goal is to practice the guidelines, so they will become a natural reaction for you if this issue happens during a real interview.**
+    - **The applicant's job is to apply the following guidelines from [Deal with common issues during answering technical questions: cannot answer a question](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/cannot_answer_lesson.md).
         - ❣️❣️❣️ **IMPORTANT: the point is not to answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
