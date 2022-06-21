@@ -1,9 +1,9 @@
-# Deal with common issues during answering technical questions: interviewer's disagreeing behaviour
+# Deal with common issues during answering technical questions: interviewer's disagreeing behavior
 
 
 ## Learning objectives
 
-- Demonstrate ability to deal with common issues during the thechnical question part of a technical interview.
+- Demonstrate ability to deal with common issues during the technical question part of a technical interview.
 
 ### Estimated time: 1h
 
@@ -28,10 +28,10 @@
 ### Interviewers setup - 10 min
 
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
-    - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated question (select a question that you like, everyting but the 3rd row is a calid question for this exercise)
+    - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated question (select a question that you like, everything but the 3rd row is a valid question for this exercise)
     - Everybody reads the selected question and looks for an answer - as all of you will be playing the interviewer role you need to get familiar with the questions.
     - **Make sure that you - as an interviewer can answer the question - so you can help your peer by asking some support questions.**
-2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and its [live sessions](https://codesandbox.io/docs/live) mode.
+2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and it's [live sessions](https://codesandbox.io/docs/live) mode.
 3. **Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1OF7hWT_WpOUU_ifEWkhkBgujWTrwP8L6IisPiKNSAbQ/edit#).**
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 25 minutes.**
@@ -47,10 +47,10 @@
     - The interviewer read the question aloud.
     - **The applicant will need a couple of minutes for understanding the question - take your time here.**
     -  The applicant starts to answer their question.
-    - The interviewer starts to shake their head or send other signals of disaggreement in the middle of the answer.
-      - **As an interviewer you cna select the moment - it can be when your applicant is really saying somehting wrong or when they say everything correct.** 
-          - As this exercise prepares you for 2 variants, you can choose the moment according yo your wish.
-    - **The applicant job is to apply the following the guidelines from []()
+    - The interviewer starts to shake their head or send other signals of disagreement in the middle of the answer.
+      - **As an interviewer you can select the moment - it can be when your applicant is really saying something wrong or when they say everything correct.** 
+          - As this exercise prepares you for 2 variants, you can choose the moment according to your wish.
+    - **The applicant's job is to apply the following the guidelines from []()
         - ❣️❣️❣️ **IMPORTANT: the point is not to answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
