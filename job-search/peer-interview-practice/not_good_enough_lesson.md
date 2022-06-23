@@ -17,7 +17,7 @@ You must give yourself an opportunity to present your past work even if you feel
 
 ### Guidelines to follow
 
-Review the following guidelines that will help you to overcome the mind-blanking issue.
+Review the following guidelines that will help you to overcome the feeling of not good enough project.
 
 **Context**
 *You are going to have a technical interview. You are preparing for a project presentation. You are worried that your project is not good enough.*
