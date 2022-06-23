@@ -28,7 +28,7 @@ You can be the most skilled programmer on the Earth but if you are not able to w
 1. First, **explain what the project is about and what you learned thanks to it**. It will be nice if you mention which domain knowledge you gained as it will make your presentaiton more engaging. Maybe you built a website for a motorcycle business and you learned something interesting about motorcycle engines?
     - For example, you can say: *"This is a website for managing space travel. Before working on this project I did not know that SpaceX data is available via public API - we can really check which missions are realized by SpaceX fleet."*
 2. **Show your project from the user's perspective**. Walk through the main features and show what a user can do with your website. Thanks to that your audience will be better prepared for following your code as well.
-3. **Talk about at least one collaboration challenge**. This will show you as a good team member. You can consider the following areas:
+3. **Talk about at least one collaboration challenge and how you overcame it**. This will show you as a good team member. You can consider the following areas:
     - Agreements about the project in the initial phase: how did you plan the structure of your project?? How did you split tasks?
     - Conflicts between team members - when some of you wanted to do things differently than others. How did you solve it?
     - Git conflicts in your projects. How did you decide on the pieces of code that were merged into the main branch?
