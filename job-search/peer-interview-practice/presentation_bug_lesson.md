@@ -31,7 +31,7 @@ Then follow the guidelines below:
     - For example: *Let me try to debug it. I do not want to use too much of this interview part, so let's check if I can investigate it in a maximum of 5 minutes.*
 7. **After 5 minutes - report what you have learned about the bug and what the next steps would be**. Of course - if the bug was trivial and you fixed it in 5 minutes you will only tell how you fixed the bug.
     - For example: *I can see that params are passed to the controller action but then the new object is not saved in the database. If I have more time, I would check what prevents saving the object - maybe it is due to validation?*
-9. **Move on to the next part of the presentation and assure your interviewer that you will fix this bug after the presentation**. Ask if it is ok to send them a follow-up message with the result of debugging.
+9. **Move on to the next part of the presentation and assure your interviewer that you will fix this bug after the interview**. Ask if it is ok to send them a follow-up message with the result of debugging.
    - For example: *As debugging this issue will take more time, let me move to the next part of my presentation. I will continue my investigation after this meeting. Will it be ok to send you a follow-up email with the details once I fix this issue?*
  
 
