@@ -23,7 +23,7 @@ There might be many reasons for your interviewer not paying the attention to you
 
 No matter what was the reason you can draw your interviewer's attention by following these guidelines:
 
-1.** Make sure that everything you said was clear.** If necessary, provide an additional explanation.
+1. ** Make sure that everything you said was clear.** If necessary, provide an additional explanation.
     - For example: *Excuse me: is everything clear?*
 2. Alternatively - **ask some engaging questions**. Try to think about something unique for your app and share it in a form of a fun fact question.
     - For example: *If you were a user of this website, would you consider this feature useful?*
