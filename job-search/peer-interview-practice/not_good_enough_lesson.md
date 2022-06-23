@@ -29,8 +29,8 @@ The second reason is that as a programmer - you will support projects from very 
 
 After this pretty long intro that aims to give you a different perspective, take a look at the guidelines that will help you to prepare your "not-good-enough" project for presentation:
 
-1. **Find the good parts of your project and present them with confidence**. It can be the architecture, a method/function that solves an interesting problem, well-thought tests, clean and/or well-organized part of your code.
-2. Take an advantage of the pieces of your projects that you consider "not good enough". You can use them to show that you have improved since the moment of this project creation. **Find the weak parts of your project, think about how would you improve them today, and present your ideas.**
+1. **Find the good parts of your project and present them with confidence**. It can be the architecture, a method/function that solves an interesting problem, well-thought tests, clean and/or well-organized parts of your code.
+2. Take an advantage of the pieces of your projects that you consider "not good enough". You can use them to show that you have improved since the moment of this project creation. **Find the weak parts of your project, think about how you would improve them today, and present your ideas.**
    - For example, you can say: "This is actually the code that I would write differently today. Instead of *doing X*, I would *do Y*."
  
 
