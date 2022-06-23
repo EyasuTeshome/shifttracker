@@ -10,6 +10,12 @@ Here are some practical ways to recognise and communicate delays:
 - **Estimate how long the delay could last and proactively consider the impact of the delay.** An example would be estimating that a nation-wide internet disruption would last for 24 hours, and proactively checking if you would miss your deadline with a 24 hour delay.
 - **Be honest and transparent, and continue to make communication a top priority.** Use the given or recommended communication tools to update and stay in touch with relevant parties, including your coding partner and the Student Success team. Asynchronous communication will be helpful in cases like this. See below for links on the difference between synchronous and asynchronous remote work.
 
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [Synchronous vs asynchronous communication for remote teams](https://arc.dev/employer-blog/synchronous-vs-asynchronous-communication/)
+- [Everything you need to know about asynchronous communication in remote working environments](https://weworkremotely.com/everything-you-need-to-know-about-asynchronous-communication-in-remote-working-environments)
 
 ------
 
