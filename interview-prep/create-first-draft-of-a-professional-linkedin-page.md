@@ -38,7 +38,9 @@ We'll discuss how to fill out each field step by step.
 
 ## Fill in the About section
 
-You will now add different sections to your profile by selecting them from the Add profile section menu.
+You will now add different sections to your profile by selecting them from the Add profile section menu, which displays a list of core, recommended and additional sections.
+
+![images/L20.png](images/L20.png)
 
 According to most students, the "About Me" is the hardest (and most intimidating) section of the LinkedIn profile. The good news, however, is that you've already written most of it, and now you can simply copy/paste it into LinkedIn.
 
@@ -52,7 +54,7 @@ According to most students, the "About Me" is the hardest (and most intimidating
 
 ## Curate your list of featured projects
 
-The Featured section is one of the first blocks that a hiring manager will see when they click into your profile: it's large, image-heavy, and located near the top of your LinkedIn. In other words, it's a space where you can immediately grab a recruiter's attention, and you should be using it to its fullest effect. Let's talk about what to add.
+The Featured section is one of the first blocks that a hiring manager will see when they click into your profile: it's large, image-heavy, and located near the top of your LinkedIn. In other words, it's a space where you can immediately grab a recruiter's attention, and you should be using it to its fullest effect. This section appears as one of the Recommended sections in the Add profile section menu. Let's talk about what to add.
 
 **Learn more about how to create an eye-catching Featured section:**
 
@@ -67,7 +69,7 @@ The Featured section is one of the first blocks that a hiring manager will see w
 
 The Experience section is the most important part of your LinkedIn profile. Here you list the positions that you have had in your professional career. This is where all recruiters will be spending most of their time. And guess what: you've already written all of it.
 
-**Learn more about what to include in the "Experience" section:**
+**Learn more about what to include in the Experience section:**
 
 [Create an achievements-focused Experience section](create-an-achievements-focused-experience-section.md)
 
