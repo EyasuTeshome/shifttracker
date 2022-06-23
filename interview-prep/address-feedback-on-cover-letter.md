@@ -41,7 +41,7 @@ If needed, please review the tips below to ensure that you gain the most value p
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)* 
 
 - Carefully review **all feedback** given to you by your project reviewer, including both written feedback, comments written in the Google Doc, and verbal feedback they may have given over video platforms like Loom.
-- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include an explanation in the submission form below. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
+- Implement **each piece of feedback**, ensuring that you have not accidentally skipped over anything. If you skip over a piece of feedback on purpose, include a comment in your Google Doc explaining why. You can find written feedback for each project on your dashboard under the **Action—>View Reviews** button.
 - Before submitting, use a spellcheck and grammar check tool to identify potential errors in your cover letter, even if you did so previously; it is very common to accidentally introduce new errors when making changes to a piece of text.
 
 ## Review
