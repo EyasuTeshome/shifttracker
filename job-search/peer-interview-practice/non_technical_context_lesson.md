@@ -2,23 +2,37 @@
 
 ## Description
 
+Presenting your project from the past might be considered the easiest part of the technical interview as you can prepare for it in advance. However, even in this case - your stress level can be your worst enemy. This lesson will help you to prepare for the situation when you forget about the non-technical context of your project.
 
 
 ### Why is it important?
 
+When you focus too much on the technical part of the project it is easy to forget that the purpose of the project is obvious only to you.
+Your interviewer will have no idea what your code is supposed to be doing and because of that, it might be difficult for them to understand your decisions.
+In addition - by showing that you are able to work on the code while taking into account other people engaged in the project - your teammates, your clients, the end-users - you can prove that you are not only a skillful person but also a valuable team member.
 
 
 
 ### Guidelines to follow
 
-Review the following guidelines that will help you to overcome the...
+Review the following guidelines that will help you to prepare for presenting the non-technical context of your project.
 
 **Context**
-*You are going to have a technical interview. You are preparing for a project presentation. You are worried that you won't present the non-technical context in an effective way.*
+*You are going to have a technical interview. You are preparing for a project presentation. You are so focused on the technical part of your project that you are worried that you won't present the non-technical context in an effective way.*
 
-1.
-2.
- 
+
+
+Remember that a technical interview aim not only for checking your hard skills but also if you can solve technical problems with a team.
+You can be the most skilled programmer on the Earth but if you are not able to work with your teammates and clients - the value that you can provide will be much lower. In order to quickly and effectively prepare the part of the presentation about the non-technical knowledge you can use the following guidelines:
+
+1. First, **explain what the project is about**. It will be also nice if you mention which domain knowledge did you gain. Maybe you built a website for a motorcycle business and you learned something interesting about motorcycle engines?
+    - For example, you can say: "This is a website for managing space travel. Before working on this project I did not know that SpaceX data is available via public API - we can really check which missions are realized by SpaceX fleet."
+2. **Show your project from the user's perspective**. Walk through the main features and show what a user can do with your website. Thanks to that your audience will be better prepared for following your code as well.
+3. **Talk about at least one collaboration challenge**. This will show you as a team member. You can consider the following areas:
+    - Agreements about the project in the initial phase: how did you plan the structure of your project?? How did you split tasks?
+    - Conflicts between team members - when some of you wanted to do things differently than others. How did you solve it?
+    - Git conflicts in your projects. How did you decide on the pieces of code that were merged into the main branch?
+    - Delays - as a team or caused by a specific member. How did you approach that?
 
 ---
 
