@@ -56,6 +56,7 @@
     - The interviewer asks the applicant to start the presentation.
     - **The applicant's job is to apply the following the guidelines from [Deal with common issues during project presentation: bug
 ](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/presentation_bug_lesson.md)
+        - For this exercise purpose - timebox your investigation into 2 minutes and pretend that you are not able to find the solution to the bug that you created.
         - ❣️❣️❣️ **IMPORTANT: the point is not to present the whole project but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
