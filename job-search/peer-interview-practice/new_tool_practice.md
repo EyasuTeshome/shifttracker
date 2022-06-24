@@ -45,7 +45,9 @@
     - The interviewer shares the link to online coding tool with the applicant.
     - **The applicant job is to apply the following the guidelines from  [Deal with common issues during live coding: a new tool
 ](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/new_tool_lesson.md).
-        - - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to quickly get familiar with a new online coding tool.** ❣️❣️❣️ 
+        - For the purpose of this exercise - say aloud what you are doing, so you interviewer can see your thought process.
+        - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to quickly get familiar with a new online coding tool.** ❣️❣️❣️ 
+        
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
 3. When all interviews are finished:
