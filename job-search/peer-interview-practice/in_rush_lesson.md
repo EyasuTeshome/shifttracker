@@ -20,9 +20,9 @@ Review the following guidelines that will help you to overcome the challenge of 
 1. **Acknowledge that you think that you won't be able to finish your code on time.**.
      - This will buy you some time to take a pause, breathe, and remind yourself that this is an issue that could happen to anybody.
      - In addition - your interviewer will be aware of the situation.
-2. Describe what are the next steps in your plan for a soultion.
-3. Ask if it is possible to get more time or to finish the code async.
-4. Go back to coding. Implement as much as possible in a given time.
+2. **Describe what are the next steps in your plan for a soultion.** Thanks to that you will show that you are capable of solving the challenge.
+3. **Ask if it is possible to get more time or to finish the code async.** If you do not ask you can miss your chance.
+4. **Go back to coding. Implement as much as possible in a given time.**
 ---
 
 *If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
