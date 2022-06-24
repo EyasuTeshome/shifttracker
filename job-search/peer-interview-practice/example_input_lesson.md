@@ -1,4 +1,4 @@
-# Deal with common issues during live coding: for example input
+# Deal with common issues during live coding: example input
 
 ## Description
 
@@ -25,11 +25,11 @@ Review the following guidelines that will help you to make sure that you know ho
 
 As always - before taking any action - read the coding challenge description. Then apply the following guidelines:
 
-1. Write down example input and expected output. You can use pseudocode or just make a note as a comment in your code.
+1. **Write down example input and expected output**. You can use pseudocode or just make a note as a comment in your code.
     - For example: if your task is to count all even numbers in an array, you can write down:
         - Input: [2,5,7,8,34], output: 3
         - [22,13,67,29,11]  ---> 1
-2. Confirm with the interviewer that your understanding is correct. Do it with a written text as it is less prone to misunderstanding.
+2. **Confirm with the interviewer that your understanding is correct**. Do it with a written text as it is less prone to misunderstanding.
 
 ---
 
