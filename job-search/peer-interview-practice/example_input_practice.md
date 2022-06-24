@@ -50,7 +50,7 @@
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer shares a link to the assignment with a coding challenge that they got familiar with your applicant.
     - **The applicant will need a couple of minutes for understanding the challenge - take your time here.**
-    - **The applicant job is to apply the following the guidelines from [Deal with common issues during live coding: example input
+    - The applicant job is to apply the following the guidelines from [Deal with common issues during live coding: example input
 ](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/example_input_lesson.md)
         - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer confirms once they understand the applicant's approach.
