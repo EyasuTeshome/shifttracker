@@ -52,7 +52,7 @@
     - **The applicant will need a couple of minutes for understanding the challenge - take your time here.**
     - **The applicant job is to apply the following the guidelines from [Deal with common issues during live coding: example input
 ](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/example_input_lesson.md)
-        - - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
+        - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer confirms once they understand the applicant's approach.
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
