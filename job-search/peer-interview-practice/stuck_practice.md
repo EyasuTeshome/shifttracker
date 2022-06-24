@@ -1,4 +1,4 @@
-# Peer-to-peer live coding practice: example input
+# Peer-to-peer live coding practice: being stuck
 
 
 ## Learning objectives
