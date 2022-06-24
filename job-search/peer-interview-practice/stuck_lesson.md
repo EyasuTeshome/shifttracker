@@ -23,10 +23,10 @@ Review the following guidelines that will help you to make sure that you set up 
 1. **Acknowledge that you are stuck.**
      - This will buy you some time to take a pause, breathe, and remind yourself that this is an issue that could happen to anybody.
      - In addition - your interviewer will be aware of the situation.
-2. **Describe your problem and Aask for a specific hint**. You can use this situatio to show that you are able to ask good question.
+2. **Describe your problem and ask for a specific hint**. You can use this situation to show that you are able to ask good question.
      - ⛔️ Remember - do **NOT** ask a general question: "Could you give me some hint?" as this will pass the responsibility for your code to the interviewer.
      - ✅ Instead - describe your problem: "I am not able to determine if a numer is ood or even. As you coudl see I tried X and Y and nothing worked. Could you give me small advice regarding how to check it?" This will show that  in the future you wil be able to quickly find help if you are stuck. 
-4. If nothing helps - **simply ask to go to the next question and to come back to the current challenge at the end of the interview**.
+4. If nothing helps - **simply ask to go to the next part and to come back to the current challenge at the end of the interview**.
     - For example: *I am sorry, I think that I am not able to solve it right now but most likely I will do it if I could see the problem with a fresh eye. Can we move to the next part and come back to this one in the end?*
 
 ---
