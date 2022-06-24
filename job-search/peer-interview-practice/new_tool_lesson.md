@@ -22,11 +22,11 @@ Review the following guidelines that will help you to make sure that you set up 
 **Context**
 *You are at a technical interview. Your interviewer asks you to use a specific online tool for solving a code challenge. As you have never used it before it makes you a little nervous*
 
-1. Start with identifying the most important parts. Look for:
+1. **Start with identifying the most important parts of the tool **. Look for:
     - A place to write code.
     - A place to see the output (it can be an HTML page, a result of Ruby script, console output).
     - A place to see test results.
-2. Find out how to run the code. Write something as simple as "Hello world" and run it.
+2. **Find out how to run the code**. Write something as simple as "Hello world" and run it.
 3. **Check how you can debug your code if necessary**. 
    - Are there any debugging tools like `pry` available? Or maybe you can just use `puts` or `console.log`.
    - Try out all options as they can be useful for solving challenges.
