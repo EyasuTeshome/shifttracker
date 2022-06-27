@@ -24,7 +24,7 @@
 ### Interviewers setup - 10 min
 
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
-    - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated question (select a question that you like, everything but the 3rd row is a valid question for this exercise)
+    - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated question (select a question that you like, everything but the 3rd row is a valid question for this exercise).
     - Everybody reads the selected question and looks for an answer - as all of you will be playing the interviewer role you need to get familiar with the questions.
     - **Make sure that you can answer the question as an interviewer so you can help your peer by asking some support questions.**
 2. If you need to share some code with your peer, you can use [codesandbox](https://codesandbox.io/signin) and its [live sessions](https://codesandbox.io/docs/live) mode.
