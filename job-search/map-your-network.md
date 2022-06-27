@@ -18,7 +18,7 @@ A robust professional network is essential to developing professionally and find
 
 ### Connections and circles in your network
 
-A professional network consists of people you connect with and interact with in distinct ways and times. Some are very close relations with whom you often communicate: you give them and get constant support. But, on the other hand, you occasionally interact with others and don’t offer or receive much. 
+A professional network consists of people you connect with and interact with in distinct ways and times. Some are very close relations with whom you often communicate, and you constantly give support and receive support from. But, on the other hand, you occasionally interact with others and don’t offer or receive much support. 
 
 Thus, your network includes a range of relationships that are closer or more distant from you. To achieve your professional goals, you can target your networking efforts to change the nature of some of your relationships with the members of your network. 
 
@@ -26,16 +26,14 @@ Read the blog post [“Prioritize connections using networking circles”](https
 
 **Guiding questions:**
 
-*Think about these questions as you learn about facing rejection.*
+*Think about these questions as you learn about networking and making connections.*
 
 - How can you identify the different types of relationships you have?
 - What is the breakthrough point in a relationship?
 - How is your communication different with people from each circle of your network?
 - Do relationships and circles change over time?
 
-
 ## Exercise
-
 
 ### Instructions
 
@@ -48,8 +46,7 @@ Read the blog post [“Prioritize connections using networking circles”](https
 3. To make a map of your network, place the most important members of your network in the core, inner and outer circle of your network using this [Google slide](https://docs.google.com/presentation/d/1QDkLqIUG3UgF6ODmigHn8UgFILC1HvRgkKtUmODkCMc/edit#slide=id.g137a6409821_0_8). Remember to make a copy of the presentation to edit it.
 4. Copy the link to your slide in Section 2.
 
-**Exercise template to copy:** [Professional network map](https://docs.google.com/document/d/1lrSVkxmCHdXF6kuJeNoHHvz4qA5HoDyY0rQQ3LqvEzM/edit#)
-
+**Exercise template to copy:** [Professional network map](https://docs.google.com/document/d/1lrSVkxmCHdXF6kuJeNoHHvz4qA5HoDyY0rQQ3LqvEzM/edit#).
 
 ### Submit your exercise
 
