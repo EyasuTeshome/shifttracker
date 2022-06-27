@@ -10,14 +10,14 @@
 
 ## **Description**
 
-Once that you have updated your resume, integrate in the same changes in the professional profiles that you created during the core program: LinkedIn, AngelList and GitHub, so that they also provide a compelling picture of your skillset.
+Once you have updated your resume, integrate the same changes into the professional profiles that you created during the core program: LinkedIn, AngelList and GitHub, so that they also provide a compelling picture of your skillset.
 
 **Your polished version of the profiles will not be reviewed by your coach at this moment, but they will be ready for your job applications**.
 
 ## Project setup
 
 - Open up the latest version of your resume in Google Docs
-- Open your LinkedIn, AngelList and GitHub profile
+- Open your LinkedIn, AngelList and GitHub profiles
 - Open your notes of the changes that you implemented last week on your resume, if you registered them
 
 ## **Exercise**
@@ -40,7 +40,6 @@ If you need to refresh your memory on how to complete any of the sections of the
 
 - [Create a first draft of your AngelList profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 
-
 2. Create a Google Doc with the link to your three profiles, using the exercise [template](https://docs.google.com/document/d/13tEhJicRf93qYczyecN1xtHfiuNjljE-mXRXRXzWscU/edit?usp=sharing).
 
 ### Submit your exercise
@@ -49,15 +48,7 @@ If you need to refresh your memory on how to complete any of the sections of the
 
 Template to copy: [Updating your profiles submission](https://docs.google.com/document/d/13tEhJicRf93qYczyecN1xtHfiuNjljE-mXRXRXzWscU/edit?usp=sharing)
 
-Now go to your Student Dashboard and submit a Goggle Doc with the link to your three profiles. This submission will be saved as part of your academic work, but **the profiles will not be reviewed by your coach at this moment**.
-
-
-
-
-
-
-
-
+Now go to your Student Dashboard and submit a Google Doc with the link to your three profiles. This submission will be saved as part of your academic work, but **the profiles will not be reviewed by your coach at this moment**.
 
 
 ------
