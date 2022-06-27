@@ -52,7 +52,7 @@ Another way of finding prospects for your network is by looking at your list of 
 
 - [Define your dream companies](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md).
 
-Whenever you identify someone you want to contact, you can register them in this [Google Sheet](XXX). Initially, you might only have some information. Don’t worry; you can complete other details as you continue researching and communicating with them.
+Whenever you identify someone you want to contact, you can register them in this [List of networking contacts (Google Sheet)](https://docs.google.com/spreadsheets/d/1Toq6By43e3Hd6zaOZKISATp3fkdCmOERAxlZKVM7Tjk/edit?usp=sharing). Initially, you might only have some information. Don’t worry; you can complete other details as you continue researching and communicating with them.
 
 ### Different ways to network
 
