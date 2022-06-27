@@ -9,7 +9,7 @@ After you finish or withdraw from Microverse, certain circumstances, such as goi
 - Not in the labor force due to illness.
 - At least half-time enrollment (as defined by your institution) in a training program that provides an advanced degree (Master’s Degree or higher), or certification than you are receiving from an accredited academic institution and making satisfactory academic or training progress in the program.
 
-If at any point you receive a deferment, and your circumstances change, you must you must notify us within thirty (30) days.
+If at any point you receive a deferment, and your circumstances change, you must notify us within thirty (30) days.
 
 Please refer to the ISA document you signed for more information.
 
