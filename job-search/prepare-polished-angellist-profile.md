@@ -1,0 +1,59 @@
+Activity type: Draft professional skills project
+DAT: Job searching project review
+
+# Prepare a polished version of your AngelList profile to start the revision process
+
+## **Learning objectives**
+
+- Create a clear, compelling AngelList profile.
+
+### **Estimated time:  2h**
+
+## **Description**
+
+In this exercise, you will update the professional profile you created on AngelList, and submit it to your coach for review. Then, you and your coach will work together during the week to refine it.
+
+## Refresher on the use of AngelList for job searching 
+
+After creating a LinkedIn and GitHub profile, you probably wonder why another one? Each of these profiles helps you in different ways. Read the following article to identify the specific kind of company that you can reach with your AngelList profile.
+
+- [Why AngelList matters more than LinkedIn to Tech Startups](​​https://www.inc.com/alex-moazed/why-angellist-matters-more-than-linkedin-to-tech-startups.html)
+
+## Project setup
+
+- Open up your AngelList profile.
+- Open the latest version of your resume 
+- Open the [Assess your AngelList profile rubric and worksheet](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#​​).
+
+## **Exercise**
+
+### **Instructions** 
+
+Since you created your AngelList profile a while ago, it’s essential to make sure that you have updated it and included any skills you have learned and the projects you have completed since. 
+
+By now, you are familiar with polishing your professional profiles. Using the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d​​), review that you have met the requirements for each section and make any necessary improvements, before submitting it to your coach.
+
+1. Begin by looking at the **Header** first.
+     - Read the requirements listed in section 1 of the worksheet.
+     - Look closely at the different components of the Header section of your profile and analyze if you met the requirements.
+     - Select the score that best applies and identify any improvements. Then, refer to the learning resources applicable.
+     - Make any necessary changes.
+
+2. Follow this same process to review sections 2 to 5. As you do so, verify that you provide a comprehensive perspective of your skills and include all the projects you have completed. 
+
+3. Continue with section 6 and review the spelling and grammar in the text on your profile.
+
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+Now go to your Student Dashboard and submit the **link to yourAngelList profile** so that your coach can review it and give you feedback. 
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
+
+
