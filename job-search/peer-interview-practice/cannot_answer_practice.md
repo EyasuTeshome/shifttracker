@@ -24,7 +24,7 @@
 ### Interviewers setup - 10 min
 
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
-    - Everybody should open [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and get a randomly generated question (select a question that you like, everything but the 3rd row is a valid question for this exercise).
+    - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957) and gets a randomly generated question (select a question that you like, everything but the 3rd row is a valid question for this exercise).
     - Everybody reads the selected question and looks for an answer - as all of you will be playing the interviewer role you need to get familiar with the questions.
     - **Make sure that you, as an interviewer, can answer the question so you can help your peer by giving the correct answer.**
 2. **Everybody should make themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1ghWQITmBHrVT-h9OGM_FaO4UOiaiR31Ypmw5fCGjCbg/edit#).**
