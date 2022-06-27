@@ -7,7 +7,6 @@
 
 ### Estimated time: 1h
 
-
 ## Description
 
 In this lesson, you will review your long-term goal for networking and define the SMART goals that you want to achieve this month. To do so, you will refresh your understanding of what networking is and how to build your network.
@@ -20,7 +19,7 @@ You can be the best developer in the world but if nobody knows about you or your
 
 There are different ways to build your professional network, such as participating in online communities and networks, attending technical events and meetups, and making contacts through family and friends. People from our personal circles might know someone that works in the tech sector!
 
-But networking is a lot more than just making contact with people: it is about building a connection and establishing relationships, true, genuine relationships, that includes both giving and receiving. Think of it as being similar to making friends in real life. And as you know, it requires a constant effort and takes time. It involves a lot more than simply reaching out to someone and asking for a job.
+But networking is a lot more than just making contact with people: it is about building a connection and establishing relationships -true, genuine relationships- and that includes both giving and receiving. Think of it as being similar to making friends in real life. And as you know, it requires a constant effort and takes time. It involves a lot more than simply reaching out to someone and asking for a job.
 
 Read [“How to network: a guide for remote software developers and engineers”](https://arc.dev/developer-blog/how-to-network-as-remote-developer/) for some new ideas about networking. 
 
@@ -43,23 +42,22 @@ To organize your time and resources effectively, it’s important to have in min
 - Build your profile and grow an online presence.
 - Brand yourself as knowledgeable in your field.
 
-Once you have defined your networking big-picture goal, it’s a good idea to plan your network and identify the qualities you want your network members to have: different roles (recruiters, developers, project managers), sectors and companies, skills or experience, and other commonalities with you (interests, locations, for example).
+Once you have defined your networking big-picture goal, it’s a good idea to plan your network and identify the qualities you want your network members to have: different roles (recruiters, developers, project managers), sectors and companies, skills or experience, and other commonalities with you (interests or locations, for example).
 
 To get some ideas on how to plan your network, read the article [Use research to plan a better network](https://tribemineblog.com/use-research-to-plan-a-better-network/).
 
-Since networking is a strategy to access your dream jobs, it’s useful to consider them when thinking of your big-picture networking goal. In the core program, you created a list so it’s time to look at it again (if you didn’t make a list, do it now using [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)). 
-
+Since networking is a strategy to access your dream jobs, it’s useful to consider those dream jobs when thinking of your big-picture networking goal. In the core program, you created a list so it’s time to look at it again (if you didn’t make a list, do it now using [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)). 
 
 **Apply what you've learned**
 
-1. Look again at your dream jobs and define now your big-picture networking goal. What do you want to achieve with your networking efforts? How can your network contribute to getting you a dream job?
+1. Look again at your dream jobs and then define your big-picture networking goal. What do you want to achieve with your networking efforts? How can your network contribute to getting you a dream job?
 2. Register your answers in Section 1 of this [template](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing). 
 3. Make a list of the qualities you want your network to have, considering sectors, companies, roles, areas of expertise, location, or any other trait that is relevant to you.
 4. Register your answers in section 2 of the [template](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing). 
 
 ### Step 2: Set your networking SMART goals for next month
 
-Once a clear vision of the professional network you want to build, you can set short-term goals that will help you move forward in that direction. Your starting point is the network that you have already created in the past few months and that you have mapped already.
+Once you have a clear vision of the professional network you want to build, you can set short-term goals that will help you move forward in that direction. Your starting point is the network that you have already created in the past few months and that you have mapped already.
 
 **Refresher on networking goal setting.**
 
@@ -69,8 +67,7 @@ Once a clear vision of the professional network you want to build, you can set s
 2. Think carefully about the changes that you would like to make to your network and write some ideas in section 2.
 3. Define 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal and list them in section 3 of the exercise template. 
 
-
-**Exercise template to copy:** [Your networking SMART goals](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing)
+**Exercise template to copy:** [Your networking SMART goals](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing).
 
 ### Submit your exercise
 
