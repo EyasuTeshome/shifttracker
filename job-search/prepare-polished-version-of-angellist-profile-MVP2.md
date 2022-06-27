@@ -1,5 +1,3 @@
-Activity type: Draft professional skills project
-DAT: Job searching project review
 
 # Prepare a polished version of your AngelList profile to start the revision process
 
