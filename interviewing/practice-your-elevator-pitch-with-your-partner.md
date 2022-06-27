@@ -41,7 +41,7 @@ By practicing your elevator pitch aloud, you'll grow increasingly confident with
 3. **Time estimated: 10 minutes:** Still standing in front of your mirror, recite your pitch with your eyes closed. Recite it while making silly faces, and recite it while smiling. Remember that it doesn't need to be perfect. You will have many more opportunities to practice this.
 4. **Time estimated: 5 minutes:** Once you have practiced reciting your pitch, record a video of yourself delivering the elevator pitch. Look at the webcam while speaking, and try not to read directly from the script.
 5. **Time estimated: 10 minutes:** Once you've practiced your pitch, **join your partner(s) on Zoom and record yourself reciting your elevator pitch to your partner.** Once you've recited your pitch, ask your partner to provide feedback. **Then stop recording.**
-6. **Time estimated: 5 minutes:** Open your copy of the template below and paste the zoom recording of point 6 above showing you reciting your pitch to your partner. Also, write in that document the feedback your partner gave you.
+6. **Time estimated: 5 minutes:** Open your copy of the template below and paste the zoom recording of point 5 above showing you reciting your pitch to your partner. Also, write in that document the feedback your partner gave you.
 
 **Exercise template to copy:** [Practicing my elevator pitch](https://docs.google.com/document/d/1joRmAB8nBKkYIUr3pECs8qAtyH8U25ESWLeAXQoyrKQ/edit#)
 
