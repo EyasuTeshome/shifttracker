@@ -68,7 +68,7 @@ Not all job postings are created equal! Some might be a better fit than others. 
 
 Read the following article to refresh your memory on the information that will help you make this decision: 
 
-[Pointers to consider when searching for a good-fitting job](https://github.com/microverseinc/curriculum-professional-skills/edit/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
+[Pointers to consider when searching for a good-fitting job](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/pointers-to-consider-when-searching-for-a-good-fitting-job.md)
 
 **Apply what you've learned**
 
