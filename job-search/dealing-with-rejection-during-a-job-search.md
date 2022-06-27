@@ -10,7 +10,6 @@
 
 In this lesson, you will look at other software developers’ experiences with rejection and identify strategies that can help you deal with being rejected.
 
-
 ### Why is it important?
 
 Since there are many candidates for one job, rejection is very common and will become part of your everyday life when job searching. Nevertheless, being rejected can be emotionally challenging, because it can impact your self-esteem and lead to demoralizing thoughts. So, learning to deal with rejection becomes critical for successful job searching.
