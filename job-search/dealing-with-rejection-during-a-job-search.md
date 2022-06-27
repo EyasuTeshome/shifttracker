@@ -23,7 +23,9 @@ Read the following articles to identify some valuable strategies to face rejecti
 - [Eight Ways To Cope And Rebound From Constant Rejection In Your Job Search And Career](https://www.forbes.com/sites/jackkelly/2020/10/23/eight-ways-to-cope-and-rebound-from-constant-rejections-in-your-job-search-and-career/?sh=b7822bb75d03).
 - [Turned Down For Lack Of Experience? How To Get More Of It](https://www.forbes.com/sites/forbescoachescouncil/2017/11/05/turned-down-for-lack-of-experience-how-to-get-more-of-it/?sh=4f28c7ed3510).
 
-Guiding questions:
+**Guiding questions:**
+
+*Think about these questions as you learn about facing rejection.*
 
 - When you are rejected as you apply for jobs, what ideas are not helpful for you?
 - How can you interpret the situation positively?
