@@ -81,7 +81,7 @@ Since companies receive large numbers of applications for a position, it’s ess
 
 As you learn about the job, it’s a good idea to reflect upon what excites you about that position and how you can contribute to the company. Make notes of ideas that come to your mind about why you are a good fit for the position. Then, if you discover new evidence that changes your decision about the job, you can always go back to step 1 and find another job opportunity.
 
-Read this article for some tips on [How to research a company before applying](https://thehiredguns.com/research-company-applying/)
+Read this article for some tips on [How to research a company before applying](https://thehiredguns.com/research-company-applying/).
 
 **Apply what you've learned**
 
