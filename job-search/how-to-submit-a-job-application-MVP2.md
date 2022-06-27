@@ -59,7 +59,7 @@ Refresh your memory about [Using Huntr to track your job search](https://github.
 **Apply what you've learned**
 
 1. If you haven’t created a Huntr account yet, [click here to sign up for Huntr and create your board.](https://huntr.co/microverse/signup)
-2. Add the job listing that you selected to your Huntr board. The easiest way to do this is using the [Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en). You can also add it manually. Refer to the [Quickstart guide[(https://blog.huntr.co/huntr-quickstart-guide/#:~:text=Add%20jobs%20from%20any%20website,save%20and%20you're%20done!) if necessary.
+2. Add the job listing that you selected to your Huntr board. The easiest way to do this is using the [Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en). You can also add it manually. Refer to the [Quickstart guide](https://blog.huntr.co/huntr-quickstart-guide/#:~:text=Add%20jobs%20from%20any%20website,save%20and%20you're%20done!) if necessary.
 
 
 ### Step 3: Analyze if the job is fit for you
