@@ -21,14 +21,14 @@ Since GitHub hosts your code, it is where employers will refer to find out who y
 
 - Open up your GitHub profile.
 - Open the latest version of your resume 
-- Open the [Assess your GitHub profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d).
+- Open the [Assess your GitHub profile rubric and worksheet](https://docs.google.com/document/d/1v6l9ApDNVc193nvFxcUJyPu5YdzyEjAEM8FYdr3FM2c/edit).
 
 ## **Exercise**
 
 ### **Instructions**
 
 Your GitHub profile includes a short bio, a personal README, and the repositories for the different projects you have coded. In addition, you can manually pin some of the most complex projects you have worked on to highlight your unique skills. 
-In this exercise, use the [Assess your GitHub profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d​​) to make sure that you have completed these three components thoroughly and have updated your information.
+In this exercise, use the [Assess your GitHub profile rubric and worksheet](https://docs.google.com/document/d/1v6l9ApDNVc193nvFxcUJyPu5YdzyEjAEM8FYdr3FM2c/edit) to make sure that you have completed these three components thoroughly and have updated your information.
 
 1. Begin by looking at your Bio and your personal README.
 - Read the requirements listed in section 1 of the worksheet.
