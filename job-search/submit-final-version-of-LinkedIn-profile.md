@@ -15,7 +15,7 @@ In this exercise, you will submit the final version of your LinkedIn profile thr
 ### Project requirements
 
 - Make sure that you and your coach have gone through the necessary rounds of revisions to get your LinkedIn profile approved before submitting the final version. You should have received a Zendesk message with this approval.
-- This is the activity in which you started the revision process: [“Prepare a polished version of your LinkedIn profile to start the revision process”](update link).
+- This is the activity in which you started the revision process: [“Prepare a polished version of your LinkedIn profile to start the revision process”](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-linkedin-profile.md).
 
 ### Submit your exercise
 
