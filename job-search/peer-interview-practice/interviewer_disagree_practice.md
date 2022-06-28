@@ -17,7 +17,7 @@
 
 ### Preparation - 15 min
 
-1. In a big group, read the theory lesson [Deal with common issues during live coding: abrupt coders](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/explain_first_lesson.md).
+1. In a big group, read the theory lesson [Deal with common issues while answering technical questions: interviewer disagrees with your approach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/interviewer_disagree_lesson.md).
     - Mute your microphones and read in silence.
     - Once everybody is ready, make sure that everybody understands the issue that is a theme of that lesson.
 
@@ -46,7 +46,7 @@
     - The interviewer starts to shake their head or send other signals of disagreement in the middle of the answer.
       - **As an interviewer you can select the moment - it can be when your applicant is really saying something wrong or when they say everything correct.** 
           - As this exercise prepares you for 2 variants, you can choose the moment according to your wish.
-    - **The applicant's job is to apply the following the guidelines from []()
+    - The applicant's job is to apply the following the guidelines from [Deal with common issues while answering technical questions: interviewer disagrees with your approach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/interviewer_disagree_lesson.md)
         - ❣️❣️❣️ **IMPORTANT: the point is not to answer the question but to practice how to react in case of a specific difficult situation.** ❣️❣️❣️ 
     - The interviewer indicates when the time is up**.
         - Do not extend the allocated time as it is important that you practice completing tasks on time, as you will need to in your real interviews.
