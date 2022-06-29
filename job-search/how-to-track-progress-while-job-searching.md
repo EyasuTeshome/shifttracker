@@ -3,7 +3,7 @@
 During job searching, you will be using two key metrics to track your progress: 
 
 - **Recent applications**: the number of job applications that you have submitted in the last 7 days
-- **Recent interviews**: the number of interviews that you have had in the last y days
+- **Recent interviews**: the number of interviews that you have had in the last 7 days
 
 These metrics will appear at the top of your Progress View page and reflect the information you register in Huntr.
 
