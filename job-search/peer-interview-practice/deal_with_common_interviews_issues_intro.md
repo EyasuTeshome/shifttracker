@@ -23,6 +23,8 @@ During your job interviews, you will be under big pressure and you will need to 
 *IMPORTANT NOTE: Today, you **do not** need to perform any peer-to-peer interview session. Your current task is to get yourself familiar with the outline of this kind of meeting, so you can smoothly perform it with your team in future activities.*
 
 - Read [the list of common issues students face during live coding interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/common_issues_during_interviews.md).
+    - There is no need to read all articles linked in this list. You will be asked to read them one by one and do it during the morning sessions. 
+    - Today, just read the list and think how likely all of those issues could happen to you.
 - Read the article: [How to deal with common issues during interviews - peer-to-peer practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/peer_common_issues_practice_meeting_outline.md).
 - Last but not least: sign up for [codesandbox](https://codesandbox.io/signin) and read about [Live sessions](https://codesandbox.io/docs/live). If you need to share your code with your peers and collaborate together, it will be perfect!
 
