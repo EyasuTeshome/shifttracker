@@ -54,7 +54,7 @@ You think this could solve the problem, so you look up how the filter function w
 
 In this case you copied a part of solution, **but didn’t copy from a direct solution to a specific assignment** (by googling for solution for [*assignment name]).* Problem was solved by looking at a solution to a similar problem, and then by using only parts  that were relevant.
 
-Just to be sure, you leave a come for the Code reviewer mentioning where you found the solution and how you modified it.
+Just to be sure, you leave a comment for the Code reviewer mentioning where you found the solution and how you modified it.
 
 ## Case 4: Bad Practice
 
