@@ -6,17 +6,19 @@
 
 Your goal is to submit 2 to 4 job applications on a daily basis during your job search. 
 
-To assist you and keep you going, we've included below some of the different places you can look for jobs online. 
-
-**Remember to strategically select the job applications that you send**. You can customize your resume and cover letter carefully for a job listing that seems like the perfect fit for you. At the same time, you can use a brute force strategy for other applications without tailoring them so much. 
+**Remember to strategically select the job applications that you send!** Try to combine:
+- customizing your resume and cover letter carefully for a job listing that seems like the perfect fit for you, with 
+- using a brute force strategy for other applications without tailoring them so much. 
 
 ### Why is submitting job applications daily critical?
 
 Job searching is more of a marathon than a sprint race. Regularity and consistency are vital to ensuring job opportunities come your way. Keeping the pace is also essential. Running too fast will burn you out; running too slow it will take a very long time to get to the finish line. 
 
-By sending between two and four applications daily while ensuring that your application materials showcase the skills and attributes that make you an excellent candidate, you will increase your chances of getting job interviews and finding an amazing job. 
+By sending between 2 and 4 applications daily while ensuring that your application materials showcase the skills and attributes that make you an excellent candidate, you will increase your chances of getting job interviews and finding an amazing job. 
 
-### Places to look for jobs online
+To assist you and keep you going, we've included below some of the different places you can look for jobs online. 
+
+## Places to look for jobs online
 
 - [The Microverse Job Portal in Huntr](https://huntr.co/microverse/job-portal)
 - [Where do I find jobs to apply to?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
