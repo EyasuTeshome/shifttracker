@@ -3,7 +3,7 @@
 ## Learning objectives
 
 - Describe the screening stages in the recruitment process.
-- Identify the key actions a job searcher can implement to move through the recruitment process.
+- Identify the key actions a job searcher can implement to move through the recruitment process from a company perspective.
 
 ### Estimated time: .5h
 
