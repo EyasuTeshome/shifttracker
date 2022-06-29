@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Please complete [this quiz](https://docs.google.com/forms/d/121wAUYAgqEft2t5esK2AumGf7hUUJMUVajBjuX0gn4Y/edit) to reflect further on what you can do to move forward in the recruitment process. 
+Please complete [this quiz](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to reflect further on what you can do to move forward in the recruitment process. 
 
 Once you are ready - submit this quiz as completed in your Students Dashboard.
 
