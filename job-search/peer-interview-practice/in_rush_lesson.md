@@ -1,4 +1,4 @@
-# Deal with common issues during live coding:
+# Deal with common issues during live coding: in rush
 
 ## Description
 During the live coding part of your job interview, you will be working against a clock. Sometimes you will get just enough time to solve the challenge and sometime it won't be enough.
