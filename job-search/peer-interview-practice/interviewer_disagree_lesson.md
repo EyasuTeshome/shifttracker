@@ -19,8 +19,9 @@ Review the following guidelines that will help you make sure that you do not sta
 *You are at a technical interview. You are in the middle of answering a technical question. You feel confident about your answer but your interviewer seems to disagree - for example, they shake their head.*
 
 First of all, remember that your interviewer's behavior might not indicate that your answer is wrong:
-     - For example, in some Balkan countries people [shake their heads to show agreement](https://www.contiki.com/six-two/nodding-head-bulgaria-means-no/#:~:text=In%20Bulgaria%20nodding%20your%20head,in%20many%20countries%20means%20no.) while in other countries it usually means saying 'no.'  
-     - There is also a chance that the interviewer's behavior has nothing to do with your answer. Imagine that they are sitting in the office and someone opens their door - your interviewer may be trying to show that person that they are busy by shaking their head.
+   - For example, in some Balkan countries people [shake their heads to show agreement](https://www.contiki.com/six-two/nodding-head-bulgaria-means-no/#:~:text=In%20Bulgaria%20nodding%20your%20head,in%20many%20countries%20means%20no.) while in other countries it usually means saying 'no.'  
+   - There is also a chance that the interviewer's behavior has nothing to do with your answer. Imagine that they are sitting in the office and someone opens their door - your interviewer may be trying to show that person that they are busy by shaking their head.
+     
 Having that in mind will help you reduce your stress level.
 
 Then take the following actions:
