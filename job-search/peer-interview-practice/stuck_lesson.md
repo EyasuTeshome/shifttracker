@@ -2,32 +2,31 @@
 
 ## Description
 
-Sometimes when you write a code you find yourself simply stuck. You know what your goal is but you struggule with one issue and you simple tried out all possibilities that you could see.
-If something like that happens during a job interview - it can make you really nervous.
-As usually - even int his kind of situation you can still present yourself as a professional.
-
+Sometimes when you write code you find yourself simply stuck. You know what your goal is but you struggle with one issue and you already tried out all possibilities that you could see.
+If something like that happens during a job interview, it can make you really nervous.
+As usual, even in this kind of situation you can still present yourself as a professional.
 
 ### Why is it important?
-Being stuck is a part of programmers life. Most likey it will happene at leats a few times in your future job.
-How to deal with that? You can always ask your teammates for help. However, you want to respoect their time - so just coming and asking for solution would not be fair.
-Instead, you can provide context and report what you had tried.
+Being stuck is a part of programmer's life. Most likely it will happen at least a few times in your future job.
+How should you deal with that? You can always ask your teammates for help. However, you want to respect their time, so just coming and asking for a solution would not be fair.
+Instead, you can provide context and report what you have already tried.
 You can also use the same strategy during your job interviews.
 
 ### Gudielines to follow
 
-Review the following guidelines that will help you to make sure that you set up yourself for success when you are stuck during your job interview.
+Review the following guidelines that will help you make sure that you set up yourself for success when you are stuck during your job interview.
 
 **Context**
-*You are at a technical interview. *
+*You are at a technical interview, and you get stuck on one of the questions. *
 
 1. **Acknowledge that you are stuck.**
      - This will buy you some time to take a pause, breathe, and remind yourself that this is an issue that could happen to anybody.
-     - In addition - your interviewer will be aware of the situation.
-2. **Describe your problem and ask for a specific hint**. You can use this situation to show that you are able to ask good question.
-     - ⛔️ Remember - do **NOT** ask a general question: "Could you give me some hint?" as this will pass the responsibility for your code to the interviewer.
-     - ✅ Instead - describe your problem: "I am not able to determine if a numer is ood or even. As you coudl see I tried X and Y and nothing worked. Could you give me small advice regarding how to check it?" This will show that  in the future you wil be able to quickly find help if you are stuck. 
+     - In addition, your interviewer will be aware of the situation.
+2. **Describe your problem and ask for a specific hint**. You can use this situation to show that you are able to ask good questions.
+     - ⛔️ Remember - do **NOT** ask a general question: "Could you give me a hint?" as this will pass the responsibility for your code to the interviewer.
+     - ✅ Instead - describe your problem: "I am not able to determine if a numer is odd or even. As you can see I tried X and Y and nothing worked. Could you give me a small tip regarding how to check it?" This will show that in the future you wil be able to quickly find help if you are stuck. 
 4. If nothing helps - **simply ask to go to the next part and to come back to the current challenge at the end of the interview**.
-    - For example: *I am sorry, I think that I am not able to solve it right now but most likely I will do it if I could see the problem with a fresh eye. Can we move to the next part and come back to this one in the end?*
+    - For example: *I am sorry, I think that I am not able to solve it right now but I think I will be able to if I look at it with fresh eyes. Can we move to the next part and come back to this one in the end?*
 
 ---
 
