@@ -1,4 +1,4 @@
-# Job Searching morning session: Behavioral interview practice with the SAR framework
+# Peer-to-peer interview practice: Behavioral interviews with the SAR framework
 
 ## Learning objectives
 
