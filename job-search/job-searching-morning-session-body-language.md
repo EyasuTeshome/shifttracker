@@ -1,4 +1,4 @@
-# Job Searching morning session: Using body language during behavioral interviews
+# Peer-to-peer interview practice: Using body language during behavioral interviews
 
 ## Learning objectives
 
