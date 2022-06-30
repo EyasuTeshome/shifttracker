@@ -32,7 +32,7 @@ Example: Did you like or commented on someone's post? Wrote an article or a post
 
 - Small wins, big wins, what would you like to celebrate?
 
-Example: "12 people reacted to my post", "I contacted 5 persons", "I wrote 2 posts", "I applied to 8 job offers" etc. 
+Example: "12 people reacted to my post", "I contacted 5 persons", "I wrote 2 posts", etc. 
 
 - What have you learned from your own experience with professionnal social media platforms?
 - Share anything else you think would be beneficial to the group.
