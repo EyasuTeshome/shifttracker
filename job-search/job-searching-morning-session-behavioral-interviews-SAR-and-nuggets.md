@@ -1,4 +1,4 @@
-# Job Searching morning session: Adding nuggets to your behavioral answers
+# Peer-to-peer interview practice: Adding nuggets to your SAR answers
 
 ## Learning objectives
 
