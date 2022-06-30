@@ -107,7 +107,7 @@ In some cases, it can be worth applying for a job even though you don’t meet a
 
 Template to copy: Submitting a job application
 
-Now go to your Student Dashboard and submit your exercise.
+Now go to your Student Dashboard and submit the link to your Huntr board.
 
  
 
