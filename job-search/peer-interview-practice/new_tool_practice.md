@@ -21,7 +21,7 @@
 1. In a big group, read the theory lesson [Deal with common issues during live coding: a new tool
 ](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/new_tool_lesson.md).
     - Mute your microphones and read in silence.
-    - Once everybody is ready - make sure that everybody understands the issue that is a theme of that lesson.
+    - Once everybody is ready, make sure that everybody understands the issue that is a theme of that lesson.
 
 
 ### Interviewers setup - 10 min
@@ -29,7 +29,7 @@
 1. Everybody in your group will play the role of the interviewer at some point during the exercise, so each of you must follow the steps below:
     - Everybody opens [this spreadsheet](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=1733832785) and gets a randomly generated online coding tool.
     - Everybody plays with the selected tool for a couple of minutes. As your job will be to share this tool with the applicant, you need to be familiar with it. Create an account, login, try out its features.
-    - **Make sure that you - as an interviewercan use the tool - so you can help your peer by asking some support questions.**
+    - **Make sure that, as an interviewer, you can use the tool so you can help your peer by asking some support questions.**
 3. **Everybody makes themselves familiar with the [rubric for giving advice](https://docs.google.com/document/d/1aKXJfe0Vd3KsBew8QWNo3C5rh7VShLZfyyvWai_ufTI/edit#).**
 4. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 25 minutes.**
@@ -42,10 +42,10 @@
 2. In each interview, follow these steps:
     - The interviewer opens the [following rubric for giving advice](https://docs.google.com/document/d/1aKXJfe0Vd3KsBew8QWNo3C5rh7VShLZfyyvWai_ufTI/edit#). **You should fill it in during the interview if possible.**
     - The interviewer starts [timer (**7 minutes**)](https://vclock.com/timer/#countdown=00:07:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
-    - The interviewer shares the link to online coding tool with the applicant.
-    - **The applicant job is to apply the following the guidelines from  [Deal with common issues during live coding: a new tool
+    - The interviewer shares the link to the online coding tool with the applicant.
+    - **The applicant's job is to apply the following the guidelines from [Deal with common issues during live coding: a new tool
 ](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/new_tool_lesson.md).
-        - For the purpose of this exercise - say aloud what you are doing, so you interviewer can see your thought process.
+        - For the purpose of this exercise, say what you are doing out loud so you interviewer can hear your thought process.
         - ❣️❣️❣️ **IMPORTANT: the point is not to solve the challenge/answer the question but to practice how to quickly get familiar with a new online coding tool.** ❣️❣️❣️ 
         
     - The interviewer indicates when the time is up**.
@@ -59,8 +59,6 @@
 1. Come back to the main room in Zoom.
 2. Use [this Airtable](https://airtable.com/shrclyLFtL6b5fMdT) form for a self-assessment and rating for the interviewer.
 3. Share something you will work on based on one piece of feedback with the entire group.
-
-
 
 ### Submit your exercise
 
