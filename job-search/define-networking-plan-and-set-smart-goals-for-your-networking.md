@@ -1,4 +1,4 @@
-# Define and set SMART goals for your networking efforts
+# Define a plan and set SMART goals for networking
 
 ## Learning objectives
 
