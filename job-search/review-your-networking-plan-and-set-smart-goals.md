@@ -1,4 +1,4 @@
-# Job Searching - Define a networking plan and SMART goals
+# Review your networking plan and set SMART goals
 
 ## Learning objectives
 
