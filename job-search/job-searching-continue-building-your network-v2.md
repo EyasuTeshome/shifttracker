@@ -4,9 +4,9 @@
 
 ## Description
 
-In this exercise, you will continue building your network during the job search process. It will be an activity that constantly appears on your Progress View Page to remind you to invest some time every day for this purpose.
+In this exercise, you will continue building your network during the job search process. It will be an activity that constantly appears on your Progress View Page to remind you to invest some time every day for this purpose. Read thoroughly this text the first time you open this activity; afterwards, you can only submit your network tracker and refer to this information as you need it.
 
-If you need information about who to network with or how to network, look at the useful information for networking further below.
+If you need information about who to network with or how to network, look at the resources we include further below.
 
 ### Why is continuing to build your network important?
 
