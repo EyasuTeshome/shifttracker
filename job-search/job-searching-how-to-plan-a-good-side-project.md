@@ -1,4 +1,4 @@
-# Job Searching - How to plan a good side project
+# How to plan a good side project
 
 ### Estimated time: 1h
 
