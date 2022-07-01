@@ -1,4 +1,4 @@
-# Job Searching - Start a new side project
+# Start a new side project
 
 ### **Estimated time**: 1hr
 
