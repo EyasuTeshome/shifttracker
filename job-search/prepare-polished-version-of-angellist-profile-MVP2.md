@@ -20,27 +20,26 @@ After creating a LinkedIn and GitHub profile, you probably wonder why another on
 ## Project setup
 
 - Open up your AngelList profile.
-- Open the latest version of your resume 
+- Open the latest version of your resume. 
 - Open the [Assess your AngelList profile rubric and worksheet](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#​​).
 
 ## **Exercise**
 
 ### **Instructions** 
 
-Since you created your AngelList profile a while ago, it’s essential to make sure that you have updated it and included any skills you have learned and the projects you have completed since. 
+Since you created your AngelList profile a while ago, it’s essential to make sure that you have updated it and included any skills you have learned and the projects you have completed since then. 
 
-By now, you are familiar with polishing your professional profiles. Using the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d​​), review that you have met the requirements for each section and make any necessary improvements, before submitting it to your coach.
+By now, you are familiar with polishing your professional profiles. Using the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d​​), review your work to make sure that you have met the requirements for each section and make any necessary improvements before submitting it to your coach.
 
 1. Begin by looking at the **Header** first.
      - Read the requirements listed in section 1 of the worksheet.
-     - Look closely at the different components of the Header section of your profile and analyze if you met the requirements.
+     - Look closely at the different components of the Header section of your profile and analyze whether or not you met the requirements.
      - Select the score that best applies and identify any improvements. Then, refer to the learning resources applicable.
      - Make any necessary changes.
 
 2. Follow this same process to review sections 2 to 5. As you do so, verify that you provide a comprehensive perspective of your skills and include all the projects you have completed. 
 
 3. Continue with section 6 and review the spelling and grammar in the text on your profile.
-
 
 ### Submit your exercise
 
