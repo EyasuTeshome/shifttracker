@@ -45,14 +45,14 @@ While you are job searching, you will still attend your full-time Microverse sch
 
  **Learn more about how to structure your day as a job searcher:**
 
-- [What to expect from your day-to-day while you're job searching](https://www.loom.com/share/5e978df617b14762a0c4dc7db43b3caa) - Watch this short video talking about what to expect while you're job searching. [Click here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-to-expect-from-your-daily-schedule-while-job-searching.md) to read the same material that was shared in the video.
+- Watch this short video talking about what to expect while you're job searching: [What to expect from your day-to-day while you're job searching](https://www.loom.com/share/5e978df617b14762a0c4dc7db43b3caa). [Click here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-to-expect-from-your-daily-schedule-while-job-searching.md) to read the same material that was shared in the video.
 
-- [How to use your weekly retrospectives to guide your job search](https://www.loom.com/share/f14cc2e66fb648a2abde849d657fa644?t=0) - Watch this short video for more guidance
+- And familiarize yoursefl about how to complete weekly retrospective in the job searching stage: [How to use your weekly retrospectives to guide your job search](https://www.loom.com/share/f14cc2e66fb648a2abde849d657fa644?t=0).
 
 
 ### How will I track my progress while job searching?
 
-While you are job searching, you will still attend your full-time Microverse schedule. However, you will be tracking your progress with specific metrics related with your job searching activities, instead of your progress through the curriculum.
+While you are job searching, you will still attend your full-time Microverse schedule. However, you will be tracking your progress with specific metrics related to your job searching activities, instead of your progress through the curriculum. You will see them in your View Progress page.
 
 **Guiding questions:**
 
@@ -64,9 +64,10 @@ While you are job searching, you will still attend your full-time Microverse sch
 
 - [How to track progress while job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-track-progress-while-job-searching.md)
 
-### How will I career coaches support me during my job search?
+### How will career coaches support me?
 
 During job searching, you will communicate with career coaches in group meetings and you will be able to get in touch with them through Zendesk to get support for any immediate needs throughout the process, such as preparing for an interview that has just been scheduled. You will be able to schedul 1:1 meetings to solve specific issues and will participate in online workshops designed to help you put in practice what you have learned about job searching.
+
 
 **Guiding questions:**
 
@@ -75,6 +76,7 @@ During job searching, you will communicate with career coaches in group meetings
 - What support will you get as you are job searching?
 - How can you reach out to your career coach?
 - What should you do if you have a job offer but your coaching group meeting is in a few days?
+
 
  **Learn more about how you'll communicate with your career coach:**
 
