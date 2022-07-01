@@ -33,14 +33,6 @@ You have many options for finding job opportunities: you can search online on we
 
 **Refresh your knowledge about resources for finding jobs**
 
-1. **The Microverse Job Portal in Huntr:**
-
-Microverse has its own job portal in Huntr. This is where Microverse career coaches regroup the job opportunities they see online that they think could fit you. And they're already in Huntr, making it super easy to add them directly to your board.
-
-[Introducing the Microverse Job Portal](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/introducing-the-microverse-portal.md)
-
-2. **Other places you can look for jobs online:**
-
 Many websites list job openings and specialize in certain types of jobs. Try different ones and identify those that match your interests and needs. In the article below you will find an extensive list of websites you can visit to find jobs. 
 
 [Where do I find jobs to apply to?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
