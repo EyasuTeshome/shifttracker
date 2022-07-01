@@ -17,12 +17,29 @@ Working on a side project during your job search will be an asset for several re
 3. The side projects give you an opportunity to meet people and make connections that could possibly lead to a job.
 4. Continually expanding your portfolio with more projects will increase the odds that a recruiter or hiring manager will want to interview you when you apply to a position by making your application materials more attractive to them.
 
-### Having your own project and open-source project contribution
 
-Ideally, you should divide your time fairly evenly between building new projects of your own and contributing to open-source projects built by others.
+### Adding features to your Microverse projects
 
-- [Contributing to open source projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/contributing-to-open-source-projects.md)
+As a starting point, your side project can be adding features to the projects you completed during the core program to make them more complex and attractive. This might be especially useful if you didn’t have coding experience before joining the program and these are the main projects in your portfolio.
+
+Another initial project can be polishing your portfolio to make sure that it offers a compelling picture of your skills and stands out among others.
+
+### Making contributions to open-source projects
+
+Ideally, you should divide your time fairly evenly between building new projects of your own and contributing to open-source projects built by others. This last option is not easy, but it’s worth the effort. Developers who are active in the open source community and contribute to a wide range of projects tend to do better on the job market because they have a proven track record of contributing high-quality code to a range of projects and working well with others across cultures and time zones.
+If you want to know how to get started, read:
+
+- [Contributing to open source projects](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/contributing-to-open-source-projects.md)The following resources can help you get off to a good start:
+
+
+### Working on your own projects
+
+In addition to contributing to open source projects, it's very useful to build side projects that are all your own, or that you build with a team of equal partners. This gives you an opportunity to gain experience with defining a product and designing the user experience, defining project architecture, scoping the work, and performing routine maintenance, all of which are skills that will be useful to you as a developer at many companies.
+
+Learn more about how to get started with your own project:
+
 - [Building new projects of your own](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/building-new-projects-of-your-own.md)
+
 
 ### Showing off your work
 
@@ -43,14 +60,7 @@ Always make sure your six most impressive projects are pinned to your GitHub pro
 
 [Click here to check your answers to these questions.](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-plan-a-good-side-project-answer-sheet.md)
 
-## Additional materials
+---
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
 
-How to pick an open source project to contribute to and how to contribute effectively is a deep topic. We recommend that you also check out some other resources offering help on getting started contributing to open source:
-
-- [GitHub's official guide](https://opensource.guide/how-to-contribute/)
-- [FreeCodeCamp's guide](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)
-- [First Timers Only](https://www.firsttimersonly.com/)
-- [Beginner Open Source](https://opensource.com/life/16/1/6-beginner-open-source)
-- [Open Source Contributions](https://opensource.guide/how-to-contribute/)
