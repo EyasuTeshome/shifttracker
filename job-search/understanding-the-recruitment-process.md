@@ -21,7 +21,7 @@ Watch the following video to familiarize yourself with the different stages of t
 
 [The recruitment process from a company's perspective](https://youtu.be/-gX_cv6q4vo)
 
-[!(https://img.youtube.com/vi/gX_cv6q4vo.jpg)](https://www.youtube.com/watch?v=-gX_cv6q4vo)
+[![Watch video(https://img.youtube.com/vi/gX_cv6q4vo.jpg)]](https://www.youtube.com/watch?v=-gX_cv6q4vo)
 
 ## How can you increase your chances of moving forward in the recruitment process?
 
