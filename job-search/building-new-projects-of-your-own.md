@@ -1,6 +1,6 @@
 # Building new projects of your own
 
-In addition to contributing to open source projects, it's very useful to build side projects that are all your own, or that you build with a team of equal partners. This gives you an opportunity to gain experience with defining a product and designing the user experience, defining project architecture, scoping the work, and performing routine maintenance, all of which are skills that will be useful to you as a developer at many companies.
+When you develop a project of your own, by yourself or with a team of equal partners, consider the following stages. You will learn skills that will be useful to you as a developer at many companies.
 
 ### **Defining a product and designing the user experience**
 
