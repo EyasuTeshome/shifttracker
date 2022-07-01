@@ -19,7 +19,7 @@ Job searching can be very challenging. Since many candidates apply for each posi
 
 Watch the following video to familiarize yourself with the different stages of the recruitment process and the challenges in each one. Please be ready to take notes as you watch the video, either online or on a piece of paper.
 
-(link to video here)
+[The recruitment process from a company's perspective](https://youtu.be/-gX_cv6q4vo)
 
 ## How can you increase your chances of moving forward in the recruitment process?
 
