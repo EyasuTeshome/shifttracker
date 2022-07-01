@@ -1,5 +1,9 @@
 # Time booked to polish and update your application material
 
+
+### Estimated time: 1h
+
+
 ## **Description**
 
 Continue working on the application material that you and your coach are reviewing this week. After you make all the edits that your coach suggests, ask for a new review. You and your coach can use Gdoc comments or Zendesk messages to communicate during these rounds of revision. 
