@@ -1,6 +1,6 @@
 # Job Searching - Continue building your network
 
-### Estimated time: 1.5h
+### Estimated time: 1h
 
 ## Description
 
