@@ -21,6 +21,8 @@ Watch the following video to familiarize yourself with the different stages of t
 
 [The recruitment process from a company's perspective](https://youtu.be/-gX_cv6q4vo)
 
+[![Watch the video](https://img.youtube.com/vi/-gX_cv6q4vo.jpg)](https://www.youtube.com/watch?v=-gX_cv6q4vo)
+
 ## How can you increase your chances of moving forward in the recruitment process?
 
 The recruitment process works like a funnel, with specific screening moments where applicants are filtered based on their:
