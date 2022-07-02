@@ -1,4 +1,4 @@
-s# Coding challenges practice: intro
+# Coding challenges practice: intro
 
 ## Learning objectives
 
