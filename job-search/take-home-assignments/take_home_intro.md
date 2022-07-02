@@ -24,16 +24,16 @@ As mentioned above - take-home assignments are a great opportunity for both - em
 First of all - read the following advice:
 
 1. Do not stress about time. We know it is easy to top say but... stressing about time will only take your mental powers. Remind yourself that the point is to show what you can achieve in a given time and focus on doing as much as possible.
-  - Check quotes from real take-home assignments that explicitly say that finishing the task in the given time is not a must-have:
+    - Check quotes from real take-home assignments that explicitly say that finishing the task in the given time is not a must-have:
       
-      > Given the time expectations of this exercise, we don't expect anyone to submit anything super fancy, but if you find yourself with extra time, any extra credit item(s) that showcase your unique strengths would be awesome! 
+        > Given the time expectations of this exercise, we don't expect anyone to submit anything super fancy, but if you find yourself with extra time, any extra credit item(s) that showcase your unique strengths would be awesome! 
 
-      > Up to 8 hours. We do not expect you to complete the assessment at this time.
+        > Up to 8 hours. We do not expect you to complete the assessment at this time.
   
-     > Note II: Timeboxing is part of this exercise too. In normal circumstances, you would have more than 3 hours to work on something like this. However, even in real life, we seldom have as much time as we want to work on things. Don’t let perfect be the enemy of done.
+       > Note II: Timeboxing is part of this exercise too. In normal circumstances, you would have more than 3 hours to work on something like this. However, even in real life, we seldom have as much time as we want to work on things. Don’t let perfect be the enemy of done.
 
 
-  - Remember that sometimes it is possible to ask for more time. And even if not - you can always submit an incomplete solution with an additional description of what you did not manage to code and why.
+    - Remember that sometimes it is possible to ask for more time. And even if not - you can always submit an incomplete solution with an additional description of what you did not manage to code and why.
 
 2. Read the requirements and create a plan for your solution. With a plan, coding will be easier, you won't waste time, and **even if you do not implement everything you will be able to show your plan to the recruiters**.
 3. If something is not clear to you, you have two options:
