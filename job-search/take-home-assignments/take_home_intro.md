@@ -1,5 +1,5 @@
 
-# Deal with common issues during interviews: intro
+# Take-home assignment practice: intro
 
 ## Learning objectives
 
