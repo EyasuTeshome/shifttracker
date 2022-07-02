@@ -67,6 +67,8 @@ In order to get inspired:
 - Prepare GitHub templates for different tech stacks - this will speed you up as you will have your boilerplate code ready.
 
 
+During your job searching time at Micorverse, you will be asked to prepare for take-home assignments in the recurring exercise.
+
 
 ---
 
