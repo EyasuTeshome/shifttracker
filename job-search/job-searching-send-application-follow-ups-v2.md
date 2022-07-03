@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Today you will take time to send follow-up emails to the job applications you did last week. 
+Take time today to send follow-up emails to the job applications you have done. 
 
 ### Why is sending job application follow-ups important?
 
@@ -29,13 +29,13 @@ Before sending follow-up emails, remember the following tips:
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Now take the time you need to send follow-up emails, to the job applications you sent. 
-2. Let us know how many follow-up emails you sent this week by filling the template below
+1. Open Huntr to look at the job applications that you sent.
+2. Identify those that you sent a week ago and take the time you need to send follow-up emails. 
+3. After you send the follow-ups, move the job application to the "Followed Up" column in your Huntr board. NOTE: You don't need to make a submission for this activity.
 
-**Exercise template to copy:** [Job application follow-up tracking](https://docs.google.com/document/d/1n3t1rVlCerQ7h7oRLfQyiRMUIcvI9L2zwlljNQgAl9g/edit?usp=sharing)
 
-### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+------
 
-Now go to your Student Dashboard and submit your exercise.
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
