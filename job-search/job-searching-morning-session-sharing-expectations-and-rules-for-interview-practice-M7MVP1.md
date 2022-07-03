@@ -4,13 +4,13 @@
 
 - Recognize the importance of investing in good working relationships with teammates.
 
-### **Estimated time**: 0.5hr
+### **Estimated time**: 1hr
 
 ## Introduction
 
 *Read through the following section on your own while staying on the Zoom call with your group.* 
 
-*Spend 5 minutes on this section individually*
+*Spend 10 minutes on this section individually*
 
 Today you're going to share with your teammates your expectations about morning sessions and you will set working agreements on how you will support one another this week.
 
@@ -36,9 +36,9 @@ This week, you and your teammates will practice how to deal with common intervie
 **Spend 25 minutes working on this exercise.**
 
 1. Open your copy of the exercise template below and read through it. 
-2. Choose a moderator.
+2. Choose a moderator and a notetaker. The moderator will lead the session and organize turn-taking. The notetaker will fill the template.
 3. Follow the instructions to complete parts 1, 2, and 3.
-4. Everyone should take notes and submit them.
+4. Everyone submits a copy of the template with everyone's answers.
 
 **Exercise template to copy:** [Sharing expectations and setting rules for interview practice](https://docs.google.com/document/d/1z1L9dXvlxkxLxHLHXUnW1N5gBIG0d5jTbpB2vdCLRYM/edit#)
 
