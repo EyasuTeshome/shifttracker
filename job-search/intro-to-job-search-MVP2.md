@@ -4,7 +4,7 @@
 
 - Understand what to expect from job searching with Microverse.
 
-### Estimated time: .5 hr
+### Estimated time: 1hr
 
 ## Description
 
