@@ -4,11 +4,11 @@
 
 - Create a strong resume that will pass applicant tracking systems.
 
-### **Estimated time: .25h**
+### **Estimated time: .75h**
 
 ## **Description**
 
-In this exercise, you will submit the final version of your resume through the Student Dashboard.
+In this exercise, you will make final edits to your resume and submit the final version through the Student Dashboard.
 
 ## Project submission
 
