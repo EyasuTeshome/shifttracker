@@ -16,7 +16,7 @@ By analyzing your job search you'll be able to identify what you're doing right 
 
 Review the steps to take to analyze your job search by reading through the lesson below:
 
-- [How do I analyze how my job search is going?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-why-and-how-to-analyze-your-job-search.md)
+- [How do I analyze how my job search is going?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-do-i-analyze-how-my-job-search-is-going.md)
 
 ## Submit your exercise
 
