@@ -17,7 +17,7 @@ As mentioned previously working on side projects is important for various reason
 
 **Refresh your memory on why it's important to keep your GitHub green:**
 
-Keeping a strong GitHub profile is crucial during your job search. It can can be the difference between receiving interview requests and being rejected for positions outright. To refresh your memory on this topic, read through the following: 
+Keeping a strong GitHub profile is crucial during your job search. It can can be the difference between receiving interview requests and being rejected for positions outright. To refresh your memory on this topic, read through the first section of this exercese: 
 
 - [Why is a strong GitHub profile so important?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
 
