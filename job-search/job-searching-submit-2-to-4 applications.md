@@ -22,6 +22,11 @@ To assist you and keep you going, we've included below some of the different pla
 
 - [Where do I find jobs to apply to?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
 
+## Refresher on submitting a job application
+
+- [How to submit a job application](
+https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-submit-a-job-application-MVP2.md) if you need to refresh your memory on how to submit a job application.
+
 ## Additional materials
 
 Explore these resources whenever you need help keeping your spirits up as you job search.
