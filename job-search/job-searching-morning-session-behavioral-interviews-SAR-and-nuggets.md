@@ -50,11 +50,11 @@ During this morning session, you will practice with one of your peers using addi
 
 4. Take turns doing the interviews. In each one, the interviewer will ask 2 behavioral questions following these steps:
     - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/1DrJNDzPpm_HCF9dyLOfmqxErlliP3ItiTpx3Wd8Bif8/edit#heading=h.za7e1fwup8u). **You should fill it in during the interview if possible.**
-    - The interviewer starts [timer](https://vclock.com/timer/#countdown=00:03:00&date=2022-06-24T17:11:04&sound=xylophone&loop=1).
+    - The interviewer set the [timer](https://vclock.com/timer/#countdown=00:03:00&date=2022-06-24T17:11:04&sound=xylophone&loop=1) to 3 min.
     - The interviewer asks the first question.
     - **The applicant answers beginning with a nugget and using the SAR framework.**
     - The interviewer indicates when the time is up.
-    - The interviewer shares with the applicant if the nugget summarized what they talked about and explains the attribute(s) identified in the answer and why (if possible, give concrete examples). (1 min)
+    - The interviewer shares with the applicant if the nugget summarized what they talked about and explains the attribute(s) identified in the answer and why (if possible, give concrete examples) (1 min).
 
 **Do not extend the allocated time as it is important you practice completing tasks on time, as you will need to in your actual interviews.**
 
