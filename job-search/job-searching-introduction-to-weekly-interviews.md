@@ -25,9 +25,9 @@ Weekly interviews are important because "practice makes perfect". In other words
 
 Practicing each week is a great way to stay motivated and engaged until you get the job offer of your dreams. Submitting your weekly interview form will also allow you to reflect on your practice and keep track of your progress. 
 
-The link below shows you three ways you can practice interviews: 
+The link below shows you four ways you can practice interviews: 
 
-- [Three ways to practice interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/three-ways-to-practice-interviews.md)
+- [Four ways to practice interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/three-ways-to-practice-interviews.md)
 
 ### Refresher on how to follow up after an interview
 
