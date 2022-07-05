@@ -16,7 +16,7 @@ You cannot build a solid professional network in one day. Creating and nurturing
 
 A helpful framework for understanding the dedication and constant activities involved in networking is Greg Bahlman’s GARDNER framework. Familiarize yourself with the seven key elements of networking in the article: 
 
-- [Don’t just network: become a relationship gardner](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/defining-networking-what-networking-is-and-what-it-is-not.md).
+- [Don’t just network: become a relationship gardner](https://tribemineblog.com/dont-just-network-become-a-relationship-gardener/).
 
 **Refer to this article if you feel lost or less motivated to network!**
 
