@@ -39,7 +39,7 @@ Many websites list job openings and specialize in certain types of jobs. Try dif
 
 **Apply what you've learned**
 
-Use one of these resources to find a job position you would like to apply for.
+1. Use one of these resources to find a job position you would like to apply for.
 
 ### Step 2: Add the job listing to your Huntr board
 
@@ -62,7 +62,7 @@ Read the following article to refresh your memory on the information that will h
 
 **Apply what you've learned**
 
-1. Read the description of the selected job opening carefully and look for the pointers described in the article. Register your findings in Section 1 of this template.
+1. Read the description of the selected job opening carefully and look for the pointers described in the article. Register your findings in Section 1 of [this template](https://docs.google.com/document/d/13traiMD2fp_dn5bVS5nUtXmBVQDmz9q_Z7p727NnsjE/edit#heading=h.yegj1fdxqsoo).
 2. Decide if the job is a good fit for you so that it’s worth investing your time and effort in customizing your application materials. If it is, continue with the next step. If you decide it’s not, go back to Step 1 and look for another job opening.
  
 ### Step 4: Do research on the company and customize your resume and cover letter
@@ -91,15 +91,15 @@ In some cases, it can be worth applying for a job even though you don’t meet a
 
 1. Submit your job application.
 2. Move the job entry in your Huntr board from the “Wishlist” to the “Applied” stage.
-3. Copy the link of your Huntr board in Section 2 of the template. 
+3. Copy the link of your Huntr board in Section 2 of the [template](https://docs.google.com/document/d/13traiMD2fp_dn5bVS5nUtXmBVQDmz9q_Z7p727NnsjE/edit#heading=h.yegj1fdxqsoo). 
 
 ## Submit your exercise
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
-Template to copy: Submitting a job application
+Template to copy: [Submitting a job application](https://docs.google.com/document/d/13traiMD2fp_dn5bVS5nUtXmBVQDmz9q_Z7p727NnsjE/edit#heading=h.yegj1fdxqsoo)
 
-Now go to your Student Dashboard and submit the link to your Huntr board.
+Now go to your Student Dashboard and submit your exercise.
 
  
 
