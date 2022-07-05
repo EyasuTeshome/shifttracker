@@ -1,4 +1,4 @@
-# Job Searching morning session: Using breakout rooms for interview practice
+# Peer-to-peer interview practice: Using breakout rooms for interview practice
 
 ### **Estimated time**: 0.5hr
 
