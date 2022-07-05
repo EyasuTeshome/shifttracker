@@ -1,4 +1,4 @@
-# Three ways to practice interviews
+# Four ways to practice interviews
 
 Here are three ways you can practice interviews, in order of preference. 
 
