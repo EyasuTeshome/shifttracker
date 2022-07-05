@@ -27,9 +27,9 @@ IMPORTANT NOTE: Read all instructions before you start this exercise.
 
 1. Open the latest version of your behavioral grid.
 2. Open your resume.
-3. Identify in your resume any projects or positions that you have NOT included already in your grid. We recommend choosing a software project or software job if possible. This project can be from Microverse, or it can be from another software experience.
+3. Identify in your resume any software projects or positions that you have NOT included already in your grid. This project can be from Microverse, or it can be from another software experience. You may consider other types of projects if you consider them useful to showcase your professional skills.
 4. Using the project or position identified above, complete the behavioral questions asked in the grid, making sure that each answer you give follows the SAR method.
-5. Read the content of each element of your answers (situation, action, result) carefully and highlight in bold the keywords so that it’s easier for you to remember the quid of your responses.
+5. Read the content of each element of your answers (situation, action, result) carefully and highlight in bold the keywords so that it’s easier for you to remember your responses.
 5. Repeat steps 3 and 4 until there are no more projects or positions to include. Ideally, you should have at least 6 projects or positions in your behavioral grid.
 
 **Exercise template to copy:** [Behavioral grid template](https://docs.google.com/document/d/10WfzCmmdbyEdY6ztdfaFTosSNZfS-NBww57U6_Y8fIg/edit?usp=sharing)
