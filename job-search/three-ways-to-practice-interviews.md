@@ -17,3 +17,7 @@ If you do not have any interview set up with a company this week, you should org
 3. **Have a PRAMP mock interview**
 
 If you do not have an interview set up with a company this week and that meeting with your partner for a peer mock interview is not possible either, then you should have a Pramp mock interview.
+
+4. **Participate in morning sessions**
+
+In the job searching modules, morning sessions will be dedicated to practicing different aspects of technical and behavioral interviews with your peers. We will provide you guidelines for structured practice and rubrics or checklists for feedback. Take advantage of these meetings to hone your interview skills!
