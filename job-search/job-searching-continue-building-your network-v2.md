@@ -18,7 +18,7 @@ A helpful framework for understanding the dedication and constant activities inv
 
 - [Don’t just network: become a relationship gardner](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/defining-networking-what-networking-is-and-what-it-is-not.md).
 
-Refer to this article if you feel lost or less motivated to network.
+**Refer to this article if you feel lost or less motivated to network!**
 
 ## Exercise
 
