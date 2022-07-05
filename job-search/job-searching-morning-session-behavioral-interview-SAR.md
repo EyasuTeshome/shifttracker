@@ -56,12 +56,12 @@ The SAR (situation-action-result) framework you studied during the core program 
 
 2. In each interview, the interviewer will ask 2 behavioral questions following these steps:
     - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/16-ksqgYN4KX21DEfk46zib5OY8KnDOYRtPPviLGtes8/edit#heading=h.za7e1fwup8u). **You should fill it in during the interview if possible.**
-    - The interviewer starts [timer (**3 minutes**)](https://vclock.com/timer/#countdown=00:03:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
+    - The interviewer starts [timer (**3 minutes**)](https://vclock.com/timer/#countdown=00:03:00&enabled=0&seconds=180&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer asks the first question.
     - **The applicant answers using the SAR framework.**
     - The interviewer indicates when the time is up.
     - The interviewer asks a follow-up question to dig deeper into the attribute they wish to explore and gives the applicant an additional minute to answer.
-    - The interviewer starts [timer (**1 minutes**)](https://vclock.com/timer/#countdown=00:01:00&enabled=0&seconds=420&title=Peer+interviews+practice&sound=xylophone&loop=1).
+    - The interviewer starts [timer (**1 minutes**)](https://vclock.com/timer/#countdown=00:01:00&enabled=0&seconds=60&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The applicant answers the follow-up question.
     - The interviewer shares with the applicant the attribute(s) identified in the answer given and explains why (if possible, give concrete examples). (1 minute)
 
