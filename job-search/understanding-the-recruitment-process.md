@@ -34,7 +34,7 @@ The recruitment process works like a funnel, with specific screening moments whe
 
 By taking specific actions, you can increase your chances of moving forward. 
 
-**Complete [this quiz](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to identify these activities.** 
+**Complete [this quiz](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to reflect about these activities. It will not be graded but will help you identify the key tasks for job searching.** 
 
 
 ------
