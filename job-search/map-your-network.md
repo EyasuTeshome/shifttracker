@@ -1,4 +1,4 @@
-# Job searching - Map your professional network
+# Map your professional network
 
 ## Learning objectives
 
