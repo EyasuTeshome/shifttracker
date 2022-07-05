@@ -8,7 +8,7 @@
 
 ## Description
 
-In this lesson, you will refresh your understanding of behavioral interviews to prepare yourself for peer-to-peer practice sessions that will take place in the morning sessions.  
+In this lesson, you will refresh your understanding of behavioral interviews to prepare yourself for the peer-to-peer practice sessions we have designed to help you prepare for this kind of interviews.  
 
 ### Why is it important to practice for behavioral interviews?
 
