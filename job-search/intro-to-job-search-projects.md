@@ -1,4 +1,4 @@
-# Intro to job searching with Microverse
+# Intro to the job searching projects at Microverse
 
 ## Learning objectives
 
