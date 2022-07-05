@@ -50,7 +50,7 @@ As this exercise is a recurring one - each time you will be able to select one o
 
 ### Option B - instructions
 
-1. Check how to create template repositories in GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
+1. Check [how to create template repositories in GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 2. Read [Setting up Future Projects for Success with Template Repositories](https://sparkbox.com/foundry/how_to_build_github_starter_templates_for_Eleventy_to_make_your_projects_easier)
 3. Create a template repository that will be the most useful for you.
 
