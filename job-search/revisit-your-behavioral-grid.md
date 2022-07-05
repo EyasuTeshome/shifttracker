@@ -23,8 +23,6 @@ IMPORTANT NOTE: Read all instructions before you start this exercise.
 
 ### Instructions
 
-* Check out the exercise if you need a refresher on how to answer behavioral questions using the SAR framework.
-
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
 1. Open the latest version of your behavioral grid.
