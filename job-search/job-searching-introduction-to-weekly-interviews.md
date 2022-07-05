@@ -1,4 +1,4 @@
-# Job Searching - Introduction to weekly interviews
+# Introduction to weekly interviews
 
 ### Estimated time: 0.5 hr
 
