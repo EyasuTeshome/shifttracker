@@ -44,7 +44,7 @@ To organize your time and resources effectively, it’s important to have in min
 
 Once you have defined your networking big-picture goal, it’s a good idea to plan your network and identify the qualities you want your network members to have: different roles (recruiters, developers, project managers), sectors and companies, skills or experience, and other commonalities with you (interests or locations, for example).
 
-To get some ideas on how to plan your network, read the article [Use research to plan a better network](https://tribemineblog.com/use-research-to-plan-a-better-network/).
+To get some ideas on how to plan your network, read the article ["Use research to plan a better network"](https://tribemineblog.com/use-research-to-plan-a-better-network/).
 
 Since networking is a strategy to access your dream jobs, it’s useful to consider those dream jobs when thinking of your big-picture networking goal. In the core program, you created a list so it’s time to look at it again (if you didn’t make a list, do it now using [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/define-your-dream-companies.md)). 
 
