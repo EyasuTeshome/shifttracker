@@ -1,4 +1,4 @@
-# Job Searching - How to send job application follow-ups
+# How to send job application follow-ups
 
 ### Estimated time: 1h
 
