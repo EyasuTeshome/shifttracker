@@ -20,7 +20,7 @@ Working on a side project during your job search will be an asset for several re
 
 ### Adding features to your Microverse projects
 
-As a starting point, your side project can be adding features to the projects you completed during the core program to make them more complex and attractive. This might be especially useful if you didn’t have coding experience before joining the program and these are the main projects in your portfolio.
+As a starting point, your side project can be adding features to the projects you completed during the core program to make them more complex and attractive, or checking them for bugs. This might be especially useful if you didn’t have coding experience before joining the program and these are the main projects in your portfolio.
 
 Another initial project can be polishing your portfolio to make sure that it offers a compelling picture of your skills and stands out among others.
 
