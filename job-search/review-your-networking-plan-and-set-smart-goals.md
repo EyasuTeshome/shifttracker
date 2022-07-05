@@ -65,7 +65,7 @@ Once you have a clear vision of the professional network you want to build, you 
 
 1. Open the network map that you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/map-your-network.md). Compare your current network to the long-term networking goal and the qualities that you listed in section 1. 
 2. Think carefully about the changes that you would like to make to your network and write some ideas in section 2.
-3. Read the SMART newtorking goals included in your job search plan and make sure that you have at least 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal and list them in section 3 of the exercise template. 
+3. Read the SMART newtorking goals included in the job search plan you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/update-your-job-searching-plan-and-set-SMART-goals.md) and make sure that you have at least 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal and list them in section 3 of the exercise template. 
 
 **Exercise template to copy:** [Your networking SMART goals](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing).
 
