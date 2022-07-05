@@ -14,7 +14,7 @@ As mentioned in the [Take-home assignment practice: intro](https://github.com/mi
 - You can prepare GitHub templates for different tech stacks - this will speed you up as you will have your boilerplate code ready.
 
 As this exercise is a recurring one - each time you will be able to select one of the two options:
-- solve a random take-home assignment
+- solve a random take-home assignment.
 - create a GitHub template based on f your previous projects.
 
 **It is your responsibility to select the option for a given day.**
@@ -42,7 +42,7 @@ As this exercise is a recurring one - each time you will be able to select one o
 7. After 3h stop and prepare your documentation that includes (spend up to 0.5h on this):
     - The plan you made and what you managed to achieve and not.
     - The assumptions you made.
-    - A description of any issues that arose
+    - A description of any issues that arose.
     - Your suggestions for the features you could build on the top of the assignment if you had more time.
 8. Add the documentation you created in the previous point to the README of your assignment repo.
 
@@ -50,8 +50,8 @@ As this exercise is a recurring one - each time you will be able to select one o
 
 ### Option B - instructions
 
-1. Check [how to create template repositories in GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
-2. Read [Setting up Future Projects for Success with Template Repositories](https://sparkbox.com/foundry/how_to_build_github_starter_templates_for_Eleventy_to_make_your_projects_easier)
+1. Check [how to create template repositories in GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository).
+2. Read [Setting up Future Projects for Success with Template Repositories](https://sparkbox.com/foundry/how_to_build_github_starter_templates_for_Eleventy_to_make_your_projects_easier).
 3. Create a template repository that will be the most useful for you.
 
 
