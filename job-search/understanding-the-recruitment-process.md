@@ -32,7 +32,9 @@ The recruitment process works like a funnel, with specific screening moments whe
 - Test performance (online or take-home)
 - Live interviews
 
-By takins specific actions, you can increase your chances of moving forward. Complete [this quiz](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to identify these activities. 
+By taking specific actions, you can increase your chances of moving forward. 
+
+**Complete [this quiz](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to identify these activities.** 
 
 
 ------
