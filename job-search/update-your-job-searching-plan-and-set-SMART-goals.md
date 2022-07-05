@@ -35,7 +35,7 @@ As input for your current job plan, remind yourself of the job search plan and t
 3. Finally, prepare a commitment map for yourself in section 3. 
 
 
-**Exercise template to copy:** [Goals worksheed](https://docs.google.com/document/d/19fOkXP38AVgYBjWN1-729EQoMAPc7t-888XALJ37P2Y/edit?usp=sharing) 
+**Exercise template to copy:** [Goals worksheed](https://docs.google.com/document/d/1WT418F4SQGtfA2Buz5gLa7bf7Nf81YhGzgRcAN6y6XM/edit?usp=sharing) 
 
 ### Submit your exercise
 
