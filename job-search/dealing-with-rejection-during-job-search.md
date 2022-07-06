@@ -20,8 +20,8 @@ Since there are many candidates for one job, rejection is widespread and will be
 There is no way to escape rejection during job searching, especially in the current job market. Yet, you can learn to face it in a way that doesn’t get your motivation down, and you can participate in interviews and tests with a positive spirit.
 
 Read the following articles to identify some valuable strategies to face rejection:
-- [Eight Ways To Cope And Rebound From Constant Rejection In Your Job Search And Career](https://www.forbes.com/sites/jackkelly/2020/10/23/eight-ways-to-cope-and-rebound-from-constant-rejections-in-your-job-search-and-career/?sh=b7822bb75d03).
-- [Turned Down For Lack Of Experience? How To Get More Of It](https://www.forbes.com/sites/forbescoachescouncil/2017/11/05/turned-down-for-lack-of-experience-how-to-get-more-of-it/?sh=4f28c7ed3510).
+- [Eight ways to cope and rebound from constant rejection in your job search and career](https://www.forbes.com/sites/jackkelly/2020/10/23/eight-ways-to-cope-and-rebound-from-constant-rejections-in-your-job-search-and-career/?sh=b7822bb75d03).
+- [Turned down for lack of experience? How to get more of it](https://www.forbes.com/sites/forbescoachescouncil/2017/11/05/turned-down-for-lack-of-experience-how-to-get-more-of-it/?sh=4f28c7ed3510).
 
 Guiding questions:
 
