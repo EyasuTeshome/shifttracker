@@ -29,7 +29,7 @@ After creating a LinkedIn and GitHub profile, you probably wonder why another on
 
 Since you created your AngelList profile a while ago, it’s essential to make sure that you have updated it and included any skills you have learned and the projects you have completed since then. 
 
-By now, you are familiar with polishing your professional profiles. Using the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d​​), review your work to make sure that you have met the requirements for each section and make any necessary improvements before submitting it to your coach.
+By now, you are familiar with polishing your professional profiles. Using the [Assess your AngelList profile rubric and worksheet](https://docs.google.com/document/d/1W-BN3mKAyJAn-Kdw4QuyZU-MiF6TIG1PZrSv4Hdjcug/edit#heading=h.49ezt9nvjk6d​​), review your work to make sure that you have met the requirements for each section and make any necessary improvements before submitting it to your coach.
 
 1. Begin by looking at the **Header** first.
      - Read the requirements listed in section 1 of the worksheet.
