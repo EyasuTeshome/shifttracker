@@ -2,9 +2,9 @@
 
 ### **What should you add to the Featured section?**
 
-At a **minimum**, the Featured Section should include links to **your most complex, attractive projects**. Add now at least one, but as you move through the program and work on more projects, you can include them later. However, there are also other things you can add. Here's a list of ideas:
+At a **minimum**, the Featured Section should include links to **your most complex, attractive projects**. Add 2 now, but as you move through the program and work on more projects, remembeer to include them here. However, there are also other things you can add. Here's a list of ideas:
 
-- **Between 1 - 3** of your most complex, attractive projects (add as links **to the live demos**)
+- **At least 2** of your most complex, attractive projects (add as links **to the live demos**)
 - Your resume (add as media)
 - A project walkthrough recorded on Loom or Youtube (add as a link)
 - A link to your portfolio (add as a link)
