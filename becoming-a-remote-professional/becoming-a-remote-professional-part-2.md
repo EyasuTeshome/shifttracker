@@ -38,7 +38,7 @@ For this activity, you would need to make observations of your morning study gro
 
 Use this [Google Doc Template](https://docs.google.com/document/d/14pYLYX70tmL05reD58LKtr3QS8vUVV3DPYO6uCY8p3Y/edit?usp=sharing) to complete the exercise.
 
-*Use the template document to submit your learnings on setting up a professional work enmvironment as a remote work skill. To use this template, make a copy of this document by selecting “File” then “Make a copy”. In your copy, replace all the italicized text with your information. When you submit this, you should have **removed** all of the italicized instructions. Then Use the “Share” button in the top right corner, and copy the link from “Get Link” after editing to allow commenting. ([See this Loom video for how to do this.](https://www.loom.com/share/603c5e8790304d8c98b2d8703260b479))*
+*Use the template document to submit your learnings on setting up a professional work environment as a remote work skill. To use this template, make a copy of this document by selecting “File” then “Make a copy”. In your copy, replace all the italicized text with your information. When you submit this, you should have **removed** all of the italicized instructions. Then Use the “Share” button in the top right corner, and copy the link from “Get Link” after editing to allow commenting. ([See this Loom video for how to do this.](https://www.loom.com/share/603c5e8790304d8c98b2d8703260b479))*
 
 ### Submit your exercise
 
