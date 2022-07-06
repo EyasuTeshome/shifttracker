@@ -20,7 +20,7 @@ Your portfolio is a tool that will help you convince employers that you have the
 - They are **thorough**: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about the work, projects, and history.
 - And they **look good**: they use 1-3 elegant fonts, focus on 2-4 different colors, use HD images, and use color palettes that are attractive and harmonious.
 
-Rewatch the video [What makes a good portfolio](https://microverse.pathwright.com/library/microverse-professional-development-37fa36d5/90738/path/step/59036818/) to review some examples.
+Rewatch the video [What makes a good portfolio](https://www.youtube.com/watch?v=3-N6O7DVrbc) to review some examples.
 
 ## Project setup
 
