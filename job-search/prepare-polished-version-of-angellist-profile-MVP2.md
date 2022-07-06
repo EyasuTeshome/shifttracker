@@ -15,7 +15,7 @@ In this exercise, you will update the professional profile you created on AngelL
 
 After creating a LinkedIn and GitHub profile, you probably wonder why another one? Each of these profiles helps you in different ways. Read the following article to identify the specific kind of company that you can reach with your AngelList profile.
 
-- [Why AngelList matters more than LinkedIn to Tech Startups](​​https://www.inc.com/alex-moazed/why-angellist-matters-more-than-linkedin-to-tech-startups.html)
+- [Why AngelList matters more than LinkedIn to Tech Startups](https://www.inc.com/alex-moazed/why-angellist-matters-more-than-linkedin-to-tech-startups.html)
 
 ## Project setup
 
