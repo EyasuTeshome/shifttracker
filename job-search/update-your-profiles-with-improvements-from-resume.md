@@ -28,16 +28,14 @@ Once you have updated your resume, integrate the same changes into the professio
 
 1. Update your LinkedIn, AngelList and GitHub profiles, considering the changes you made to your resume last week. You can use one of the following to strategies:
 
-- Strategy A: Open each profile, reat through the different sections, and identify if there area any changes that you made in your resume last week that also apply here. Make the changes.
+     - Strategy A: Open each profile, reat through the different sections, and identify if there area any changes that you made in your resume last week that also apply here. Make the changes.
 
-- Strategy B: Open the three profiles and your resume. Read through a section (for example, Education) and identify the changes that you made to your resume that also apply in the profiles. Edit this section in the three profiles at the same time.
+     - Strategy B: Open the three profiles and your resume. Read through a section (for example, Education) and identify the changes that you made to your resume that also apply in the profiles. Edit this section in the three profiles at the same time.
 
 If you need to refresh your memory on how to complete any of the sections of these profiles, refer to the walkthrough that you studied in the core program:
 
 - [Create the first draft of a professional LinkedIn page](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
-
 - [Create a first draft of a professional-looking GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
-
 - [Create a first draft of your AngelList profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 
 2. Create a Google Doc with the link to your three profiles, using the exercise [template](https://docs.google.com/document/d/13tEhJicRf93qYczyecN1xtHfiuNjljE-mXRXRXzWscU/edit?usp=sharing).
