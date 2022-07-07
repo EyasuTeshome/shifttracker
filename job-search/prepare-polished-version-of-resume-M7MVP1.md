@@ -12,8 +12,8 @@ In this project, you will prepare the best possible version of your resume and s
 
 ## Project setup
 
-- Open up the latest version of your  resume in Google Docs
-- Open the [resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit)
+- Open up the latest version of your resume in Google Docs.
+- Open the [resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit).
 
 ## **Refresh your memory about the three main components of a resume**
 
@@ -27,19 +27,19 @@ Review this video lesson to make sure you understand the key attributes of a com
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-To review your resume, it is important to read it through several times, looking at specific attributes each time, and making the necessary changes: 
+To review your resume, it is important to read it through several times, looking at specific attributes each time, and making any necessary changes: 
 
 1. Begin by looking at the feedback that you have received from your reviewers and verifying that you have made all the corrections they requested.
 
-2. Observe carefully the format of your resume. Does it follow the template you chose? Are the styles are applied consistently? Is it readable and attractive?
+2. Carefully observe the format of your resume. Does it follow the template you chose? Are the styles applied consistently? Is it readable and attractive?
 
 3. Check that all links function properly.
 
-4. Read through the resume a first time and analyze if it provides a strategic picture of your knowledge, skills, and experience that position you as an outstanding software developer. Identify phrases that seem confusing and rewrite them if necessary. Make a note of information that might be missing and figure out a way to add it. Identify anything that is not essential and eliminate it.
+4. Read through the resume a first time and analyze whether or not it provides a strategic picture of your knowledge, skills, and experience that position you as an outstanding software developer. Identify phrases that seem confusing and rewrite them if necessary. Make a note of information that might be missing and figure out a way to add it. Identify anything that is not essential and eliminate it.
 
-5. Read your resume again, this time check the spelling and grammar carefully. Grammarly is a great resource for this!
+5. Read your resume again, and this time check the spelling and grammar carefully. Grammarly is a great resource for this!
 
-6. Now, analyze if you meet each and every one of the requirements of the [resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit). Use the [Assess your resume rubric worksheet](https://docs.google.com/document/d/1vCBlhu1NlNKuj2KAct1EZI_nMU1vkd6QU60rUiUUqD0/edit?usp=sharing) to register your scores and find the learning resources that you can use to improve your resume. **You don’t need to submit this worksheet**. Keep it at hand as a reference during this week’s round of revisions.
+6. Now, analyze whether or not you meet each and every one of the requirements of the [resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit). Use the [Assess your resume rubric worksheet](https://docs.google.com/document/d/1vCBlhu1NlNKuj2KAct1EZI_nMU1vkd6QU60rUiUUqD0/edit?usp=sharing) to register your scores and find learning resources that you can use to improve your resume. **You don’t need to submit this worksheet**. Keep it at hand as a reference during this week’s round of revisions.
 
 7. Read your resume one more time to make sure that you didn’t miss anything. Your resume should now be ready for your career coach to review!
 
