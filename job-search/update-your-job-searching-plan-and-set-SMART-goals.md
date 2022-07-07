@@ -6,13 +6,18 @@
 
 ### Why is important to update your job searching plan?
 
-You are now starting a challenging endeavor: getting the job an amazing job as a software developer. As you you have seen and experienced, breaking down a complex goal into small attainable ones gives us direction and helps us stay organized. We can track our achievements over time and re-direct our efforts if necessary. So, since you will now be job searching intensively, it’s a good idea to you look again at the job search plan that you create during the core program and make any necessary adjustments. 
+You are now starting a challenging endeavor: getting that amazing job as a software developer. As you you have seen and experienced, breaking down a complex goal into small attainable ones gives us direction and helps us stay organized. We can track our achievements over time and re-direct our efforts if necessary. So, since you will now be job searching intensively, it’s a good idea to you look again at the job search plan that you created during the core program and make any necessary adjustments. 
 
 ### Refresher on setting job searching SMART goals
 
-The Microverse curriculum shows you the four core areas where you have to work: sending job applications, preparing for and doing interviews, strengthening your technical skills and working on side projects, and networking. Yet, there is room for you to decide how much time and effort you invest in each activity daily, and you can prioritize some tasks that are better for your specific situation and needs. 
+The Microverse curriculum shows you the four core areas where you have to work: 
+- sending job applications, 
+- preparing for interviews (or participate in them),
+- strengthening your technical skills and working on side projects, and 
+- networking. 
+Yet, there is room for you to decide how much time and effort you invest in each activity daily, and you can prioritize some tasks that align better to your specific situation and needs. 
 
-The SMART method is useful for this purpose. You have already practiced using it; check the following resource if you need to refresh your memory: 
+The SMART method is useful to plan how we will approach job searching and you have already practiced using it. Yet, if you need to refresh your memory, ; check the following resource.
 
 - [Using the SMART method to create your job search plan](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-the-smart-method-to-create-your-job-search-plan.md). 
 
@@ -31,7 +36,7 @@ As input for your current job plan, remind yourself of the job search plan and t
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
 1. Begin by thinking about your long- and mid-term professional goals. Complete section 1 in the [Goals Worksheet](https://docs.google.com/document/d/1WT418F4SQGtfA2Buz5gLa7bf7Nf81YhGzgRcAN6y6XM/edit?usp=sharing).
-2. Now, use the SMART method to set goals and prepare your job search goals for the next three months. Consider the four core areas of job searching.
+2. Now, use the SMART method to set goals and prepare your job search goals for the next month. Consider the four core areas of job searching.
 3. Finally, prepare a commitment map for yourself in section 3. 
 
 
