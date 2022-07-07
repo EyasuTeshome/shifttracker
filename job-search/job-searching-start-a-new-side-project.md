@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Today you are going to make a start on your side project and share what you plan to build this month.
+Today you are going to make a start on your side project and define what you plan to build this month.
 
 ### Why is working on side projects important?
 
