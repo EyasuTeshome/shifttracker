@@ -9,7 +9,7 @@
 
 ## Description
 
-In this lesson, you will review your long-term goal for networking and the SMART goals that you want to achieve this month. To do so, you will refresh your understanding of what networking is and how to build your network.
+In this lesson, you will review your long-term goal for networking and set the SMART goals that you want to achieve this month. To do so, you will refresh your understanding of what networking is and how to build your network.
 
 ### Why is building a professional network important?
 
@@ -65,7 +65,9 @@ Once you have a clear vision of the professional network you want to build, you 
 
 1. Open the network map that you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/map-your-network.md). Compare your current network to the long-term networking goal and the qualities that you listed in section 1. 
 2. Think carefully about the changes that you would like to make to your network and write some ideas in section 2.
-3. Read the SMART newtorking goals included in the job search plan you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/update-your-job-searching-plan-and-set-SMART-goals.md) and make sure that you have at least 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal and list them in section 3 of the exercise template. 
+3. Now, set at least 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal and list them in section 3 of the exercise template. Use the tables included as a guide to write your goals. 
+4. Finally, copy your networking goals to the job search plan you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/update-your-job-searching-plan-and-set-SMART-goals.md).
+
 
 **Exercise template to copy:** [Your networking SMART goals](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing).
 
