@@ -16,7 +16,7 @@ In this exercise, you will make final edits to your resume and submit the final 
 
 - Make sure that you and your coach have gone through the necessary rounds of revisions to get your resume approved before submitting the final version. You should have received a Zendesk message with this approval.
 
-- If you need a refresher of the initial activity of this project, refer to: [Prepare a polished version of your resume to start the review process](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-resume-M7MVP1.md).
+- If you need a refresher on the initial activity of this project, refer to: [Prepare a polished version of your resume to start the review process](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-resume-M7MVP1.md).
 
 ### Submit your exercise
 
