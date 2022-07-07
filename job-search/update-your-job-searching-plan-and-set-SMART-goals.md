@@ -4,7 +4,7 @@
 
 ## Description
 
-In this exercise, you will review and update your job searching plan considering two areas: sending job applications and interview preparation. You will analyze networking and working on side projects later this week.
+In this exercise, you will review and update your job searching plan considering two areas: sending job applications and interview preparation. You will work on the two other areas (networking and working on side projects) later this week.
 
 ### Why is important to update your job searching plan?
 
