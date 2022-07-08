@@ -20,10 +20,9 @@ The term “hidden job market” describes job postings that are not published o
 
 - [How to find unadvertised job openings](https://www.thebalancecareers.com/how-to-find-unadvertised-job-openings-5216582)
 
-Now, watch [this video](https://www.youtube.com/watch?v=yHgMWAe14Bk), where Moses, a Microverse alumn, explains how to find hidden jobs.
+Now, watch this video, where Moses, a Microverse alumn, explains how to find hidden jobs.
 
-[![Watch the video](https://img.youtube.com/vi/yHgMWAe14Bk.jpg)](https://www.youtube.com/watch?v=yHgMWAe14Bk)
- 
+[![Watch the video](https://img.youtube.com/vi/yHgMWAe14Bk/0.jpg)](https://www.youtube.com/watch?v=yHgMWAe14Bk)
 
 
 ## Exercise
