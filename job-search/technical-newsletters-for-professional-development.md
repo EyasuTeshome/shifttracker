@@ -26,7 +26,7 @@ One of the biggest problems in the era of internet is information overload. So s
 - [Frontend focus](https://frontendfoc.us)
 - [Frontend front](https://frontendfront.com)
 - [Web design weekly]( https://web-design-weekly.com)
-- [A list apart](https://alistapart.com/email-signup)(designer / user experience focus)
+- [A list apart](https://alistapart.com/email-signup) (designer / user experience focus)
 - [React newsletter]( https://reactnewsletter.com)
 - [Ruby weekly](https://rubyweekly.com)
 - [Exploring Ruby](https://exploringruby.com)
