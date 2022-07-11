@@ -43,7 +43,7 @@ Failure tends to have a negative perception, whether at work, with family, or el
 
 **Learn more about failure in the coding world:**
 
-- [The art of coding disasters and failures: May the force of FAILURE be with you!](https://jaxenter.com/coding-disasters-cejas-interview-143899.html)
+- [Learning to code: fall in love with errors](https://betterprogramming.pub/learning-to-code-fall-in-love-with-errors-e502ed4b4624)
 
 ### Why does failure look and feel bad?
 
