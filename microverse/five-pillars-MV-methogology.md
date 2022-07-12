@@ -1,4 +1,4 @@
-# The five pillars in our methodology
+# The five pillars in the Microverse methodology
 
 As a fully remote program, we are pretty unique in that we don't have classrooms or teachers. That's because we know that our highly driven students don't need these things as long as they have the motivation and commitment to learning every day. Below we describe the five pillars of our program that make it possible.
 
