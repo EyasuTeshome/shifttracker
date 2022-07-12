@@ -12,7 +12,7 @@ In this exercise, you will learn how to find unadvertised jobs. Thus, you will b
 
 ### Why is it important to add unadvertised jobs to your search?
 
-During your first two months of job searching, you have used a limited number of online platforms to find jobs. You have experience using them and selected those that work best for you. An additional option is to look for unadvertised jobs, those that companies don’t post on online platforms. 
+During your first two months of job searching, you have used a limited number of online platforms to find jobs. You have experience using them and you have selected those that work best for you. An additional option is to look for unadvertised jobs, those that companies don’t post on online platforms. 
 
 ### What is the hidden job market, and how can I access it?
 
