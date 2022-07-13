@@ -10,7 +10,7 @@
 
 In a behavioral grid, you analyze how to use the situations or projects you have participated in as a context for answering questions during interviews. Also, you can plan your responses in the SAR framework (situation, action, result) framework. Then, during an interview, you can use this preliminary exercise as a reference to structure your answers and showcase your skills and strengths compellingly to leave a good impression on recruiters.
 
-In the core program, you created the first version of your behavioral grid and received feedback from a career coach. Since then, you have worked on other projects and learned different skills. Revising your behavioral grid is a good idea because you will now be dedicated to the job searching process and will probably be invited soon to interviews.
+In the core program, you created the first version of your behavioral grid and received feedback from a career coach. Since then, you have worked on other projects and learned different skills. Revising your behavioral grid is a good idea because you will now be dedicated to the job searching process and will probably be invited to interviews soon.
 
 
 ## Exercise
@@ -27,7 +27,7 @@ IMPORTANT NOTE: Read all instructions before you start this exercise.
 
 1. Open the latest version of your behavioral grid.
 2. Open your resume.
-3. Identify in your resume any software projects or positions that you have NOT included already in your grid. This project can be from Microverse, or it can be from another software experience. You may consider other types of projects if you consider them useful to showcase your professional skills.
+3. In your resume identify any software projects or positions that you have NOT included already in your grid. This project can be from Microverse, or it can be from another software experience. You may consider other types of projects if you consider them useful to showcase your professional skills.
 4. Using the project or position identified above, complete the behavioral questions asked in the grid, making sure that each answer you give follows the SAR method.
 5. Read the content of each element of your answers (situation, action, result) carefully and highlight in bold the keywords so that it’s easier for you to remember your responses.
 5. Repeat steps 3 and 4 until there are no more projects or positions to include. Ideally, you should have at least 6 projects or positions in your behavioral grid.
