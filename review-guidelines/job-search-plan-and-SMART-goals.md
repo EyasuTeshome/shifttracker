@@ -2,6 +2,7 @@
 
 
 ## Description
+
 In week 1, job searchers will define their job searching plan and SMART goals for the first months:
 - On Monday, they will work their goals for submitting applications and interview practice in this activity. 
 - On Tuesday, they review information about networking, and define their networking plan and goals. 
@@ -17,7 +18,8 @@ In week 1, job searchers will define their job searching plan and SMART goals fo
 
 
 ## Mandatory requirements
-TO BE DEFINED
+
+NOTE: Each job searcher faces a specific situation. Use these requirements as guidelines, but consider the necessary adaptations to each particular case.
 
 ### General requirements
 TO BE DEFINED
