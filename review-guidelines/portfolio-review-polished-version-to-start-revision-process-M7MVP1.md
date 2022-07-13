@@ -5,13 +5,13 @@ Job searchers will dedicate one whole week to review their portfolio with feedba
 
 ## Get ready for the review
 
-- PENDING: SCORING RUBRIC AND WORKSHEET
+- This is the [rubric and worksheet they use to assess their portfolio](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit#heading=h.49ezt9nvjk6d)
 - This are the [instructions they receive to polish their portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-portfolio-M7MVP1.md).
 - This is the [sneak peak to the project where they create their portfolio](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/sneak_peek.md) in Module 1 - The Portal.
 
 
 ## Mandatory requirements
-We have only requirements for the portfolio, as a technical project in the core program. Let's work together with you, career coaches, to make sure they are helping us get the job searchers' an excellent resume.
+We have requirements for the portfolio, as a technical project in the core program, as well as the indicators in the rubric. 
 
 
 ### General requirements
