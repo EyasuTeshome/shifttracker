@@ -5,8 +5,8 @@ Job searchers will dedicate one whole week to review their portfolio with feedba
 
 ## Get ready for the review
 
-- This is the [rubric and worksheet they use to assess their portfolio](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit#heading=h.49ezt9nvjk6d)
-- This are the [instructions they receive to polish their portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-portfolio-M7MVP1.md).
+- ❗️Open the [rubric and worksheet they use to assess their portfolio](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit#heading=h.49ezt9nvjk6d)
+- These are the [instructions they receive to polish their portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/prepare-polished-version-of-portfolio-M7MVP1.md).
 - This is the [sneak peak to the project where they create their portfolio](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/sneak_peek.md) in Module 1 - The Portal.
 
 
