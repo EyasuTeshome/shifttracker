@@ -18,7 +18,7 @@ Rejection is inevitable when you job search. There will always be more applicant
 
 Guy Winch has coined the term “emotional first aid” to describe intentional actions to take care of our brain. Watch this video to familiarize yourself with this concept and identify how you can  deal with frustration.
 
-[Why we all need to practice emotional  first aid](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid)
+[Why we all need to practice emotional first aid](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid)
 
 *Guiding questions*
 
