@@ -24,12 +24,11 @@ During this morning session, you will practice with one of your peers using addi
     - Mute your microphones and read in silence.
     - Once you have finished, make sure everybody understands what “nuggets” are in the context of behavioral interviews. 
 
-
 ### Interviewers setup - 5 min
 
 1. Everybody will be an interviewer during the exercise, so each of you must follow the steps below:
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
-    - Select two questions to ask your partner about a past situation (with the format Tell me about).     
+    - Select two questions to ask your partner about a past situation (with the format "Tell me about").     
     - Reflect upon the attribute that the question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork?
     - Open the [following checklist for providing feedback](https://docs.google.com/document/d/1DrJNDzPpm_HCF9dyLOfmqxErlliP3ItiTpx3Wd8Bif8/edit#heading=h.za7e1fwup8u). Copy the two questions that you will be asking at the top of each section and register the attribute that they will help you identify. 
     - Read the criteria and indicators that you will assess in the interview.
@@ -37,7 +36,6 @@ During this morning session, you will practice with one of your peers using addi
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 25 minutes.**
     - If there is an odd number of people in your group, one room will need to have 3 people.
-
 
 ### Prepared interviews - 25 min
 
@@ -61,7 +59,6 @@ During this morning session, you will practice with one of your peers using addi
 5. When you finish all interviews:
     - All interviewers complete the checklist.
     - All interviewers share a filled-in checklist with the applicant. **The applicant will use this for their exercise submission**.
-
 
 ### Recap with the big group - 10 min
 
