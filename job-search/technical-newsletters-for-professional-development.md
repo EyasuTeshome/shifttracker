@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Identify newsletters as a source of updated information for a professional community
+- Identify newsletters as a source of updated information for a professional community.
 
 ### Estimated time: 0.5h
 
@@ -39,8 +39,8 @@ One of the biggest problems in the era of internet is information overload. So s
 
 **Spend 20 minutes working on this exercise.**
 
-1. In the list above, identify 3 - 5 newsletter that seem interesting to you.
-2. Spend some time exploring each of them. Scan through the previous numbers and read briefly some of their articles.
+1. In the list above, identify 3 - 5 newsletters that seem interesting to you.
+2. Spend some time exploring each of them. Scan through the previous editions and briefly read some of their articles.
 3. Select 2 or 3 that you would like to read periodically and subscribe to them.
 4. Register in [this template](https://docs.google.com/document/d/1WlpdNBDhrpk8Xm6mKCSFbq_o6w-lU5p-L6oAZ8wC8YM/edit) the newsletters you subscribed to and explain briefly why you chose them.
 
