@@ -47,7 +47,7 @@ While you are job searching, you will still attend your full-time Microverse sch
 
 - Watch this short video talking about what to expect while you're job searching: [What to expect from your day-to-day while you're job searching](https://www.loom.com/share/5e978df617b14762a0c4dc7db43b3caa). Click [here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-to-expect-from-your-daily-schedule-while-job-searching.md) to read the same material that was shared in the video.
 
-- Learn how to complete weekly retrospective in the job searching stage in this video: [How to use your weekly retrospectives to guide your job search](https://www.loom.com/share/f14cc2e66fb648a2abde849d657fa644?t=0).
+- Learn how to complete weekly retrospective in the job searching stage in this video: [How to use your weekly retrospectives to guide your job search](https://www.loom.com/share/4b99e1fae7cb45f0898af9388335f1f0).
 
 
 ### How will I track my progress while job searching?
