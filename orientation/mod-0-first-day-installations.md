@@ -1,4 +1,4 @@
-# First day installations - Intro Course
+# First day installations - Intro course
 
 ## Learning objectives
 - Complete all installations necessary to begin the course.
