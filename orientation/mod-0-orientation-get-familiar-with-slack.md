@@ -1,4 +1,4 @@
-# Tools: Get Familiar with Slack
+# Tools: Get Familiar with Slack (Intro Course)
 
 ### Learning objectives
 
