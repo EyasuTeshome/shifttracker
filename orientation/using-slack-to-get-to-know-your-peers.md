@@ -9,7 +9,7 @@ Although Slack is our community tool it's important to remember that it is still
 1. Your account has a picture where your face is clearly recognisable
 2. You are using your first and last name
 
-### Say "Hi" to your mentor!
+### Say "Hi" to your mentor! (Full-Stack Program Only)
 
 You should have received a Slack message introducing you to your mentor in Slack. Go ahead and say "Hi" to them. Why not let them know any questions you have at the moment or tell them how your first day is going so far?
 
