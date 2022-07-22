@@ -26,7 +26,7 @@ Learning to code as a beginner is a long journey, and we've had many students wa
 
 In the following link we will talk a little bit more about what you can expect during the first week at Microverse:
 
-- [About your first week](first-week-at-microverse.md)
+- [About your first week in the course](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/mod-0-first-week-at-microverse.md)
 
 ### Additional Links
 - [Here is the Microverse Student Handbook](https://www.notion.so/microverse/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - You can refer to this as you go through the first week and learn how things work at Microverse.
