@@ -19,7 +19,7 @@ After you've gone through this meeting a few times and you've gotten used to the
 
 ## What to do during the meeting?
 
-During the meeting, each person will give an update to talk about what they achieved that day and communicate any blockers. Other team members listen to the person who is speaking. The purpose of discussing blockers is that team members can be unblocked. 
+During the meeting, each person will give an update to talk about what they achieved that day and communicate any blockers. Other team members listen to the person who is speaking. Although you may feel shy, you'll find that sharing your blockers will help you get unblocked. 
 
 If you can find quick solutions you can continue discussing during the standup meeting, but if finding a solution takes more than two minutes you must take the conversation offline. If no one knows a solution to the team members' blocker you must agree on how that person will be unblocked after the meeting.
 
