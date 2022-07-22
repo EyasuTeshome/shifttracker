@@ -1,4 +1,4 @@
-# Meet your first Learning Partner
+# Meet your first Learning Partner (Intro Course)
 
 ## Learning objectives
 
