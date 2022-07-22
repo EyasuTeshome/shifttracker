@@ -69,7 +69,7 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [Team working agreements - What? Why? How?](https://medium.com/@angelydaz/team-working-agreements-what-why-how-28b2970b71ca)
-- [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/knowledge/articles/360050419034/en-us?brand_id=360002597114&return_to=%2Fhc%2Fen-us%2Farticles%2F360050419034)
+- [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/hc/en-us/articles/360050419034-Teammate-Call-Check-in-Guide)
 
 
 ------
