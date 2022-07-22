@@ -1,7 +1,7 @@
 # Meet your Second Learning Partner and Get Ready to Code Together
 
 ## 🛑 What time is it?
-This activity takes places AFTER the midday break. You should not do this activity before 1pm UTC+1 as the system needs to first assign you a NEW partner. You will NOT see a new partner if you do this activity before 12pm UTC+1. If you're done with all your morning activities, go ahead and take a break now until 1pm UTC+1.
+NOTE: This activity takes places AFTER the midday break. You should not do this activity before 1pm UTC+1 as the system needs to first assign you a NEW partner. You will NOT see a new partner if you do this activity before 12pm UTC+1. If you're done with all your morning activities, go ahead and take a break now until 1pm UTC+1.
 
 ## Learning objectives
 
