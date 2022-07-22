@@ -3,7 +3,6 @@
 ## Learning objectives
 
 - Recognize the importance of investing in good working relationships with teammates.
-- Understand how to make working agreements with new teammates.
 
 ### **Estimated time**: .25h
 
