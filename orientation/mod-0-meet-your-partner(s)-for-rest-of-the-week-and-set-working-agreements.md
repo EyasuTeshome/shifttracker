@@ -21,7 +21,7 @@ You can use your own questions. Or, you can use the following questions to talk 
 
 ### Set working agreements
 
-You'll be building projects with your partner(s) for the rest of the week, so you should set agreeements first. Having a good foundation of communication helps you work well together.
+You'll be building projects with your partner(s) for the rest of the week, so you should set agreeements first. Having a good foundation of communication helps you work well together and avoid common problems.
 
 ## Exercise
 
