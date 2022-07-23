@@ -18,6 +18,8 @@ Each morning during your course you will start the day at Microverse with your M
 
 The Morning Sessions allow you to learn important skills related to software development. Talking about your code and problem-solving in a group are very common in the tech environment. Practicing these skills every day during your course will allow you to really gain some new skills in this area by the end of the course. 
 
+At the same time, having a peer group, learning together, gives you a source of support when you're studying independently and learning new things. This helps you not get isolated in your learning.
+
 Morning Session Groups consist of 3-4 students and change every week. They change often so that you are always with other students who are in the same study week as you. Morning Session Groups are within cohort, so you'll soon begin knowing one another quite well.
 
 ### About Morning Sessions at Microverse
