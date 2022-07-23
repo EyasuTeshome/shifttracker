@@ -9,10 +9,6 @@ Although Slack is our community tool it's important to remember that it is still
 1. Your account has a picture where your face is clearly recognisable
 2. You are using your first and last name
 
-### Say "Hi" to your mentor! (Full-Stack Program Only)
-
-You should have received a Slack message introducing you to your mentor in Slack. Go ahead and say "Hi" to them. Why not let them know any questions you have at the moment or tell them how your first day is going so far?
-
 ### Say "Hi" to your morning session team!
 
 You should have been invited to a private Slack channel that you and the other members of your morning session team will use to help each other every day. Go ahead and say "Hi" to them. 
@@ -20,6 +16,10 @@ You should have been invited to a private Slack channel that you and the other m
 ### Say "Hi" to your stand-up team!
 
 You should have been invited to a private Slack channel that you and the other members of your stand-up team will use to help each other every day. Go ahead and say "Hi" to them. Perhaps let them know an interesting fact about yourself?
+
+### Say "Hi" to your mentor! (Full-Stack Program Only)
+
+You should have received a Slack message introducing you to your mentor in Slack. Go ahead and say "Hi" to them. Why not let them know any questions you have at the moment or tell them how your first day is going so far?
 
 ### Say "Hi" to everyone!
 
