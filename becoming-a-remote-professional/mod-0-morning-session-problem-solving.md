@@ -24,7 +24,8 @@ When you're new to coding, it helps to hear from those more experienced, especia
 - What problems did you face this week that could be helped by the techniques in the video?
 - Which strategy is most important when you're new to coding, according to the video?
 
-Watch the video together: [How to think like a programmer](https://www.youtube.com/watch?v=UiYXwUg23Yw). If you're the team member sharing your screen, remember to click the box to share sound as well when you start screensharing in Zoom.
+Watch the video together: [How to think like a programmer](https://www.youtube.com/watch?v=UiYXwUg23Yw). 
+Reminder: If you're the team member sharing your screen, remember to click the box to share sound as well when you start screensharing in Zoom.
 
 ## Exercise
 
