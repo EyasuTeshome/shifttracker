@@ -53,12 +53,6 @@ Choose one of your problems and describe it to the others in your group.
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
 
-
-## Additional materials
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-
-[The five pillars in the Microverse methodology](https://github.com/microverseinc/curriculum-professional-skills/blob/main/microverse/five-pillars-MV-methogology.md).
-
 ------
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
