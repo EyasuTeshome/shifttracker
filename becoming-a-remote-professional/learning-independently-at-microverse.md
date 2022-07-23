@@ -7,7 +7,7 @@ There are a few skills that are very important to make sure that you become a su
 - You will be **productive** and **efficient** with your time. This means being mindful about the time that you have and not getting lost in rabbit holes (aka the endless stream of information on the internet).
 - As a part of successful learning, you will be also **resourceful.** You will know that reaching out for help is a normal part of the learning process.
 - You also know who to reach out to or **where** to look to ask for help and unblock yourself.
-- You are not afraid to go on google or youtube to find out answers. (but remember the time-boxing tip from earlier!)
+- You are not afraid to go on google or youtube to find out answers. (But remember the time-boxing tip from earlier!)
 
 ### 
 
