@@ -53,12 +53,6 @@ Take turns describing the top two distractions that you will have and come up to
 
 Now go to your Student Dashboard and submit your exercise.
 
-### Extra Microverse Resources:
-
-The following links are FAQs with more information if you find that helpful:
-
-- [How do I report an absence](https://microverse.zendesk.com/hc/en-us/articles/360043576994-How-do-I-report-an-absence-)
-
 
 ------
 
