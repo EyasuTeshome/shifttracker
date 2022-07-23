@@ -28,7 +28,7 @@ Watch the following video about the Microverse attendance system together. One p
 - Why does Microverse emphasize attendance?
 - How does showing up regularly build trust in your working relationships?
 
-- [Video about Attendance at Microverse](https://www.loom.com/share/dff36d910d1a4db7b37127b10f6d7949)
+- Now watch this [Video about Attendance at Microverse](https://www.loom.com/share/dff36d910d1a4db7b37127b10f6d7949)
 
 ## Exercise
 
