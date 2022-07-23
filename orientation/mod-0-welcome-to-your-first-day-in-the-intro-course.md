@@ -16,7 +16,7 @@ This lesson will help you understand what you will learn during the first day an
 
 ### Welcome to the Microverse Intro to Remote Web Development Course 
 
-Welcome to Microverse! We are so happy to be able to welcome you to the course. It's a big step to explore new areas of learning and dream about improving your future, and we're so glad to be on the journey with you!
+Welcome to Microverse! We are so happy to be able to welcome you to the course. It's a big step to explore coding as a career path and dream about improving your future, and we're so glad to be on the journey with you!
 
 Learning to code as a beginner is a long journey, and we've had many students walk the path successfully already. Amr, one of our students in the Full-Stack program, recently gave this advice to new students. Please watch his video below.
 
