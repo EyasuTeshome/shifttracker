@@ -37,7 +37,7 @@ Below you will find information with videos on how to use your Student Dashboard
 - From which page do I join my daily meetings?
 - Where can I submit feedback?
 - Where can I see my attendance record?
-- Where can you see what activities you need to submit in a day?
+- Where can you see what activities I need to submit in a day?
 
 
 ------
