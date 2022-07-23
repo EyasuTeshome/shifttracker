@@ -29,7 +29,7 @@ The following section will offer more details about the Morning Sessions at Micr
 
 Click on the following links to see the Morning Sessions at Microverse.
 
-- [More about Morning Sessions at Microverse](about-morning-sessions-at-microverse.md)
+- [More about Morning Sessions at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/mod-0-more-about-morning-sessions.md)
 
 ## Submit your exercise
 
