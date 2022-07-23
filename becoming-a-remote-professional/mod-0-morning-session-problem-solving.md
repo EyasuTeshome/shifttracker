@@ -9,7 +9,7 @@
 
 ## Problem solving as a developer
 
-In this activity, you will learn about problem-solving as a developer, and then share with each other your experiences of problem-solving this week.
+In this activity, you will learn about problem-solving as a developer, and then share with each other your experiences of problem-solving this week and consider where you can make improvements.
 
 ### Why is this important?
 
