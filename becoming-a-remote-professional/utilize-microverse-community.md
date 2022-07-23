@@ -6,14 +6,13 @@ Asking for help is a **vital** part of successfully learning to become a softwar
 
 ### Microverse Support System
 
-Use your Stand Up team & coding partner as accountability partners. Share your goals, blockers, how you will try to overcome them and when you failed to reach your goal. Sharing them can often lead to gaining more insights from others. You will learn how others deal with similar problems.
+Use your Stand Up team, morning session group, & coding partners as accountability partners. Share your goals, blockers, how you will try to overcome them and when you failed to reach your goal. Sharing them can often lead to gaining more insights from others. You will learn how others deal with similar problems.
 
 Other tips:
 
 - If you get stuck on a problem for longer than 30 minutes- ask for help!
-- Schedule 1:1 time with a Code Reviewer or post your question on Discourse when you are stuck on a technical problem
+- Post your question on Discourse when you are stuck on a technical problem
 - Reach out to Microverse Staff for help. Especially if you have a collaboration issue if you have problems accessing tools. Reach out to us as soon as possible.
-
 
 
 ------
