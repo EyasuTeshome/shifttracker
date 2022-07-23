@@ -1,4 +1,4 @@
-# Study skills at Microverse
+# What are morning sessions and what makes them valuable?
 
 ## Learning objectives
 
