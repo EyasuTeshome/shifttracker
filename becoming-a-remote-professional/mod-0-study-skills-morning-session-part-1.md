@@ -1,4 +1,4 @@
-# Core study skills at Microverse
+# Study Skills to Succeed at Microverse
 
 ## Learning objectives
 
@@ -58,8 +58,6 @@ Now go to your Student Dashboard and submit your exercise.
 The following links are FAQs with more information if you find that helpful:
 
 - [How do I report an absence](https://microverse.zendesk.com/hc/en-us/articles/360043576994-How-do-I-report-an-absence-)
-- [The Daily Schedule at Microverse](https://microverse.zendesk.com/hc/en-us/articles/360046155554)
-
 
 
 ------
