@@ -1,4 +1,4 @@
-# Morning session: Present a coding problem and how you solved it
+# Morning session: Learn about problem-solving as a developer and discuss a problem you faced this week
 
 ## Learning objectives
 
