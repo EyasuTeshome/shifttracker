@@ -35,7 +35,7 @@ Below is a video that talks about the 5 pillars at Microverse that will allow yo
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-**Template to copy**: [Core Study Skills Part 3](https://docs.google.com/document/d/1xXlYnmMLwspcIpjlN0W4zrysrngat1R83WZYQDdfIMk/edit?usp=sharing)
+**Template to copy**: [Study Skills to Succeed at Microverse Part 2](https://docs.google.com/document/d/14UzbIn9ueX2hri08Ldw2I58SbnDQ1kGSWm27_H_zXSM/edit?usp=sharing)
 
 **Step 1:** Complete section 1 solo
 
