@@ -22,7 +22,7 @@ Below you will find the information on how to set up the Student Dashboard.
 
 **Please take the following action**
 
-- [Connect your Zoom account your Dashboard](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/connect-your-zoom-account-to-your-dashboard.md)
+- [Connect your Zoom account to your Dashboard](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/connect-your-zoom-account-to-your-dashboard.md)
 
 ### A tour of the Student Dashboard
 
