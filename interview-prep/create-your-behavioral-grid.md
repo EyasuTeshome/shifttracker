@@ -54,7 +54,7 @@ The link below shows an example of a good behavioral grid. Make sure you read th
 1. Study the behavioral grid example above to get a better idea of what makes a strong response to behavioral questions. Spend a minute on each story trying to identify which soft skill or technical skill the story is trying to highlight.
 2. Open [this Behavioral grid template](https://docs.google.com/document/d/10WfzCmmdbyEdY6ztdfaFTosSNZfS-NBww57U6_Y8fIg/edit?usp=sharing) and make your own copy of it by clicking *"File >> Make a Copy"*, and then save the copy to your own Google Drive.
 3. Choose your project or position and write the name at the top of each column. We recommend choosing a software project or software job if possible. This project can be from Microverse, or it can be from another software experience. 
-4. Use the project or position chosen above to complete the behavioral questions asked in the grid, making sure that each answer you give follows the SAR method. **All columns in the grid must be completed before submission.**
+4. Use the project or position chosen above to complete the behavioral questions asked in the grid, making sure that each answer you give follows the SAR method. **All rows in the grid must be completed before submission.**
 
 ## Project Submission
 
