@@ -1,4 +1,4 @@
-# Meet your New Learning Partner
+# Meet your New Learning Partner(s)
 
 ## Learning objectives
 
