@@ -19,6 +19,8 @@ We suggest bookmarking the following questions as a way of remembering how to st
 
 - [Questions to get to know your first learning partner(s)](questions-to-get-to-know-your-first-learning-partner.md)
 
+Now spend some time chatting with your newest partner. Your work together this week will be more individual, but it's important still to make agreements with your partner to decide when you'll talk each day and how you'll support each other as learning partners.
+
 ## Exercise
 
 ### Instructions
@@ -26,8 +28,9 @@ We suggest bookmarking the following questions as a way of remembering how to st
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
 1. Open the exercise at the same time as your partner(s)
-2. Discuss your agreements
-3. Write down what you agree to in your own template
+2. Each make a copy for yourself
+3. Discuss your agreements
+4. Write down what you agree to in your own template
 
 **Exercise template to copy:** [Set working agreements with your learning partners](https://docs.google.com/document/d/10m9KBwX6roMEaOV-fwbELDnGpNgPCpuTZmKi8XZU9qk/edit?usp=sharing)
 
