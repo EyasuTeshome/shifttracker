@@ -37,7 +37,7 @@ Now, together watch the following video, which explains a research-based method 
 
 1. Individually, open your copy of the exercise template.
 2. With your team, for the next 5 minutes, complete step 1 and step 2.
-3. Individually, complete step 3.
+3. Individually, complete step 3 to reflect on the feedback you were given.
 
 **Exercise template to copy:** [Giving and receiving feedback exercise part 2](https://docs.google.com/document/d/1qUJ9ujb8pBo5v8VS3cgvVeuxo0VvhGRHwTELiGWEO0M/edit?usp=sharing)
 
