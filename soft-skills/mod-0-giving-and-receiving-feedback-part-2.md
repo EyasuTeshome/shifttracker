@@ -3,6 +3,7 @@
 ## Learning objectives
 
 - Recognize and practice receiving constructive feedback as a gift and an opportunity for growth.
+- Learn about and practice giving constructive feedback to teammates.
 
 ### Estimated time: .5h
 
