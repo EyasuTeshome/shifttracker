@@ -23,7 +23,7 @@ In order for us to get better at what we do, we need to receive constructive fee
 
 - [How can you receive feedback well?](how-can-you-receive-feedback-well.md)
 
-Now, together watch the following video, which explains a research-based method for giving feedback.
+Now, together watch the following video, which explains a research-based method for giving feedback. Remember to share screen and audio in Zoom so you can watch as a group together.
 
 [The secret to giving good feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c)
 
@@ -36,8 +36,8 @@ Now, together watch the following video, which explains a research-based method 
 **Spend 15 minutes working on this exercise.**
 
 1. Individually, open your copy of the exercise template.
-2. With your team, for the next 5 minutes, open your copy of the exercise template and complete step 1.
-3. Individually, for the next 10 minutes, open your copy of the exercise template and complete step 2.
+2. With your team, for the next 5 minutes, complete step 1 and step 2.
+3. Individually, complete step 3.
 
 **Exercise template to copy:** [Giving and receiving feedback exercise part 2](https://docs.google.com/document/d/1qUJ9ujb8pBo5v8VS3cgvVeuxo0VvhGRHwTELiGWEO0M/edit?usp=sharing)
 
