@@ -1,5 +1,8 @@
 # Morning session: Giving and receiving feedback part 1 - Intro Course
 
+## Reminder 🛑 
+Today is your first time with your new morning session teammates. Did you meet one another? Do you know each others' names? Have you chatted about where each other live and gotten to know one another a bit? If not, do that now, before doing the activity together. Doing this every time you get a new group is a key skill for remote work.
+
 ## Learning Objectives
 
 - Learn about and practice giving constructive feedback to teammates.
@@ -17,7 +20,12 @@ Hearing what we're doing well and where we can improve helps us get better. When
 Read the following article individually describing good feedback:
 [What is good feedback?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md)
 
-Now, watch the following video
+Now, watch the following video together. Remember the person sharing their screen in Zoom also has to share the audio so everyone can hear:
+[Example of unhelpful feedback](https://www.youtube.com/watch?v=2nBMEISs4ic)
+
+Now discuss together for 3 minutes: (Hint: while discussing you may want to refer back to the [What is good feedback? Article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/what-is-good-feedback.md).
+- What is wrong with the feedback in the video?
+- Why is it important to be clear and specific when giving feedback?
 
 ## Exercise
 
@@ -28,7 +36,7 @@ Now, watch the following video
 1. Copy the exercise template
 2. Follow the instructions with your group to complete the exercise
 
-**Exercise template to copy:** [Practice giving and receiving feedback part 1](https://docs.google.com/document/d/1JQLkidCPhXiY-Hf4nhIIntudxUPdB9HWDcOS_UuWXJI/edit?usp=sharing)
+**Exercise template to copy:** [Giving and receiving feedback part 1](https://docs.google.com/document/d/1VoIi4YdhdD_TZqH1FHsdr1vG2pkO9TD-3AIsLObHujI/edit?usp=sharing)
 
 ### Submit Your Exercise
 
