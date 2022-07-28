@@ -22,7 +22,6 @@ In order for us to get better at what we do, we need to receive constructive fee
 **Learn more about giving and receiving feedback:**
 
 - [How can you receive feedback well?](how-can-you-receive-feedback-well.md)
-- [What if the feedback I am receiving is not constructive?](what-if-the-feedback-i-am-receiving-is-not-constructive.md)
 
 ## Exercise
 
@@ -43,12 +42,6 @@ In order for us to get better at what we do, we need to receive constructive fee
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
 Now go to your Student Dashboard and submit your exercise.
-
-## Additional materials
-
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-
-- Review [Fundamentals of giving and receiving feedback](fundamentals-of-giving-and-receiving-feedback.md)
 
 ------
 
