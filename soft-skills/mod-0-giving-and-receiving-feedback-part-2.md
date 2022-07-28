@@ -17,11 +17,15 @@ In order for us to get better at what we do, we need to receive constructive fee
 **Guiding questions:**
 
 - How do you feel about receiving feedback?
-- What should you do if you get feedback that feels mean-spirited or very negative?
+- What should you do when giving feedback so people receive it well?
 
 **Learn more about giving and receiving feedback:**
 
 - [How can you receive feedback well?](how-can-you-receive-feedback-well.md)
+
+Now, together watch the following video, which explains a research-based method for giving feedback.
+
+[The secret to giving good feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c)
 
 ## Exercise
 
@@ -35,7 +39,7 @@ In order for us to get better at what we do, we need to receive constructive fee
 2. With your team, for the next 5 minutes, open your copy of the exercise template and complete step 1.
 3. Individually, for the next 10 minutes, open your copy of the exercise template and complete step 2.
 
-**Exercise template to copy:** [Receiving feedback exercise](https://docs.google.com/document/d/1ajVsxuFwMb9BQp1Skk-UmzC42btx40ijD1WdHgmKMks/edit)
+**Exercise template to copy:** [Giving and receiving feedback exercise part 2](https://docs.google.com/document/d/1qUJ9ujb8pBo5v8VS3cgvVeuxo0VvhGRHwTELiGWEO0M/edit?usp=sharing)
 
 ### Submit Your Exercise
 
