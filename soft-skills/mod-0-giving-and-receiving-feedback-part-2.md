@@ -25,7 +25,7 @@ In order for us to get better at what we do, we need to receive constructive fee
 
 Now, together watch the following video, which explains a research-based method for giving feedback. Remember to share screen and audio in Zoom so you can watch as a group together.
 
-[The secret to giving good feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c)
+- Video: [The secret to giving good feedback](https://www.youtube.com/watch?v=wtl5UrrgU8c)
 
 ## Exercise
 
