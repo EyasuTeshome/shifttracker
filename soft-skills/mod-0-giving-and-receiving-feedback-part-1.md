@@ -1,7 +1,7 @@
 # Morning session: Giving and receiving feedback part 1 - Intro Course
 
-## Reminder 🛑 
-Today is your first time with your new morning session teammates. Did you meet one another? Do you know each others' names? Have you chatted about where each other live and gotten to know one another a bit? If not, do that now, before doing the activity together. Doing this every time you get a new group is a key skill for remote work.
+## 🛑 Reminder 
+Today is your first time with your new morning session teammates. Did you meet one another? Do you know each others' names? Have you chatted about where each other live and gotten to know one another a bit? If not, do that now, before doing the activity together. Doing this every time you get a new group is a key skill for remote work!
 
 ## Learning Objectives
 
