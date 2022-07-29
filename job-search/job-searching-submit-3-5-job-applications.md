@@ -16,17 +16,7 @@ By sending applications every day, you will increase your chances of getting job
 
 ### So, where to look for jobs online?
 
-You have many options! 
-
-1. **The Microverse Job Portal in Huntr:**
-
-Microverse has its own job portal in Huntr. This is a place where Microverse career coaches regroup the job opportunities they saw online and that they think could fit you. And they're already in Huntr, so that makes it super easy to add them directly to your board.
-
-[Introducing the Microverse Job Portal](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/introducing-the-microverse-portal.md)
-
-2. **All the other places you can look for jobs online:**
-
-You will find in the sub-article below an extensive list of websites you can visit to find jobs. 
+You have many options! You will find in the article below an extensive list of websites you can visit to find jobs. 
 
 [Where do I find jobs to apply to?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/where-do-I-find-jobs-to-apply-to.md)
 
