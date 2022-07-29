@@ -15,6 +15,8 @@ Today we're going to spend time assessing how the remote studying routine has be
 
 Working remotely has become really common for some people, and especially since Covid, has really grown. Yet, we see over and over in incoming Microverse classes that the habits and routines of remote work are very new to many of our students. Thus, as part of the Intro Course we want you to reflect on how the routines of remote work are working for you at Microverse, and how you feel about the remote work path.
 
+### Common challenges of remote work
+
 Being happy studying at Microverse and later working remotely involves learning a series of habits and ways of doing things that are really different from traditional study and work. When you’re new to this, it’s common to face some challenges: distraction, shyness with new people, and feeling alone, to name a few. Other challenges of studying at Microverse and working from home include:
 
 - Being close with teammates is different - it requires more effort
