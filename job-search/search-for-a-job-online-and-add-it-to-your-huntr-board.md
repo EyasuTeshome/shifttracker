@@ -44,9 +44,9 @@ The link below shows you the websites we recommend you use to find a remote job.
 
 ### How to add jobs to your Huntr board
 
-This quick 2-minute video below shows you how to add jobs to your Huntr board:
+You can add jobs to your Huntr board from any website using the Chrome extension or the web app. Check the Huntr Quickstart guide for detailed instructions:
 
-- [Video - How to add jobs to your Huntr board](https://www.loom.com/share/191c83c20acb4e38a3d72f8d07f55b76)
+- [Adding and tracking jobs](https://blog.huntr.co/huntr-quickstart-guide/#:~:text=Adding%20and%20Tracking%20Jobs)
 
 
 ## Exercise
