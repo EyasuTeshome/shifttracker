@@ -15,7 +15,7 @@ In the previous lessons, we talked about different frameworks to classify differ
 
 ### Why are gender and age important?
 
-Working with different cultures might also mean that you run into prejudice, stereotypes, or people making assumptions about you. It's never the responsibility of the person experiencing the prejudice to fix this, but unfortunately, we are a long way away from a world where stereotypes do not exists. Therefore there are few actions you can take to help you deal with stereotypes and overcome them
+Working with different cultures might also mean that you run into prejudice, stereotypes, or people making assumptions about you. It's never the responsibility of the person experiencing the prejudice to fix this, but unfortunately, we are a long way away from a world where stereotypes do not exist. Therefore there are few actions you can take to help you deal with stereotypes and overcome them.
 
 One topic that is important to discuss is the differences in which countries view gender and age in the workplace. There are many diversity classifications that we should talk more about. We've chosen these two categories because they are two distinct categories that are viewed differently in different cultures, not because we find these topics more important than others. We've added lots of resources at the bottom about differences in other aspects and we urge you to read through them. 
 
