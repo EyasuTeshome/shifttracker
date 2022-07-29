@@ -42,14 +42,6 @@ The link below shows you the websites we recommend you use to find a remote job.
 
 - [How can I find jobs to apply to?](https://microverse.zendesk.com/hc/en-us/articles/360053137813#)
 
-### How to look for a job using the Microverse job portal
-
-We created the Microverse job portal, which is a place in Huntr where career coaches add jobs they have sourced online every week. This portal is an extra option that will enable you to apply to more jobs than you would if you were only sourcing jobs on your own. We encourage you to go to the portal, see the jobs that exist there, see if they are a fit for you, and apply.
-
-**Learn more about the Microverse job portal:**
-
-- [Introducing the Microverse job portal](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/introducing-the-microverse-portal.md)
-
 ### How to add jobs to your Huntr board
 
 This quick 2-minute video below shows you how to add jobs to your Huntr board:
@@ -65,9 +57,8 @@ This quick 2-minute video below shows you how to add jobs to your Huntr board:
 
 1. [Click here to sign up for Huntr and create your board.](https://huntr.co/microverse/signup)
 2. Install [this Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en)
-3. Open [this link to the Microverse Job Portal](https://huntr.co/microverse/job-portal) and check out the different job postings. Then select **ONE** suitable role that you might want to apply to in the future.
-4. If you did not find a suitable job posting in Point 3 above, open the link in the section above called "*How can I find jobs to apply to?*". Scroll down to the bottom of the page and you will see a list of remote website links.
-5. Take some time to go through some of these websites, and seek out **ONE** suitable role that you might want to apply to later in the future. **Do not get distracted and start applying to many roles**. This exercise is just for you to practice.
+4. Open the link in the section above called "*How can I find jobs to apply to?*". Scroll down to the bottom of the page and you will see a list of remote website links.
+5. Take some time to go through some of these websites, and seek out **ONE** suitable role that you might want to apply to later in the future. Add it to your Huntr board. **Do not get distracted and start applying to many roles**. This exercise is just for you to practice.
 6. Open up your copy of the template and complete all sections.
 
 **Exercise template to copy:** [Adding a job to your Huntr board](https://docs.google.com/document/d/1rZ1Dn_JGFVbLwBQGK01kXZJRqYOIK-A8Kp5xc92vmTY/edit#heading=h.jgs62vtxnleo)
