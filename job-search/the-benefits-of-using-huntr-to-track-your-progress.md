@@ -16,9 +16,7 @@
 
     All you need to do is simply drag and drop your job application from one column as you go through the various hiring process stages.
 
-4. **The Microverse Job Portal:** This is a portal that the career coaches created in Huntr, where we post jobs every week that we believe are suitable for you to apply to. This will help you reduce the amount of time you spend job hunting on various websites so take advantage of this.
-
-5. **Coach accountability:** Your coach is there to hold you accountable to your goal of finding a remote job. This is why the coach goes through the number of job applications you make each week to ensure you are meeting our recommended standard. We recommend applying for 3-5 jobs daily for the best results in your job search.
+4. **Coach accountability:** Your coach is there to hold you accountable to your goal of finding a remote job. This is why the coach goes through the number of job applications you make each week to ensure you are meeting our recommended standard. We recommend applying for 2-4 jobs daily for the best results in your job search.
 
 6. **Tailored coach support:** When you start job searching, you will have weekly meetings with your coach where they will go over your weekly job applications with you. Huntr will allow the coach to see how many job applications you are making, see if you are getting stuck in a certain part of the hiring process, and will help them provide tailored support for you. 
 
