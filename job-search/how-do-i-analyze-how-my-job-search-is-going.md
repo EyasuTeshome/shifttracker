@@ -4,13 +4,13 @@
 
 It can take 2-4 weeks of applying to start hearing any responses (favorable or unfavorable). If you are in the first few weeks of your job search, you may need to just give it more time because the hiring process can be very lengthy. Click the link to learn more about [What to expect during the interview process](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-the-interview-process.md).
 
-**It could also be that you need to apply for more jobs.** Are you applying to 3-5 jobs every day? If not, increase your applications to increase your chances!
+**It could also be that you need to apply for more jobs.** How many jobs are you applying every day? You might need to increase your applications to increase your chances!
+
+**Or you might need to customize your job applications for the specific position you are applying to.** Remember that your application materials have to highlight why you are a good candidate for that job and that company. Customizing applications takes time, but try to balance quantity and quality when you send applications.
 
 **Keep in mind that it’s important to keep track by consistently using the [Huntr job search board](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-huntr-to-track-your-job-search.md)**. Use the [Huntr extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en) to more quickly and easily manage those updates! Once you are job searching, Microverse offers access to the premium version of Huntr, which includes a dashboard that helps you and the career coaches visualize your and job search progress through time. 
 
-The dashboard offers charts as seen here:
-
-[https://lh4.googleusercontent.com/Blse6pa5DAMLWODtVK8_9z6Urs2-eec3NRp8N2zoP6r2GwFgnJshn7q1jrTHxTykIDf-XlApgrVpgrDbNyORdYD7LbyAb430x-CyZLox_9zVqapsDdSGIRIcpdJ06RwZb50ohiAz](https://lh4.googleusercontent.com/Blse6pa5DAMLWODtVK8_9z6Urs2-eec3NRp8N2zoP6r2GwFgnJshn7q1jrTHxTykIDf-XlApgrVpgrDbNyORdYD7LbyAb430x-CyZLox_9zVqapsDdSGIRIcpdJ06RwZb50ohiAz)
+The dashboard offers charts as seen [here](https://lh4.googleusercontent.com/Blse6pa5DAMLWODtVK8_9z6Urs2-eec3NRp8N2zoP6r2GwFgnJshn7q1jrTHxTykIDf-XlApgrVpgrDbNyORdYD7LbyAb430x-CyZLox_9zVqapsDdSGIRIcpdJ06RwZb50ohiAz).
 
 **It’s also important to track visits to your portfolio page.** 
 
