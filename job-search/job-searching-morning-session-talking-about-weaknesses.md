@@ -20,7 +20,7 @@ During this morning session, you will practice with one of your peers how to tal
 
 ### Preparation - 15 min
 
-1. In a big group, each will read the article [“Interview question: What is your greatest weakness?](https://www.thebalancecareers.com/what-is-your-greatest-weakness-2061288) 
+1. In a big group, each will read the article [“Interview question: What is your greatest weakness?"](https://www.thebalancecareers.com/what-is-your-greatest-weakness-2061288) 
     - Mute your microphones and read in silence.
 
 
