@@ -8,7 +8,7 @@
 
 ## Exercise
 
-During this morning session, you will practice with one of your peers using one of the stories in your behavioral grid to help you answer interview questions structured with the  SAR framework.
+During this morning session, you will practice with one of your peers using one of the stories in your behavioral grid to help you answer interview questions structured with the SAR framework.
 
 ### Instructions
 
@@ -29,7 +29,7 @@ During this morning session, you will practice with one of your peers using one 
 1. Everybody will be an interviewer during the exercise, so each of you must follow the steps below:
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
     - Read the list of questions and select 2 that ask your partner about a past situation (usually they have the format “Tell me about”).     
-    - Reflect upon the attribute that each question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork?
+    - Reflect upon the attribute that each question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork.
     - Open the [following checklist for providing feedback](https://docs.google.com/document/d/1-qHNXwhKKc5TeXAtYYZwkHwr5xGkSk2pyzxlbtsp5_I/edit?usp=sharing). Copy the 2 questions that you will be asking in section 2 and register the attribute that they will help you identify. 
     - Read the criteria and indicators you will assess in the interview.
 
@@ -38,7 +38,7 @@ During this morning session, you will practice with one of your peers using one 
     - If there is an odd number of people in your group, one room will need to have 3 people.
 
 
-### Collaborative preparation for interviews and quick  interviews - 30 min
+### Collaborative preparation for interviews and quick interviews - 30 min
 
 1. Begin by telling each other one of the questions you will ask.  **Don’t share the second question!** The idea is that you will have to craft the answer without previous planning. 
 
@@ -51,7 +51,7 @@ During this morning session, you will practice with one of your peers using one 
      - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/1-qHNXwhKKc5TeXAtYYZwkHwr5xGkSk2pyzxlbtsp5_I/edit?usp=sharing). **You should fill it in during the interview if possible.**
      - The interviewer starts [timer](https://vclock.com/timer/#countdown=00:03:00&date=2022-06-24T17:11:04&sound=xylophone&loop=1).
      - The interviewer asks the first question.
-     - **The applicant answers using the project or experience selected and giving answers with the SAR structure .**
+     - **The applicant answers using the project or experience selected and giving answers with the SAR structure.**
      - The interviewer indicates when the time is up.
      - The interviewer offers feedback to the applicant, stressing if the answer provided evidence of the attribute to be explored and explaining why it did or did not (if possible, give concrete examples). (1 min)
 
