@@ -38,7 +38,7 @@ A career coach will review the assignments you submit and give you feedback:
 
 Also, you will meet with a coach in your monthly coaching group session, and if you have specific questions, you may get in touch with a career coach via Zendesk or request a 1:1 meeting.
 
- **If you need a efresher about communicating with your career coach, read:**
+ **If you need a refresher about communicating with your career coach, read:**
 
 - [How will you communicate with your career coach?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
 
@@ -56,6 +56,7 @@ The indicators during your job search will be the number of applications you sub
 To help you, our career coaches need to know how you are job searching, your achievements, and your blockers. So, to maintain your status as an enrolled job searcher, we require you to:
 
 1. Complete the required activities in the curriculum by the end of the week:
+- Intro to advanced job searching at Microverse (week 1 - it's this activity that you are reading!)
 - Reassess your job searching SMART goals (week 1),
 - Analyze your job search (week 4),
 - Weekly retrospective (every week).
