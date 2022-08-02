@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Answer behavioral questions using the SAR framework
+- Answer behavioral questions using the SAR framework.
 
 ### Estimated time: 1h
 
@@ -28,26 +28,24 @@ The SAR (situation-action-result) framework you studied during the core program 
 
 **Refresh your memory on how to structure each element of your answers.**
 
-- [What situations to pick up and how to present them effectively?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-situations%20-to-pick-up-and-how-to-present-them-effectively.md)
-- [How to frame and share actions correctly?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-actions-correctly.md)
-- [How to frame and share results effectively?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-results-effectively.md)
+- [What situations to pick up and how to present them effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-situations%20-to-pick-up-and-how-to-present-them-effectively.md)
+- [How to frame and share actions correctly](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-actions-correctly.md)
+- [How to frame and share results effectively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-frame-and-share-results-effectively.md)
 
 2. Once everybody is ready, make a collective summary of the attributes that each element of the answer should have.  
-
 
 ### Interviewers setup - 5 min
 
 1. Everybody will be an interviewer during the exercise, so each of you must follow the steps below:
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
     - Select two questions to ask your partner about a past situation (with the format Tell me about).     
-    - Reflect upon the attribute that the question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork? Then, consider possible follow-up questions to dig deeper into that attribute during the interview .
+    - Reflect upon the attribute that the question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork. Then, consider possible follow-up questions to dig deeper into that attribute during the interview.
     - Open the [following checklist for providing feedback](https://docs.google.com/document/d/16-ksqgYN4KX21DEfk46zib5OY8KnDOYRtPPviLGtes8/edit#heading=h.za7e1fwup8u). Copy the two questions you will be asking at the top of each section and register the attribute they will help you identify. 
     - Read the criteria and indicators that you will assess in the interview.
 
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 25 minutes.**
     - If there is an odd number of people in your group, one room will need to have 3 people.
-
 
 ### Quick interviews - 25 min
 
