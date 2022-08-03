@@ -8,7 +8,7 @@
 
 ## What is the final sweep?
 
-In the last module, you updated your application projects and submitted them to your career coach. By now, you should have received feedback from your coach through the Student Dashboard. If you haven't done so already, you should take some time now to make any changes to them based on feedback your coach shared. 
+In the last module, you updated your application projects and submitted them to your career coach. By now, you should have received feedback from your coach through the Student Dashboard. If you haven't done so already, take some time now to make any changes to them based on your coach's comments. 
 
 **NOTE** - To access your coach's comments on the Final Sweep, click on the "Professional Skills Feedback" link that appreas in the Dashboard's menu. If you have not received feedback yet, please reach out to your coach and let them know, so they can send it as soon as possible. 
 
@@ -34,3 +34,8 @@ After you finish making changes to your application materials, submit the Google
 Template to copy: [Final sweep submission](https://docs.google.com/document/d/1BbNMkB9b6hMgiF0x30y55vTAilsL58Tc1xLSboTR68o/edit#)
 
 Now go to your Student Dashboard and submit your project.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
