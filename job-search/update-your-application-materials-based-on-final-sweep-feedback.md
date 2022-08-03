@@ -8,9 +8,9 @@
 
 ## What is the final sweep?
 
-In the last module, you went through and updated your application projects and submitted them to your career coach. Then you received feedback from your coach via a Zendesk message. Now you should take some time to make any changes to them based on feedback your coach shared. 
+In the last module, you updated your application projects and submitted them to your career coach. By now, you should have received feedback from your coach through the Student Dashboard. If you haven't done so already, you should take some time now to make any changes to them based on feedback your coach shared. 
 
-**NOTE** - If you did not receive feedback from your coach via Zendesk e-mail, please reach out to your coach and let them know, so they can get you feedback as soon as possible. Be sure to search your e-mail inbox first, using the keyword "Final Sweep" as the message may have gotten lost. 
+**NOTE** - To access your coach's comments on the Final Sweep, click on the "Professional Skills Feedback" link that appreas in the Dashboard's menu. If you have not received feedback yet, please reach out to your coach and let them know, so they can send it as soon as possible. 
 
 ### Why is the final sweep important?
 
