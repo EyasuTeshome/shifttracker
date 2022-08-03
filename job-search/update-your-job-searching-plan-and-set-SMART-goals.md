@@ -17,6 +17,7 @@ The Microverse curriculum shows you the four core areas where you have to work:
 - preparing for interviews (or participate in them)
 - strengthening your technical skills and working on side projects
 - networking
+
 Yet there is room for you to decide how much time and effort you invest in each activity daily, and you can prioritize some tasks that align better to your specific situation and needs. 
 
 The SMART method is useful to plan how we will approach job searching and you have already practiced using it. If you need to refresh your memory, check the following resource:
@@ -38,7 +39,7 @@ As input for your current job plan, remind yourself of the job search plan and t
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
 1. Begin by thinking about your long- and mid-term professional goals. Complete section 1 in the [Goals Worksheet](https://docs.google.com/document/d/1WT418F4SQGtfA2Buz5gLa7bf7Nf81YhGzgRcAN6y6XM/edit?usp=sharing).
-2. Now, use the SMART method to set goals and prepare your job search goals for the next month considering only the first 3 areas of job searching: 
+2. Now, use the SMART method to set goals and prepare your job search goals for the next month considering only the first 2 areas of job searching: 
     - sending job applications
     - preparing for interviews (or participating in them)
 3. Then, prepare a commitment map for these goals in section 3. 
