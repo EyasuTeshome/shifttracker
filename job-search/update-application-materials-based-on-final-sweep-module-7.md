@@ -10,7 +10,7 @@
 
 To start you job search as well prepared as possible, you have updated your application projects and submitted them to your career coach. By now, you should have received feedback from your coach through the Student Dashboard. If you haven't done so already, take some time now to make changes based on your coach's comments. 
 
-**NOTE** - To access your coach's comments on the Final Sweep, click on the "Professional Skills Feedback" link that appreas in the Dashboard's menu. If you have not received feedback yet, please reach out to your coach and let them know, so they can send it as soon as possible. 
+**NOTE** - If you have not received feedback yet, please reach out to your coach and let them know, so they can send it as soon as possible. 
 
 ### Why is the final sweep important?
 
