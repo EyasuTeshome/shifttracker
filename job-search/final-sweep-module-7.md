@@ -16,11 +16,11 @@ Job searching can be a long process. In order to reduce the time it takes for yo
 
 Refining your application materials is a complex endeavor that you will achieve throughout modules 7 and 8. It will require a lot of time and dedication because you need to find the best way to showcase your skills and your experience. You will need to go through many rounds of revision with career coaches and integrate carefully the changes they suggest. 
 
-The final sweep is a first round where you update and check the format, functionality, and information of all your application materials, so that you get off to a good start when submitting job applications. Later on, you will work with career coaches to refine their content of each one of them during a whole week. The goal is that when you complete module 8, you will have polished all of your materials, and thus you will increase your chances of being invited for interviews when you apply for jobs.
+The final sweep is a first round where you update and check the format, functionality, and information of all your application materials, so that you get off to a good start when submitting job applications. Later on, you will work with career coaches to refine their content of each one of them during a whole week. So, when you finish module 8, you will have polished all of your materials, and thus you will increase your chances of being invited for interviews when you apply for jobs.
 
 ### Review each of your projects
 
-In order to make the best use of your time and your coach's time, make sure you look carefully through each of your professional skills projects before you submit the final sweep. Here are links to the initial project walkthroughs, so you can remind yourself what to look for. 
+In order to make the best use of time and avoid unnecesary revisions, make sure you look carefully through each of your professional skills projects before you submit the final sweep. Here are links to the initial project walkthroughs, so you can remind yourself what to look for. 
 
 - [Create a professional looking GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
 - [Create a professional LinkedIn page](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
