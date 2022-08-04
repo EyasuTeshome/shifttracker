@@ -8,7 +8,9 @@
 
 ## **Description**
 
-In this professional skills project, you will use the Unique Selling Point (USP) you created earlier in the curriculum to craft the first version of your elevator pitch: a short speech that you'll use regularly during interviews and while networking, and that summarizes who you are, what makes you special, and why you'd be a good fit for a specific job. You'll submit it for review, receive feedback and make changes any necessary changes to get it approved. Later on, in the job searching modules, you will revisit and polish your elevator pitch with support from a career coach.
+In this professional skills project, you will use the Unique Selling Point (USP) you created earlier in the curriculum to craft the first version of your elevator pitch: a short speech that you'll use regularly during interviews and while networking, and that summarizes who you are, what makes you special, and why you'd be a good fit for a specific job. 
+
+You'll submit your elevator pitch for review, receive feedback from a professional skills reviewer, and make changes necessary changes to get it approved. Later, when you start job searching, you will revisit and polish your elevator pitch with support from a career coach.
 
 
 *IMPORTANT NOTE: Read through each section thoroughly, and then add on to your project as you move through the lesson.*
@@ -156,11 +158,15 @@ In the link below, we'll discuss a few strategies you can use to help edit and r
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
+**In order to ensure that your project can be approved by the deadline, submit your first version no later than Wednesday evening of the week when it's due. This will give the reviewers enough time for necessary iterations.**
+
 ## Submit your project
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
 Now go to your Student Dashboard and submit your exercise.
+
+**Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.
 
 ## Additional materials
 
