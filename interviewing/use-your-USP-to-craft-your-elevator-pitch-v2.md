@@ -158,7 +158,7 @@ In the link below, we'll discuss a few strategies you can use to help edit and r
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
-**In order to ensure that your project can be approved by the deadline, submit your first version no later than Wednesday evening of the week when it's due. This will give the reviewers enough time for necessary iterations.**
+In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.
 
 ## Submit your project
 
@@ -166,7 +166,7 @@ Follow [these steps](https://github.com/microverseinc/curriculum-transversal-ski
 
 Now go to your Student Dashboard and submit your exercise.
 
-**Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.
+Check the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.
 
 ## Additional materials
 
