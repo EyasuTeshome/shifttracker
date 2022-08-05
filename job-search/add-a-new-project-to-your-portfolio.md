@@ -14,14 +14,10 @@ In this exercise, you will learn how to add a new project to your portfolio by g
 
 Portfolios are the easiest way of showing what you’re truly capable of as a developer, and are a quick and simple way for recruiters and hiring managers to get an idea of what you can bring to their teams. Learning happens on each project and the new projects that you take up often involve more complex skills than the previous ones. Therefore it's imperative to keep the portfolio updated with the information about most recent projects. 
 
-This not only helps in getting better job opportunities or projects but also becomes a way to track how you are growing in your skills with each project. 
+This not only helps in getting better job opportunities or projects but also becomes a way to track how you are growing in your skills with each project.
 
 
-## Important note for transition students
-You might not have a portfolio yet at this stage of the Curriculum so, in the exercise below, you will simply be required to pin your new project in your GitHub profile and to submit a link to your profile. Later on, when you get to the Job Searching part of the Curriculum, you will create your portfolio as a side project. For now, jump straight to the Exercise section of this lesson and complete the exercise.
-
-## Important note for non-transition students
-At this stage, you might already have a portfolio ready. It is important to make it look presentable to employers and recruiters. Read through all the sections below and then complete the exercise at the bottom of this page.
+**Note:** At this stage, you should have a first version of your portfolio. It is important to make it look presentable to employers and recruiters. Read through all the sections below and then complete the exercise at the bottom of this page.
 
 
 ### Gather screenshots of your projects
