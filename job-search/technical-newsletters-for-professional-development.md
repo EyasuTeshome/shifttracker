@@ -42,9 +42,9 @@ One of the biggest problems in the era of internet is information overload. So s
 1. In the list above, identify 3 - 5 newsletters that seem interesting to you.
 2. Spend some time exploring each of them. Scan through the previous editions and briefly read some of their articles.
 3. Select 2 or 3 that you would like to read periodically and subscribe to them.
-4. Register in [this template](https://docs.google.com/document/d/1WlpdNBDhrpk8Xm6mKCSFbq_o6w-lU5p-L6oAZ8wC8YM/edit) the newsletters you subscribed to and explain briefly why you chose them.
+4. Register in [this template](https://docs.google.com/document/d/1R8RIDlBIQW0cvERXEZ46scB3GmCs_fTnPL3RB1eLFhc/edit?usp=sharing) the newsletters you subscribed to and explain briefly why you chose them.
 
-**Exercise template to copy:** [Technical newsletters for my professional developmente](https://docs.google.com/document/d/1WlpdNBDhrpk8Xm6mKCSFbq_o6w-lU5p-L6oAZ8wC8YM/edit)
+**Exercise template to copy:** [Technical newsletters for my professional developmente](https://docs.google.com/document/d/1R8RIDlBIQW0cvERXEZ46scB3GmCs_fTnPL3RB1eLFhc/edit?usp=sharing)
 
 ### Submit your exercise
 
