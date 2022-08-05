@@ -114,6 +114,7 @@ Check the activity status in your Dashboard to find out if the reviewer approves
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
+- [What Makes a Good GitHub Profile?](https://codeburst.io/what-makes-a-good-github-profile-ced754284e3d)
 - [Activity Traces and Signals in Software Developer Recruitment and Hiring](https://www.cs.cmu.edu/~xia/resources/Documents/Marlow-cscw13.pdf). A note: this is a research paper, and therefore will be more difficult to read than a blog post, but the information included here is very useful. If you view nothing else, view the table on page 4, which contains 5 common "activity traces" that hiring managers and recruiters look for.
 - [Here's what 4 companies really look for on your GitHub profile](https://www.builtinchicago.org/2018/05/08/what-companies-look-for-on-github)
 - [Video - Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
