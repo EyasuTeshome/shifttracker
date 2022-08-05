@@ -1,4 +1,4 @@
-# **Project: Use your USP to craft the first draft of your elevator pitch**
+# **Project: Use your USP to craft your elevator pitch**
 
 ## **Learning objectives**
 
