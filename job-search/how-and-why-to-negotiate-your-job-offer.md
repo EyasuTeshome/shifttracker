@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The importance of this lesson is to learn how to negotiate your job offer to ensure that your value in reflected in the compensation, and it aligns with your needs. 
+The importance of this lesson is to learn how to negotiate your job offer to ensure that your value is reflected in the compensation, and it aligns with your needs. 
 
 ### Why is negotiating your job offer important?
 
