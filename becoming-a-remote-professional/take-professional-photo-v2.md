@@ -187,7 +187,7 @@ You've learned all about the elements of a great professional photo. In this las
 
 ### Submission Instructions
 
-1. Use the instructions above to take or select a great professional photo.
+1. Use the instructions above to take or select a great professional photo. If you need to make minor edits to your photo, open a photo editor (like the free Pixlr Editor) and upload your photo.
 2. Upload your professional photo online.
 3. Ensure that the link to your photo is accessible to **anyone with the link**. If you have uploaded it to Google Drive, you may need to manually change the Share settings.
 
@@ -196,8 +196,25 @@ You've learned all about the elements of a great professional photo. In this las
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
+**In order to ensure that your project can be approved by the deadline, submit your first version no later than Wednesday evening of the week when it's due. This will give the reviewers enough time for necessary iterations.**
+
 ## Submit your project
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.*
 
 Now go to your Student Dashboard and submit your project.
+
+**Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
+
+## Additional materials
+
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+
+- [5 Simple Steps to a DIY Professional Headshot](https://www.naylor.com/associationadviser/professional-looking-headshot/)
+- [Video - Pro Headshots with your Smartphone in 6 Easy Steps](https://www.youtube.com/watch?v=rgj-w_iyTGM)
+- [Video - Learning How to Use Pixlr E - The Basics](https://www.youtube.com/watch?v=RMe3UmzHVjE)
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
