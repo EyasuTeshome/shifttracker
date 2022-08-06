@@ -200,7 +200,7 @@ The Activity section is **optional**. It won't affect the score that Microverse 
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
-**In order to ensure that your project can be approved by the deadline, submit your first version no later than Wednesday evening of the week when it's due. This will give the reviewers enough time for necessary iterations.**
+In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.
 
 ## Submit your exercise
 
@@ -215,6 +215,7 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [How to build an amazing LinkedIn profile: 15 proven tips](https://cultivatedculture.com/linkedin-profile-tips/)
+- [3 LinkedIn mistakes that could be costing you job offers](https://cultivatedculture.com/linkedin-mistakes/)
 
 
 ------
