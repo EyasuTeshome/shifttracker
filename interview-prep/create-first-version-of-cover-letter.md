@@ -1,4 +1,4 @@
-# Project: Write and submit a customized cover letter
+# Project: Write a customized cover letter
 
 ## Learning objectives
 
@@ -129,7 +129,7 @@ Attention to detail is one of the most valuable skills needed for software devel
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
-In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.
+In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give you and your reviewers enough time for all the necessary iterations.
 
 ## Submit your exercise
 
