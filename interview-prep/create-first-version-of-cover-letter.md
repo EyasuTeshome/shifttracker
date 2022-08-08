@@ -137,7 +137,7 @@ In order to ensure that your project can be approved by the deadline, **submit y
 
 Now go to your Student Dashboard and submit your exercise.
 
-**Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
+**Remember that this project must be “approved” before you submit it as complete.** So, check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes. You can submit your project for review a max of 3 times.
 
 ## Additional materials
 
