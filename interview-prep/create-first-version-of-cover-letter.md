@@ -10,7 +10,7 @@
 
 In this project, we'll walk you through how to create a cover letter that expands upon your resume to paint a thorough picture of who you are as both a potential employee and as a person. It doesn't need to be perfect. Focus on using the curriculum to write the first version. You'll receive feedback that you'll be able to use to make improvements. Later, as you start job searching, you will revisit your cover letters and polish them with the help of a career coach.
 
-**An important note:** once your cover letter is done, you'll be using it (and the rest of your job application materials) to submit a job application! Be sure to pay careful attention to the curriculum here, **especially our curriculum about personalizing your cover letter for one specific role.**
+**An important note:** Once your cover letter is done, you'll use it to submit a job application with the rest of your job application materials! so, be sure to pay careful attention to our curriculum about personalizing your cover letter for one specific role.
 
 ### Why is a strong cover letter so important?
 
@@ -35,6 +35,17 @@ Your cover letter header **is intended to quickly link hiring managers to your o
 
 1. Fill out your header with all of the required information listed in the link above.
 
+
+## Select the position that you'd like to apply to.
+
+Compelling cover letters are customized to align the story that you are telling about yourself with the requirements of a specific role in a particular company. So the starting point is to identify a job posting and analyze the job requirements to identify what the company is looking. Then, you have to think through very carefully why you are a good candidate for that position: How do your skills aligh with what they are looking for? How does your professional experience prepare you for the role's responibilities? Why are your personal goals aligned with the company's mission? 
+
+**Apply what you've learned**
+
+1. Select a company you would like to apply to. This can either be one of your dream companies or a company that has recently posted a job listing on a job board. **Do not** use a placeholder company (like "Company XYZ")**. You must** select a specific, real-world company with a development-related current job opening.
+2. Take 5 minutes to pick 1-2 reasons you are excited about applying to **this specific company**, ensuring that your reason(s) is focused enough that it **could not** be used for any company in the world. If needed spend an additional 5-10 minutes doing research, in order to find details to support your reasoning. **Remember that you will be applying to this company at the end of this lesson; the more focused/personalized your introduction, the better.**
+
+
 ## Write the introduction paragraph of your cover letter
 
 Your introduction is the first opportunity you have in your cover letter to catch a hiring manager's attention, which means it needs to be both hyper-focused on a specific position and thorough enough to explain why a hiring manager should want to learn more about you. Because of that, each introduction needs to contain some crucial pieces of information. Let's discuss this information below.
@@ -45,9 +56,7 @@ Your introduction is the first opportunity you have in your cover letter to catc
 
 **Apply what you've learned**
 
-1. Select a company you would like to apply to. This can either be a dream company or a company that has recently posted a job listing on a job board. **Do not** use a placeholder company (like "Company XYZ")**. You must** select a specific, real-world company with a development-related current job opening.
-2. Take 5 minutes to pick 1-2 reasons you are excited about applying to **this specific company**, ensuring that your reason(s) is focused enough that it **could not** be used for any company in the world. If needed spend an additional 5-10 minutes doing research, in order to find details to support your reasoning. **Remember that you will be applying to this company at the end of this lesson; the more focused/personalized your introduction, the better.**
-3. Take 10-20 minutes to write an introduction using the curriculum above. 
+1. Take 10-20 minutes to write an introduction using the curriculum above. 
 
 ## Plan and write your first supporting paragraph
 
