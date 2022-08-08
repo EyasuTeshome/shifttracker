@@ -1,4 +1,4 @@
-# Project: Create the first draft of your AngelList profile.
+# Project: Create your AngelList profile.
 
 ## Learning objectives
 
@@ -152,9 +152,8 @@ In order to ensure that your project can be approved by the deadline, **submit y
 
 Now go to your Student Dashboard and submit your exercise.
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
+**Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
 
-**In order to ensure that your project can be approved by the deadline, submit your first version no later than Wednesday evening of the week when it's due. This will give the reviewers enough time for necessary iterations.**
 
 
 ## Additional materials
