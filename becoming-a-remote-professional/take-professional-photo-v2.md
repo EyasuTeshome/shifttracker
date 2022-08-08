@@ -1,4 +1,4 @@
-# Take a professional photo
+# Project: Take a professional photo
 
 ## Learning objectives
 
@@ -10,7 +10,7 @@
 
 In this project, you will take the professional photo that you will later be using as your profile picture on professional sites like LinkedIn and GitHub. Be sure to read through the entire article before taking a new photo, to ensure that you know everything you need to do to make it a great photo. 
 
-(Note: If you have a reason such as religious practices that make it so taking a photo of yourself and putting it online is uncomfortable or not allowed, please reach out to Student Success to request an exception for this assignment.)
+**Note**: If you have a reason such as religious practices that make it so taking a photo of yourself and putting it online is uncomfortable or not allowed, please reach out to Student Success to request an exception for this assignment.
 
 ### Why is taking a professional photo important?
 
@@ -196,7 +196,7 @@ You've learned all about the elements of a great professional photo. In this las
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
-**In order to ensure that your project can be approved by the deadline, submit your first version no later than Wednesday evening of the week when it's due. This will give the reviewers enough time for necessary iterations.**
+In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.
 
 ## Submit your project
 
