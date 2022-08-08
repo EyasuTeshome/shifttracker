@@ -8,7 +8,7 @@
 
 ## Description
 
-In this project, we'll be walking you step by step through the process of building a resume designed to highlight your achievements and catch a hiring manager's eye. This will be your first version, so don't worry about getting it perfect this round. Prepare a resume and then you will get feedback you can use to improve it. 
+In this project, we'll be walking you step by step through the process of building a resume designed to highlight your achievements and catch a hiring manager's eye. This will be your first version, so don't worry about getting it perfect this round. Prepare a resume and then you will get feedback you can use to improve it. Later on, when you are job searching, you will polish your resume with the support of a career coach.
 
 ### Why is a strong resume so important?
 
