@@ -206,6 +206,8 @@ Now go to your Student Dashboard and submit your project.
 
 **Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
 
+Remember that you have **a max of 5 reviews** per professional project.
+
 ## Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
