@@ -8,7 +8,7 @@
 
 ## Description
 
-In this project, we'll walk you through building and curating a strong, professional LinkedIn profile that will help showcase both your previous accomplishments and your future potential. This will be your first version, so it doesn't need to be perfect. If any errors exist, you'll later receive feedback that you'll be able to use to make improvements. Later on, in the job searching modules, you will have the opportunity to update and polish this profile with the support of a career coach.
+In this project, we'll walk you through building and curating a strong, professional LinkedIn profile that will help showcase both your previous accomplishments and your future potential. This will be your first version, so it doesn't need to be perfect. If any errors exist, you'll receive feedback that you'll be able to use to make improvements. Later on, in the job searching modules, you will have the opportunity to update and polish this profile with the support of a career coach.
 
 ### Why is a strong LinkedIn so important?
 
@@ -209,6 +209,8 @@ In order to ensure that your project can be approved by the deadline, **submit y
 Now go to your Student Dashboard and submit your exercise.
 
 **Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
+
+Remember you have **a max of 5 reviews** for professional skills projects.
 
 ## Additional materials
 
