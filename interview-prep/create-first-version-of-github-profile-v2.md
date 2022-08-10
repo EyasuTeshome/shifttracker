@@ -16,7 +16,9 @@ Your GitHub profile is like your resume in the software world; it gives hiring m
 
 In other words, it's **vitally important** that you put just as much effort into creating a strong GitHub profile as you do into creating strong projects or strong resumes. A solid GitHub profile can be the difference between receiving interview requests and being rejected for positions outright.
 
-However, remember that this is your first version. Do your best, but know that you will have the opportunity to receive feedback and make further improvements. Later on, you can update your profile and, when you begin job searching, you will polish it further with the help of a career coach. So, stick to the suggested time limits, so that you don't get stuck in any specific area. 
+However, this is your first version. Do your best, but know that you will have the opportunity to receive feedback and make further improvements. Later on, you can update your profile and, when you begin job searching, you will polish it further with the help of a career coach. So, stick to the suggested time limits, so that you don't get stuck in any specific area. 
+
+Remember that you have a max of 5 reviews in professionsl skills project.
 
 ### Project setup
 
@@ -98,7 +100,10 @@ Your Activity chart is **the quickest way** a recruiter has **to view** **your c
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
-In order to ensure that your project is approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.**
+In order to ensure that your project is approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations. 
+
+When making changes, analyze your reviewer's feedback carefully and integrate all the changes requested. There is a max of 5 reviews per project. 
+
 
 
 ## Submit your exercise
