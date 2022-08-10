@@ -154,6 +154,8 @@ Now go to your Student Dashboard and submit your exercise.
 
 **Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
 
+Remember you have **a max of reviews** per professional skills project.
+
 
 
 ## Additional materials
