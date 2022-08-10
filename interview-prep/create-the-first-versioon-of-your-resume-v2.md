@@ -8,15 +8,16 @@
 
 ## Description
 
-In this project, we'll be walking you step by step through the process of building a resume designed to highlight your achievements and catch a hiring manager's eye. This will be your first version, so don't worry about getting it perfect this round. Prepare a resume and then you will get feedback you can use to improve it. Later on, when you are job searching, you will polish your resume with the support of a career coach.
+In this project, we'll be walking you step by step through the process of building a resume designed to highlight your achievements and catch a hiring manager's eye. 
 
 ### Why is a strong resume so important?
 
 Your resume is arguably the most important project you'll work on during Professional Skills. Every time you submit a job application, the first thing a hiring manager looks at will likely be your resume; in other words, for most applicants, the resume is your one chance at a first impression. Your resume is going to be the main reason whether you get invited to interviews or you don't. Unfortunately, most resumes are badly written, and most resumes therefore automatically end up in the "rejection" pile. 
 
-This project will walk you through **how to write a resume designed to attract a hiring manager's attention, even if you don't have prior software development work experience**.
+This project will walk you through **how to write a resume designed to attract a hiring manager's attention, even if you don't have prior software development work experience**. This will be your first version, so don't worry about getting it perfect this round. You will get feedback from a reviewer that you can use to improve it and you will get a max of 5 reviews for this project. Also, later on, when you are job searching, you will polish your resume with the support of a career coach.
 
 [Learn about the three main components of a strong resume (video lesson)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/learn-about-the-three-main-components-of-a-strong-resume-video-lesson.md)
+
 
 ### Project Setup
 
@@ -197,7 +198,7 @@ Proper grammar, spelling, and sentence clarity are essential not only to demonst
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project. Remember you can submit up to 3 reviews to get your project approved.
 
-In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.
+In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations. 
 
 ## Submit your exercise
 
@@ -206,6 +207,8 @@ In order to ensure that your project can be approved by the deadline, **submit y
 Now go to your Student Dashboard and submit your exercise.
 
 **Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
+
+Remember that you have **up to 5 reviews** per professional project.
 
 ## Additional materials
 
