@@ -8,7 +8,7 @@
 
 ## Description
 
-In this project, we'll walk you through how to create a cover letter that expands upon your resume to paint a thorough picture of who you are as both a potential employee and as a person. It doesn't need to be perfect. Focus on using the curriculum to write the first version. You'll receive feedback that you'll be able to use to make improvements. Later, as you start job searching, you will revisit your cover letters and polish them with the help of a career coach.
+In this project, we'll walk you through how to create a cover letter that expands upon your resume to paint a thorough picture of who you are as both a potential employee and as a person. It doesn't need to be perfect. Focus on using the curriculum to write the first version and submit it for review. You'll receive feedback that you'll be able to use to make improvements. Later, as you start job searching, you will revisit your cover letters and polish them with the help of a career coach.
 
 **An important note:** Once your cover letter is done, you'll use it to submit a job application with the rest of your job application materials! so, be sure to pay careful attention to our curriculum about personalizing your cover letter for one specific role.
 
@@ -146,7 +146,10 @@ In order to ensure that your project can be approved by the deadline, **submit y
 
 Now go to your Student Dashboard and submit your exercise.
 
-**Remember that this project must be “approved” before you submit it as complete.** So, check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes. You can submit your project for review a max of 3 times.
+Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes. You can submit your project for review a max of 5 times. 
+
+Once your cover letter is approved, you will submit it with the rest of your application materials later on in this module. 
+
 
 ## Additional materials
 
