@@ -13,7 +13,7 @@ In week 1, job searchers will define their job searching plan and SMART goals fo
 - This is the format that job searchers are using to define their goals. 
 - These are the [instructions they receive to plan their goals for submitting applications and interview practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/update-your-job-searching-plan-and-set-SMART-goals.md).
 - These are the [instructions they recevie to plan their networking plan and goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/review-your-networking-plan-and-set-smart-goals.md).
-- These are the [instructions they receive to plan their side project] (https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-plan-a-good-side-project.md).
+- These are the [instructions they receive to plan their side project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-how-to-plan-a-good-side-project.md).
 - These are the [instructions to submit their job searching plan and goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/submit-your-job-searching-plan-and-SMART-goals.md).
 
 
@@ -22,13 +22,41 @@ In week 1, job searchers will define their job searching plan and SMART goals fo
 NOTE: Each job searcher faces a specific situation. Use these requirements as guidelines, but consider the necessary adaptations to each particular case.
 
 ### General requirements
-TO BE DEFINED
+
+Define SMART goals that show how you will:
+
+- Apply to jobs.
+- Add to your portfolio of coding projects.
+- Practice interviewing.
+- Continue networking.
 
 ### Project requirements
-TO BE DEFINED
+
+You should have at least one SMART goal that touches on each of the above areas of focus.
+
+Remember the attributes of SMART goals:
+
+- Specific: What goal do you want to accomplish?
+- Measurable: How will you measure your progress?
+- Achievable: Are you able to achieve this goal?
+- Relevant & Result-focused: What is your purpose in achieving this goal?
+- Time-dependent: When do you think you can achieve this goal?
+
+Here's what a good SMART goal sounds like: "I will apply to 15 jobs next week."
+
+It is:
+
+- Specific: Applying to jobs. Something nonspecific might sound like, "I will look for jobs."
+- Measurable: 15 is measurable. Something not measurable might sound like, "I will apply to jobs every day." How many?
+- Achievable: 15 per week is a reasonable goal. It's possible to set an unachievable goal though. It's likely most people can't apply to hundreds of jobs per week.
+- Relevant & Result-focused: This is a goal that is relevant to your long-term aspiration of getting a job. An irrelevant goal might sound like, "I will clean my workspace this weekend." That's nice and it might help you stay focused and organized, but it is too tangential and not directly relevant enough to your job search.
+- Time-dependent: Sets a next week deadline. Something not time-dependent might sound like, "I will apply to 15 jobs." Okay, by when?
 
 ## Stretch requirements
-TO BE DEFINED
+
+If you want to go above and beyond with your SMART goals, don't just talk about goals like a certain number of jobs applied to per week or implementing a feature on one of your side projects. Those are good goals, but even better goals go into more detail or improve upon your previous goals in some way.
+
+For example, you could set a goal of tailoring your application materials for a new class of tech job you hadn't tailored them for yet. You could also set more ambitious goals like looking for how to contribute to a popular open source project by reaching out to its community and offering to help fix a bug or implement a feature. The best SMART goals build upon previous ones so your achivements compound over time.
 
 ## Final notes
 
