@@ -38,11 +38,11 @@ As input for your current job plan, remind yourself of the job search plan and t
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Begin by thinking about your long- and mid-term professional goals. Complete section 1 in the [Goals Worksheet](https://docs.google.com/document/d/1WT418F4SQGtfA2Buz5gLa7bf7Nf81YhGzgRcAN6y6XM/edit?usp=sharing).
+1. Begin by thinking about your long- and mid-term professional goals and aspirations. Complete section 1 in the [Goals Worksheet](https://docs.google.com/document/d/1WT418F4SQGtfA2Buz5gLa7bf7Nf81YhGzgRcAN6y6XM/edit?usp=sharing).
 2. Now, use the SMART method to set goals and prepare your job search goals for the next month considering only the first 2 areas of job searching: 
     - sending job applications
     - preparing for interviews (or participating in them)
-3. Then, prepare a commitment map for these goals in section 3. 
+
 
 **Note: Keep this exercise at hand because you will add SMART goals for networking and working on side projects later this week.**
 
