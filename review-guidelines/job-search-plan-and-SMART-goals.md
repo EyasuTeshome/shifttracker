@@ -32,6 +32,8 @@ Define SMART goals that show how you will:
 
 ### Project requirements
 
+Long-term and mid-term goals in section 1 are an invitation for job searchers to start thinking about their professional career. The level of detail may vary and it's ok. The only important aspect is that they reflect on their future. Make any comment or include questions that cn help them deepen their introspection.
+
 You should have at least one SMART goal that touches on each of the above areas of focus.
 
 Remember the attributes of SMART goals:
