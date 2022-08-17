@@ -1,3 +1,16 @@
+
+
+
+## IMPORTANT NOTE: 
+
+We have moved the Final Sweep to the beginning of Module 7 to give you enough time to prepare your final capstone evaluation and to update your application materials carefully.
+
+**So you don't need to submit your updated application materials now! Just mark this activity as completed in your Student Dashboard to complete the block.**
+
+____________________________________________________________________________________________________________________________________________________
+
+
+
 # Final Sweep: prep all your application materials for your coach to review
 
 ## Learning objectives:
