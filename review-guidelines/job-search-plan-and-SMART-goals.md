@@ -23,26 +23,30 @@ NOTE: Each job searcher faces a specific situation. Use these requirements as gu
 
 ### General requirements
 
-Define SMART goals that show how you will:
+Students should include:
+
+1. Statement of long- and mid-term professional goals, and
+
+2. MART goals that show how they will:
 
 - Apply to jobs.
-- Add to your portfolio of coding projects.
+- Add coding projects to portfolio.
 - Practice interviewing.
 - Continue networking.
 
 ### Project requirements
 
-Long-term and mid-term goals in section 1 are an invitation for job searchers to start thinking about their professional career. The level of detail may vary and it's ok. The only important aspect is that they reflect on their future. Make any comment or include questions that cn help them deepen their introspection.
+Long-term and mid-term goals in section 1 invite job searchers to start thinking about their professional career. Depending on the job searcher's ability to reflect and instrospect, the depth and level of detail may vary and it's ok. The only important aspect is that they start thinking about their professional future. Make any comment or include questions that can help them deepen their introspection.
 
-You should have at least one SMART goal that touches on each of the above areas of focus.
+Students should include at least one SMART goal for each of these areas: job applications, adding projects to their portfolio, practicing interviews, networking.
 
-Remember the attributes of SMART goals:
+Check that the SMART goals satisfy the five attributes:
 
-- Specific: What goal do you want to accomplish?
-- Measurable: How will you measure your progress?
-- Achievable: Are you able to achieve this goal?
-- Relevant & Result-focused: What is your purpose in achieving this goal?
-- Time-dependent: When do you think you can achieve this goal?
+- Specific: They statement clearly the goal they want to accomplish.
+- Measurable: The goal is measurable. 
+- Achievable: The goal is achieve (because it is feasible within the time limit and because it's something they control).
+- Relevant & Result-focused: It is a goal that will contribute to their getting a job.
+- Time-dependent: They specify when they willachieve this goal.
 
 Here's what a good SMART goal sounds like: "I will apply to 15 jobs next week."
 
