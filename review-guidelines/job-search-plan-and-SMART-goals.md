@@ -27,10 +27,10 @@ Students should include:
 
 1. Statement of long- and mid-term professional goals, and
 
-2. MART goals that show how they will:
+2. SMART goals that show how they will:
 
 - Apply to jobs.
-- Add coding projects to portfolio.
+- Hone technical skills and add coding projects to portfolio.
 - Practice interviewing.
 - Continue networking.
 
