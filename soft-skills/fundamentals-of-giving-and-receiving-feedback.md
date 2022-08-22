@@ -42,7 +42,8 @@ Watch at least two of the four videos above to learn more about giving and recei
 
 Guiding questions:
 
-Keep these in mind while watching the videos.
+*Keep these in mind while watching the videos.*
+
 - What is good feedback, according to the speaker?
 - Why do people mishandle feedback?
 - What can you do to use feedback to grow?
