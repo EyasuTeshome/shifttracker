@@ -30,18 +30,26 @@ Feedback is information about how another person is doing their work or communic
 
 ### Learn more about giving good feedback
 
-To learn more about constructive feedback and begin connecting with your own experiences, read the following article, then watch **at least two** of the four videos referenced in the article. If you aren't sure which to choose, watch the first minute or two of each and then choose (or watch all four if you have time!).
+Most of us have a complicated relationship with feedback. Accepting our mistakes and limitations can make anyone feel vulnerable. Thus, we must choose our words carefully when giving feedback and be aware of how we listen to and interpret what others tell us about our performance. 
+Joe Hirsch from Inc.com selected the following four Ted Talks with the most transformative ideas about receiving and giving feedback:
 
-- [Have a Complicated Relationship With Feedback? These 4 TED Talks Can Help](https://www.inc.com/joe-hirsch/4-ted-talks-from-women-that-will-change-your-relationship-with-feedback.html)
+- [How to Use Others' Feedback to Learn and Grow](https://www.youtube.com/watch?v=FQNbaKkYk_Q), by Sheila Heen
+- [How Difficult Conversations Create Growth](https://www.youtube.com/watch?v=vPOboio9g4I), by Jenine Stitcher
+- [Get Comfortable With Being Uncomfortable](https://www.ted.com/talks/luvvie_ajayi_jones_get_comfortable_with_being_uncomfortable?language=en), by Luvvie Ajayi
+- [How to Have a Good Conversation](https://youtu.be/H6n3iNh4XLI), by Celeste Headlee
 
-**Guiding questions:**
+Watch at least two of the four videos above to learn more about giving and receiving constructive feedback. If you aren't sure which to choose, watch the first minute or two of each and then select (or watch all four if you have time!).
 
-*Keep these in mind while watching the videos.*
+Guiding questions:
 
-- What is good feedback according to the speaker?
+Keep these in mind while watching the videos.
+- What is good feedback, according to the speaker?
+- Why do people mishandle feedback?
+- What can you do to use feedback to grow?
 - What do you agree with?
 - What do you disagree with?
 - What else would you like to know?
+
 
 ### Practice giving positive and constructive feedback
 
