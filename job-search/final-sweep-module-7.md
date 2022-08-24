@@ -8,7 +8,7 @@
 
 ## What is the final sweep?
 
-You're now job searching! So, it's time to make sure that everything you need to successfully apply to jobs is looking great. This exercise will help you take a quick look at all the application materials you've created through your time in Microverse, make sure they're looking great, and then submit them to your career coach for review. 
+You're now job searching and tomorrow your will start sending job applications daily! So, it's time to make sure that everything you need to successfully apply to jobs is looking great. This exercise will help you take a quick look at all the application materials you've created through your time in Microverse, make sure they're looking great, and then submit them to your career coach for review. 
 
 ### Why is the final sweep important?
 
@@ -38,6 +38,8 @@ After you finish reviewing your application materials, create a Google Doc with 
 Template to copy: [Final sweep submission](https://docs.google.com/document/d/1BbNMkB9b6hMgiF0x30y55vTAilsL58Tc1xLSboTR68o/edit#)
 
 Now go to your Student Dashboard and **submit your Google Doc with the links to all your application materials**. Once you are assigned a career coach, they will give you feedback on your job searching materials, so you can make updates. 
+
+You will submit the Final Sweep only once, because next week you will start polishing each one of them in depth during a whole week. It's important that you implement any changes suggested by your coach as soon as possible, since eliminating any error or non-working link can increase your chances of being invited to interviews.
 
 ------
 
