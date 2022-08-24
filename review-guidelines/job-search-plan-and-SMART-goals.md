@@ -36,17 +36,17 @@ Students should include:
 
 ### Project requirements
 
-Long-term and mid-term goals in section 1 invite job searchers to start thinking about their professional career. Depending on the job searcher's ability to reflect and instrospect, the depth and level of detail may vary and it's ok. The only important aspect is that they start thinking about their professional future. Make any comment or include questions that can help them deepen their introspection.
+Long-term and mid-term goals in section 1 invite job searchers to start thinking about their professional career. Depending on the job searcher's ability to reflect and instrospect, the depth and level of detail may vary and that's okay. The only important aspect is that they start thinking about their professional future. Make any comment or include questions that can help them deepen their introspection.
 
-Students should include at least one SMART goal for each of these areas: job applications, adding projects to their portfolio, practicing interviews, networking.
+Students should include at least one SMART goal for each of these areas: job applications, adding projects to their portfolio, practicing interviews, and networking.
 
 Check that the SMART goals satisfy the five attributes:
 
-- Specific: They statement clearly the goal they want to accomplish.
-- Measurable: The goal is measurable. 
-- Achievable: The goal is achieve (because it is feasible within the time limit and because it's something they control).
+- Specific: They clearly state the goal they want to accomplish.
+- Measurable: There are clear metrics to asses progress of the goal. 
+- Achievable: The goal is something within their control and feasible within the allotted time.
 - Relevant & Result-focused: It is a goal that will contribute to their getting a job.
-- Time-dependent: They specify when they willachieve this goal.
+- Time-dependent: They specify when they will achieve this goal.
 
 Here's what a good SMART goal sounds like: "I will apply to 15 jobs next week."
 
