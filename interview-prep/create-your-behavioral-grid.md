@@ -1,3 +1,9 @@
+IMPORTANT NOTE ABOUT THE ACTIVITY BELOW:
+
+We are currently experiencing a large number of behavioral grid submissions. This means that it may take longer than one week for your grid to be reviewed, but please go ahead and subit the activity as usual. The activity will be reviewed as soon as possible. This feedback will come in handy for activities in future blocks!
+
+------
+
 # Create your behavioral grid
 
 ## Learning objectives
