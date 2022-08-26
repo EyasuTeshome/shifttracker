@@ -10,7 +10,7 @@ In this exercise, you will review and update your job searching plan considering
 
 You are now starting a challenging endeavor: getting that amazing job as a software developer. As you you have seen and experienced, breaking down a complex goal into small attainable ones gives us direction and helps us stay organized. We can track our achievements over time and re-direct our efforts if necessary. So, since you will now be job searching intensively, it’s a good idea for you to take another look at the job search plan that you created during the core program and make any necessary adjustments. 
 
-As context for you plan, it's important to think of your long- and midterm professional goals, because your the job you are looking for is a step in that direction. These goals are aspirational. They describe what you wish to achieve in your career, your dreams. Right now, it doesn't matter if you have a vague idea. Start by writing it out and you will be able to refine it later as you get more information about the software developer job market and as you deepen your introspection.
+As context for you plan, it's important to think of your long- and midterm professional goals, because the job you are looking for is a step in that direction. These goals are aspirational. They describe what you wish to achieve in your career, your dreams. Right now, it doesn't matter if you have a vague idea. Start by writing it out and you will be able to refine it later as you get more information about the software developer job market and as you deepen your introspection.
 
 ### Refresher on setting job searching SMART goals
 
