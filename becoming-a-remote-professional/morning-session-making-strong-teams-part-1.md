@@ -37,7 +37,7 @@ Remember, setting working agreements with teammates you'll be interacting with e
 
 ### **Discussion questions:**
 
-All of you are working with teams in group projects this week. This is the first time you will be working this way. ****Spend the remaining time discussing the following questions as a group.
+All of you are working with teams in group projects this week. This is the first time you will be working this way. **Spend the remaining time discussing the following questions as a group.**
 
 - How will you apply proactive communication in your project group?
 - What will you do if a team member is not communicating proactively?
