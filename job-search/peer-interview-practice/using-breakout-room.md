@@ -12,7 +12,7 @@ During this morning session, you will get to practice using breakout rooms on Zo
 
 You will begin practicing how to answer technical interview questions during morning sessions. If there are 4 or more learners in a session, you will need to work in pairs in order to practice answering as many questions as possible. So, you will use Zoom's breakout rooms that are completely separated from the main meeting session.
 
-**Important: As of tomorrow, morning sessions will be one hour long so that you can complete the technical interview practice.** 
+💡 **Morning sessions will be one hour long to enable you to complete the technical interview practice.** 
 
 ### What are breakout rooms?
 
