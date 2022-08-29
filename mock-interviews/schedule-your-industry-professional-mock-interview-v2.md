@@ -18,7 +18,7 @@ Attending this interview is a module requirement, so you must complete it by the
 
 ### How do you schedule your industry professional mock interview?
 
-In the Calendly link below, you will find the time slots available for your interview. Select one that suits your schedule. Bear in mind that you must attend the interview before the module ends.
+In the Calendly link that appears in the instructions below, you will find the time slots available for your interview. Select one that suits your schedule. Bear in mind that you must attend the interview before the module ends.
 
 ### Rescheduling and cancellation policy
 
