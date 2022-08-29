@@ -10,11 +10,13 @@ During this morning session, you will get to practice using breakout rooms on Zo
 
 ### Why is using breakout rooms for interview practice important?
 
-You will begin an interview practice phase during morning sessions. If there are 4 or more learners in a session, you will need to work in pairs in order to practice answering as many questions as possible. To work in pairs, you will use Zoom's breakout rooms that are completely separated from the main meeting session.  
+You will begin practicing how to answer technical interview questions during morning sessions. If there are 4 or more learners in a session, you will need to work in pairs in order to practice answering as many questions as possible. So, you will use Zoom's breakout rooms that are completely separated from the main meeting session.
+
+**Important: As of tomorrow, morning sessions will be one hour long so that you can complete the technical interview practice.** 
 
 ### What are breakout rooms?
 
-Breakout rooms are like mini Zoom meetings within your main Zoom meeting where participants have full video, audio, and screen share capabilities, but only interact with some participants. They are a great tool to use when attendees need to participate in small-group activities and discussions.
+Breakout rooms are like mini Zoom meetings within your main Zoom meeting in which a subset of participants interact with full video, audio, and screen share capabilities. They are a great tool to use when attendees need to participate in small-group activities and discussions.
 
 ### How to setup breakout rooms for interview practice
 
