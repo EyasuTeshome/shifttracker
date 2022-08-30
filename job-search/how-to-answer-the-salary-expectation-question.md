@@ -27,7 +27,7 @@ Example: *“Before I answer, I’d like to ask a few more questions to get a b
 
 Before you give any response, it’s important to do your research to be realistic about your expectations and confidently share a salary range whenever possible. Also, it’s becoming more common to see a salary range listed on some job announcements. If they share that information, be sure that the range you offer aligns with the range listed.
 
-Stack Overflow has a great salary calculator that offers salary info for the United States, Canada, the United Kingdom, France, Germany, Australia, Italy, Brazil, India, Netherlands, Poland, Russia, Spain, and Sweden. You can also try some more general tools such as Glassdoor and Salary.com, but be sure to use location filters to get a more accurate range. Companies might offer different salary ranges based on location, such as London vs Remote or New York City vs Berlin.
+You can try some more general tools such as Glassdoor and Salary.com, but be sure to use location filters to get a more accurate range. Companies might offer different salary ranges based on location, such as London vs Remote or New York City vs Berlin.
 
 If you seek a remote job and the company is in another country, research the salary for that country instead of your local salary. Also, some remote companies will pay remote salaries with a cost of living modifier attached, so it might be more difficult to assess what that company’s budget might be.
 
