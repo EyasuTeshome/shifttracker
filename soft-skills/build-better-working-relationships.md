@@ -44,9 +44,8 @@ Learn more about this topic:
 
 Learn directly from students about the value of getting to know each other at Microverse, the value of making friends at work, and the value of making good work agreements:
 
-- [Micronaut one](https://www.loom.com/share/8192553b45734a6797866cadbd8167ac)
-- [Micronaut two](https://www.loom.com/share/7fd74bfc47734a8286763bc629985e81)
-- [Micronaut three](https://www.loom.com/share/4f63055b14b7490c86075acdbee81e31)
+- [Micronaut one](https://www.loom.com/share/7fd74bfc47734a8286763bc629985e81)
+- [Micronaut two](https://www.loom.com/share/4f63055b14b7490c86075acdbee81e31)
 
 ### Getting to know each other as a group
 
