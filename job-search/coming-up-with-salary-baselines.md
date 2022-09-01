@@ -16,7 +16,7 @@ Good salary research starts by looking up your desired job title by name, geogra
 
 The job title may contain a job level (usually indicated as Senior or Junior). This may also be written in the position level of the role as advertised. Once you know what job level the position is at, you would want to find out the job location and run a search query on Payscale or Salary.com. This search should return the average salary for a web developer (either junior, mid-level or senior) with the desired years of experience. Depending on the location, you can also run a further search using the same platform. 
 
-Stack Overflow has a great salary calculator that offers salary info for the United States, Canada, the United Kingdom, France, Germany, Australia, Italy, Brazil, India, Netherlands, Poland, Russia, Spain, and Sweden. You can also try some more general tools such as Glassdoor and Salary.com, but be sure to use location filters to get a more accurate range. Companies might offer different salary ranges based on location, such as London vs Remote or New York City vs Berlin.
+You can also try some general tools to calculate salaries, such as Glassdoor and Salary.com, but be sure to use location filters to get a more accurate range. Companies might offer different salary ranges based on location, such as London vs Remote or New York City vs Berlin.
 
 If you seek a remote job and the company is in another country, research the salary for that country instead of your local salary. Also, some remote companies will pay remote salaries with a cost of living modifier attached, so it might be more difficult to assess what that company’s budget might be.
 
@@ -24,7 +24,7 @@ Clockify's Hourly Rate Calculator is meant for freelancers, but it can also hel
 
 Doing research on the company size and funding is equally important. Well-funded startups that have raised investment capital tend to have higher salary ranges. Large public companies have highly competitive salaries and transparent compensation breakdowns online for different job levels and titles. 
 
-Once you have done some research, you can also consider your financial needs to create a salary range that you can share.
+Once you have done some research, you can also consider your financial needs to create a salary range that you can share. Remember that you will have to pay taxes, when you estimate the net amount you will receive. Tax regulations are established by each country, and you can use google to look for information on those that will apply to you (remember to consider both the norms for the location of the company as well as your own place of residence, and check for tax treaties between countries that avoid doble taxation). 
 
 **How to create a confident response**
 
