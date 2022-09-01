@@ -24,7 +24,7 @@ Clockify's Hourly Rate Calculator is meant for freelancers, but it can also hel
 
 Doing research on the company size and funding is equally important. Well-funded startups that have raised investment capital tend to have higher salary ranges. Large public companies have highly competitive salaries and transparent compensation breakdowns online for different job levels and titles. 
 
-Once you have done some research, you can also consider your financial needs to create a salary range that you can share. Remember that you will have to pay taxes to estimate the net amount you will receive. Tax regulations are established by each country, and you can look for information online those that will apply to you (remember to consider both the norms for your own place of residence as well as those for the location of the company, and check for tax treaties between countries that avoid doble taxation). 
+Once you have done some research, you can also consider your financial needs to create a salary range that you can share. Remember that you will have to pay taxes, so estimate the net amount you will receive. Each country establishes tax regulations, and you can look for information on those that will apply to you online (remember to consider both the norms for your place of residence as well as those for the location of the company, and check for tax treaties between countries that avoid double taxation). 
 
 **How to create a confident response**
 
