@@ -8,7 +8,7 @@
 
 To prepare for this module's morning session, today you will practice using breakout rooms on Zoom. 
 
-[![Watch the video](https://img.youtube.com/vi/-fUV3gr2g744/0.jpg)](https://youtu.be/-fUV3gr2g744)
+[![Watch the video](https://img.youtube.com/vi/fUV3gr2g744/0.jpg)](https://youtu.be/fUV3gr2g744)
 
 ### Why is using breakout rooms for interview practice important?
 
