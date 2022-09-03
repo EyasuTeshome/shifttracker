@@ -4,9 +4,11 @@
 
 ## Introduction
 
-*Read through the following section on your own while staying on the Zoom call with your group.* 
+*Watch the video and read through the following section on your own while staying on the Zoom call with your group.* 
 
-During this morning session, you will get to practice using breakout rooms on Zoom. 
+To prepare for this module's morning session, today you will practice using breakout rooms on Zoom. 
+
+[![Watch the video](https://img.youtube.com/vi/-fUV3gr2g744/0.jpg)](https://youtu.be/-fUV3gr2g744)
 
 ### Why is using breakout rooms for interview practice important?
 
