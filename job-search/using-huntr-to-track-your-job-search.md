@@ -38,6 +38,12 @@ Huntr is the tool you will use to track your job applications, interviews, and j
 
 - [The benefits of using Huntr to track your progress](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/the-benefits-of-using-huntr-to-track-your-progress.md)
 
+### Important note about Huntr accounts 
+
+When you create your Huntr board, it´s important you use the link we provide in the curriculum so you can add an unlimited number of jobs to your board. Free Huntr accounts only allow you to add 25. We will provide detailed instructions in an exercise ahead.
+
+ If you want to sign in to Huntr right now, make sure to use [this link](https://huntr.co/microverse/signup).
+
 ## Challenge yourself
 
 *Use these questions to check what you learned during this lesson.* 
