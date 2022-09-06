@@ -62,7 +62,7 @@ The link below shows an example of a good behavioral grid. Make sure you read th
 4. Using the project or position chosen above, complete the behavioral questions asked in each row of the grid, making sure that each answer you give follows the SAR method. 
 5. Copy and paste the text of each column of your grid into Grammarly to double-check for spelling errors and grammatical issues. Make any changes that Grammarly suggests.
 6. Verify that all technologies and proper nouns are correctly capitalized (for example, use "JavaScript" instead of "Javascript", or "Ruby on Rails" instead of "ruby on rails").
-7. Self-assess your behavioral grid by checking that it meets every requirement of this [rubric]https://docs.google.com/document/d/1EARx6VfxiAbqqUrX9FGOFUmw4Rvy1YTQSBMyYJNrHzY/edit?usp=sharing)
+7. Self-assess your behavioral grid by checking that it meets every requirement of this [rubric](https://docs.google.com/document/d/1EARx6VfxiAbqqUrX9FGOFUmw4Rvy1YTQSBMyYJNrHzY/edit?usp=sharing)
 8. In another activity, one of your peers will also assess your behavioral grid, so make sure to configure the sharing options of your GDoc so that **anyone with the link** can leave suggestions.
 
 **All rows in the grid must be completed before submission.**
