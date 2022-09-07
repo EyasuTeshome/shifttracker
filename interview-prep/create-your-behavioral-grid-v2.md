@@ -13,7 +13,7 @@ In this exercise, you will create a first version of your behavioral grid, using
 
 ### Why is creating your behavioral grid important?
 
-In any interview where the recruiter is trying to determine whether you will be a good cultural fit for their company, there is a 100% chance that you will be asked behavioral questions. This is because the recruiter is trying to assess your soft skills like communication skills, teamwork skills, leadership skills, etc. This is why it is really important to prepare and practice the most common behavioral questions and you will be doing this during this project.
+In any interview where the recruiter is trying to determine whether you will be a good cultural fit for their company, there is a 100% chance that you will be asked behavioral questions. In these questions, the recruiter is trying to assess your soft skills like communication skills, teamwork skills, leadership skills, etc. by looking into examples of how you have addressed situations in the past. The behavioral gris is a tool that helps you plan how you can use your previous projects or professional experiences to craft your answerw. Thus, you it helps you to be prepared and practice the most common behavioral questions.
 
 ### Method to use to complete your behavioral grid
 
