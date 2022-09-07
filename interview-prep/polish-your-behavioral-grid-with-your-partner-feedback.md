@@ -36,9 +36,9 @@ Video
 
 **Work through these steps in a zoom call with your partner**
 
-1. **Time estimated: 3 minutes:** To prepare yourselves for the exercise, each of you should: 
-- Open the [Assessing your partner’s behavioral grid template](https://docs.google.com/document/d/1SpKVcifE4X3Mv3WAxsylOZaPWJ4aurA4WW9FBhvKRZM/edit?usp=sharing) and create a copy. 
-- Share the link to your behavioral grid.
+1. **Time estimated: 3 minutes:** To prepare yourselves for the exercise, each of you should:
+    - Open the [Assessing your partner’s behavioral grid template](https://docs.google.com/document/d/1SpKVcifE4X3Mv3WAxsylOZaPWJ4aurA4WW9FBhvKRZM/edit?usp=sharing) and create a copy. 
+    - Share the link to your behavioral grid.
 
 2. **Time estimated: 20 minutes:** Take 5 minutes to assess the 4 answers that your partner registered in the behavioral grid (that is, a row), using this process for each one:
 Read through the answer carefully.
