@@ -19,8 +19,8 @@ We all have blind spots when we write. We think that our texts are easy to under
 When creating a behavioral grid, this review is especially relevant. Since we are very familiar with our projects and experiences, we often assume that our answers provide enough information to illustrate our professional skills compellingly. By receiving feedback from someone else, you can assess if you are communicating clearly and identify any details you have left out.
 
 ### Common mistakes in behavioral grids
-i
-Before assessing your partner´s behavioral grid, in this video, study some common mistakes that our career coaches have identified in behavioral grids. 
+
+Watch this video to learn about the attributes of a strong behavioral grid and some common mistakes that our career coaches have identified in the grid. 
 
 Video
 
