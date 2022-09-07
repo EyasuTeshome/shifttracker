@@ -71,7 +71,7 @@ The link below shows an example of a good behavioral grid. Make sure you read th
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your project.* 
 
-Now go to your Student Dashboard and submit your project.
+Now go to your Student Dashboard and submit the link to your behavioral grid.
 
 ## Additional materials
 
