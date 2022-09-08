@@ -12,7 +12,9 @@ In this exercise, you and your peers will assess each other’s behvioral questi
 
 **Spend 5 minutes maximum on this section of the exercise.**
 
-### Review ideas for assessing behavioral questions videos
+### How to assess behavioral questions videos
+
+Refresh your memory about some important aspects to consider when assessing behavioral questions videos.
 
 [![Watch the video](https://img.youtube.com/vi/86seshR9vUY/0.jpg)](https://www.youtube.com/watch?v=86seshR9vUY)
 
