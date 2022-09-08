@@ -18,9 +18,11 @@ The reason we ask you to record yourself doing these videos is so that you can p
 
 ### Guidelines to create a good behavioral video
 
-Since you will be answering two behavioral questions and recording yourself in a video as you answer them, first familiarize yourself with guidelines that help you create a good behavioral video:
+Since you will be answering two behavioral questions and recording yourself in a video as you answer them, first familiarize yourself with guidelines that help you create a good behavioral video.
 
-- [Guidelines for creating a good behavioral video](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/guidelines-for-creating-a-good-behavioral-video.md)
+[![Watch the video](https://img.youtube.com/vi/86seshR9vUY/0.jpg)](https://www.youtube.com/watch?v=86seshR9vUY)
+
+Here is a summary of [guidelines for creating a good behavioral video](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/guidelines-for-creating-a-good-behavioral-video.md)
 
 ## Exercise
 
