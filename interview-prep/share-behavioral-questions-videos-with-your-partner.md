@@ -12,6 +12,10 @@ In this exercise, you and your peers will assess each other’s behvioral questi
 
 **Spend 5 minutes maximum on this section of the exercise.**
 
+### Review ideas for assessing behavioral questions videos
+
+[![Watch the video](https://img.youtube.com/vi/86seshR9vUY/0.jpg)](https://www.youtube.com/watch?v=86seshR9vUY)
+
 ### Why is receiving feedback from your partner about your video important?
 
 Your behavioral videos are designed to help you showcase your best skills, both technical and interpersonal, so that you can be prepared for any behavioral interview with recruiters. 
