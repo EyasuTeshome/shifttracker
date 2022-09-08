@@ -20,9 +20,11 @@ The reason we ask you to record yourself doing these videos is so that you can p
 
 Since you will be answering two behavioral questions and recording yourself in a video as you answer them, first familiarize yourself with guidelines that help you create a good behavioral video.
 
-[![Watch the video](https://img.youtube.com/vi/86seshR9vUY/0.jpg)](https://www.youtube.com/watch?v=86seshR9vUY)
+- [Guidelines for creating a good behavioral video](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/guidelines-for-creating-a-good-behavioral-video.md)
 
-Here is a summary of [guidelines for creating a good behavioral video](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/guidelines-for-creating-a-good-behavioral-video.md)
+In the following video, Lizzie Tran from Career Services shares some advice for this exercise.
+
+[![Watch the video](https://img.youtube.com/vi/86seshR9vUY/0.jpg)](https://www.youtube.com/watch?v=86seshR9vUY)
 
 ## Exercise
 
@@ -32,7 +34,7 @@ Here is a summary of [guidelines for creating a good behavioral video](https://g
 
 **Spend 30 minutes working on this exercise**
 
-1. Choose two behavioral video questions that you would like to answer. You have a choice: you can either choose questions from your behavioral grid or the following link: [30 behavioral interview questions you should be ready to answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer).
+1. Choose two behavioral video questions that you would like to answer from your behavioral grid.
 
 2. Prepare your setting to record videos, considering the guidelines above for creating a good behavioral video.
 
