@@ -1,4 +1,4 @@
-# Polish your behavioral grid with your partner’s feedback
+# Share your behavioral grid with your partner to receive feedback
 
 ## Learning objectives
 
