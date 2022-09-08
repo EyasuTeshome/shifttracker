@@ -18,14 +18,17 @@ We all have blind spots when we write. We think that our texts are easy to under
 
 When creating a behavioral grid, this review is especially relevant. Since we are very familiar with our projects and experiences, we often assume that our answers provide enough information to illustrate our professional skills compellingly. By receiving feedback from someone else, you can assess if you are communicating clearly and identify any details you have left out. Also, by reviewing another person's work, you will deepen you learning about behavioral grids.
 
-### Common mistakes in behavioral grids
+### Attributes of good behavioral grids and common mistakes
 
-Watch this video to learn about the attributes of a strong behavioral grid and some common mistakes that our career coaches have identified in the grid. 
+Watch again this video to remind yourself of the attributes of a good behavioral grid and the common mistakes that our team from Career services has identified in grids. 
 
-Video
+[![Watch the video](https://img.youtube.com/vi/-_fRNNw9b5Y/0.jpg)](https://www.youtube.com/watch?v=-_fRNNw9b5Y)
 
 **Guiding questions:**
 
+- What kinds of stories should you include in your behavioral grid?
+- What are the traits of a good and impactful story?
+- What should you avoid when writing a behavioral grid? 
 
 
 ## Exercise
