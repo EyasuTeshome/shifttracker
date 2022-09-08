@@ -20,7 +20,11 @@ During this morning session, you will practice with one of your peers using one 
 
 ### Preparation - 10 min
 
-1. As a big group, discuss the following questions (5 mins):
+1. Individually, watch the following video:
+
+[![Watch the video](https://img.youtube.com/vi/dnQ-M2De_-M/0.jpg)](https://www.youtube.com/watch?v=dnQ-M2De_-M)
+
+3. As a big group, discuss the following questions (5 mins):
      - How can you use the behavioral grid to help answer interview questions?
      If necessary, look at the sections “Interview preparation grid” p. 32 (only the intro) of [Chapter 5. Cracking the Coding Interview](https://drive.google.com/file/d/1hQZzkNB4NeJ2vejNeqjUsy9ISnDsf98U/view). 
 
