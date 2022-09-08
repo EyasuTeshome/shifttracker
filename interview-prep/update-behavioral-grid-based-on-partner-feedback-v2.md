@@ -1,4 +1,4 @@
-# Update behavioral grid based on feedback
+# Update behavioral grid based on your partner's feedback
 
 ## Learning objectives
 
