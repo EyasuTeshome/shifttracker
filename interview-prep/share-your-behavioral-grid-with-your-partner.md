@@ -1,14 +1,14 @@
-# Share your behavioral grid with your partner to receive feedback
+# Share your behavioral grid with your peer to receive feedback
 
 ## Learning objectives
 
 - Answer common behavioral questions in the SAR format.
 
-### **Estimated time**: 1.25h
+### **Estimated time**: 1.5h
 
 ## Description
 
-In this exercise, you and your partner will share the behavioral grids you prepared previously and provide feedback to each other.  
+In this exercise, you a will share the behavioral grid you prepared previously with a peer, and receive and provide feedback.  
 
 **Spend 15 minutes maximum on this section of the exercise.**
 
@@ -16,7 +16,7 @@ In this exercise, you and your partner will share the behavioral grids you prepa
 
 We all have blind spots when we write. We think that our texts are easy to understand and communicate our ideas. Yet that is not always true, so having someone read what we`ve written and give us feedback is necessary.  
 
-When creating a behavioral grid, this review is especially relevant. Since we are very familiar with our projects and experiences, we often assume that our answers provide enough information to illustrate our professional skills compellingly. By receiving feedback from someone else, you can assess if you are communicating clearly and identify any details you have left out.
+When creating a behavioral grid, this review is especially relevant. Since we are very familiar with our projects and experiences, we often assume that our answers provide enough information to illustrate our professional skills compellingly. By receiving feedback from someone else, you can assess if you are communicating clearly and identify any details you have left out. Also, by reviewing another person's work, you will deepen you learning about behavioral grids.
 
 ### Common mistakes in behavioral grids
 
@@ -34,25 +34,25 @@ Video
 
 ### Instructions
 
-**Work through these steps in a zoom call with your partner**
+**Work through these steps in a zoom call with your peer(s)**
 
-1. **Time estimated: 3 minutes:** To prepare yourselves for the exercise, each of you should:
-    - Open the [Assessing your partner’s behavioral grid template](https://docs.google.com/document/d/1SpKVcifE4X3Mv3WAxsylOZaPWJ4aurA4WW9FBhvKRZM/edit?usp=sharing) and create a copy. 
-    - Share the link to your behavioral grid.
+1. **Time estimated: 5 minutes:** To prepare yourselves for the exercise, each of you should:
+    - Open the [Peer-to-peer assessment of the behavioral grid template](https://docs.google.com/document/d/1SpKVcifE4X3Mv3WAxsylOZaPWJ4aurA4WW9FBhvKRZM/edit?usp=sharing) and create a copy. 
+    - Share the link to your behavioral grid with each other. If there are more than 2 in your group, person A should share the grid with person B; person B with C; and C with A. Thus, everyone with give and receive feedback.
 
-2. **Time estimated: 20 minutes:** Take 5 minutes to assess the 4 answers that your partner registered in the behavioral grid (that is, a row), using this process for each one:
+2. **Time estimated: 25 minutes:** Take 5 minutes to assess the 4 answers that your peer registered in the behavioral grid (that is, a row), using this process for each one:
 Read through the answer carefully.
-Using section 1 of the template, assess if your partner’s answer follows the SAR format. Register your assessment of each attribute in the second column by writing: Yes / partially / No.
+Using section 1 of the template, assess if your peer’s answer follows the SAR format. Register your assessment of each attribute in the second column by writing: Yes / partially / No.
 If you identify any improvements or make comments related to the attribute write them in the third column. 
 Continue with the next answer.
 
-3. **Time estimated: 15 minutes:** Now, continue with section 2 and assess if your partner´s behavioral grid satisfies the rubric's requirements. 
+3. **Time estimated: 15 minutes:** Now, continue with section 2 and assess if your peer´s behavioral grid satisfies the rubric's requirements. 
 
 4. **Time estimated: 10 minutes:** Share your assessment of each other’s behavioral grid. Individually, read your partner's ratings and comments. Identify any questions that you have about them.
 
-5. **Time estimated: 12 minutes:** Ask each other any questions that you have about the feedback you received and discuss what you learned during this exercise.
+5. **Time estimated: 15 minutes:** Ask each other any questions that you have about the feedback you received and discuss what you learned during this exercise.
 
-**Exercise template to copy:** [Assessing your partner’s behavioral grid template](https://docs.google.com/document/d/1SpKVcifE4X3Mv3WAxsylOZaPWJ4aurA4WW9FBhvKRZM/edit?usp=sharing)
+**Exercise template to copy:** [Peer-to-peer assessment of the behavioral grid template](https://docs.google.com/document/d/1SpKVcifE4X3Mv3WAxsylOZaPWJ4aurA4WW9FBhvKRZM/edit?usp=sharing)
 
 ### Submit your exercise
 
