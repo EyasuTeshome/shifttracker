@@ -8,11 +8,11 @@
 
 ## Description
 
-In this exercise, you will polish your behavioral grid with feedback from your coding partner. 
+In this exercise, you and your partner will share the behavioral grids you prepared previously and provide feedback to each other.  
 
 **Spend 15 minutes maximum on this section of the exercise.**
 
-### Why is polishing your behavioral grid important?
+### Why is receiving feedback from your partner about your behavioral grid important?
 
 We all have blind spots when we write. We think that our texts are easy to understand and communicate our ideas. Yet that is not always true, so having someone read what we`ve written and give us feedback is necessary.  
 
