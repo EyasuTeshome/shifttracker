@@ -25,11 +25,6 @@ Since It might be challenging to create a perfect grid on your first try, we'll 
 
 We've repeatedly discussed the importance and value of good feedback, and you should now recognize how necessary feedback is to improve your work. Just as your code gets better with input from peers and reviewers, your job searching materials, like your behavioral grid, will also benefit from reviews by others. Therefore, you will now use your partner’s feedback to identify areas of improvement in your behavioral grid.
 
-Please review the helpful tips below to ensure that you gain the most value from the feedback you receive and that you can implement the feedback efficiently and correctly.
-
-**Learn more about how to use feedback to improve projects:**
-
-- [How to use coach feedback to improve your behavioral grid](https://microverse.zendesk.com/hc/en-us/articles/1500012363702)
 
 ## Exercise
 
