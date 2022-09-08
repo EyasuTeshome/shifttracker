@@ -40,7 +40,7 @@ We've repeatedly discussed the importance and value of good feedback, and you sh
     - Open the [Peer-to-peer assessment of behavioral questions video template](https://docs.google.com/document/d/1BI23zyiPgjEj4AH0eI6VGtqnwGyvXvoo6NC2QrRYt1g/edit?usp=sharing) and create a copy. 
     - Read the rubric very carefully, identifying the criteria it includes and the different levels of performance.
 
-2. **Time estimated: 15 minutes:** Watch your peer’s video, considering the criteria includedin the video. Then, assess if it meets each of the requirements in the rubric and register your rating in the right-hand column. If you have suggestions for improvement, add them.
+2. **Time estimated: 15 minutes:** Watch your peer’s video, keeping in mind the rubric requirements. Then, assess if it meets each of them and register your rating in the template (right-hand column: Assessment). If you have suggestions for improvement, add them now.
 
 3. **Time estimated: 10 minutes:** Share your assessment of each other’s behavioral questions video. Individually, read your peer's ratings and comments. Identify any questions that you have about them.
 
