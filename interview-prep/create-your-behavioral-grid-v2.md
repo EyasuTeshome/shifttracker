@@ -15,6 +15,8 @@ In this exercise, you will create a first version of your behavioral grid, using
 
 In any interview where the recruiter is trying to determine whether you will be a good cultural fit for their company, there is a 100% chance that you will be asked behavioral questions. In these questions, the recruiter is trying to assess your soft skills like communication skills, teamwork skills, leadership skills, etc. by looking into examples of how you have addressed situations in the past. The behavioral gris is a tool that helps you plan how you can use your previous projects or professional experiences to craft your answerw. Thus, you it helps you to be prepared and practice the most common behavioral questions.
 
+[![Watch the video](https://img.youtube.com/vi/cinxa59bPkM/0.jpg)](https://www.youtube.com/watch?v=cinxa59bPkM)
+
 ### What are the attributes of a good behavioral grid and some mistakes to avoid?
   
   
