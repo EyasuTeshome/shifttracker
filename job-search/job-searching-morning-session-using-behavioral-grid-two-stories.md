@@ -9,7 +9,7 @@
 
 ## Exercise
 
-The behavioral grid is a very useful tool to help you answer behavioral interview questions. During this morning session, you will practice with one of your peers **how to use different stories in your behavioral grid** to answer the same question.
+The behavioral grid is a very useful tool to help you answer behavioral interview questions. During this morning session, you will practice with one of your peers **how to use different projects or experiences in your behavioral grid** to answer the same question.
 
 ### Instructions
 
@@ -21,8 +21,11 @@ The behavioral grid is a very useful tool to help you answer behavioral intervie
 
 ### Preparation - 10 min
 
-1. Each one of you should open their behavioral grid.
-2. As a big group, ensure that all of you are familiar with the behavioral grid and the SAR framework. If necessary, refer to this lesson:
+1. Watch the following video to understand how you will use the behavioral video.
+
+[![Watch the video](https://img.youtube.com/vi/1fzx8UAamhY/0.jpg)](https://www.youtube.com/watch?v=1fzx8UAamhY)
+
+2. As a big group, ensure that all of you understand what you will doing, and that are familiar with the behavioral grid and the SAR framework. If necessary, refer to this lesson:
 - [Create your behavioral grid](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-your-behavioral-grid.md)
 
 ### Interviewers setup - 5 min
@@ -43,11 +46,10 @@ The behavioral grid is a very useful tool to help you answer behavioral intervie
 
 1. Begin by telling each other the question that you will ask and discuss the attribute that it explores.
 
-2. Individually, spend 10 minutes familiarizing yourself with all the stories in your behavioral grid and prepare two answers for the question you will answer using two different projects or experiences using [this worksheet](https://docs.google.com/document/d/1skX7M4uT-lHmMFLxrvivlhzTv4hANfW8zZQzAoqdAG8/edit?usp=sharing). Follow these steps: 
+2. Individually, spend 10 minutes preparing two different answers for that same question using your behavioral grid as a reference. Follow these steps: 
      - Open your behavioral grid and read quickly the different projects you have registered and the stories you have written using them.
      - Select 2 projects or experiences that you can use to answer the question you will be asked. 
-     - Write an answer to the question with those 2 projects, considering the three elements of the SAR structure for each and identify keywords that will help you remember the main ideas.
-     - Add two rows to the table to register both answers. 
+     - Write an answer to the question with those 2 projects, considering the three elements of the SAR structure for each and identify keywords that will help you remember the main ideas. You can use [this worksheet](https://docs.google.com/document/d/1skX7M4uT-lHmMFLxrvivlhzTv4hANfW8zZQzAoqdAG8/edit) to write your answers.
 
 3. Take turns doing the interviews. In each one, follow these steps:
     - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/1-qHNXwhKKc5TeXAtYYZwkHwr5xGkSk2pyzxlbtsp5_I/edit?usp=sharing). **You should fill it in during the interview if possible.**
@@ -57,7 +59,8 @@ The behavioral grid is a very useful tool to help you answer behavioral intervie
     - The interviewer indicates when the time is up.
     - The interviewer asks the question a second time. Remember that it will be the same one on both occasions.
     - The applicant answers using another project/experience from the behavioral grid.
-    - The interviewer offers feedback to the applicant, stressing if the answer provided evidence of the attribute to be explored and explaining why it did or did not (if possible, give concrete examples). (1 min)
+    - The interviewer offers feedback to the applicant, describing how the two answers were different and which one provided stronger evidence of the attribute to be explored, and explaining why it did or did not (if possible, give concrete examples). (1 min)
+    - The applicant reflects how comfortable they felt with each answer.
     
     **The applicant answers the same question twice, with two distinct answers that use a different project or experience as context.**
    
