@@ -4,7 +4,7 @@ During technical job interviews, you will experience quite a few stressful momen
 
 They are divided into three groups - each group is connected with a different part of a technical job interview.
 
-Remember that the issues listed below might happen to everybody - especially during such a stressful situation as a job interview. If that happens to you, it does not mean that you are will be rejected. What is more - you can even take an advantage of them!
+Remember that the issues listed below might happen to everybody - especially during such a stressful situation as a job interview. If that happens to you, it does not mean that you will be rejected. What is more - you can even take an advantage of them!
 
 ## Job interview: live coding session - common issues
 
