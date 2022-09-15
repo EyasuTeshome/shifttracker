@@ -47,7 +47,7 @@ To reschedule or cancel, click the corresponding link that appears in the confir
 1. Please use [this link](https://calendly.com/ip-mock-interview/mock-interviews) to schedule your IP mock interview via Calendly
 2. You don't need to submit any document in this activity; simply mark it as complete once you have scheduled your interview.
  
-**You will share with us the date and time for your interview in the next activity.**
+**Remember to share with us the date and time for your interview in the next activity.**
 
 
 
