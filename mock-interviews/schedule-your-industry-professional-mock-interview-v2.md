@@ -20,18 +20,18 @@ Attending this interview is a module requirement, so you must complete it by the
 
 ### How do you schedule your industry professional mock interview?
 
-1. **Figure out the possible dates for your interview.** Module 7 is four blocks long and you should attend the interview before the end of the module. So, if you are scheduling it in Day 1 of the module you will almost four weeks --until the Friday of week 4. For example: if you start module 7 on Monday, September 5th, you will be finishing week 4 on Friday the 30th. Thus, you should schedule your interview between September 6th and 30th. Of course, the earliest that you practice your interview skills, the better. You may have a real interview soon! 
+1. **Figure out the possible dates for your interview.** Module 7 is four blocks long and you should attend the interview before the end of the module. So, if you are scheduling it on Day 1 of the module you will have almost four weeks to attend --until the Friday of week 4. For example: if you start module 7 on Monday, September 5th, you will be finishing week 4 on Friday the 30th. Thus, you should schedule your interview between September 6th and 30th. Of course, the earlier you practice your interview skills, the better. You may have a real interview soon! 
 
 2. **Schedule your meeting.** You will use Calendly to select the date and time for your interview. Follow these steps:
 - Click on the Calendly link that appears in the instructions below to display the dates available. 
-- Select a day that suits your schedule, bassed the step above. 
+- Select a day that suits your schedule, based on the step above. 
 - Choose the time.
-- Fill in your name and email. Please use the same e-mail address you use for the Microverse Student Dashboard. 
+- Fill in your name and email address. Note: you must use the same email address you use for the Microverse Student Dashboard. 
 Calendly will send you a confirmation with the date and time for the interview, the interviewer's name and the Zoom link. 
 
 **NOTE** - If you are unable to complete any of the steps above, or you cannot find availability within the required timeframe, please reach out to Student Success right away, so we can help you figure this out and ensure you attend your industry professional mock interview.
 
-3. **Inform us the date of your meeting.** In the following activity, please register your interviewer's name and the date of your meeting.
+3. **Inform us about the date of your meeting.** In the following activity, please register your interviewer's name and the date of your meeting.
 
 ### Rescheduling and cancellation policy
 
