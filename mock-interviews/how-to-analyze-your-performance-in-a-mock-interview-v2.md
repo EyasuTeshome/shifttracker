@@ -1,4 +1,4 @@
-# How to analyze your performance in a mock interview
+# How to gather feedback about your performance in a mock interview
 
 ## Learning objectives
 
