@@ -37,14 +37,14 @@ The link below is a quick reminder of techniques for building a growth mindset:
 
 ## Exercise
 
-In this exercise, you will select 3 - 5 questions to ask your interviewer after your mock interview. 
+In this exercise, you will select 2 - 3 questions to ask your interviewer after your mock interview. 
 
 
 ### Instructions
 
 1. Open the [template for gathering feedback after your mock interview](https://docs.google.com/document/d/1Sn8qSJxr1RHhsyCQo33XfpLeXOt_HTKbHo57mBCFs3k/edit#heading=h.jhld1jrenkcg).
 2. Read all the questions carefully to familiarize yourself with the different aspects you can ask about.
-3. Select 2 - 5 that you’d like to ask your interviewer and highlight them. As input, think about your previous experiences in mock and real interviews: what are you most concerned about?
+3. Select 2 - 3 that you’d like to ask your interviewer and highlight them. As input, think about your previous experiences in mock and real interviews: what are you most concerned about?
 
 **Have this template handy during your mock interview to remind yourself of the questions you have selected or to find quickly alternative ones and to take notes about the feedback you receive.**
 
