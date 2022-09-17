@@ -29,11 +29,11 @@ It’s also essential to take notes as the interviewer gives you feedback so you
 
 Receiving constructive feedback after an interview may be challenging. You may feel you are not good enough at interviewing and, thus, suffer from imposter syndrome. So, now is an excellent time to remind yourself of the growth mindset, why it is relevant for personal development and how to practice it. A growth mindset is critical when interviewing because you will be doing a lot of interviews. The best way to be great at interviewing is by learning from the previous interviews to perform better in the future ones.
 
-The link below is a quick reminder of techniques for building a growth mindset:
-
- **A quick reminder on techniques for a growth mindset:**
+**Refer to the links below to remind yourself of guidelines for receiving feedback:** 
 
 - [Techniques to developing a growth mindset to see failure and challenges constructively](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/techniques-to-developing-a-growth-mindset-to-see-failure-and-challenges-constructively.md)
+- [How to learn from the feedback you receive](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/how-to-learn-from-the-feedback-you-receive.md)
+
 
 ## Exercise
 
