@@ -1,4 +1,4 @@
-# Portfolio update: outline your presentation
+# Project presentation: draft the outline
 
 ## Learning objectives
 
