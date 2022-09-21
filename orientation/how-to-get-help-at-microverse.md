@@ -30,7 +30,7 @@ Before going through the materials below, think about the following questions:
 
 - [What is Zendesk and how can I gain access?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/zendesk.md)
 
-Please read the following FAQ if you were unable to access Zendesk. If after looking at the FAQ, you are still unable to access Zendesk **please email success@microverse.org to get help. Make sure you explain what you did and what happened so that they can resolve the issue quick*ly.*
+Please read the above FAQ if you were unable to access Zendesk. If after looking at the FAQ, you are still unable to access Zendesk **please email success@microverse.org to get help. Make sure you explain what you did and what happened so that they can resolve the issue quickly.* For tips on how to submit a helpful technical issue report, check out this article: [How to Report a Technical Issue](https://microverse.zendesk.com/hc/en-us/articles/360040246613-How-to-Report-a-Technical-Issue)
 
 - [Troubleshooting on your first day](https://microverse.zendesk.com/hc/en-us/articles/360042901554-Troubleshooting-On-Your-First-Day)
 
@@ -58,8 +58,8 @@ Each communication site has a different purpose, and getting your questions answ
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Student support](https://www.notion.so/microverse/Student-support-c56b7501302e4f7b93c48b4ac85893a4)
-- [First day questions](https://www.notion.so/microverse/First-day-questions-d012141de4d342a8b0c373a2a41c6a9f)
+- [Your Support Structure](https://microverse.zendesk.com/hc/en-us/articles/360046678573-Your-Support-Structure)
+- [First Day Questions](https://microverse.zendesk.com/hc/en-us/sections/4411476912531-First-Day-Questions-)
 
 
 ------
