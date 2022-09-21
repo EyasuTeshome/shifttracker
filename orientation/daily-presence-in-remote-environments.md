@@ -38,7 +38,7 @@ You may wonder what you should talk about in the checkins. How will I know what 
 
 *These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
 
-- [Attendance policy at Microverse](https://www.notion.so/microverse/Attendance-policy-c574d1ab41b74692b8d1a4089ea041c3)
+- [Attendance Policy at Microverse](https://microverse.zendesk.com/hc/en-us/articles/9363977429395-Attendance-Policy)
 - [World time buddy](https://www.worldtimebuddy.com/)
 
 
