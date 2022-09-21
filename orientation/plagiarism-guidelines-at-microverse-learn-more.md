@@ -19,7 +19,7 @@ While we do encourage you to use various sources to find solutions to your probl
 
 For a detailed explanation of what is and what is not considered plagiarism, go back to the main lesson on plagiarism and look at the article with plagiarism examples.
 
-
+For more details regarding this topic, check out [Microverse's Plagiarism Policy](https://microverse.zendesk.com/hc/en-us/articles/8995993831699-Plagiarism-Policy).
 
 ------
 
