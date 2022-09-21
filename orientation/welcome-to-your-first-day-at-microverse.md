@@ -30,7 +30,8 @@ In the following link we will talk a little bit more about what you can expect d
 - [About your first week](first-week-at-microverse.md)
 
 ### Additional Links
-- [Here is the Microverse Student Handbook](https://www.notion.so/microverse/Microverse-Student-Handbook-ca8ac3bfccdd4e708b26d5d967fe4392) - You can refer to this as you go through the first week and learn how things work at Microverse.
+- [Here is the Microverse Student Handbook](https://microverse.zendesk.com/hc/en-us/categories/4411268097043-Student-Handbook-) - You can refer to this as you go through the first week and learn how things work at Microverse.
+- [You can find the Microverse Help Center here](https://microverse.zendesk.com/hc/en-us) - The place where you'll find the Handbook, as well as other guides and FAQs
 - [Here is the link to the recording of our Welcome call](https://drive.google.com/file/d/1o9TzNzj9CAVhdu0WkbIaicVi0kun1Fpx/view?usp=sharing) - Did you miss our Welcome Call on Day 1? Do you feel lost and like you don't know what you're doing on Day 1? Please watch the recording.
 
 
