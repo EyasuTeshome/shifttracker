@@ -22,7 +22,7 @@ Our goal for you is to learn and become better programmers and problem solvers. 
 
 Learn more about what is plagiarism and what you can and cannot copy in the program:
 
-- [Plagiarism guidelines at Microverse](plagiarism-guidelines-at-microverse-learn-more.md)
+- [Plagiarism guidelines at Microverse](https://microverse.zendesk.com/hc/en-us/articles/8995993831699-Plagiarism-Policy) 
 - [Understanding plagiarism at Microverse: examples](understanding-plagiarism-at-microverse-examples.md)
 
 ### What happens when plagiarism is detected?
@@ -31,7 +31,8 @@ We have an automated plagiarism detection system in place that compares every as
 
 Learn more about what happens when an assignment is flagged for plagiarism:
 
-- [What happens if plagiarism is detected?](what-happens-if-plagiarism-is-detected.md)
+- [What happens when plagiarism is detected?](https://microverse.zendesk.com/hc/en-us/articles/1500004617141-What-Happens-When-Plagiarism-is-Detected-)
+- [What are the Consequences of Plagiarizing a Project?](https://microverse.zendesk.com/hc/en-us/articles/8996001144083-What-are-the-Consequences-of-Plagiarizing-a-Project-)
 
 ## Additional materials
 
