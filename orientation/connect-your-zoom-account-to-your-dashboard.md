@@ -42,7 +42,9 @@ There could be a few reasons why you don't see the Join Call Button. Follow thes
 - **Is it the right time of day?** The Join Call Button appears only at certain times of the day. In the screenshot above you can see that the Join Call Button has appeared for the first collaborative learning session. Please check that you should be able to see the Join Call Button right now based on your program timezone and your local time. Remember that the times shown in the schedule are not your local time but the timezone of the program you signed up for,also , you will not be able to see the join button until 5 minutes before the start time.
 - **Still not working?** If you have waited 15 minutes and confirmed that you are in the program time for your time zone, please reach out to us using the Support button on your Dashboard explaining that you have followed the steps in this article but you cannot see the Join Call Button. Make sure to send us a screenshot of your schedule and a link to this article.
 
-
+For some additional resources and troubleshooting, check out these articles:
+- [How do I Link My Zoom Account to My Student Dashboard?](https://microverse.zendesk.com/hc/en-us/articles/360045950154-How-to-Link-Your-Zoom-Account-to-Your-Student-Dashboard)
+- [[FAQ] Troubleshooting the Student Dashboard on Your First Day](https://microverse.zendesk.com/hc/en-us/articles/9560319553683--FAQ-Troubleshooting-the-Student-Dashboard-on-Your-First-Day-)
 ------
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
