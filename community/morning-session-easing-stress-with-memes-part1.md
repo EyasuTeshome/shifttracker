@@ -46,7 +46,7 @@ Guiding questions:
 
 **Spend 15 minutes working on this exercise. Spend a few minutes going over these instructions as a team.**
 
-1. As this is your capstone week, we would like you to create a few capstone-themed memes. Share how you are feeling about the capstone and what are you going through. Memes you create can be silly but should also be respectful and follow the [Code of Conduct](https://www.notion.so/Code-of-Conduct-fb637972fe434dccb1004fd572007a59). Your ultimate goal is to make your peers laugh. 
+1. As this is your capstone week, we would like you to create a few capstone-themed memes. Share how you are feeling about the capstone and what are you going through. Memes you create can be silly but should also be respectful and follow the [Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-). Your ultimate goal is to make your peers laugh. 
 2. Each of you will individually create 3 memes. 
 3. Leave 5 minutes at the end of the session to each share **one** of your memes and laugh together with your team. 
 4. Save the other 2 memes for part 2 of this activity on Wednesday.
