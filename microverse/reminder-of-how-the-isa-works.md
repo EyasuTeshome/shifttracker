@@ -43,6 +43,10 @@ To complete this task, return to your Dashboard now to complete the ISA acknowle
 - [Income share agreement](https://en.wikipedia.org/wiki/Income_share_agreement)
 - [All About ISAs: Income Share Agreements and deferred tuition at coding bootcamps](https://www.coursereport.com/blog/all-about-isas-income-share-agreements-and-deferred-tuition-at-coding-bootcamps)
 
+### Additional Resources
+- [Finance & Payment section of the Microverse Help Center](https://microverse.zendesk.com/hc/en-us/categories/4411259836563-Finance-Payments-)
+- [Understanding the Terms of Your Income Share Agreement (ISA)](https://microverse.zendesk.com/hc/en-us/articles/9519112644499-Understanding-the-Terms-of-Your-Income-Share-Agreement-ISA-)
+- [Understanding the Process of Making ISA Payments](https://microverse.zendesk.com/hc/en-us/articles/360049434133-Understanding-the-Process-of-Making-ISA-Payments)
 
 ------
 
