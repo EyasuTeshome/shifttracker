@@ -50,7 +50,7 @@ Do this exercise individually, but stay on the Zoom call with your group. Submit
 
 ### Submit your exercise
 
-[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise. Exercise
+[Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234) Now go to your Student Dashboard and submit your exercise.
 
 ### Additional Resources
 
