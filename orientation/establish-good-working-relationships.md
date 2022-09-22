@@ -28,6 +28,7 @@ In an earlier lesson, you learned about setting working agreements with new part
 Spend 10 minutes reading the following article with your partner(s) and discussing the questions.
 
 - [Working agreements for successful pair programming](working-agreements-for-successful-pair-programming.md)
+- [Help Center Article on Working Agreements](https://microverse.zendesk.com/hc/en-us/articles/4413464838547--Lesson-Working-Agreements)
 
 ## Exercise
 
@@ -52,7 +53,7 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [The power of working agreements: How to drive your agile team](https://techbeacon.com/app-dev-testing/power-working-agreements-how-drive-your-agile-team)
-- [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/knowledge/articles/360050419034/en-us?brand_id=360002597114&return_to=%2Fhc%2Fen-us%2Farticles%2F360050419034)
+- [Teammate call check-in guide at Microverse](https://microverse.zendesk.com/hc/en-us/articles/360050419034)
 
 ------
 
