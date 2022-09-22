@@ -40,7 +40,7 @@ There are so many differences between people it can be hard to know where to beg
 
 ### Diversity & inclusion policy at Microverse: 
 
-At Microverse, we have a policy to set expectations about the norms here and what is expected of you in this diverse environment. This is called the [Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59) and we have an accompanying document outlining our commitment to [diversity, equity and inclusion](https://www.notion.so/microverse/Diversity-equity-inclusion-6ee649cedd344727908b80d83a529d9f). The most important things to keep in mind are:
+At Microverse, we have a policy to set expectations about the norms here and what is expected of you in this diverse environment. This is called the [Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-) and we have an accompanying document outlining our commitment to [diversity, equity and inclusion](https://microverse.zendesk.com/hc/en-us/articles/9322034925843-Our-Commitment-to-Diversity-Equity-Inclusion). The most important things to keep in mind are:
 
 - Be respectful
 - Be open-minded and always assume good intentions
