@@ -24,7 +24,7 @@ Review the following guidelines that will help you make sure that you set up you
      - In addition, your interviewer will be aware of the situation.
 2. **Describe your problem and ask for a specific hint**. You can use this situation to show that you are able to ask good questions.
      - ⛔️ Remember - do **NOT** ask a general question: "Could you give me a hint?" as this will pass the responsibility for your code to the interviewer.
-     - ✅ Instead - describe your problem: "I am not able to determine if a numer is odd or even. As you can see I tried X and Y and nothing worked. Could you give me a small tip regarding how to check it?" This will show that in the future you wil be able to quickly find help if you are stuck. 
+     - ✅ Instead - describe your problem: "I am not able to determine if a numer is odd or even. As you can see I tried X and Y and nothing worked. Could you give me a small tip regarding how to check it?" This will show that in the future you will be able to quickly find help if you are stuck. 
 4. If nothing helps - **simply ask to go to the next part and to come back to the current challenge at the end of the interview**.
     - For example: *I am sorry, I think that I am not able to solve it right now but I think I will be able to if I look at it with fresh eyes. Can we move to the next part and come back to this one in the end?*
 
