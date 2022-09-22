@@ -29,12 +29,13 @@ Take a look at the following resources to understand how you can identify sexual
 
 Here you will find a link that explains the different processes to report sexual harassment at Microverse, followed by specific information if you're unsure whether to report something.
 
-- [How to report harassment](https://github.com/microverseinc/curriculum-professional-skills/blob/main/how-to-report-harassment.md)
-- [I'm in doubt if I should report harassment. Can you I know more about the process?](https://microverse.zendesk.com/hc/en-us/articles/1500004464202-I-m-in-doubt-if-I-should-report-harassment-Can-I-know-more-about-the-process-)
+- [How to report harassment](https://microverse.zendesk.com/hc/en-us/articles/1500007989921-How-Do-I-Report-a-Violation-of-the-Code-of-Conduct-)
+- [What is Harassment and How Do I Report a Harassment Case?](https://microverse.zendesk.com/hc/en-us/articles/1500004464202-I-am-in-Doubt-if-I-Should-Report-Harassment-Can-I-Know-More-About-the-Process-)
+- [Recognizing Sexual Harassment in a Professional Environment](https://microverse.zendesk.com/hc/en-us/articles/1500003982322-How-Can-I-Recognize-Sexual-Harassment-in-a-Professional-Environment-)
 
 ### Code of Conduct
 
-- [Microverse Code of Conduct](https://www.notion.so/microverse/Code-of-Conduct-fb637972fe434dccb1004fd572007a59#e94e818ec5b84dc3ab664461e3a5f99e)  
+- [Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-)  
 
 
 
