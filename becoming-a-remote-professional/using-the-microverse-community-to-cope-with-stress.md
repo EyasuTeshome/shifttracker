@@ -24,7 +24,9 @@ Whether you are doing pair programming or working alone on projects, you always 
 
 If someone reaches out to you about stress, you should always listen to them. It's important to view everyone's experience as valid. It's really important to not tell the person that it's not so bad or that they are overreacting, as that might make them feel even worse. Try to listen and ask if they'd like to receive advice. Discuss different ways that you've dealt with stress that might help this person. Help them identify where to turn to for help.
 
-
+**Additional Resources:**
+- [Motivation & Soft Skills](https://microverse.zendesk.com/hc/en-us/sections/8924254098579-Motivation-Soft-Skills-)
+- [Your Support Structure](https://microverse.zendesk.com/hc/en-us/articles/360046678573-Your-Support-Structure)
 
 ------
 
