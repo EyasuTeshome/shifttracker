@@ -43,7 +43,7 @@ In order to understand a specific Code of Conduct, it is important to first unde
 
 1. Open the [*Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-).*
 2. Open the exercise template.
-3. Review the **first two sections of the *Microverse Code of Conduct* to help you complete the exercise on your own.
+3. Review the **Expected Behavior** and **Unacceptable Behavior** articles in the *Microverse Code of Conduct* to help you complete the exercise on your own.
 
 **Exercise template to copy:** [Becoming a global citizen at Microverse and beyond (part 1).](https://docs.google.com/document/d/11OkjQwlvzpfAHbX9MUWZGVnm_8rjS5YxxxHFu8ZXRqE/edit) 
 
