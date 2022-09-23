@@ -29,7 +29,7 @@ Please review the article below once more to ensure that you're familiar with th
 
 **Learn more about how to use feedback to improve projects:**
 
-- [How to use project reviewer feedback to improve your professional skills projects](https://microverse.zendesk.com/hc/en-us/articles/1500004961062)
+- [How to use project reviewer feedback to improve your professional skills projects](https://microverse.zendesk.com/hc/en-us/articles/9460282580883-How-Do-I-Use-Code-Reviewer-Feedback-To-Improve-My-Professional-Skills-Projects-)
 
 ## Project submission
 
