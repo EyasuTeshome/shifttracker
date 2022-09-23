@@ -41,7 +41,7 @@ In order to understand a specific Code of Conduct, it is important to first unde
 
 **Spend 15 minutes working on this exercise.**
 
-1. Open the [*Microverse Code of Conduct](https://www.notion.so/Code-of-Conduct-fb637972fe434dccb1004fd572007a59).*
+1. Open the [*Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-).*
 2. Open the exercise template.
 3. Review the **first two sections of the *Microverse Code of Conduct* to help you complete the exercise on your own.
 
