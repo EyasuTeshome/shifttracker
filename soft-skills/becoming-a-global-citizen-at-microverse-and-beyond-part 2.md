@@ -38,7 +38,7 @@ Watch this video as a group. Think about how a Code of Conduct can help you deal
 
 *Spend 15 minutes working on this exercise.*
 
-1. Open the *[Microverse Code of Conduct](https://www.notion.so/Code-of-Conduct-fb637972fe434dccb1004fd572007a59).*
+1. Open the *[Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-).*
 2. Briefly review the sections about *Unacceptable Behaviors* and *The Ethical Coder*.
 3. Open the exercise template and complete the first part of the exercise individually.
 4. Then, complete part 2 of the exercise with your team, and discuss your different responses.
