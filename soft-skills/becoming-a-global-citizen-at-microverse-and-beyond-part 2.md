@@ -51,7 +51,7 @@ Watch this video as a group. Think about how a Code of Conduct can help you deal
 
 - [15 ways to give negative feedback, positively (incl. examples)](https://positivepsychology.com/negative-feedback/).
 - [Culture awareness in the workplace](https://smallbusiness.chron.com/culture-awareness-workplace-737.html).
-- [Agreements for multicultural interactions at EBMC](https://eastbaymeditation.org/2017/05/agreements-for-multicultural-interactions/).
+- [Agreements for multicultural interactions at EBMC](https://eastbaymeditation.org/2022/03/agreements-for-multicultural-interactions/).
 - [Code of Conduct and ethics for employees](https://www.youtube.com/watch?v=-gRLHf6ZBM4).
 - [Techniques to positive criticizing](https://smallbusiness.chron.com/techniques-positive-criticizing-73087.html).
 
