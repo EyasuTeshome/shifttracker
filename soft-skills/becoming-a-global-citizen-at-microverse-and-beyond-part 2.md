@@ -13,7 +13,7 @@
 
 *Spend 10 minutes on this section individually*
 
-As mentioned in [Becoming a global citizen at Microverse and beyond  (part 1)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/becoming-a-global-citizen-at-microverse-and-beyond-part1.md), the code of conduct helps everyone at Microverse understand how they are expected to treat each other. Take a look back at the *[Microverse Code of Conduct](https://www.notion.so/Code-of-Conduct-fb637972fe434dccb1004fd572007a59)* and your own previous exercise to remember some of the expected and unacceptable behaviors mentioned. 
+As mentioned in [Becoming a global citizen at Microverse and beyond  (part 1)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/becoming-a-global-citizen-at-microverse-and-beyond-part1.md), the code of conduct helps everyone at Microverse understand how they are expected to treat each other. Take a look back at the *[Microverse Code of Conduct](https://microverse.zendesk.com/hc/en-us/sections/4411468844435-Code-of-Conduct-)* and your own previous exercise to remember some of the expected and unacceptable behaviors mentioned. 
 
 ### Why is it important to recognizing and addressing unacceptable behavior
 
