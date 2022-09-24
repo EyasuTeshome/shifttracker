@@ -10,17 +10,17 @@
 
 In this exercise, you will schedule an interview with a professional mock interviewer. 
 
-### Why is scheduling your industry mock interview important?
+### Why is scheduling your industry professional mock interview important?
 
-Your industry mock interview is an opportunity to have an interview with a professional software developer. This will give you the feeling of what an actual interview is like and prepare you for the real interviews you will have in the future. Also, your interviewer will give you feedback at the end of the session.
+Your industry professional mock interview is an opportunity to have an interview with a professional software developer. This will give you the feeling of what an actual interview is like and prepare you for the real interviews you will have in the future. Also, your interviewer will give you feedback at the end of the session.
 
-Later in the module, we will help you prepare for your interview, plan how to gather feedback about your performance in a mock interview, self-assess yourself in the different aspects and aspects covered in the interview, and define SMART goals to improve your interview skills.
+Later in the module, we will help you prepare for your interview, plan how to gather feedback about your performance in a mock interview, self-assess yourself in the different aspects covered in the interview, and define SMART goals to improve your interview skills.
 
-Attending this interview is a module requirement, so you must complete it by the end of Module 7 week 4, to avoid a block repetition. 
+Attending this interview is a module requirement, so you must complete it by the end of Module 7 week 4 to avoid a block repetition. 
 
 ### How do you schedule your industry professional mock interview?
 
-1. **Figure out the possible dates for your interview.** Module 7 is four blocks long and you should attend the interview before the end of the module. So, if you are scheduling it on Day 1 of the module you will have almost four weeks to attend --until the Friday of week 4. For example: if you start module 7 on Monday, September 5th, you will be finishing week 4 on Friday the 30th. Thus, you should schedule your interview between September 6th and 30th. Of course, the earlier you practice your interview skills, the better. You may have a real interview soon! 
+1. **Figure out the possible dates for your interview.** Module 7 is four blocks long and you should attend the interview before the end of the module. So if you are scheduling it on Day 1 of the module you will have almost four weeks to attend — until the Friday of week 4. For example: if you start module 7 on Monday, September 5th, you will be finishing week 4 on Friday the 30th. Thus, you should schedule your interview between September 6th and 30th. Of course, the earlier you practice your interview skills, the better. You may have a real interview soon! 
 
 2. **Schedule your meeting.** You will use Calendly to select the date and time for your interview. Follow these steps:
     - Click on the Calendly link that appears in the instructions below to display the dates available. 
@@ -36,10 +36,9 @@ Attending this interview is a module requirement, so you must complete it by the
 
 ### Rescheduling and cancellation policy
 
-Since this interview is a very important activity for your job search, we invite you to avoid rescheduling or canceling it. But we know life happens! So, in case of adverse life events (such as illness, power outage, or family emergency), you can reschedule or cancel your interview **at least 24 hours before the scheduled time**. For example, if the meeting is at 12 pm EAT, you should cancel on the previous day before 12 pm EAT.
+Since this interview is a very important activity for your job search, we invite you to avoid rescheduling or canceling it. But we know life happens! So, in case of adverse life events (such as illness, power outage, or family emergency), you can reschedule or cancel your interview **at least 24 hours before the scheduled time**. For example, if the meeting is at 12pm EAT, you should cancel on the previous day before 12pm EAT.
 
 To reschedule or cancel, click the corresponding link that appears in the confirmation email sent from Calendly. If you are rescheduling, simply select an alternative date and time. Remember that you must attend the interview by the time you finish module 7 to avoid a block repetition.
-
 
 ## Exercise
 
@@ -48,11 +47,7 @@ To reschedule or cancel, click the corresponding link that appears in the confir
 1. Please use [this link](https://calendly.com/ip-mock-interview/mock-interviews) to schedule your IP mock interview via Calendly
 2. You don't need to submit any document in this activity; simply mark it as complete once you have scheduled your interview.
  
-**Remember to share with us the date and time for your interview in the next activity.**
-
-
-
-
+**Remember to share the date and time for your interview with us in the next activity.**
 
 ------
 
