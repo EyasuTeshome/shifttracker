@@ -18,7 +18,7 @@ The key to becoming good in interviews is reflecting upon your performance after
 
  After your mock interview, we recommend that you gather feedback on your performance. The best time to do this is at the end of the interview by asking questions to your interviewer. To help you get this feedback, we have created a template below with a list of questions you can use. 
 
-To prepare to gather feedback about your interview skills, begin by familiarizing yourself with the different aspects you can ask. Although you don't know what will happen during the session, you can already choose some questions that seem helpful. Of course, once you complete the interview, you might identify that other questions are more relevant, and you can modify your selection.
+To prepare to gather feedback about your interview skills, begin by familiarizing yourself with the different aspects you can ask. Although you don't know what will happen during the session, you can already choose some questions that seem helpful. Of course, once you complete the interview, you might identify other questions are more relevant and you can modify your selection.
 
 - [Template for gathering feedback after your mock interview](https://docs.google.com/document/d/1Sn8qSJxr1RHhsyCQo33XfpLeXOt_HTKbHo57mBCFs3k/edit#heading=h.jhld1jrenkcg)
 
@@ -27,7 +27,7 @@ It’s also essential to take notes as the interviewer gives you feedback so you
 
 ### Using a growth mindset to analyze the feedback you receive
 
-Receiving constructive feedback after an interview may be challenging. You may feel you are not good enough at interviewing and, thus, suffer from imposter syndrome. So, now is an excellent time to remind yourself of the growth mindset, why it is relevant for personal development and how to practice it. A growth mindset is critical when interviewing because you will be doing a lot of interviews. The best way to be great at interviewing is by learning from the previous interviews to perform better in the future ones.
+Receiving constructive feedback after an interview may be challenging. You may feel you are not good enough at interviewing and, thus, suffer from impostor syndrome. So, now is an excellent time to remind yourself of the growth mindset, why it is relevant for personal development and how to practice it. A growth mindset is critical when interviewing because you will be doing a lot of interviews. The best way to be great at interviewing is by learning from the previous interviews to perform better in the future ones.
 
 **Refer to the links below to remind yourself of guidelines for receiving feedback:** 
 
