@@ -20,7 +20,7 @@ The professional photo you use for online profiles will typically be a recruiter
 
 ## Make sure your photo bears a resemblance to how you currently look.
 
-Your photo is a hiring manager's first impression of you. If your photo is clean-shaven but you show up to an interview with a full beard, your interviewer may be surprised. Likewise, if you have long, blue hair in your photo but you show up to an interview with a shaven head, the interviewer might wonder if you're even the same person. None of the above will get you rejected, but it can still causing confusion that doesn't need to exist.
+Your photo is a hiring manager's first impression of you. If your photo is clean-shaven but you show up to an interview with a full beard, your interviewer may be surprised. Likewise, if you have long, blue hair in your photo but you show up to an interview with a shaven head, the interviewer might wonder if you're even the same person. None of the above will get you rejected, but it can still cause confusion that doesn't need to exist.
 
 If your appearance in your photo is very different from your current appearance, retake the photo. That way, your interviewers won't be surprised when they see you face to face.
 
