@@ -14,6 +14,8 @@ In this exercise, you will update the professional profile you created on Linked
 
 LinkedIn is one of the most used platforms for hiring professionals, so crafting your profile carefully and keeping it updated and active can impact your chances of moving through the recruitment process. You can also find job postings here, meet and interact with other professionals, and build your personal brand by sharing your knowledge with others in periodic posts.
 
+- Watch [this video](https://www.loom.com/share/34dc0ab9016546e49df5e8d41b01f0ee) where Ana Yuzuva describes how recruiters use Linkedin when searching for talent and offers you 4 tips to optimize your profile.
+
 - Refresh your memory about the importance of a LinkedIn profile by reading the article [Resume Study: How LinkedIn affects the Interview Chances of Job Applicants](https://www.resumego.net/research/linkedin-interview-chances/).
 
 
