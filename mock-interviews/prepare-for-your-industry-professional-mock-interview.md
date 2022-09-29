@@ -8,7 +8,7 @@
 
 ## Description
 
-You will prepare for and attend your industry professional mock interview in this lesson.
+You will learn how to prepare for and attend your industry professional mock interview in this lesson.
 
 ### Why is attending your industry professional mock interview important?
 
