@@ -10,7 +10,7 @@
 
 You will attend your industry professional mock interview on the date and time that you scheduled. Once you participate in the interview, the industry professional mock interviewer will inform Microverse and this activity will be marked as complete.
 
-Remember that the interview is a module requirement, so you must complete by Friday of week 4 at latest.
+Remember that the interview is a module requirement, so you must complete it by Friday of week 4 at latest.
 
 ### Refresher on preparing for your industry professional mock interview?
 
