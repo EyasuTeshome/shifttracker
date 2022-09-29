@@ -14,7 +14,7 @@ In this exercise, you will schedule an interview with a professional mock interv
 
 Your industry professional mock interview is an opportunity to have an interview with a professional software developer. This will give you the feeling of what an actual interview is like and prepare you for the real interviews you will have in the future. Also, your interviewer will give you feedback at the end of the session.
 
-Later in the module, we will help you prepare for your interview, plan how to gather feedback about your performance in a mock interview, self-assess yourself in the different aspects covered in the interview, and define SMART goals to improve your interview skills.
+Later in the module, we will help you prepare for the interview, plan how to gather feedback about your performance in a mock interview, self-assess yourself in the different aspects covered in the interview, and define SMART goals to improve your interview skills.
 
 Attending this interview is a module requirement, so you must complete it by the end of Module 7 week 4 to avoid a block repetition. 
 
