@@ -13,24 +13,32 @@ Professional skills morning sessions happen all through Week 1 of the program, a
 - Cross-cultural collaboration.
 - And many more topics important to your professional development.
 
+In each session, one of you will play the role of master of the morning sessions to facilitate group interaction. In technical sessions, there will also be a presenter.
+
 ### Technical skills morning sessions
 
 Technical skills morning sessions happen on Tuesdays, Thursdays, and Fridays starting in Week 2 of the program. During technical skills morning sessions, you will do peer-to-peer code reviews or mob programming. During a peer-to-peer code review, one team member, the presenter, will present their latest pull request with commits while other team members review the code. Later in the program, you will do mob programming, where the presenter solves a coding challenge while explaining out loud to the team how they are going to solve it.
 
 Both of these tasks allow you to get valuable feedback about your code and allow you to present your thinking process and knowledge of algorithms and data structures in a live meeting- something you'll frequently have to do during job interviews and in a software development job.
 
-### How to select a presenter for the morning session
+### How to select a master and a presenter for the morning session
 
-The presenter changes each day and everyone must get a chance to present regularly. You will assign a presenter when everyone arrives in the call before starting the session. Each day a person should volunteer to be the presenter. Each member should be the presenter at least once a week. Make sure that you switch between leading technical and professional morning session so you become acquainted with both. If you are unable to decide who should be the presenter, you can use the sorting hat in Slack to randomly select a presenter. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
+The master of the morning sessions changes each day and each member should play this role at least once a week. You will assign a master of the morning session when everyone arrives on the call before starting the session. Each day a person should volunteer to play this role. Make sure that you switch between leading technical and professional morning sessions so you become acquainted with both. If no one volunteers, you can use the sorting hat in Slack to randomly select a presenter. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
 
-### What does the presenter do in morning sessions?
+The presenter also changes each day and everyone must get a chance to present regularly, at least once every two weeks. If you are unable to decide who should be the presenter, the master of the morning sessions can use the sorting hat in Slack to randomly select a presenter. 
+
+### What does the master of the morning sessions do?
 
 - Open the meeting by welcoming everybody and explaining the activity of the day.
-- Present their latest pull request or solve a coding challenge if it's a technical skill morning session.
 - Lead the activity discussions by asking the right questions and making sure everybody participates in the discussion if it's a professional skill morning session.
 - Keep feedback discussions positive and constructive.
 - Keep the meeting professional and respectful.
 - Help the team build rapport and get to know one another.
+- Use the sorting hat to select a presenter, if no one volunteers.
+
+### What does the presenter do in morning sessions?
+
+- Present their latest pull request or solve a coding challenge if it's a technical skill morning session.
 
 ### What do the participants do in the morning sessions?
 
