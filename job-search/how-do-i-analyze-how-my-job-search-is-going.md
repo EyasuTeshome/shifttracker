@@ -14,7 +14,7 @@ The dashboard offers charts as seen [here](https://lh4.googleusercontent.com/Bls
 
 **It’s also important to track visits to your portfolio page.** 
 
-This information can help determine where the process is stalled. GitHub offers some limited information when [viewing traffic to a repo](https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-traffic-to-a-repository). If you didn't already, you can also install [Google Analytics](https://support.google.com/analytics/answer/1008015?hl=en) or [Count.ly](https://count.ly/community-edition) if you are self-hosting.
+This information can help determine where the process is stalled. GitHub offers some limited information when [viewing traffic to a repo](https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-traffic-to-a-repository). If you didn't already, you can also install [Motomo](https://matomo.org/) or [Plausible Analytics](https://plausible.io/) if you are self-hosting.
 
 If you have been applying to 3-5 jobs consistently every day for more than 4 weeks, and you are getting few responses, it might be time to move on to the next step.
 
