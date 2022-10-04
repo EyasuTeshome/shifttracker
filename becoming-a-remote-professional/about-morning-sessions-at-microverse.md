@@ -23,9 +23,9 @@ Both of these tasks allow you to get valuable feedback about your code and allow
 
 ### How to select a master and a presenter for the morning session
 
-The master of the morning sessions changes each day and each member should play this role at least once a week. You will assign a master of the morning session when everyone arrives on the call before starting the session. Each day a person should volunteer to play this role. Make sure that you switch between leading technical and professional morning sessions so you become acquainted with both. If no one volunteers, you can use the sorting hat in Slack to randomly select a presenter. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
+The master of the morning sessions changes each day and each member should play this role at least once a week. You will assign a master of the morning session when everyone arrives on the call before starting the session. Each day a person should volunteer to play this role. Make sure that you switch between leading technical and professional morning sessions so you become acquainted with both. If no one volunteers, you can use the sorting hat in Slack to randomly select a master. To ask the Sorting Hat, run the /sorting_hat command in your Morning Session Group Slack channel.
 
-The presenter also changes each day and everyone must get a chance to present regularly, at least once every two weeks. If you are unable to decide who should be the presenter, the master of the morning sessions can use the sorting hat in Slack to randomly select a presenter. 
+The presenter should also changes each technical session and everyone must get a chance to present regularly, at least once every two weeks. If you are unable to decide who should be the presenter, the master of the morning sessions can use the sorting hat in Slack to randomly select a presenter. 
 
 ### What does the master of the morning sessions do?
 
