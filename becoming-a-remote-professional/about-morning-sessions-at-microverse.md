@@ -35,6 +35,7 @@ The presenter also changes each day and everyone must get a chance to present re
 - Keep the meeting professional and respectful.
 - Help the team build rapport and get to know one another.
 - Use the sorting hat to select a presenter, if no one volunteers.
+- In peer-to-peer code reviews, open a GitHub issue in the presenter's repo and take notes about feedback (more instructions later on.
 
 ### What does the presenter do in morning sessions?
 
