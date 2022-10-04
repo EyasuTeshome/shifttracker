@@ -52,7 +52,7 @@ By this point, filling out the Experience section will be simple; just start cop
 
 The AngelList projects section is virtually identical to the LinkedIn projects section, so all you need to do is copy/paste. The only difference is that it's more granular; for example, instead of listing the tools you used for a project in the project description, AngelList instead provides you with an individual field for tools/technologies.
 
-**Learn more about how to creating a mini-portfolio using the AngelList Projects section:**
+**Learn more about creating a mini-portfolio using the AngelList Projects section:**
 
 [What should you include in the Projects section?](what-should-you-include-in-the-projects-section.md)
 
