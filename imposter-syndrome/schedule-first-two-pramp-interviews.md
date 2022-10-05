@@ -15,12 +15,16 @@ Now it's time to sign up for your first two Pramp interviews.
 
 Repeated interview practice can boost your confidence and reduce impostor syndrome during important interviews. Because of how valuable this is, you will be asked to schedule your first two interviews now, and once you reach Job Searching, you will continue to do Pramp practice.
 
+When scheduling the interviews, please consider that you will need to attend one interview and submit the feedback in week 3 of this module, and the other in week 4.
+
 ### Scheduling reminder
 
 - Green flags indicate a very strong match: someone who matches well with your background and skill set and will likely give you a great interview experience.
 - Yellow flags indicate a nice match: someone who may not be quite as good of a fit, but who should still be able to give you a good interview experience.
 - No flags indicate a mediocre interview fit; someone who may or may not give you a good interview experience.
 - Remember to prioritize green flags first, yellow flags second, and no flags last.
+
+**Make sure that you schedule the first interview before Saturday of week 3 in this module, and the second one before Saturday of week 4.**
 
 ## Exercise
 
