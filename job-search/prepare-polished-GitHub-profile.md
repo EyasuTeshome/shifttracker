@@ -51,8 +51,9 @@ GitHub is not only a repository for your code but also a place where you interac
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit the **link to your GitHub Profile** so that your coach can review it and give you feedback. 
+Now go to your Student Dashboard and submit the **link to your GitHub Profile** so that your coach can review it and give you feedback. Remember that you must submit your material by Wednesday of the week it's due so that career coaches can review it on time.
 
+NOTE: You don't need to submit the worksheet. It is intended to help you assess if your resume meets the requirements in the rubric.
 
 ------
 
