@@ -39,6 +39,8 @@ Template to copy: [Final sweep submission](https://docs.google.com/document/d/1B
 
 Now go to your Student Dashboard and **submit your Google Doc with the links to all your application materials**. Once you are assigned a career coach, they will give you feedback on your job searching materials, so you can make updates. 
 
+Please make your submission no later than on Wednesday of the week it's due, so that coaches will have time to review it before the end of the block.
+
 You will submit the Final Sweep only once, because next week you will start polishing each one of them in depth during a whole week. It's important that you implement any changes suggested by your coach as soon as possible, since eliminating any error or non-working link can increase your chances of being invited to interviews.
 
 ------
