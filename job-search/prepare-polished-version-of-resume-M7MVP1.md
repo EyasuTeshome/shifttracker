@@ -51,7 +51,7 @@ To review your resume, it is important to read it through several times, looking
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and **submit the link to your resume** for your coach to review and comment. 
+Now go to your Student Dashboard and **submit the link to your resume** for your coach to review and comment. Remember to submit your material by Wednesday of the week it's due so that career coaches can review it on time.
 
 NOTE: **You don't need to submit the worksheet.** It is intended to help you assess if your resume meets the requirements in the rubric.
 
