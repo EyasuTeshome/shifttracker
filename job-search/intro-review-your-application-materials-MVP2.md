@@ -29,7 +29,7 @@ You will spend one whole week editing each application material:
 
 Since the strengths and challenges that each job searcher faces are different, the projects have been planned to provide you with a basic strategy, but allow you the flexibility to adapt it to your personal needs and, at the same time, provide you with personalized feedback from your coach. These are the steps that you will follow:
 
-1. In an initial exercise, on Mondays, you will prepare a polished version of your application material and submit it to your coach through the Student Dashboard.
+1. In an initial exercise, on Mondays, you will prepare a polished version of your application material and submit it to your coach through the Student Dashboard. **If you need more time, please be aware that you need to submit your document no later than Wednesday on the week it's due, so that the coaches can review it on time.**
 
 2. Your coach will review the application material. After doing an in-depth analysis of the content, they will request any necessary changes. You will be able to access their written feedback through the dashboard. If the material is submitted as a Google Doc, they will also make comments directly on the document.
 
