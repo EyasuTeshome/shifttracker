@@ -29,6 +29,8 @@ Template to use: [Job searching goals worksheet](https://docs.google.com/documen
 
 Now go to your Student Dashboard and submit your job searching plan and SMART goals.
 
+**Please make your submission no later than on Wednesday of the week it's due, so that coaches will have time to review it before the end of the block.**
+
 ------
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
