@@ -79,7 +79,7 @@ You are probably thinking that these are too many steps. Well, you will be surpr
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit the **link to your portfolio** so that your coach can review it and give you feedback. Remember that you don't need to submit the worksheet.
+Now go to your Student Dashboard and submit the **link to your portfolio** so that your coach can review it and give you feedback. Remember that you don't need to submit the worksheet and that you must submit your material by Wednesday of the week it's due so that career coaches can review it on time.
 
 
 ------
