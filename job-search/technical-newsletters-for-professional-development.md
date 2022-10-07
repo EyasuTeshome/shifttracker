@@ -12,7 +12,7 @@ In this exercise, you will explore some technical newsletters that you can use t
 
 ### Why are technical newletters important for you?
 
-For all professionals, including software developers, learning has become a life-long endeavor. Now that you have completed the core program, it’s the perfect time to design and implement a strategy to keep you knowledge and skills up-to-date. 
+For all professionals, including software developers, learning has become a life-long endeavor. Now that you have completed the core program, it’s the perfect time to design and implement a strategy to keep your knowledge and skills up-to-date. 
 
 Technical newsletters are a useful resource for this purpose. They are published periodically by groups of professionals or organizations, and focus on specific topics or technologies. Suscribing to 2 or 3 newsletters with good quality content will provide you information about trends in the tech world. By reading some articles every week, you will familiarize yourself with the language and the style used by professionals in the field, which will be very useful during interviews. Also, you might be inspired to write and publish an article of your own in one of the newsletters. And, last but not least, the authors of some articles might be potential contacts for your network. 
 
