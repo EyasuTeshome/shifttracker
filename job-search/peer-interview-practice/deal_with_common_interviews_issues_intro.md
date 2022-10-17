@@ -26,7 +26,7 @@ During your job interviews, you will be under big pressure and you will need to 
     - There is no need to read all articles linked in this list. You will be asked to read them one by one and do it during the morning sessions. 
     - Today, just read the list and think how likely all of those issues could happen to you.
 - Read the article: [How to deal with common issues during interviews - peer-to-peer practice](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/peer_common_issues_practice_meeting_outline.md).
-- Last but not least: sign up for [codesandbox](https://codesandbox.io/signin) and read about [Live sessions](https://codesandbox.io/docs/live). If you need to share your code with your peers and collaborate together, it will be perfect!
+- Last but not least: sign up for [codesandbox](https://codesandbox.io/signin) and read about [Live sessions](https://codesandbox.io/docs/learn/getting-started/collaborate-share). If you need to share your code with your peers and collaborate together, it will be perfect!
 
 ---
 
