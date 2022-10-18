@@ -80,6 +80,7 @@ Some of the more general platforms also have sections and filters dedicated to r
 - [The Muse](https://www.themuse.com/search/jobs?filter=true&job_location=Flexible%20/%20Remote)
 - [https://authenticjobs.com/#remote=true](https://authenticjobs.com/#remote=true)
 - [https://jobs.rubynow.com/](https://jobs.rubynow.com/) ** Ruby Now is the largest Ruby/Rails-specific job board on the internet, but it doesn't have filtering options. To filter, please search (Control+F or Command+F) for "Remote."
+- [https://rubyonremote.com/](https://rubyonremote.com/)
 - [Landing Jobs](https://landing.jobs/jobs?remote=true&hd=false&t_co=false&t_st=false) - this board is smaller and focuses largely on companies based out of Europe, but it encourages anyone to apply. It also contains a helpful feature to determine whether you will or won't need a visa.
 - [Dice](https://microverse.pathwright.com/library/microverse-job-search/94404/path/step/60021551/%C2%A0https://www.dice.com/jobs?q=Developer%20remote&radius=30&radiusUnit=mi&page=1&pageSize=20&facets=employmentType%7CpostedDate%7CworkFromHomeAvailability%7CemployerType&filters.workFromHomeAvailability=TRUE&language=en)
 - [Nodesk](https://nodesk.co/)
