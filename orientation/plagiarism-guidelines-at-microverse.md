@@ -25,6 +25,9 @@ Learn more about what is plagiarism and what you can and cannot copy in the prog
 - [Plagiarism guidelines at Microverse](https://microverse.zendesk.com/hc/en-us/articles/8995993831699-Plagiarism-Policy) 
 - [Understanding plagiarism at Microverse: examples](understanding-plagiarism-at-microverse-examples.md)
 
+[![Watch the video](https://img.youtube.com/vi/XOpTBjOQMAM/0.jpg)](https://www.youtube.com/watch?v=XOpTBjOQMAM)
+
+
 ### What happens when plagiarism is detected?
 
 We have an automated plagiarism detection system in place that compares every assignment with all previous student assignments, as well as with various online resources. This system will detect plagiarized work even if minor alterations are made (e.g. changing of variable names, function names alterations, mixing up of the code structure).
