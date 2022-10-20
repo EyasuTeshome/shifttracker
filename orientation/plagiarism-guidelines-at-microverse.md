@@ -22,7 +22,7 @@ Our goal for you is to learn and become better programmers and problem solvers. 
 
 Learn more about what is plagiarism and what you can and cannot copy in the program:
 
-- [Plagiarism guidelines at Microverse](https://microverse.zendesk.com/hc/en-us/articles/8995993831699-Plagiarism-Policy) 
+- [Plagiarism guidelines at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/plagiarism-guidelines-at-microverse-learn-more.md) 
 - [Understanding plagiarism at Microverse: examples](understanding-plagiarism-at-microverse-examples.md)
 
 [![Watch the video](https://img.youtube.com/vi/XOpTBjOQMAM/0.jpg)](https://www.youtube.com/watch?v=XOpTBjOQMAM)
