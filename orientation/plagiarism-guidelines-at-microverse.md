@@ -14,7 +14,7 @@ This lesson will cover plagiarism guidelines at Microverse, and talk about the i
 
 As a software developer you often use code written by other people when you solve problems other programmers have run into before (e.g. libraries, code on Stackoverflow, open-source code).
 
-However, within a learning setting, copying of the source code is not allowed because the goal of assignments isn’t just to build a piece of working software. As a student, your goal is to get a deep understanding of programming, and reach a level of mastery by writing your own code. This does not happen if you copy or steal other peoples’ code and turn it in as your own.
+However, within a learning setting, copying of the source code is **not allowed** because the goal of assignments isn’t just to build a piece of working software. As a student, your goal is to **get a deep understanding of programming**, and reach a level of mastery by writing your own code. This does not happen if you copy or steal other peoples’ code and turn it in as your own.
 
 ### What are plagiarism guidelines at Microverse?
 
@@ -36,6 +36,8 @@ Learn more about what happens when an assignment is flagged for plagiarism:
 
 - [What happens when plagiarism is detected?](https://microverse.zendesk.com/hc/en-us/articles/1500004617141-What-Happens-When-Plagiarism-is-Detected-)
 - [What are the Consequences of Plagiarizing a Project?](https://microverse.zendesk.com/hc/en-us/articles/8996001144083-What-are-the-Consequences-of-Plagiarizing-a-Project-)
+
+[![Watch the video](https://img.youtube.com/vi/FK0HCPo-weA/0.jpg)](https://www.youtube.com/watch?v=FK0HCPo-weA)
 
 ## Additional materials
 
