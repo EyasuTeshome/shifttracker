@@ -1,4 +1,4 @@
-# Plagiarism guidelines at Microverse
+# Plagiarism Policy & Guidelines at Microverse
 
 ## Learning objectives
 
@@ -8,9 +8,9 @@
 
 ## Description
 
-This lesson will cover Microverse's Plagiarism **Guidelines** & **Policy**, and talk about the importance and consequences of plagiarism in the Program.
+This lesson will cover Microverse's Plagiarism **Policy** & **Guidelines**, and talk about the importance and consequences of plagiarism in the Program.
 
-### Why are plagiarism guidelines important at Microverse?
+### Why is detecting plagiarism important at Microverse?
 
 As a software developer you often use code written by other people when you solve problems other programmers have run into before (e.g. libraries, code on Stackoverflow, open-source code).
 
