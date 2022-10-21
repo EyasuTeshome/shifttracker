@@ -1,14 +1,5 @@
 # Plagiarism Guidelines at Microverse
 
-## Learning objectives 🎯
-
-- Understand the ineffectiveness of plagiarizing others' work for true skill development
-- Adopt the plagiarism guidelines in order to write more original code 
-
-### Estimated time: 0.25h
-
-## Description 📝
-
 Plagiarism in programming is defined as _copying someone else's source and claiming it as your own_. Plagiarism is **not allowed**, as all our assignments are designed to test and advance your skills. 
 
 We encourage you to write original code and work on improving your skills on a daily basis. By simply copy-pasting the work of others, this is not possible.
@@ -22,7 +13,6 @@ While we do encourage you to use various sources to find solutions to your probl
 - Look at others' work and ask yourself: What’s going on? What concepts are relevant? What problem is being solved?
 - Only when you understand it are you making use of others' work effectively
 - Create your own solutions that fit your codebase and style
-
 
 2️⃣ **Break a problem up into smaller pieces. Try understand and solve each individually. (also called the Divide and Conquer strategy)**
 
