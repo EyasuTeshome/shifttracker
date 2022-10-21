@@ -8,7 +8,7 @@
 
 ## Description
 
-This lesson will cover plagiarism guidelines at Microverse, and talk about the importance and consequences of plagiarism in the Program.
+This lesson will cover Microverse's Plagiarism **Guidelines** & **Policy**, and talk about the importance and consequences of plagiarism in the Program.
 
 ### Why are plagiarism guidelines important at Microverse?
 
@@ -16,7 +16,7 @@ As a software developer you often use code written by other people when you solv
 
 However, within a learning setting, copying of the source code is **not allowed** because the goal of assignments isn’t just to build a piece of working software. As a student, your goal is to **get a deep understanding of programming**, and reach a level of mastery by writing your own code. This does not happen if you copy or steal other peoples’ code and turn it in as your own.
 
-### What are plagiarism guidelines at Microverse?
+### What are Plagiarism Guidelines at Microverse?
 
 Our goal for you is to learn and become better programmers and problem solvers. For this reason, we do not condone plagiarism in our program, and have strict policies in place to guarantee the quality and integrity of students graduating from the program.
 
@@ -28,7 +28,7 @@ Learn more about what is plagiarism and what you can and cannot copy in the prog
 [![Watch the video](https://img.youtube.com/vi/XOpTBjOQMAM/0.jpg)](https://www.youtube.com/watch?v=XOpTBjOQMAM)
 
 
-### What happens when plagiarism is detected?
+### What is Microverse's Policy when plagiarism is detected?
 
 We have an automated plagiarism detection system in place that compares every assignment with all previous student assignments, as well as with various online resources. This system will detect plagiarized work even if minor alterations are made (e.g. changing of variable names, function names alterations, mixing up of the code structure).
 
