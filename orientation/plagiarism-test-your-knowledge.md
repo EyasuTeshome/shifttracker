@@ -14,9 +14,9 @@ This exercise is to ensure that you understand what is plagiarism at Microverse 
 
 ### Instructions
 
-1. Find the quiz [here](https://forms.gle/yzxPiTi1rH8c23Jq5)
-2. Answer the questions
-3. Check your answers and review the policy if you had any errors
+1. Find the quiz [here](https://forms.gle/yzxPiTi1rH8c23Jq5).
+2. Answer the questions.
+3. Check your answers and review the policy if you had any errors.
 
 Now go to your Student Dashboard and submit your exercise.
 
