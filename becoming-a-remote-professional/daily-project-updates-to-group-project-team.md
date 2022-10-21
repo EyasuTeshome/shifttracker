@@ -1,3 +1,6 @@
+# Daily project updates to group project team
+
+
 ## Learning objectives:
 
 - Learn the value of regular project status updates for group projects and practice daily with teammates.
