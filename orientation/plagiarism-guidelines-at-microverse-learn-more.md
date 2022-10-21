@@ -1,4 +1,4 @@
-# Plagiarism guidelines at Microverse
+# Plagiarism Guidelines at Microverse
 
 ## Learning objectives 🎯
 
@@ -9,35 +9,35 @@
 
 ## Description 📝
 
-Plagiarism is defined as copying source code or information found online. Plagiarism is **not allowed**, as all our assignments are designed to test and advance your skills. 
+Plagiarism in programming is defined as _copying someone else's source and claiming it as your own_. Plagiarism is **not allowed**, as all our assignments are designed to test and advance your skills. 
 
-We encourage you to write unique code and work on improving your skills on a daily basis. By simply copy-pasting the work of others, this is not possible.
+We encourage you to write original code and work on improving your skills on a daily basis. By simply copy-pasting the work of others, this is not possible.
 
 ## Guidelines 📕
 
 While we do encourage you to use various sources to find solutions to your problems, in order to help you avoid cases of plagiarism in the Program, you must adhere to the the following set of guidelines:
 
-1️⃣ **Never copy and paste code from an existing and specific solution, for the exact same assignment, even when you think you understand the code. Similarly for professional projects, do not copy-paste any sentences or solutions.**
-  
-  - When you are working as a developer, **there will never be a ready-made solution for your exact proble**m because your problem will be unique. Therefore, you cannot learn to solve problems by copying existing solutions to your assignment.
-  
-  - We advise you to look at other solutions ***only after*** you’ve finished your own code. This will help you see how others approached the same problem, and how your code can be improved.
-  
-  - Non-technical projects are about **your individual unique strengths** and what differentiates you from other software developers. We advise you to first complete the project and only after you've finished your project you can look at projects from other students or work online to have more examples.
+1️⃣ **Learn from others’ code by thinking about it (not copying). Then create your own solutions that fit your codebase and style**
 
-2️⃣ **If you decide to copy a piece of code from a solution to a similar problem (but not from the assignment solution), it is your responsibility to fully understand the code. If you do not understand what your copied code does, we consider it plagiarism. Copy code with moderation; you cannot have the majority of your code be copied and slightly adjusted.**
-  - If you copy your code from a similar problem and modify it to solve your own, unique problem, that’s fine. However, **only copy when you've understood the code**, oterhwise you haven’t really learned anything.
-  
-  - For a professional skill project or any other non-coding project, you should **never use other people's sentences**. If you find someone who has written something that also applies to you, for example, when writing your resume, you should work very hard to come up with your own unique sentence. Each person is unique so you should never be able to use all the information another person has come up with in a project.
+- Look at others' work and ask yourself: What’s going on? What concepts are relevant? What problem is being solved?
+- Only when you understand it are you making use of others' work effectively
+- Create your own solutions that fit your codebase and style
 
-3️⃣ **When an assignment tells you to rebuild an HTML/CSS website from the ground up, you cannot directly copy the website’s HTML or CSS and present it as your own.**
-  - The goal in these “cloning exercises” is to learn how to build a HTML/CSS page that looks the same as a provided website. What you need to do is to **re-build a page without copying** the HTML or CSS from the website, as this prevents you from learning how to build an HTML/CSS page from scratch.
 
-  - When you work as a developer, you will often only get a sketch of a website (a design) that you will need to build with code. If you copy the HTML/CSS from a website now, you will likely not know how to do what is needed when you get a job.
+2️⃣ **Break a problem up into smaller pieces. Try understand and solve each individually. (also called the Divide and Conquer strategy)**
 
-For a detailed explanation of what is and what is not considered plagiarism, go back to the main lesson on plagiarism and look at the article with plagiarism examples.
+- Break a problem up into smaller components and try to solve separately
+- Googling for a complete solution leads to more question. While Googling for smaller questions leads to better results.
 
-For more details regarding this topic, check out [Microverse's Plagiarism Policy](https://microverse.zendesk.com/hc/en-us/articles/8995993831699-Plagiarism-Policy).
+3️⃣ **Try to reproduce some else’s solution in a new project. This way you can learn more about their process of solving the problem.**
+
+- Sometimes there's a valid reason for reusing others' work (i.e. libraries, frameworks)
+- Try out reused code in isolation in order to understand what problem it tries to solve
+- When reusing someone else's code (i.e. a peer) give credit!
+
+For a video walkthrough of these guidelines, take a look at the following resource:
+
+[![Watch the video](https://img.youtube.com/vi/XOpTBjOQMAM/0.jpg)](https://www.youtube.com/watch?v=XOpTBjOQMAM)
 
 ------
 
