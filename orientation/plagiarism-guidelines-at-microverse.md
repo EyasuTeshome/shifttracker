@@ -1,14 +1,16 @@
-# Plagiarism Policy & Guidelines at Microverse
+# Plagiarism policy & anti-plagiarism guidelines at Microverse
 
-## Learning objectives 🎯
+## 🎯 Learning objectives
 
 - Recognize ethics as a fundamental tool and characteristic for building trust in team relationships
+- Distinguish between our plagiarism policy and our recommended anti-plagiarism guidelines
+- Get familiar with better ways of learning from others
 
 ### Estimated time: 0.75h
 
-## Description 📝
+## 📝 Description
 
-This lesson will cover Microverse's Plagiarism **Policy** & **Guidelines**, and talk about the importance and consequences of plagiarism in the Program.
+This lesson will cover Microverse's plagiarism **policy** & anti-plagiarism **guidelines**, and talk about the importance and consequences of plagiarism in the Program.
 
 ### Why is detecting plagiarism important at Microverse? 
 
@@ -16,26 +18,24 @@ As a software developer you often use code written by other people when you solv
 
 However, within a learning setting, copying of the source code is **not allowed** because the goal of assignments isn’t just to build a piece of working software. As a student, your goal is to **get a deep understanding of programming**, and reach a level of mastery by writing your own code. This does not happen if you copy or steal other peoples’ code and turn it in as your own.
 
-### What are Plagiarism Guidelines at Microverse? 💪
+### 📖 What are Anti-Plagiarism Guidelines at Microverse?
 
 Our goal for you is to learn and become better programmers and problem solvers. For this reason, we do not condone plagiarism in our program, and have strict policies in place to guarantee the quality and integrity of students graduating from the program.
 
-Learn more about what is plagiarism and what you can and cannot copy in the program:
+To help you prevent performing acts of plagiarism, we have created resources to help you learn better from others:
 
-- [Plagiarism guidelines at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/plagiarism-guidelines-at-microverse-learn-more.md) 
+- [Anti-plagiarism guidelines at Microverse](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/plagiarism-guidelines-at-microverse-learn-more.md) 
 - [Understanding plagiarism at Microverse: examples](understanding-plagiarism-at-microverse-examples.md)
 
 [![Watch the video](https://img.youtube.com/vi/XOpTBjOQMAM/0.jpg)](https://www.youtube.com/watch?v=XOpTBjOQMAM)
 
 
-### What is Microverse's Policy when plagiarism is detected? 🔎
+### 🔎 What is Microverse's policy when plagiarism is detected? 
 
-We have an automated plagiarism detection system in place that compares every assignment with all previous student assignments, as well as with various online resources. This system will detect plagiarized work even if minor alterations are made (e.g. changing of variable names, function names alterations, mixing up of the code structure).
-
-Learn more about what happens when an assignment is flagged for plagiarism:
+First of all, how does Microverse detect plagiarism? And if it does, what happens next? In the following resources you can learn more about our process and the consequences in the cases it might happen:
 
 - [What happens when plagiarism is detected?](https://microverse.zendesk.com/hc/en-us/articles/1500004617141-What-Happens-When-Plagiarism-is-Detected-)
-- [What are the Consequences of Plagiarizing a Project?](https://microverse.zendesk.com/hc/en-us/articles/8996001144083-What-are-the-Consequences-of-Plagiarizing-a-Project-)
+- [What are the consequences of plagiarizing a project?](https://microverse.zendesk.com/hc/en-us/articles/8996001144083-What-are-the-Consequences-of-Plagiarizing-a-Project-)
 
 [![Watch the video](https://img.youtube.com/vi/FK0HCPo-weA/0.jpg)](https://www.youtube.com/watch?v=FK0HCPo-weA)
 
