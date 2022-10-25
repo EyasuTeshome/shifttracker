@@ -1,12 +1,12 @@
-# Plagiarism Guidelines at Microverse
+# Anti-plagiarism guidelines at Microverse
 
 Plagiarism in programming is defined as _copying someone else's source and claiming it as your own_. Plagiarism is **not allowed**, as all our assignments are designed to test and advance your skills. 
 
 We encourage you to write original code and work on improving your skills on a daily basis. By simply copy-pasting the work of others, this is not possible.
 
-## Guidelines 📕
+## 📖 Guidelines
 
-While we do encourage you to use various sources to find solutions to your problems, in order to help you avoid cases of plagiarism in the Program, you must adhere to the the following set of guidelines:
+Microverse encourages you to use various sources to find solutions to your problems. However, in order to help you avoid cases of plagiarism in the Program, you can take advantage of the following anti-plagiarism guidelines to improve your learning!
 
 1️⃣ **Learn from others’ code by thinking about it (not copying). Then create your own solutions that fit your codebase and style**
 
