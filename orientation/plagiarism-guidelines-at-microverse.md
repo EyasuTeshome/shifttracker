@@ -12,7 +12,7 @@
 
 This lesson will cover Microverse's plagiarism **policy** & anti-plagiarism **guidelines**, and talk about the importance and consequences of plagiarism in the Program.
 
-### Why is detecting plagiarism important at Microverse? 
+### ❗️ Why is detecting plagiarism important at Microverse? 
 
 As a software developer you often use code written by other people when you solve problems other programmers have run into before (e.g. libraries, code on Stackoverflow, open-source code).
 
@@ -39,7 +39,7 @@ First of all, how does Microverse detect plagiarism? And if it does, what happen
 
 [![Watch the video](https://img.youtube.com/vi/FK0HCPo-weA/0.jpg)](https://www.youtube.com/watch?v=FK0HCPo-weA)
 
-## Additional materials 🌟
+## 🌟 Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.*
 
