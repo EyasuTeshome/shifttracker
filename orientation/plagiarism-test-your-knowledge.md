@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Please complete [this quiz]([QUIZ_URL](https://forms.gle/yzxPiTi1rH8c23Jq5)) to make sure that you understood the topics covered in the previous activities. **Check your answers and review the policy if you had any errors.**
+Please complete [this quiz](https://forms.gle/yzxPiTi1rH8c23Jq5) to make sure that you understood the topics covered in the previous activities. **Check your answers and review the policy if you had any errors.**
 Once you are ready - submit this quiz as completed in your Students Dashboard.
 
 ------
