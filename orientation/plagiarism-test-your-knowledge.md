@@ -6,19 +6,10 @@
 
 ### Estimated time: 0.25h
 
-## Description
+## Instructions
 
-This exercise is to ensure that you understand what is plagiarism at Microverse and are aware of the consequences if your code is plagiarized.
-
-## Exercise
-
-### Instructions
-
-1. Find the quiz [here](https://forms.gle/yzxPiTi1rH8c23Jq5).
-2. Answer the questions.
-3. Check your answers and review the policy if you had any errors.
-
-Now go to your Student Dashboard and submit your exercise.
+Please complete [this quiz]([QUIZ_URL](https://forms.gle/yzxPiTi1rH8c23Jq5)) to make sure that you understood the topics covered in the previous activities. **Check your answers and review the policy if you had any errors.**
+Once you are ready - submit this quiz as completed in your Students Dashboard.
 
 ------
 
