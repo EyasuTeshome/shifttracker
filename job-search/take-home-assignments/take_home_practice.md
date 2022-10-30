@@ -23,7 +23,7 @@ As this exercise is a recurring one, each time you will be able to select one of
 1. Look for a take-home assignment (spend up to 0.5h on this) by browsing the following search result on GitHub:
 - [All repositories written in Ruby that include the phrase "take-home"](https://github.com/search?l=Ruby&q=take-home&type=Repositories)
 - [All topics tagged as take-home-test (Ruby)](https://github.com/topics/take-home-test?l=ruby)
-- [All repositories written in JavaScript that include the phrase "take-home"](https://github.com/search?l=Ruby&q=take-home&type=Repositories)
+- [All repositories written in JavaScript that include the phrase "take-home"](https://github.com/search?l=JavaScript&q=take-home&type=Repositories)
 - [All topics tagged as take-home-test (JavaScript)](https://github.com/topics/take-home-test?l=javascript)
 2. Remember to check the license - make sure that you are not using the repo and violating the license rules.
 3. Read the requirements and assess if this is your level. If the task seems to be above your level, you can still challenge yourself with it.
