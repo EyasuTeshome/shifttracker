@@ -28,7 +28,7 @@ Put simply, sexual harassment is any type of comment, suggestion, question, or b
 
 This section analyzes some common questions about sexual harassment and gives examples of types of behavior that constitute sexual harassment. You can watch the following video with your group:
 
-- [TIME'S UP PSA on Workplace Sexual Harassment](https://www.youtube.com/watch?v=fWqcSdHjYgk)
+- [Workplace Sexual Harassment](https://www.youtube.com/watch?v=fWqcSdHjYgk)
 
 ### Examples of sexual harassment
 
