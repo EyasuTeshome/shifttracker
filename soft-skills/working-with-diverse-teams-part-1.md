@@ -24,11 +24,11 @@ In the workplace, sexual harassment is taken very seriously and can result in wo
 
 Put simply, sexual harassment is any type of comment, suggestion, question, or behavior that has the potential to make the other student feel uncomfortable. At Microverse, we have a zero-tolerance policy for sexual harassment. Any behavior as such can result in expulsion. If you have experienced sexual harassment, reach out to Student Success immediately.
 
-### Introduction to sexual harassment
+### Frequently asked questions about sexual harassment
 
-This section defines sexual harassment and gives examples of types of behavior that constitute sexual harassment. You can watch the following video with your group:
+This section analyzes some common questions about sexual harassment and gives examples of types of behavior that constitute sexual harassment. You can watch the following video with your group:
 
-- [How casual is too casual? | Sexual Harassment in Remote Workplaces](https://www.youtube.com/watch?v=OKUkheRGLg4)
+- [TIME'S UP PSA on Workplace Sexual Harassment](https://www.youtube.com/watch?v=fWqcSdHjYgk)
 
 ### Examples of sexual harassment
 
