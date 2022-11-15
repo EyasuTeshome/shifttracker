@@ -67,6 +67,9 @@ Template to copy: [Polished elevator pitch submission](https://docs.google.com/d
 
 Now go to your Student Dashboard and submit the **link to your Gdoc with both versions of your polished elevator pitch** so that your coach can review it and give you feedback. 
 
+**Remember to submit your document no later than Wednesday on the week it's due, so that coaches have enough time for the review process.**
+
+
 
 ------
 
