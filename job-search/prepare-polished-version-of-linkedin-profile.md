@@ -52,6 +52,8 @@ Use the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.
 
 Now go to your Student Dashboard and submit the **link to your LinkedIn Profile** so that your coach can review it and give you feedback. 
 
+**Remember to submit your link no later than Wednesday on the week it's due, so that coaches have enough time for the review process.**
+
 
 ------
 
