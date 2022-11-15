@@ -32,7 +32,7 @@ The timekeeper is the person who keeps track of time to ensure the team doesn’
 - Let everyone know when this time is almost up for each section of the meeting so that issues can be wrapped up appropriately. A good way to do this could be writing "5 mins left for this section" in the chat of your zoom call so everyone is aware and can start wrapping up with action points and solutions.
 - Keeps track of deadlines and follows up with teammates if someone is running behind to understand what is happening. 
 
-## **Notekeeper**
+## **Notetaker**
 
 The note-taker records the key items covered in team meetings, so that topics, key decisions, questions, and pending tasks can be reviewed after sessions. 
 
