@@ -47,6 +47,8 @@ By now, you are familiar with polishing your professional profiles. Using the [A
 
 Now go to your Student Dashboard and submit the **link to yourAngelList profile** so that your coach can review it and give you feedback. 
 
+**Remember to submit your profile no later than Wednesday on the week it's due, so that coaches have enough time for the review process.**
+
 
 ------
 
