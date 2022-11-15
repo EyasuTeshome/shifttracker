@@ -38,7 +38,7 @@ The note-taker records the key items covered in team meetings, so that topics, k
 
 **Key tasks of the notetaker:** 
 
-- Collaborate with the leader to plan the agenda for meetings and ensure that questions and pending tasks are reviewed.
+- Collaborate with the leader to plan the agenda for meetings and ensure that questions and pending tasks from previous meetings are considered.
 - Take notes during the meetings, paying attention to details.
 - Organize meeting notes and distribute them to participants after the meeting.
 - Participate actively in the meeting.
