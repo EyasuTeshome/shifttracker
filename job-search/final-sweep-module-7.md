@@ -22,9 +22,11 @@ The final sweep is a first round where you update and check the format, function
 
 In order to make the best use of time and avoid unnecesary revisions, make sure you look carefully through each of your professional skills projects before you submit the final sweep. Here are links to the initial project walkthroughs, so you can remind yourself what to look for. 
 
-- [Create a professional looking GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
+**Note:** AngelList has announced it will now be Wellfound: the profile you created is still available but you will see changes in the look&feel.
+
+- [Create a professional looki*ng GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
 - [Create a professional LinkedIn page](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
-- [Create your AngelList profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Create your Wellfound profile (formerly AngelList](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 - [Create your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md)
 - [Write a cover letter template](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md)
 - Portfolio - Review your portfolio and ensure you've added your most recent projects
