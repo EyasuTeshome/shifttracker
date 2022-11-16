@@ -1,5 +1,16 @@
 
-# Prepare a polished version of your AngelList profile to start the revision process
+# Prepare a polished version of your AngelList profile (now Wellfound) to start the revision process
+
+------
+
+**❗️❗️ IMPORTANT NOTE ❗️❗️**
+
+AngelList has just announced that they will become an independent company, called Wellfound. They have announced changes in the following months. We wiil be reviewing their platform and updating the curriculum. Nevertheless, there might be some inconsistencies in the instructions included in this project during this process. Sorry for the inconvenience!
+
+The good news is  that your AngelList profile is now available in Wellfound.
+
+------
+
 
 ## **Learning objectives**
 
@@ -15,13 +26,13 @@ In this exercise, you will update the professional profile you created on AngelL
 
 After creating a LinkedIn and GitHub profile, you probably wonder why another one? Each of these profiles helps you in different ways. Read the following article to identify the specific kind of company that you can reach with your AngelList profile.
 
-- [Why AngelList matters more than LinkedIn to Tech Startups](https://www.inc.com/alex-moazed/why-angellist-matters-more-than-linkedin-to-tech-startups.html)
+- [Why AngelList (now Wellfound) matters more than LinkedIn to Tech Startups](https://www.inc.com/alex-moazed/why-angellist-matters-more-than-linkedin-to-tech-startups.html)
 
 ## Project setup
 
 - Open up your AngelList profile.
 - Open the latest version of your resume. 
-- Open the [Assess your AngelList profile rubric and worksheet](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#).
+- Open the [Assess your Wellfound profile (formerly, AngelList) rubric and worksheet](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#).
 
 ## **Exercise**
 
@@ -45,7 +56,7 @@ By now, you are familiar with polishing your professional profiles. Using the [A
 
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
 
-Now go to your Student Dashboard and submit the **link to yourAngelList profile** so that your coach can review it and give you feedback. 
+Now go to your Student Dashboard and submit the **link to your Wellfound (formerly, AngelList) profile** so that your coach can review it and give you feedback. 
 
 **Remember to submit your profile no later than Wednesday on the week it's due, so that coaches have enough time for the review process.**
 
