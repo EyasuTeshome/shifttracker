@@ -4,9 +4,9 @@
 
 **❗️❗️ IMPORTANT NOTE ❗️❗️**
 
-AngelList has just announced that they will become an independent company, called Wellfound. They have announced changes in the following months. We wiil be reviewing their platform and updating the curriculum. Nevertheless, there might be some inconsistencies in the instructions included in this project during this process. Sorry for the inconvenience!
+AngelList has just announced that they will become an independent company, called Wellfound, and that they will be making changes in the following months. We wiil be reviewing their platform and updating the curriculum during this process. Nevertheless, there might be some inconsistencies in the instructions included in this project while this happens. Sorry for the inconvenience!
 
-If you had an AngelList profile, it will still be available in Wellfound. **
+If you created an AngelList profile, it is now available in Wellfound.
 
 ------
 
@@ -26,14 +26,14 @@ In this project, we'll walk you through completing an AngelList profile. AngelLi
 
 Now that you've created a LinkedIn profile, you may be wondering why you also need to create a near-identical profile on AngelList. Most of the material will be exactly the same, and AngelList isn't used as widely as LinkedIn. Why should you spend the next hour working on AngelList, when something similar already exists?
 
-The answer is that AngelList is one of the largest startup job sites online, and because startups sometimes have more limited budgets than bigger companies, they are often more willing to hire developers with more limited experience—including developers who work remotely.
+The answer is that Well found (formerly, AngelList) is one of the largest startup job sites online, and because startups sometimes have more limited budgets than bigger companies, they are often more willing to hire developers with more limited experience—including developers who work remotely.
 
-You will be using AngelList extensively during your job search process--not only to find jobs but also to apply for them with a single click-and-copy/paste.
+You will be using Wellfound extensively during your job search process--not only to find jobs but also to apply for them with a single click-and-copy/paste.
 
 ### Project Setup
 
-1. If you don't already have an AngelList profile, [sign up for one here](https://www.angel.co).
-2. If you have trouble creating an account, [please use this tutorial on how to create an AngelList account](how-to-create-an-angellist-profile.md).
+1. If you don't already have a Wellfound profile (formerly, AngelList), [sign up for one here](https://www.angel.co).
+2. If you have trouble creating an account, [please use this tutorial on how to create an Wellfound account (formerly, AngelList](how-to-create-an-angellist-profile.md).
 
 ## Thoroughly fill in your AngelList header
 
@@ -123,7 +123,7 @@ The Investments and Q&A section are optional. Answering some questions can be a 
 
 **Learn more about the Q&A section:**
 
-[How to fill out the Q&A section on AngelList](how-to-fill-out-the-q-and-a-section-on-angellist.md)
+[How to fill out the Q&A section on Wellfound (formerly, AngelList)](how-to-fill-out-the-q-and-a-section-on-angellist.md)
 
 **Apply what you've learned**
 
@@ -145,11 +145,11 @@ Your [AngelList Talent Profile](https://angel.co/profile/edit) and your AngelLis
 
 ### Project Requirements
 
-- [Make sure that your AngelList meets every requirement of the AngelList rubric.](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit)
+- [Make sure that your Wellfound profile (formerly, AngelList) meets every requirement of the rubric.](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit)
 
 ### Submission Instructions
 
-1. Make sure that you have thoroughly completed each section of the AngelList profile.
+1. Make sure that you have thoroughly completed each section of the Wellfound profile (formerly, AngelList).
 
 ## Review
 
