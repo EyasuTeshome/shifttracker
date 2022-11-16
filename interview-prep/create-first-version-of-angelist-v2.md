@@ -1,4 +1,15 @@
-# Project: Create your AngelList profile.
+# Project: Create your Wellfound profile (formerly, AngelList).
+
+------
+
+** IMPORTANT NOTE!**
+
+AngelList has just announced that they will become an independen company, called Wellfound. They have announced that they will be changes in the following months. We wiil be reviewing their platform and updating the curriculum. So bear with us if there are some inconsistencies in the instructions and images we include in this project.
+
+------
+
+If you had an AngelList profile, it will still be available in Wellfound. **
+
 
 ## Learning objectives
 
