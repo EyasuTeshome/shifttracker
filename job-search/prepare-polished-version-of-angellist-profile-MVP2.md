@@ -5,9 +5,9 @@
 
 **❗️❗️ IMPORTANT NOTE ❗️❗️**
 
-AngelList has just announced that they will become an independent company, called Wellfound. They have announced changes in the following months. We wiil be reviewing their platform and updating the curriculum. Nevertheless, there might be some inconsistencies in the instructions included in this project during this process. Sorry for the inconvenience!
+AngelList has just announced that they will become an independent company, called Wellfound, and that they will be making changes in the following months. We wiil be reviewing their platform and updating the curriculum during this process. Nevertheless, there might be some inconsistencies in the instructions included in this project while this happens. Sorry for the inconvenience!
 
-The good news is  that your AngelList profile is now available in Wellfound.
+If you created an AngelList profile, it is now available in Wellfound.
 
 ------
 
