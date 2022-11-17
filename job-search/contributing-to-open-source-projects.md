@@ -6,11 +6,11 @@ An **open source project** is a software project that is made available to the p
 
 If you're just starting out, it helps to **know what to look for** in a good open source project. Among others, these are some essential attributes to watch out for:
 
-[] The project has an active repository with active maintainers
-[] The repository has clear instructions for how to setup a local environment
-[] There should be a `CONTRIBUTING.md` file that will tell you how to best contribute
-[] There should be a strong community behind it, with much communication between its members
-[] There should be "Good First Issue" type of labels that you could get started with.
+- The project has an active repository with active maintainers
+- The repository has clear instructions for how to setup a local environment
+- There should be a `CONTRIBUTING.md` file that will tell you how to best contribute
+- There should be a strong community behind it, with much communication between its members
+- There should be "Good First Issue" type of labels that you could get started with.
 
 If the project checks all of these boxes, you have a winner!
 
