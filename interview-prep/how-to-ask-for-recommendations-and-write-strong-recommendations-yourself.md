@@ -28,7 +28,7 @@ If you ask your peers (like coding partners, standup team members, or mentors) f
 
 And here are a few examples using the template above:
 
-*Alejandra is one of the brightest software developers I've ever met. I worked alongside her while building a two-player platformer, and in that time she proved her commitment and determination over and over again. Alejandra is always challenging herself--she's the type of person who reads documentation for fun, and her attention to detail is evident in all of the projects I've worked with her on. She's also genuinely a kind, encouraging person, and kept me from falling into bug blues multiple times. I can recommend her with reservation.*
+*Alejandra is one of the brightest software developers I've ever met. I worked alongside her while building a two-player platformer, and in that time she proved her commitment and determination over and over again. Alejandra is always challenging herself--she's the type of person who reads documentation for fun, and her attention to detail is evident in all of the projects I've worked with her on. She's also genuinely a kind, encouraging person, and kept me from falling into bug blues multiple times. I can recommend her without reservation.*
 
 *Moses is a fantastic software engineer, and his detail-oriented approach made him a pleasure to work with. We pair-programmed extensively together while enrolled at a software development program, and in that time his work ethic blew me away. Moses views writing clean, accessible code as a calling, and he's great at identifying areas where we can improve UI. He's also super friendly; by the time our project was done, I felt like we'd known each other for years. I can't recommend him enough!*
 
