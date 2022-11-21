@@ -45,6 +45,8 @@ In the following videos, you will see experienced people who explain their exper
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
-- [Negative visualization](https://medium.com/swlh/the-importance-of-negative-visualization-ae89c41b377b#:~:text=Negative%20visualization%20is%20a%20technique,visualize%20your%20life%20without%20them.)
+- [The Stoic Art of Negative Visualization](https://dailystoic.com/premortem/)
+- [How 'Negative Visualization' Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
+- [Negative visualization](https://medium.com/swlh/the-importance-of-negative-visualization-ae89c41b377b#:~:text=Negative%20visualization%20is%20a%20technique,visualize%20your%20life%20without%20them.) (This resource is avaialbe to Medium members: if you have a free account, opening it will count towards your 5 monthly articles.)
 - [Refresh the lesson: cultivating a growth mindset part 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/morning-session-cultivating-a-growth-mindset-part-1.md)
 - [Refresh the lesson: cultivating a growth mindset part 2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/imposter-syndrome/morning-session-cultivating-a-growth-mindset-part-2.md)
