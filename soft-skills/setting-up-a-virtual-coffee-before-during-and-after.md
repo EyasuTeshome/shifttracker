@@ -43,7 +43,7 @@ Most people are genuinely flattered by these requests and like to help, so don't
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [5 Tips for Non-Awkward Informational Interviews](https://www.themuse.com/advice/5-tips-for-nonawkward-informational-interviews)
-- [What you need to know about a virtual coffee chat](https://www.fullyprepped.com/blog/networking/what-you-need-to-know-about-a-virtual-coffee-chat/)
+- [What you need to know about a virtual coffee chat](https://www.fullyprepped.ca/blog-posts/what-you-need-to-know-about-a-virtual-coffee-chat)
 - [3 Steps to Ask for a Professional Coffee Meeting](https://lanterninstitute.ca/steps-ask-professional-coffee-meeting)
 - [15 Questions to Ask in an Informational Interview](https://www.careercontessa.com/advice/questions-to-ask-informational-interview/)
 - Optional: Install the [Clearbit Connect browser extension](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo) for Google Chrome. It works with Gmail to help find email addresses quickly!
