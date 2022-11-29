@@ -25,9 +25,9 @@ During this morning session, you will practice with one of your peers how to tal
 ### Interview preparation - 10 min
 
 1. Everybody will be an applicant during the exercise, so each of you must follow the steps below:
-    - Identify 2 weaknesses that you can talk about in an interview and write them in [this worksheet](https://docs.google.com/document/d/1l4NG9NC0SQsJ5oTJHqcX__z8VcW6N3GDJRuGaMMUqJA/edit#).
+    - Identify 2 weaknesses that you can talk about in an interview and write them in [this worksheet](https://docs.google.com/document/d/1xLk5D3zgcJE_m8xkM_I5kcOqEVvm2YbS-BCBarXCj3I/edit?usp=sharing).
     - Complete steps 2 and 3 to prepare your answer.
-    - Open the [following checklist for providing feedback](https://docs.google.com/document/d/1izK9QCKhAJTp_tMyZ94hGGdZsJnGPnUqgPSImR1Baf0/edit?usp=sharing) and read the criteria and indicators that will be used to assess your performance. Make any necessary edits to ensure your answer satisfies all requirements.
+    - Open the [following checklist for providing feedback](https://docs.google.com/document/d/1jX3EldUoZQCZbVinBHAACXXPAS6IK2hCzV5apE065o4/edit?usp=sharing) and read the criteria and indicators that will be used to assess your performance. Make any necessary edits to ensure your answer satisfies all requirements.
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 10 minutes.**
     - If there is an odd number of people in your group, one room will have 3 people.
@@ -38,7 +38,7 @@ During this morning session, you will practice with one of your peers how to tal
     - Each of you will play the role of an interviewer once and the role of an applicant once.
 2. Take turns interviewing each other. 
     - The interviewer:
-        - opens the [following checklist for giving advice](https://docs.google.com/document/d/1izK9QCKhAJTp_tMyZ94hGGdZsJnGPnUqgPSImR1Baf0/edit?usp=sharing),
+        - opens the [following checklist for giving advice](https://docs.google.com/document/d/1jX3EldUoZQCZbVinBHAACXXPAS6IK2hCzV5apE065o4/edit?usp=sharing),
         - starts [timer](https://vclock.com/timer/#countdown=00:03:00&date=2022-06-24T17:11:04&sound=xylophone&loop=1), and
         - asks the question: What is your greatest weakness? a first time.
     - **The applicant answers following the tips offered in the article.**
