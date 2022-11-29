@@ -1,23 +1,25 @@
-# Time booked to work on your portfolio
+# Time booked to work on your portfolio or application materials
 
 ### Estimated time: 1h
 
 ## **Description**
 
-In this activity, continue updating your portfolio until it is approved by career coaches. If they request changes, make all the edits and ask for a new review.  
+Now, continue updating your portfolio or your application materials until career coaches approve them. 
 
-You have a **max of 3 reviews.** Remember that polishing your portfolio is a carry-over activity, so you have two weeks to complete it. You will probably work between 6 and 12 hours on this project during this week and the next.
+If coaches request changes, make all the edits and ask for a new review. You have a **max of 3 reviews** for these projects. Consider that:
+- Polishing your behavioral grid, portfolio, LinkedIn profile, GitHub profile, and resume are carry-over activity, so you have two weeks to get the projects approved. The first three are due by the end of Block 2 and the last two, by the end of Block 3.
+- Creating a cover letter is a core requirement and you must complete it in Block 3.
 
 ### How should you use the time booked for making project changes?
 
-As in other projects, we give you flexibility. Use the time that best fits your schedule and lets you get an approved version of your portfolio by the deadline.
+As in other projects, we give you flexibility. Use the time as it best fits your schedule. Your goal is to get an approved version of your portfolio and all application materials by the deadline to avoid a block repetition.
 
 
 ### What should you do if you need more time for project changes than the amount booked?
 
-The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete this project. You must get your portfolio approved by the end of the second week to avoid repeating the block.
+The time booked for the project changes is an estimate, so it is ok if it occasionally takes you longer to complete this project. 
 
-**Remember that the goal is to ensure that your portfolio is ready to help you get an amazing job!**
+**Remember that compelling application materials and a strong portfolio are essential to get an amazing job!**
 
 ---
 
