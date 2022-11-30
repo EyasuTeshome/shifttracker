@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Identify at least three factors about your past that make you unique as a future job searcher / employee.
+- Identify personal skills and attributes that make you unique as a future job searcher / employee.
 
 ### Estimated time: 2h
 
