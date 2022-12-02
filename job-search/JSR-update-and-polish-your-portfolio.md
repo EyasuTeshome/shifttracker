@@ -36,6 +36,19 @@ As you have learned, portfolios come in all sorts of shapes and colors, but soli
 
 Rewatch the video [What makes a good portfolio](https://www.youtube.com/watch?v=3-N6O7DVrbc) to review some examples.
 
+# More examples
+
+A great way to learn what to aim for is by looking at **good examples**. Here are some portfolio websites from other Microverse students we found effective:
+
+- [https://abdulali3468.github.io/MY_PORTFOLIO](https://abdulali3468.github.io/MY_PORTFOLIO/)
+- [https://mwafrika-portfolio-app.herokuapp.com](https://mwafrika-portfolio-app.herokuapp.com/)
+- [https://artbsc1992.github.io/My-Portfolio](https://artbsc1992.github.io/My-Portfolio/)
+- [https://elsonotake.github.io/Portfolio/](https://elsonotake.github.io/Portfolio/)
+
+There are also many other projects found on the internet that you can take inspiration from:
+
+- [Portfolio ideas (GitHub)](https://github.com/Evavic44/portfolio-ideas)
+
 ## Project setup
 
 - Open up the latest version of your portfolio.
