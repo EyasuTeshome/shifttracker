@@ -49,12 +49,15 @@ Analyze and score the following sections of your LinkedIn page:
 
 For each section:
 
-1. Begin by updating the information if necessary. You have developed new projects and mastered new skills since you created your LinkedIn profile!
-2. Read the requirements for the first section in the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1wYhgEHVtL9yixkmTde7058JGcmrd5fywWucFszyE9b8/edit?usp=sharing) carefully.
-3. Analyze whether your LinkedIn page meets each requirement and register your score. Jot down any possible areas of improvement.
-4. Refer to the notes and the suggested learning resources to find ideas for making changes to your LinkedIn page to meet the requirement.
-5. Make the changes to improve your LinkedIn profile.
-6. Continue with the next section.
+1. First, **update** the information. You have developed new projects and mastered new skills since you created your LinkedIn profile!
+2. **Read** the requirements for the first section in the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1wYhgEHVtL9yixkmTde7058JGcmrd5fywWucFszyE9b8/edit?usp=sharing) carefully.
+3. **Analyze** whether your LinkedIn page meets each requirement.
+4.  **Register your score.** Jot down any possible areas of improvement.
+5. **Use** the tips and suggested learning resources to find ideas for improving to your LinkedIn page.
+6. **Make changes** to your LinkedIn profile.
+7. *Continue with the next section.*
+
+Once you believe your LinkedIn page satisfies all the requirements, **submit it to your coach** for review. Don't waste your time and the coaches' by submitting a profile that hasn't been reviewed and updated!
 
 ### Submit your exercise
 
