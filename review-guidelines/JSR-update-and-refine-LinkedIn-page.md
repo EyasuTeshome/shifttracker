@@ -5,13 +5,14 @@ Students will update and refine their LinkedIn profile and receive feedback from
 
 ## Get ready for the review
 
-- This is the [activity with instructions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-update-and-polish-your-LinkedIn-page.md) for job searchers.
-- This is the [worksheet and rubric](https://docs.google.com/document/d/1wYhgEHVtL9yixkmTde7058JGcmrd5fywWucFszyE9b8/edit#heading=h.k1jc0w4sihkw) they used to polish their LinkedIn page.
+- This is the [activity with instructions](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-update-and-polish-your-LinkedIn-page.md) for students. You will be able to score each item through the Dashboard.
+- This is the [worksheet and rubric](https://docs.google.com/document/d/1wYhgEHVtL9yixkmTde7058JGcmrd5fywWucFszyE9b8/edit#heading=h.k1jc0w4sihkw) they use to polish their LinkedIn page.
 
 
 ## Mandatory Requirements
 
-The portfolio should meet all the requirements in [this rubric](https://docs.google.com/document/d/1Id1y_YWkFFdALn4CSoZziBGrI-0JzSzWFH-brI76omc/edit#). Students will have a max of 3 rounds of revisions. In the first and second review, you can request changes.
+The LinkedIn page should meet all the requirements in [this rubric](https://docs.google.com/document/d/1Id1y_YWkFFdALn4CSoZziBGrI-0JzSzWFH-brI76omc/edit#) to be approved. You may omit only those that cannot be met by students because of their personal situation or career.
+
 
 ## Stretch Requirements
 
