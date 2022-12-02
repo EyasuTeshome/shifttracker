@@ -8,18 +8,22 @@
 
 ## **Description**
 
-In this exercise, you will revamp your LinkedIn page to ensure it sets the stage to create a compelling story about you, as a junior developer with the necessary skills to grow in any company. Then you will submit it to a career coach for review and approval. The coach will offer you feedback and request changes if necessary. 
+In this exercise, you will revamp your LinkedIn page to ensure it sets the stage to create a compelling story about you, as a junior developer with the necessary skills to grow in any company. Then, you will submit it to a career coach for review and approval. The coach will offer you feedback and request changes if necessary. 
+
+**Your LinkedIn page must be approved by a career coach to complete the block.**
 
 - **Three rounds of reviews**
-You have a maximum of **three rounds of reviews** to get your portfolio approved, so study the coach’s comments carefully and integrate any changes required.
+You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required. Coaches may take up to 48 hours to review your work and send their feedback.
 - **Two weeks to completion**
-This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible, to have enough time to go through the necessary rounds of revision. Coaches may take up to 48 hours to review your work and send their feedback.
+This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible, to have enough time to go through the necessary rounds of revision. Remember that you may get feedback up to 48 hours after your submission and that you might need to make changes to get youd LinkedIn page approved.
 
 ## A refresher about the relevance of a LinkedIn profile
 
 LinkedIn is one of the most used platforms for hiring professionals, so crafting your profile carefully and keeping it updated and active can impact your chances of being invited to interviews. You can also find job postings on LinkedIn, meet and interact with other professionals, and build your personal brand by sharing your knowledge.
 
-Your LinkedIn page consists of a header, a summarized introduction to who you are, and different sections with specific attributes. You already filled out all these sections during the core program, but before job searching, you must update it and ensure it presents the skillset you bring to a position and your potential to contribute to a company and grow as a software developer.  If you publish posts regularly, your page can also show that you are an active professional.
+Your LinkedIn page consists of a header, a summarized introduction to who you are, and different sections with specific attributes. You already filled out all these sections in a previous module. To prepare you for job searching, you must update it and ensure it presents the skillset you bring to a position and your potential to contribute to a company and grow as a software developer.  Also, if you publish posts regularly, your page can also show that you are an active professional.
+
+A compelling LinkedIn page will help you get invited to interviews!
 
 - Watch [this video](https://www.loom.com/share/34dc0ab9016546e49df5e8d41b01f0ee) where Ana Yuzuva describes how recruiters use Linkedin when searching for talent and offers you 4 tips to optimize your profile.
 - Refresh your memory about the importance of a LinkedIn profile by reading the article [Resume Study: How LinkedIn affects the Interview Chances of Job Applicants](https://www.resumego.net/research/linkedin-interview-chances/).
