@@ -12,7 +12,7 @@ Students will update and refine their portfolio with feedback from their career 
 
 ## Mandatory requirements
 
-The portfolio should meet all the requirements in this rubric. Students will have a max of 3 rounds of revisions. In the first and second review, you can request changes.
+The portfolio should meet all the requirements in [this rubric](https://docs.google.com/document/d/1QCI3eNjdXghP_ZjNVmUZq0DO9hKovbbRp2FsAWdVVuU/edit#). Students will have a max of 3 rounds of revisions. In the first and second review, you can request changes.
 
 ## Stretch requirements
 
