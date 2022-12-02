@@ -1,6 +1,49 @@
 # Preparing your LinkedIn for both keyword searches and hiring managers with the Skills section
 
-### **Add skills, such as Ruby, JavaScript, and pair-programming**
+### **Add skills, such as Ruby, JavaScript, and pair-programming, as well as soft-skills**
+
+Besides your technical skills, highlight your transferable knowledge and skills, especially if you are changing careers. This list include keywords that you can add to your SKills and About sections, to attract more recruiters and HR people by running higher on searches:                      
+- Project Management,
+- Problem-solving, 
+- Time Management,
+- Attention to detail,
+- Creativity, 
+- Collaboration,
+- API, 
+- MVC,
+- Analysis, 
+- Software Development,
+- Amazon Web Services (AWS), 
+- Front End Design, 
+- Back End, 
+- User Interface Design, 
+- PHP, 
+- Java, 
+- CSS, 
+- Ruby on Rails, 
+- HTTP(S) and REST, 
+- Redux, 
+- Kubernetes, 
+- Docker, 
+- Azure, 
+- Ansible, 
+- Spark, 
+- Jenkins, 
+- ASP, 
+- Net, 
+- Node.js, 
+- MongoDB, 
+- Git, 
+- Database, 
+- JQuery, 
+- Debugging, 
+- Unit testing, 
+- Integration testing, 
+- System testing,
+- Deployment, 
+- Maintenance,
+- Object-oriented programming, 
+- Data structures, and Algorithms. 
 
 Unfortunately, unlike other sections, you cannot copy/paste all of your skills at once. Instead, LinkedIn requires that you **copy/paste each skill one at a time**. This might be tedious, but it's an important step, and shouldn't take more than a few minutes.
 
