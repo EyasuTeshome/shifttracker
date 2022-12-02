@@ -12,7 +12,7 @@ Students will update and refine their portfolio with feedback from their career 
 
 ## Mandatory requirements
 
-The portfolio should meet all the requirements in [this rubric](https://docs.google.com/document/d/1Id1y_YWkFFdALn4CSoZziBGrI-0JzSzWFH-brI76omc/edit#). You will be able to score each one in the Dashboard. 
+The portfolio should meet all the requirements in [this rubric](https://docs.google.com/document/d/1Id1y_YWkFFdALn4CSoZziBGrI-0JzSzWFH-brI76omc/edit#). You will be able to score each one in the Dashboard. You may omit only those requirements that cannot be met by students because of their personal situation or career.
 
 ## Stretch requirements
 
