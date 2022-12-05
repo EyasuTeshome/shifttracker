@@ -53,7 +53,7 @@ For each section:
 2. **Read** the requirements for the first section in the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1wYhgEHVtL9yixkmTde7058JGcmrd5fywWucFszyE9b8/edit?usp=sharing) carefully.
 3. **Analyze** whether your LinkedIn page meets each requirement.
 4.  **Register your score.** Jot down any possible areas of improvement.
-5. **Use** the tips and suggested learning resources to find ideas for improving to your LinkedIn page.
+5. **Review** the tips and suggested learning resources to find ideas for improving to your LinkedIn page.
 6. **Make changes** to your LinkedIn profile.
 7. *Continue with the next section.*
 
