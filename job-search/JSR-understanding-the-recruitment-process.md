@@ -43,7 +43,15 @@ Since the recruitment process works like a funnel, with specific screening momen
 
 In the following video, Becky explains how you can stand out as a job searcher:
 
-- [How to stand out as a job seeker](https://www.loom.com/share/b03db89a18c24f8e91716dfb0f9d5b5c) (video)
+[![Watch the video](https://img.youtube.com/vi/dkTIcSCIx8U/0.jpg)](https://www.youtube.com/watch?v=dkTIcSCIx8U)
+
+
+Here are some ways you can stand out as a job seeker:
+- Tailor your application materials to the job posting
+- Match keywords from the job description in your resume/CV and cover letter
+- Make sure your LinkedIn is updated and complete with your full work history
+- Research the company to draw up fantastic questions to ask each person in the interview process
+- Focus on professionalism and communication always. Your technical skills will show themselves, but you have to actively work to show your professionalism.
 
 Complete [**this quiz**](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to reflect on activities you can implement to move through the recruitment funnel when you job search. Your answers will not be graded, but the quiz will help you identify **what you can do to succeed i**n your job search. Make sure to view your score and read our feedback!
 
