@@ -1,7 +1,7 @@
 # Review the LinkedIn Profile
 
 ## Description
-Students will update and refine their LinkedIn profile and receive feedback from their career coach to make sure it meets all requirements before they start job searching. It takes place in the last module of the Core program. Please do an in-depth revision of the portfolio using the rubric and approve it ONLY if it meets all requirements. Request all changes necessary. 
+Students will update and refine their LinkedIn profile and receive feedback from their career coach to make sure it meets all requirements before they start job searching. It takes place in the last module of the Core program. Please do an in-depth revision of the profile using the rubric and approve it ONLY if it meets all requirements. Request all changes necessary. 
 
 ## Get ready for the review
 
