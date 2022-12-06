@@ -1,0 +1,53 @@
+# Understanding the recruitment process
+
+## Learning objectives
+
+- Describe the screening stages in the recruitment process.
+- Identify the key actions a job searcher can implement to move through the recruitment process from a company's perspective.
+
+### Estimated time: .5h
+
+## Description
+
+As you start the job searching process, it is crucial to understand how the recruitment process works, who you will interact with at different stages, and identify what you can do to increase your chances of moving forward.
+
+### Why is it important?
+
+Job searching can be very challenging. Since many candidates apply for each position,  companies must find the one that is fit for the job efficiently. So they filter applicants with strategies designed to optimize the process. Familiarizing yourself with the recruitment process from the company's perspective helps you identify those screening moments and the factors you can control. Thus, you can focus on activities that will help you advance in recruitment and get a fantastic job.
+
+### The recruitment process from a company’s perspective
+
+Watch the following video where Becky Pratt, Microverse’s head of Human Resources, describes with the different stages of the recruitment process and the challenges in each one. 
+
+[![Watch the video](https://img.youtube.com/vi/pS5WA0S9Ymc/0.jpg)](https://www.youtube.com/watch?v=pS5WA0S9Ymc)
+
+**Key takeaways from the video:**
+
+There are several steps to the recruitment process, and it may vary from company to company. Generally, the process is as follows:
+
+1. Application (Resume/CV, cover letter, and often some basic questions to answer upfront)
+2. Recruiter Screening
+3. Hiring Manager interview
+4. Take-home assessment
+5. Final interview
+6. Offer and negotiation
+
+### What can you do to stand out?
+
+Since the recruitment process works like a funnel, with specific screening moments, applicants are filtered based on their:
+
+- Application materials
+- Phone interview
+- Test performance (online or take-home)
+- Live interviews
+
+In the following video, Becky explains how you can stand out as a job searcher:
+
+- [How to stand out as a job seeker](https://www.loom.com/share/b03db89a18c24f8e91716dfb0f9d5b5c) (video)
+
+Complete [**this quiz**](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to reflect on activities you can implement to move through the recruitment funnel when you job search. Your answers will not be graded, but the quiz will help you identify **what you can do to succeed i**n your job search. Make sure to view your score and read our feedback!
+
+
+---
+
+*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
