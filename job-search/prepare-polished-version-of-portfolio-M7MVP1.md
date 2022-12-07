@@ -53,7 +53,7 @@ Analyze and score your portfolio website. You will take a look at **6 types of r
 - Device support
 - Language
 - Proje
-You are probably thinking that these aoo many steps. But you would be surprised at how much a well-polished portfolio will impact your job opportunities!
+You are probably thinking that these are many steps. But you would be surprised at how much a well-polished portfolio will impact your job opportunities!
 
 For each section you need to:
 
@@ -67,15 +67,13 @@ For each section you need to:
 
 After the scoring you should **make improvements** to your project, until you believe it satisfies all requirements.
 
-Only after you’ve done this should you proceed to **submit it to your coach** for review.
+When finished, (1) add a demo link and (2) comments in the worksheet before you **submit it to your coach** for review.
 
 ## Submit your exercise
 
 _Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
-Now go to your Student Dashboard and submit the **link to your portfolio** so your coach can review it and give you feedback.
-
-Please note that you don't need to submit the worksheet, the link to your portfolio!
+Now go to your Student Dashboard and submit the **copied worksheet** (including demo link and comments) so your coach can review it and give you feedback.
 
 ---
 
