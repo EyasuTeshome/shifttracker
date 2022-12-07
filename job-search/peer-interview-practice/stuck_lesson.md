@@ -12,7 +12,7 @@ How should you deal with that? You can always ask your teammates for help. Howev
 Instead, you can provide context and report what you have already tried.
 You can also use the same strategy during your job interviews.
 
-### Gudielines to follow
+### Guidelines to follow
 
 Review the following guidelines that will help you make sure that you set up yourself for success when you are stuck during your job interview.
 
