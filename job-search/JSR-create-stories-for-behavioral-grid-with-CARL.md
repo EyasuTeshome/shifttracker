@@ -17,7 +17,7 @@ Your behavioral grid **must be approved** to complete the block successfully:
 
 ### Why do you need to add stories to your behavioral grid?
 
-Very soon, you will be looking for a job and answering behavioral interview questions that assess your soft skills and cultural fitness by analyzing your past experiences. Since you will be applying to companies with different missions, values, and cultures, it’s handy to have multiple examples to draw from for each behavioral question you might be asked. Stories have a theme and you need to have at hand stories that convey different messages. You can thus select the one that best fits the specific role and company you are applying for.
+Very soon you will be looking for a job and answering behavioral interview questions that assess your soft skills and cultural fitness by analyzing your past experiences. Since you will be applying to companies with different missions, values, and cultures it’s handy to have multiple examples to draw from for each behavioral question you might be asked. Stories have a theme and you need to have at hand stories that convey different messages. You can thus select the one that best fits the specific role and company you are applying for.
 
 ## Exercise
 
@@ -27,7 +27,7 @@ Very soon, you will be looking for a job and answering behavioral interview ques
 
 **Spend 45 minutes working on this exercise**
 
-1. Open [this Behavioral grid template](https://docs.google.com/document/d/1abnpb4XQY2VXdB37C3ViIl1V8-2Hjgtx6biPpkkzM_U/edit?usp=sharing). Make your copy by clicking *"File >> Make a Copy"*, and save it to your own Google Drive.
+1. Open [this behavioral grid template](https://docs.google.com/document/d/1abnpb4XQY2VXdB37C3ViIl1V8-2Hjgtx6biPpkkzM_U/edit?usp=sharing). Make your copy by clicking *"File >> Make a Copy"*, and save it to your own Google Drive.
 2. Follow the instructions in the template and write two stories using the CARL framework. 
 3. Check the spelling and grammar using Grammarly.
 4. Verify that all technologies and proper nouns are correctly capitalized (for example, use "JavaScript" instead of "Javascript", or "Ruby on Rails" instead of "ruby on rails").
