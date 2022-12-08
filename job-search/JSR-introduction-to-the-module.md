@@ -20,9 +20,9 @@ After some introductory lessons about the recruitment process in general, you wi
 - An exercise to identify your top skills and attributes. The first step to “sell” yourself as a software developer is to understand what you have to offer to a company.
 - Lessons and exercises to hone your interviewing skills:
     - In morning sessions, you will continue practicing the strategies to deal with the common issues that you face in technical with your peers. This second look at them, will strengthen your knowledge and master them.
-    - Every day, you will also have a more extended interview practice where you will work on specific interview skills: answering technical & behavioral questions, talking about your projects, and live coding. In some live coding sessions, you will apply the Algo & DS structures that are commonly considered in interviews, so you will refresh your knowledge about them.
-    - In week 1, you will learn about CARL, an alternate format to SAR, and refine your behavioral grid. Throughout the module, you will add more stories throughout the module.
-    - In weeks 2 and 3, you will refresh your knowledge about the specific types of interviews and how to prepare for them.
+    - Every day, you will also have a more extended interview practice where you will work on specific interview skills: answering technical & behavioral questions, talking about your projects, and live coding. In some live coding sessions, you will apply the Algo & DS structures that are commonly considered in int 
+    - You will refresh your knowledge about the specific types of interviews and how to prepare for them.erviews, so you will refresh your knowledge about them.
+    - You will learn about CARL, an alternate format to SAR, and refine your behavioral grid. Throughout the module, you will add more stories throughout the module.
     - Finally, you will also attend an interview with an industry professional interviewer who will assess you. Successful performance in this interview is a requirement to complete the module
 - Projects to strengthen your application materials and online presence:
     - You will update and refine your LinkedIn, portfolio, and GitHub profile, to make sure they present a strong online presence of you, as a software developer.
