@@ -8,45 +8,42 @@
 
 ## Description
 
-In this exercise, you will continue analyzing your transferable skills. You will prioritize and describe them precisely with more precision in your skills chart. So, when you complete this activity you will have a very clear picture of your 5 - 6 top skills and will be able to make sure they are highlighted in your application materials and share them with recruiters during interviews.
+In this exercise you will continue analyzing your transferable skills. You will prioritize and describe them precisely with more precision in your skills chart. So when you complete this activity you will have a very clear picture of your 5 - 6 top skills and will be able to make sure they are highlighted in your application materials and share them with recruiters during interviews.
 
 ### Project setup
 
 1. Open the 5 - 7 stories you created in your copy of the worksheet [Your stories and skills - day 2](https://docs.google.com/document/d/1ZZFhP1g5REMCt4kM9uwyr5DAX7GAvYWWV6ctIXeCDX4/edit#).
-2. Open the  [A checklist of my strongest traits](http://content.randomhouse.com/assets/9780399579653/view.php?id=9780399579653a002) to use as a reference.
+2. Open [A checklist of my strongest traits](http://content.randomhouse.com/assets/9780399579653/view.php?id=9780399579653a002) to use as a reference.
 
 ### Step 4: Identify patterns or priorities
 
 Once you have written 5 - 7 stories and analyzed your skills, you need to discover priorities and patterns. 
 
-- **Priorities**: you should identify the skills that are most important to you. In the job that you choose, you will only apply some of your skills. So when you decide to join a company, you need to consider if you will be able to use and develop those skills that matter to you. And the first step to do this is to know which skills are dearest to you.
-- **Patterns:** you are also looking for the skills you constantly use and in many different situations, not those you applied only once. These are the abilities that you master and differentiate you from others. As Nelson says:  “’Once’ proves nothing; ‘again and again’” is very convincing.
+- **Priorities:** you should identify the skills that are most important to you. In the job that you choose you will only apply some of your skills. So when you decide to join a company you need to consider if you will be able to use and develop those skills that matter to you. And the first step to do this is to know which skills are dearest to you.
+- **Patterns:** you are also looking for the skills you constantly use in many different situations, not those you applied only once. These are the abilities that you mastered and differentiate you from others. As Nelson says: “’Once’ proves nothing; ‘again and again’” is very convincing.
 
-So, after finishing your seven stories (or, at least five) and identifying the skills you evidenced in these situations, it’s time to prioritize them and define your top ten favorite skills. Then you will refine them.
+So after finishing your seven stories (or at least five) and identifying the skills you evidenced in these situations, it’s time to prioritize them and define your top ten favorite skills. Then you will refine them.
 
-**Apply what you have learned.** 
+**Apply what you have learned:** 
 
 1. Copy the list of skills you identified in Table B to the first column in Table C.
-2. Identify the ten most important to you **and** assign them a number in the second column (a) - with 1 for the most relevant skill and 10 for the least one. **Think about their priority for you, not the job market.** We are tempted to think about what companies need because we are looking for a job. Yet, a better starting point for this analysis is what you enjoy more: focusing on those skills will help you thrive professionally.
+2. Identify the ten most important to you **and** assign them a number in the second column (a) - with 1 for the most relevant skill and 10 for the least relevant one. **Think about their priority for you, not the job market.** We are tempted to think about what companies need because we are looking for a job, but a better starting point for this analysis is what you enjoy more: focusing on those skills will help you thrive professionally.
 3. Count the number of times each of your top ten skills appears in your stories and register it in the third column of Table C (b).
 4. Considering your priority and the frequency you used each skill, assign it a final priority rating in the third column (c) - with 1 as the most important one. **You now have a list of your top transferable skills!**
 
 ### Step 5: Dig deeper into your self-management skills or traits
 
-During the recruitment process, and particularly in interviews, you will need to explain your transferable skills and begin able to provide a detailed description of your abilities will help you stand out among other candidates that mention the same skills. As Nelson reminds us: “It is often the self-management skill, the trait, the adjective or adverb that will save your life, during that explanation”. Nelson, explains how to dig deeper into your skills, using “organizing” as an example:
+During the recruitment process and particularly in interviews you will need to explain your transferable skills and being able to provide a detailed description of your abilities will help you stand out among other candidates that mention the same skills. As Nelson reminds us: “It is often the self-management skill, the trait, the adjective or adverb that will save your life, during that explanation.” Nelson explains how to dig deeper into your skills using “organizing” as an example:
 
-<aside>
-📜 You tell us proudly: “I’m good at organizing.” That’s a fine start at defining your skills, but unfortunately it doesn’t yet tell us much. Organizing WHAT? People, as at a party? Nuts and bolts, as on a workbench? Or lots of information, as on a computer?
+📜  *You tell us proudly: “I’m good at organizing.” That’s a fine start at defining your skills, but unfortunately it doesn’t yet tell us much. Organizing WHAT? People, as at a party? Nuts and bolts, as on a workbench? Or lots of information, as on a computer?*
 
-These are three entirely different skills. The one word organizing doesn’t tell us which one is yours. So, please look at your favorite transferable skills, and ask yourself if you want to flesh out any of them with an object—some kind of Data/Information, or some kind of People, or some kind of Thing—plus a self-management skill, or trait or style (adverb or adjective).
+*These are three entirely different skills. The one word organizing doesn’t tell us which one is yours. So, please look at your favorite transferable skills, and ask yourself if you want to flesh out any of them with an object—some kind of Data/Information, or some kind of People, or some kind of Thing—plus a self-management skill, or trait or style (adverb or adjective).*
 
-Why is the trait important here? Well, “I’m good at organizing information painstakingly and logically” and “I’m good at organizing information in a flash, by intuition,” are two entirely different skills. The difference between them is spelled out not in the verb, nor in the object, but in the adjectival or adverbial phrase there at the end. So, expand the definition of any of your ten favorite skills that you choose, in the fashion I have just described.
-
-</aside>
+*Why is the trait important here? Well, “I’m good at organizing information painstakingly and logically” and “I’m good at organizing information in a flash, by intuition,” are two entirely different skills. The difference between them is spelled out not in the verb, nor in the object, but in the adjectival or adverbial phrase there at the end. So, expand the definition of any of your ten favorite skills that you choose, in the fashion I have just described.*
 
 So, for each skill, you must reflect on the specific conditions where your performance excels and state them explicitly. Ready?
 
-**Apply what you have learned.** 
+**Apply what you have learned:** 
 
 1. Look again carefully at each of your 10 top skills.
 2. Identify the adjectives or phrases that can help you precisely describe your capacity. You want to specify aspects such as: What? How? When? Use [this checklist](http://content.randomhouse.com/assets/9780399579653/view.php?id=9780399579653a002) as a reference.
