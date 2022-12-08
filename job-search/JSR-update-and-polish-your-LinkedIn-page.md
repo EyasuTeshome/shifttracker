@@ -8,20 +8,19 @@
 
 ## **Description**
 
-In this exercise, you will revamp your LinkedIn page to ensure it sets the stage to create a compelling story about you, as a junior developer with the necessary skills to grow in any company. Then, you will submit it to a career coach for review and approval. The coach will offer you feedback and request changes if necessary. 
+In this exercise you will revamp your LinkedIn page to ensure it sets the stage to create a compelling story about you as a junior developer with the necessary skills to grow in any company. Then you will submit it to a career coach for review and approval. The coach will offer you feedback and request changes if necessary. 
 
 **Your LinkedIn page must be approved by a career coach to complete the block.**
 
-- **Three rounds of reviews**
-You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required. Coaches may take up to 48 hours to review your work and send their feedback.
-- **Two weeks to completion**
-This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible, to have enough time to go through the necessary rounds of revision. Remember that you may get feedback up to 48 hours after your submission and that you might need to make changes to get youd LinkedIn page approved.
+- **Three rounds of reviews:** You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required. Coaches may take up to 48 hours to review your work and send their feedback.
+
+- **Two weeks to completion:** This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have enough time to go through the necessary rounds of revision. Remember that you may get feedback up to 48 hours after your submission and that you might need to make changes to get youd LinkedIn page approved.
 
 ## A refresher about the relevance of a LinkedIn profile
 
-LinkedIn is one of the most used platforms for hiring professionals, so crafting your profile carefully and keeping it updated and active can impact your chances of being invited to interviews. You can also find job postings on LinkedIn, meet and interact with other professionals, and build your personal brand by sharing your knowledge.
+LinkedIn is one of the most used platforms for hiring professionals so crafting your profile carefully and keeping it updated and active can impact your chances of being invited to interviews. You can also find job postings on LinkedIn, meet and interact with other professionals, and build your personal brand by sharing your knowledge.
 
-Your LinkedIn page consists of a header, a summarized introduction to who you are, and different sections with specific attributes. You already filled out all these sections in a previous module. To prepare you for job searching, you must update it and ensure it presents the skillset you bring to a position and your potential to contribute to a company and grow as a software developer.  Also, if you publish posts regularly, your page can also show that you are an active professional.
+Your LinkedIn page consists of a header, a summarized introduction to who you are, and different sections with specific attributes. You already filled out all these sections in a previous module. To prepare for job searching you must update it and ensure it presents the skillset you bring to a position and your potential to contribute to a company and grow as a software developer. Also, if you publish posts regularly, your page can also show that you are an active professional.
 
 A compelling LinkedIn page will help you get invited to interviews!
 
@@ -32,6 +31,7 @@ A compelling LinkedIn page will help you get invited to interviews!
 
 - Open up your LinkedIn profile.
 - Open the [Assess your LinkedIn profile rubric and worksheet](https://docs.google.com/document/d/1wYhgEHVtL9yixkmTde7058JGcmrd5fywWucFszyE9b8/edit?usp=sharing)
+
 ## **Exercise**
 
 ### **Instructions**
@@ -39,12 +39,14 @@ A compelling LinkedIn page will help you get invited to interviews!
 Analyze and score the following sections of your LinkedIn page:
 
 - Header
-- About, Featured, Activity
-- Experience
-- Education
-- Skills
-- Recommendations
-- Projects and publications
+- About section
+- About — Featured subsection
+- About — Activity subsection
+- Experience section
+- Education section
+- Skills section
+- Recommendations section
+- Projects and publications sections
 - Spelling, grammar, and organization
 
 For each section:
