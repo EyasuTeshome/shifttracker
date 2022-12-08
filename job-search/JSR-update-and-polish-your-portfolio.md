@@ -23,10 +23,8 @@ Your portfolio **must be approved** to complete the block successfully:
 
 Your portfolio website serves 2 purposes:
 
-1. **Convince employers**
-Employers want skilled developers. A portfolio website proves that you have the skills it takes to do the job.
-2. ****************Differentiate yourself****************
-The labor market is a competition. With your unique portfolio website you can show potential employers who you are and why they should work with you (and not others).
+1. **Convince employers:** Employers want skilled developers. A portfolio website proves that you have the skills it takes to do the job.
+2. **Differentiate yourself:** The labor market is a competition. With your unique portfolio website you can show potential employers who you are and why they should work with you and not others.
 
 As you have learned, portfolios come in all sorts of shapes and colors, but solid and compelling ones share four attributes:
 
@@ -42,7 +40,6 @@ Rewatch the video [What makes a good portfolio](https://www.youtube.com/watch?v=
 A great way to learn what to aim for is by looking at **good examples**. Here are some portfolio websites from other Microverse students we found effective:
 
 - [https://abdulali3468.github.io/MY_PORTFOLIO](https://abdulali3468.github.io/MY_PORTFOLIO/)
-- [https://mwafrika-portfolio-app.herokuapp.com](https://mwafrika-portfolio-app.herokuapp.com/)
 - [https://artbsc1992.github.io/My-Portfolio](https://artbsc1992.github.io/My-Portfolio/)
 - [https://elsonotake.github.io/Portfolio/](https://elsonotake.github.io/Portfolio/)
 
