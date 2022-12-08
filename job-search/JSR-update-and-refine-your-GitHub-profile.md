@@ -26,6 +26,12 @@ Your GitHub profile will be used during the recruitment process, recruiters will
 
 Read the article [4 reasons to start or update your GitHub profile](https://www.wearedevelopers.com/magazine/4-reasons-to-start-or-update-your-github-profile) if you have any questions about why this profile is essential.
 
+## Attributes and an example of a good GitHub profile 
+
+A compelling profile provides information for the purposes above in your short bio, personal README, and the repositories for the different projects you have coded. The [GitHub rubric](https://docs.google.com/document/d/1bKRDHlZMUc9xIQrktnoRMs8Z6e3k_fdeFipr1IT1cWw/edit#) that you will use in this activity, provides a detailed list of attributes. Yet, nothing like a realy example to show !, but now, take a look at and excellent example. It belongs to a Micronaut whose profile helped him get an amazing job.
+
+- [Uduak Essien’s GitHub profile](https://github.com/acushlakoncept)
+
 ## Project setup
 
 - Open up your GitHub profile.
