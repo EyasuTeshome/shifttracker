@@ -31,7 +31,7 @@ After some introductory lessons about the recruitment process in general, you wi
 ### How will you be assessed?
 
 - A career coach will review your behavioral grid and application materials, and approve them if they meet all the requirements in the corresponding rubric. You have a maximum of 3 rounds of review in each case to avoid a block repetition.
-- The industry professional mock interviewer will assess your performance in the mock interview. You will need to repeat the module if you obtain a score of “Definitely wouldn’t hire”, based on your answers to technical and behavioral questions.
+- The industry professional mock interviewer will assess your performance in the mock interview. You will need to repeat the module if your performance does not satisfy minimum requirements. 
 
 ---
 
