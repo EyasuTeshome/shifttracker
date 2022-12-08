@@ -2,7 +2,7 @@
 
 ## Learning objective:
 
-- Answer common behavioral questions in the CARL framework
+- Answer common behavioral questions in the CARL framework.
 
 ### **Estimated time**: .5h
 
@@ -20,7 +20,7 @@ CARL considers four elements in answers to a behavioral question.
 
 ![CARL elements.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/images/CARL%20elements.png)
 
-Watch the following video where coach Sandra Lopez explains the CARL format. 
+Watch the following video where coach Sandra Lopez explains the CARL format (click the image below to load the video). 
 
 [![Watch the video](https://img.youtube.com/vi/D5BnAGNQ1OI/0.jpg)](https://www.youtube.com/watch?v=D5BnAGNQ1OI)
 
@@ -38,7 +38,7 @@ Watch the following video where coach Sandra Lopez explains the CARL format.
 
 ### Guiding questions and examples for the 4 elements
 
-In the following Web page from Edinburgh University, review the guiding questions you can use when thinking about each element of the CARL model and analyze some examples:
+In the following webpage from Edinburgh University, review the guiding questions you can use when thinking about each element of the CARL model and analyze some examples:
 
 - [The CARL model of reflection](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/carl#:~:text=better%20for%20you.-,Context,-Here%20you%20will)
 
