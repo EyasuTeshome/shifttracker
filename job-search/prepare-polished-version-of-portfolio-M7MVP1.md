@@ -1,87 +1,80 @@
-# Prepare a polished version of your portfolio to start the revision process
+# Prepare a polished version of your portfolio to start job searching
 
 ## **Learning objectives**
 
-- Build a personal portfolio site.
+- Improve your personal portfolio site.
 - Add a new project to your portfolio.
 
-### **Estimated time:  2h**
+### **Estimated time: 4h**
 
 ## **Description**
 
-Today, you will refine your portfolio website and update the projects you have included, before submitting it to your coach for review. Your coach will send you feedback and, throughout the week, you will work together to polish it and make sure that it represents your skills in a compelling way.
+In this activity, you will make your portfolio website **more unique** and update your showcased projects in order to ensure it compellingly represents your skills and is ready share with recruiters.
+
+After you’ve upgraded your website, you will then submit it to a career coach for review. Your coach will send you feedback and request changes if necessary.
+
+- **Three rounds of reviews**
+  - You have a maximum of **three rounds of reviews** to get your portfolio approved, so study the coach’s comments carefully and integrate any changes required.
+- **Two weeks to completion**
+  - This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version by the Saturday of the first week to have time to go through the necessary rounds of revision.
 
 ## Refresher on what makes a good portfolio
 
-Your portfolio is a tool that will help you convince employers that you have the skills it takes to do the job because it provides evidence of what you are capable of. As you have learned, portfolios come in all sorts of shapes and colors, but solid and compelling ones share four attributes:
+Your portfolio website serves 2 purposes:
+
+1. **Convince employers**
+   - Employers want skilled developers. A portfolio website proves that you have the skills it takes to do the job.
+2. **Differentiate yourself**
+   - The labor market is a competition. With your unique portfolio website you can show potential employers who you are and why they should work with you (and not others).
+
+As you have learned, portfolios come in all sorts of shapes and colors, but solid and compelling ones share four attributes:
 
 - They are **simple**: there’s no extraneous information, only basic background information, contact information, and a project showcase.
 - They are **visual**: they use screenshots, mockups, live demos, and other visual tools to show the viewer what you’re capable of making.
 - They are **thorough**: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about the work, projects, and history.
-- And they **look good**: they use 1-3 elegant fonts, focus on 2-4 different colors, use HD images, and use color palettes that are attractive and harmonious.
+- And they **look good**: they use 1-3 elegant fonts, focus on 2-4 different colors, use high quality images, and use color palettes that are attractive and harmonious.
 
 Rewatch the video [What makes a good portfolio](https://www.youtube.com/watch?v=3-N6O7DVrbc) to review some examples.
 
 ## Project setup
 
-- Open up the latest version of your portfolio.
-- Open the [Assess your portfolio worksheet](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit?usp=sharing).
+- Open up the **latest version** of your portfolio website.
+- Open the [Assess your portfolio rubric and worksheet](https://docs.google.com/document/d/1QCI3eNjdXghP_ZjNVmUZq0DO9hKovbbRp2FsAWdVVuU/).
 
 ## **Exercise**
 
 ### **Instructions**
 
-For software developers, building a strong portfolio will require several rounds. This first exercise aims to ensure that you share the best possible version of your portfolio with your career coach. Your coach will identify the specific aspects that you need to improve and both of you will work on them during the week.
+Analyze and score your portfolio website. You will take a look at **6 types of requirements**:
 
-As in the case of other application materials, an effective strategy is to go through your portfolio several times, focusing on a particular attribute during each pass, such as content, design, or functionality. Using the different sections of the [Assess your portfolio rubric and worksheet](https://docs.google.com/document/d/1g01Ktk1TwRq4cqzzpvWgQXtQDOyIHEZtcwof1IUBqA4/edit?usp=sharing) as a reference, analyze whether or not you met the requirements of a good portfolio and score yourself. Identify any aspects that need to be improved and modify them.
+- Design
+- Content
+- Interactivity
+- Device support
+- Language
+- Proje
+You are probably thinking that these are many steps. But you would be surprised at how much a well-polished portfolio will impact your job opportunities!
 
-1. Assess the **design** of your portfolio.
-     - Read the requirements listed in section 1 of the worksheet and familiarize yourself with the attributes of a well-designed portfolio. 
-     - Now, go through your portfolio looking at the **design or how it looks.** Open each screen on a computer and analyze whether or not they meet the requirements. 
-     - Select the score that best applies to your portfolio and make notes of what can be improved.
-     - Using the recommended learning resources as a reference, make the necessary changes to improve the design of your portfolio. 
+For each section you need to:
 
-2. Verify that your portfolio is **responsive**.
-     - Read the requirements listed in section 2 of the worksheet and familiarize yourself with the attributes of a responsive portfolio.
-     - Open each section of your portfolio on a mobile device or use an emulator like mobiReady to check how it looks on screens of different sizes. 
-     - Select the score that best applies to your portfolio and make notes of what can be improved.
-     - If necessary, modify your portfolio to make it responsive.
+1. **Read** the requirements carefully.
+2. **Compare** each requirement with your portfolio website.
+3. **Identify** if your portfolio meets each requirement.
+4. **Add** your assessment in the “Score and areas of improvement” (see example in the rubric). Include any possible areas of improvement.
+5. Make **use** of the suggested resources (or any other ones within the Microverse curriculum).
+6. **Improve** your portfolio website.
+7. _Move on to the next section and repeat!_
 
-3. Analyze the **projects** you have included and what they say and show about you as a software developer. 
-     - Read section 3 of the worksheet to familiarize yourself with the recommended criteria that the projects included in your portfolio should meet.
-     - Open each of the projects included in your portfolio. Carefully read all the information you have included about each project and verify that there are links to the respective GitHub repository and to live demos, when possible. 
-     - Select the score that best applies to your portfolio and identify the changes that you need to make in the projects. Consider both modifying a project if necessary, and editing the content of the projects you have included.
-     - Make any necessary changes in the projects included in your portfolio.
+After the scoring you should **make improvements** to your project, until you believe it satisfies all requirements.
 
-4. Verify the **functionality and links** of your portfolio.
-     - Read section 4 of the worksheet to familiarize yourself with the requirements that your portfolio should meet considering working links and functionality. 
-     - Open each screen once again and verify that all the elements included work properly:
-     - Select the score that best applies to your portfolio. Identify broken links or functional aspects to improve.
-     - Fix any broken links, decrease image file sizes and make the changes required for all pages to load in less than 3 seconds.
-
-5. Check other **important details** in your portfolio.
-     - Read section 5 of the worksheet to familiarize yourself with the other important details of your portfolio.
-     - Go through your portfolio one more time to look for these important details. 
-     - Select the score that best applies to your portfolio and identify details to improve.
-     - Add any important details that are missing to your portfolio.
-   
-6. Finally, revise the **text** that you included in your portfolio! 
-     - Read section 6 of the worksheet to familiarize yourself with the criteria that the text included in your portfolio should meet. 
-     - Open each section of your portfolio and read the text carefully. Make sure that sentences state complete ideas and that each idea is clearly stated. 
-     - Select the score that best applies to your portfolio and identify mistakes.
-     - Make any necessary edits in the text, identify any grammar or spelling errors, and correct them.
-
-You are probably thinking that these are too many steps. Well, you will be surprised at how much your portfolio will impact your job opportunities! 
-
-**Your portfolio demonstrates to employers the quality of your products and shows them that you can take care of details, so it’s worth it to make sure there are no errors**. 
+When finished, (1) add a demo link and (2) comments in the worksheet before you **submit it to your coach** for review.
 
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
-Now go to your Student Dashboard and submit the **link to your portfolio** so that your coach can review it and give you feedback. Remember that you don't need to submit the worksheet and that you must submit your material by Wednesday of the week it's due so that career coaches can review it on time.
+Now go to your Student Dashboard and submit the **copied worksheet** (including demo link and comments) so your coach can review it and give you feedback.
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
