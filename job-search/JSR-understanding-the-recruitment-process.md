@@ -55,6 +55,10 @@ Here are some ways you can stand out as a job seeker:
 
 ### Who will you talk to in the interview process?
 
+Companies organize the interview process in different ways, but all of them include several steps, where you talk with different members of the organization. If you know identify whom you will talk to and what information they are looking for, you can prepare yourself better for the interviews and increase your chances of moving through the process. 
+
+Remember that each step is used to filter out candidates!
+
 [![Watch the video](https://img.youtube.com/vi/jLJXFd_I7Ow/0.jpg)](https://www.youtube.com/watch?v=jLJXFd_I7Ow)
 
 Each person you speak to in the interview process will have a different angle and different interests:
