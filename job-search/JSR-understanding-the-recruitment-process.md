@@ -53,6 +53,21 @@ Here are some ways you can stand out as a job seeker:
 - Research the company to draw up fantastic questions to ask each person in the interview process
 - Focus on professionalism and communication always. Your technical skills will show themselves, but you have to actively work to show your professionalism.
 
+### Who will you talk to in the interview process?
+
+[![Watch the video](https://img.youtube.com/vi/jLJXFd_I7Ow/0.jpg)](https://www.youtube.com/watch?v=jLJXFd_I7Ow)
+
+Each person you speak to in the interview process will have a different angle and different interests:
+
+1. Recruiter - looking for baseline technical skills, professionalism, and communication.
+2. Hiring manager - looking for deep technical skills, team dynamics, and how it would be to work with you on a daily basis.
+3. Team and/or important stakeholders - how you collaborate, communicate, and how it would be to work with you on a daily basis.
+4. Organizational leader - how you will add to the future of the organization and what your growth/development opportunity is.
+
+Throughout the whole process, you should also identify what you want to learn from each person you speak to as well. Tailor your questions to that person so you can get the most out of the interview process.
+
+### So, what can you do to move successfully through the recruitment process?
+
 Complete [**this quiz**](https://docs.google.com/forms/d/e/1FAIpQLScMJfJhQdDEdQ4BD6VIOXz9zGTjWFWloiLgtxaIqvtYYD4Z0A/viewform?usp=sf_link) to reflect on activities you can implement to move through the recruitment funnel when you job search. Your answers will not be graded, but the quiz will help you identify **what you can do to succeed i**n your job search. Make sure to view your score and read our feedback!
 
 
