@@ -25,7 +25,6 @@ Very soon you will be looking for a job and answering behavioral interview quest
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
-**Spend 45 minutes working on this exercise**
 
 1. Open [this behavioral grid template](https://docs.google.com/document/d/1abnpb4XQY2VXdB37C3ViIl1V8-2Hjgtx6biPpkkzM_U/edit?usp=sharing). Make your copy by clicking *"File >> Make a Copy"*, and save it to your own Google Drive.
 2. Follow the instructions in the template and write two stories using the CARL framework. 
