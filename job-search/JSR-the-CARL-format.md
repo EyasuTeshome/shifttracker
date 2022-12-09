@@ -2,7 +2,7 @@
 
 ## Learning objective:
 
-- Answer common behavioral questions in the CARL framework.
+- Answer common behavioral questions in the CARL format.
 
 ### **Estimated time**: .5h
 
