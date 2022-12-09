@@ -20,6 +20,8 @@ In this lesson, you will practice your **live coding skills** focusing on one ou
 
 ## Exercise
 
+> 💡 Please make use of the [following rubric](https://docs.google.com/document/d/18oP47pnzkLsy01T6220CvaxQhbhh061XmC8tTqVkYOQ) while you go through the exercise.
+
 The best way to improve your live coding skill is to practice often. When better than in a mock interview? Together with a peer you are instructed to **choose one data structure to focus on** and then solve the challenge **using our recommended 4 step approach**. Select one person and follow the instructions:
 
 1. Choose a data structure or algorithm to focus on

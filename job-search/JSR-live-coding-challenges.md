@@ -53,6 +53,8 @@ Imagine you're asked to solve the following coding challenge: [Two Sum](https://
 
 ## Exercise
 
+> 💡 Please make use of the [following rubric](https://docs.google.com/document/d/18oP47pnzkLsy01T6220CvaxQhbhh061XmC8tTqVkYOQ) while you go through the exercise.
+
 The best way to improve your live coding skill is to practice often. When better than in a mock interview? Together with a peer you are instructed to:
 
 1. Decide who is going to be the interviewer and interviewee

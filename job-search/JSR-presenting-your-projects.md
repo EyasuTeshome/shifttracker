@@ -53,6 +53,8 @@ _(only continue from here if your audience is technical or if they are intereste
 
 ## Exercise
 
+> 💡 Please make use of the [following rubric](https://docs.google.com/document/d/1xiSBJv6G8VK1g9c-P8YScDzGuOK5Bho6kr34wmnz2fo/) while you go through the exercise.
+
 This exercise is done with a peer in a **mock interview setting**. Select one person to start and follow the instructions:
 
 1. Provide a high level description - **(5 min)**

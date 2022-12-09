@@ -57,6 +57,8 @@ Which answer is a better display of expertise? Probably the second one!
 
 ## Exercise
 
+> 💡 Please make use of the [following rubric](https://docs.google.com/document/d/16Ee5kuxbSGMEBSAxdQJrukoa5f01Z7w9RSMPGq0QEYY/) while you go through the exercise.
+
 Now that you've learned a better approach to answering technical questions, it's time to practice. When better than in a mock interview? Select one person and follow the instructions:
 
 1. Collect a set of questions that will be used as interview questions - **(5 min)**
