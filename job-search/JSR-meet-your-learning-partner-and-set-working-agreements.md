@@ -9,13 +9,13 @@
 
 ## Description
 
-The interview practice in this module is designed for you to meet and work with a partner every day. You will hold 2 hours, in which you will complete structures exercises that target the different kind of interviews. You will give each other feedback on your performance, using a checklist. In this activity, you will meet with your partner to connect with each other, establish working agreements and define the schedule for this week’s meetings. 
+The interview practice in this module is designed for you to meet and work with a partner every day. You will hold 2 hours, in which you will complete structures exercises that target the different kind of interviews. You will give each other feedback on your performance using a checklist. In this activity you will meet with your partner to connect with each other, establish working agreements, and define the schedule for this week’s meetings. 
 
 ### Begin with an icebreaker
 
-For interview practice, it’s important to feel comfortable and safe. To know that it’s OK to make mistakes, because you can learn from them and hone your skills to answer questions. That your partner is a colleague that will help you and won’t judge you. So, you need to connect with your partner as a human being.
+For interview practice it’s important to feel comfortable and safe, to know that it’s okay to make mistakes because you can learn from them and hone your skills to answer questions, and that your partner is a colleague that will help you and won’t judge you. So you need to connect with your partner as a human being.
 
-Spend some time getting to know each other. Share information about yourself that you don’t know. You can use your own questions. Or, you can use the following questions to talk with your new partners and get to know each other for 5 minutes.
+Spend some time getting to know each other. Share information about yourself that you don’t know. You can use your own questions or you can use the following questions to talk with your new partners and get to know each other for 5 minutes.
 
 - [156 Icebreaker questions](https://snacknation.com/blog/icebreaker-questions/)
 
