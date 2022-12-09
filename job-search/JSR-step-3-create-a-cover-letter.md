@@ -1,4 +1,4 @@
-# Step 3: Create your cover letter
+# Step 3: Create a cover letter for your job application
 
 ## Learning objectives
 
