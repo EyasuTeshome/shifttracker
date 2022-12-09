@@ -8,7 +8,7 @@
 
 ## Description
 
-On Wednesday of the first and second week in this Module at XX UTC+1 and XX UTC-6, the technical curriculum designers will lead a workshop for students to practice technical questions. Register today to attend these workshops!
+On Wednesday of the first and second week in this Module at **17:00 UTC+1 and 10:00 UTC-6**, the technical curriculum designers will lead a 1.5 hour workshop for students to practice technical interviews. Register today to attend these workshops!
 
 ### Why is it important?
 
