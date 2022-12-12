@@ -12,7 +12,7 @@ In this exercise, you will create two new stories for your behavioral grid using
 
 Your behavioral grid **must be approved** to complete the block successfully:
 
-- This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 48 hours to send you their feedback.
+- This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 4 days to send you their feedback.
 - You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required.
 
 ### Why do you need to add stories to your behavioral grid?
