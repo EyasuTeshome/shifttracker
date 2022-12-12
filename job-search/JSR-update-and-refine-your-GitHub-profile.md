@@ -13,7 +13,7 @@ Now, it’s time to focus on your GitHub profile and submit it to your coach for
 Remember that your GitHub profile **must be approved** to complete the block successfully and you have:
 
 - **Three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required
-- **Two weeks** to get your profile approved. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision.
+- **Two weeks** to get your profile approved. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 4 days to send you their feedback.
 
 ## Why is a GitHub profile important?
 
