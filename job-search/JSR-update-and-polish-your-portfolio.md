@@ -16,7 +16,7 @@ After you’ve upgraded your website, you will then submit it to a career coach 
 
 Your portfolio **must be approved** to complete the block successfully:
 
-- This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 48 hours to send you their feedback.
+- This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 4 days to send you their feedback.
 - You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required.
 
 ## Refresher on what makes a good portfolio
