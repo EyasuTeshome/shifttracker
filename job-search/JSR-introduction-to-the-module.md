@@ -33,6 +33,11 @@ After some introductory lessons about the recruitment process in general, you wi
 - A career coach will review your behavioral grid and application materials, and approve them if they meet all the requirements in the corresponding rubric. You have a maximum of 3 rounds of review in each case to avoid a block repetition.
 - The industry professional mock interviewer will assess your performance in the mock interview. You will need to repeat the module if your performance does not satisfy minimum requirements. 
 
+
+### An final note about workload
+
+We know you are probably exhausted from the technical modules and the Final Capstone. This module has lighter workload to help you catch up your energies as you prepare for job searching.
+
 ---
 
 *If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
