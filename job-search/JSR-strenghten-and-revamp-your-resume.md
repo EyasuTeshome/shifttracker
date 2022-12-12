@@ -14,7 +14,7 @@ In this project, you will prepare the **strongest possible version** of your res
 Then, you will submit your resume to a career coach for review and approval. Remember:
 
 - You will have a max 3 rounds of review.
-- This activity is a carry-over, so you can complete it in two weeks.
+- This activity is a carry-over, so you can complete it in two weeks. We recommend you turn in your first version as soon as possible. Coaches might take up to 4 days to send you their feedback.
 
 ## **Refresher: the three main components of a resume**
 
