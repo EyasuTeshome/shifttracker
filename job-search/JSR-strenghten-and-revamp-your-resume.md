@@ -78,6 +78,8 @@ For each section, you need to:
 6. **Improve** your resume.
 7. *Move on to the next section and repeat!*
 
+Make sure that your GDoc is configured to be shared with "anyone with the link" and allow comments. In this way, the coach will be able to give you specific feedback if necessary. 
+
 Your resume and professional profiles (LinkedIn and GitHub) have a similar structure and present the same information. **Keep a record of all the edits to your resume so that you can integrate them also into these profiles.**
 
 ### Submit your exercise
