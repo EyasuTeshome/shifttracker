@@ -12,7 +12,7 @@ Now, it’s time to focus on your GitHub profile and submit it to your coach for
 
 Remember that your GitHub profile **must be approved** to complete the block successfully and you have:
 
-- **Three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required
+- **Two rounds of reviews**, so study the coach’s comments carefully and integrate any changes required
 - **Two weeks** to get your profile approved. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 4 days to send you their feedback.
 
 ## Why is a GitHub profile important?
@@ -62,7 +62,7 @@ Template to copy: [Assess your GitHub profile rubric](https://docs.google.com/do
 
 Now go to your Student Dashboard and submit the **link to your GitHub Profile** so your coach can review it and give you feedback. 
 
-Remember that coaches may take up to 48 hours to review your assignment and send their comments, so submit your profile as soon as possible. You may need the 3 reviews!
+Remember that coaches may take up to 4 days to review your assignment and send their comments, so submit your profile as soon as possible. You may need the 2 reviews!
 
 Please note that you don't need to submit the worksheet, just the link to your profile! 
 
