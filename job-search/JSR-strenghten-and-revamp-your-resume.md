@@ -22,7 +22,7 @@ Review this video lesson to make sure you understand the key attributes of a com
 
 - [Learn about the three main components of a strong resume (video lesson)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/learn-about-the-three-main-components-of-a-strong-resume-video-lesson.md)
 
-## Resume templates and examples
+## Resume examples
 
 Looking at examples is a good way to imagine how your own resume should look like. Study the following resumes that present the candidates effectively.
 
@@ -47,7 +47,7 @@ With this idea in mind, refresh your knowledge about resume formats and look aga
 ## Project setup
 
 - Open up the latest version of your resume in Google Docs.
-- Open the [resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit).
+- Open the [Resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit).
 
 ## **Exercise**
 
@@ -55,7 +55,7 @@ With this idea in mind, refresh your knowledge about resume formats and look aga
 
 ### **Instructions**
 
-Analyze and score your resume carefully using the rubric. Whenever you find it doesn't meet a requirement, make the necessary changes You will focus on 5 **types of requirements**:
+Analyze and score your resume carefully using the rubric. Whenever you find it doesn't meet a requirement, make the necessary changes You will focus on 6 **types of requirements**:
 
 - Template
 - Summary
@@ -64,7 +64,9 @@ Analyze and score your resume carefully using the rubric. Whenever you find it d
 - Education section
 - Formating
 
-There are only 5 sections but some include many requirements! So this activity will take some time. We want to ensure that your materials help you stand out and be invited to interviews. Why wait until the absence of invitations makes you wonder if your resume is strong? Our career coaches will provide you with feedback to help you create a strong resume now. 
+Please not that there are only 6 sections, but **some of them include many requirements!** 
+
+So this activity will take some time. We want to ensure that your materials help you stand out and be invited to interviews. Why wait until the absence of invitations makes you wonder if your resume is strong? Our career coaches will provide you with feedback to help you create a strong resume now. 
 
 For each section, you need to:
 
