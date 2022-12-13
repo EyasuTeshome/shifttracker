@@ -47,7 +47,7 @@ With this idea in mind, refresh your knowledge about resume formats and look aga
 ## Project setup
 
 - Open up the latest version of your resume in Google Docs.
-- Open the [Resume rubric](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit).
+- Open the [Resume rubric](https://docs.google.com/document/d/1Zbluw7oamzhFy40XR3nzbs6ZayK-iKEa2Y3AMJ1QDWY/edit?usp=sharing).
 
 ## **Exercise**
 
