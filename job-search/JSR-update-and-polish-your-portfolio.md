@@ -35,7 +35,7 @@ As you have learned, portfolios come in all sorts of shapes and colors, but soli
 
 Rewatch the video [What makes a good portfolio](https://www.youtube.com/watch?v=3-N6O7DVrbc) to review some examples.
 
-# More examples
+## Learn by example
 
 A great way to learn what to aim for is by looking at **good examples**. Here are some portfolio websites from other Microverse students we found effective:
 
@@ -47,7 +47,7 @@ There are also many other projects found on the internet that you can take inspi
 
 - [Portfolio ideas (GitHub)](https://github.com/Evavic44/portfolio-ideas)
 
-## Project setup
+# Project setup
 
 - Open up the latest version of your portfolio.
 - Open the [Assess your portfolio rubric and worksheet](https://docs.google.com/document/d/1QCI3eNjdXghP_ZjNVmUZq0DO9hKovbbRp2FsAWdVVuU/).
