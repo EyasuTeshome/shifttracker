@@ -80,7 +80,7 @@ Refresh your memory about [Using Huntr to track your job search](https://github.
 2. Using the information from Table A, select at least one job application you want to apply for in this module, but not more than 3. Since you are learning the process, it’s important to take some time to study the best practices for each step and that requires time. If you decide that none of the job postings you have analyzed are worth it, go back to 1.1 and look for another job opening.
 3. Add the job listing you selected in the previous step to your Huntr board. The easiest way to do this is using the [Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en). You can also add it manually. Refer to the [Quickstart guide](https://blog.huntr.co/huntr-quickstart-guide/#:~:text=Add%20jobs%20from%20any%20website,save%20and%20you're%20done!) if necessary.
 
-**Exercise template to copy:** [Step-by-step guide for submitting a job application](https://docs.google.com/document/d/1bz0Ute5_3onmFAM-coVFM7zRX4MoC-XZwq6xRSGN2E4/edit?usp=sharing).
+**Exercise template to copy:** [First steps to submitting a job application](https://docs.google.com/document/d/1bz0Ute5_3onmFAM-coVFM7zRX4MoC-XZwq6xRSGN2E4/edit?usp=sharing).
 
 ### Submit your exercise
 
