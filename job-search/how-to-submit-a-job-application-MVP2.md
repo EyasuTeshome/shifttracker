@@ -17,7 +17,7 @@ In this exercise, you will submit a job application and refresh your knowledge a
 Submitting job applications is a task you will perform every day when you are job searching. The critical steps in this process are: 
 - finding the job openings 
 - analyzing them to decide if it’s worth it for you to apply 
-- researching the position and the conmpany
+- researching the position and the company
 - customizing your application materials 
 - sending the application
 
