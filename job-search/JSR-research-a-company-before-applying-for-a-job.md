@@ -80,7 +80,7 @@ Online reviews and news allow us to compare what the company says about itself w
 2. Do a Google search. Read through the headlines and scan any useful article to answer the questions you want to research.
 3. Add any relevant findings for your questions in the second column B in Table B. 
 
-### 2.4 Identify questions that you want to ask during interviews
+### 2.4 Identify questions to ask during interviews
 
 Finally, it’s important to analyze any additional information that you want to ask during your interviews, to get a thorough picture of the company. 
 
