@@ -19,18 +19,32 @@ Gathering information about the company to which you are applying to is useful f
     - plan questions and comments for your interactions with different people in the recruitment process, so that you can stand out as a professional who is interested in the company and has prepared for interviews.
 - To **analyze whether the company is aligned with your interests and values**. Is it the right size for you? Do you share the company’s values? Do you care for the mission? Understanding the company will offer you insights into what your everyday life on the job will be like and how comfortable you may feel if you are hired.
 
+### What should you look for and how?
+
+When researching a company, you can look into different types of information, such as its mission, history and goals; financial data; staff and structure; location; culture; strengths and weaknesses; growth prospects: current and future challenges. You can also gather data about the state and trades of the industry it belongs to. 
+
+Another information that you can look for in your research are keywords to use in your application materials. As you read information about the company, you can identify some key skills or personal attributes the company values in its employees and the words or phrases they use to describe them.
+
+To do research about the information above, you can look at sources that are published by the companies themselves or you can find out what others say about them, for example: 
+
+- The job posting or job boards generally include an overview of the company.
+- The company’s website and social networks offer insight into the organization.
+- Business news and publications may give you important insights into what’s happening in a company.
+- Industry surveys and reports analyze the sector and identifies trends and challenges.
+
 ## Exercise
 
 ### Instructions
 
-You can find information about a company you want to apply for, in both sources that are published by the companies themselves or what others say about them. In this exercise, you will research both, following these steps:
+In this exercise, you will follow 4 steps to research a company:
 
-1. Writing the questions you will search.
-2. Studying what the company says about itself
-3. Finding out what others say about the company
+1. Write the questions you will research.
+2. Study what the company says about itself.
+3. Find out what others say about the company.
+4. Review keywords and questions to ask during interviews.
 
 And, if you have the time, also:
-4. Taking a look at the industry's outlook.
+5. Research the industry.
 
 ### 2.1 Write the questions that you will research
 
@@ -57,18 +71,18 @@ Of course, you don’t have to cover all of the aspects. You can select those th
 ### 2.2 Study what the company says about itself
 
 Now, it’s time to look for answers to your questions. The company’s website and social media are a good place to start. On the website, check the description of its products or services, as well as the sections that:
-
 - introduce the company, such as: “About us,” “Who we are,” “Our team,” “Our history,” “Our mission,” “Our culture,”
 - present job opportunities in the company: “Careers” or “Work with us,”
 - provide information about the company’s current operation: “Facts,” “News,” and “Histories.”
 
-Take a look at what the company at the company’s recent posts in social media (LinkedIn, Instagram, Twitter, Facebook).
+Afterwards, take a look at what the company at the company’s recent posts in social media (LinkedIn, Instagram, Twitter, Facebook) also. Review the headlines and scan any interesting article that you find. Remember to identify keywords that are used by the company for skills and attributes they value in its employees. For example, a company's website may include statements such as "Creativity is our slogan and teamwork our commitment" that highlight two soft skills.
+
 
 **Apply what you've learned**
 
 1. Visit the company’s website and social media to look for information for the questions you registered in the step above.
 2. Write answers that you find in the second column of Table B.
-3. As you learn more about the company, you might find additional questions you want to answer. Register them in the first column and keep them in mind as you conduct your research.
+3. As you learn more about the company, you might find additional questions you want to answer as well as keywords. Register the former in Table C, and the latter in Table D.
 
 ### 2.3 Find out what others say about the company
 
@@ -80,9 +94,11 @@ Online reviews and news allow us to compare what the company says about itself w
 2. Do a Google search. Read through the headlines and scan any useful article to answer the questions you want to research.
 3. Add any relevant findings for your questions in the second column B in Table B. 
 
-### 2.4 Identify questions to ask during interviews
+### 2.4 Review keywords and questions to ask during interviews
 
-Finally, it’s important to analyze any additional information that you want to ask during your interviews, to get a thorough picture of the company. 
+Finally, it’s important to study the information you have gathered with two purposes: 
+1. Ensure you have registerd all relevant keywords to customize your application materials.
+2. Prepare the questions to ask during interviews.
 
 **Apply what you've learned**
 
@@ -97,6 +113,23 @@ Finally, it’s important to analyze any additional information that you want to
 *Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
 
 Now go to your Student Dashboard and submit your exercise.
+
+
+## Additional research
+
+ *This research is optional. It can be very useful once you are invited to invertiews and move forward in the recruitment processes, because it will offer you information about * 
+
+### Optional: Take a look into the industry 
+
+Finding out about the industry in which a company operates can also be useful during the recruitment process. It will help you identify how the sector is performing, who the main competitors are, and the current challenges they face. So you will be able to talk about the challenges and opportunities of the company and, thus, show your ability to participate in strategic discussions.
+
+On the other hand, although there are many similarities in being a software developer for any organization, there are nuances between companies from different industries. Consider, for example, how different it will be working for an educational organization (i.e. a university, an edtech startup) or one from health services (i.e. a pharmaceutical, medical equipment, or medical insurance company), or retail (i.e. department stores, online stores, supermarkets).ome aspects, such as daily activities and job responsibilities, salary, lifestyle, and professional development opportunities, among others, might vary from one industry to the other. This is relevant information for you to continue analyzing if the company is a good fit for you.
+
+**Sussgeted steps to research an industry**
+
+1. Identify the industry to which the company belongs.
+2. Find information about the industry in surveys, overviews, or reports. 
+3. Identify the main competitors in the sector and analyze how the company your are applying to is performing.
 
 ---
 
