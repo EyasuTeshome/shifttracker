@@ -14,7 +14,9 @@ In this exercise you will revamp your LinkedIn page to ensure it sets the stage 
 
 - **Three rounds of reviews:** You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required.
 
-- **Two weeks to completion:** This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have enough time to go through the necessary rounds of revision to get your LinkedIn approved. Coaches might take up to 4 days to send your their comments and request changes.  
+- **Two weeks to completion:** This is a carry-over activity so you will have **two weeks to complete it**. 
+
+We recommend you submit your first version as soon as possible to have enough time to go through the necessary rounds of revision to get your LinkedIn approved. Coaches might take up to 4 days to send you their comments and request changes.  
 
 ## A refresher about the relevance of a LinkedIn profile
 
