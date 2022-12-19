@@ -12,7 +12,7 @@ In this exercise you will revamp your LinkedIn page to ensure it sets the stage 
 
 **Your LinkedIn page must be approved by a career coach to complete the block.**
 
-- **Three rounds of reviews:** You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required. Coaches may take up to 48 hours to review your work and send their feedback.
+- **Three rounds of reviews:** You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required.
 
 - **Two weeks to completion:** This is a carry-over activity so you will have **two weeks to complete it**. We recommend you submit your first version as soon as possible to have enough time to go through the necessary rounds of revision to get your LinkedIn approved. Coaches might take up to 4 days to send your their comments and request changes.  
 
