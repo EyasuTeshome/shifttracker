@@ -4,7 +4,7 @@ Writing a cover letter is one of the most difficult and time-consuming parts of 
 
 The goal of a cover letter is twofold: **to show not only why you’d be a good fit for this specific job, but also why your personality would be a good fit for this specific team**. Your cover letter shouldn’t just be a rephrasing of your resume; it should tell the story of how your skillset contributed to your accomplishments.
 
-We'll begin this lesson by giving you a comparison of a **weak** cover letter versus a **strong one**. Please open up the following documents for reference:
+In this article, we will compare a **weak** cover letter versus a **strong one**. Please open up the following documents for reference:
 
 [A Fake Job Posting](https://docs.google.com/document/u/1/d/1iB4ZriVa3Gm5_agoAwlLwxW9G_8lC97bXFMWEw6v9gs/edit)
 
