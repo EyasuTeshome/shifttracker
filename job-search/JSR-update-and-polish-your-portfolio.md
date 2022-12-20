@@ -6,13 +6,14 @@
 - Add a new project to your portfolio.
 
 ### **Estimated time: 6h**
+
 Today, we have set up 2 hours to start this activity. There is time booked other days for this purpose. The total time to invest depends on your specific needs.
 
 ## **Description**
 
-In this activity, you will make your portfolio website **more unique** and update your showcased projects to ensure it compellingly represents your skills and is ready to share with recruiters. 
+In this activity, you will make your portfolio website **more unique** and update your showcased projects to ensure it compellingly represents your skills and is ready to share with recruiters.
 
-After you’ve upgraded your website, you will then submit it to a career coach for review. Your coach will send you feedback and request changes if necessary. 
+After you’ve upgraded your website, you will then **submit it to a career coach for review**. Your coach will send you feedback and request changes if necessary.
 
 Your portfolio **must be approved** to complete the block successfully:
 
@@ -75,20 +76,20 @@ For each section you need to:
 4. **Add** your assessment in the “Score and areas of improvement” (see example in the rubric). Include any possible areas of improvement.
 5. **Use** the suggested resources (or any other ones within the Microverse curriculum).
 6. **Improve** your portfolio website.
-7. *Move on to the next section and repeat!*
+7. _Move on to the next section and repeat!_
 
-After you scoring, your should **make improvements** to your portfolio, until you believe it satisfies all requirements. 
+After you scoring, your should **make improvements** to your portfolio, until you believe it satisfies all requirements.
 
 Only after you’ve done this should you proceed to **submit it to your coach** for review.
 
 ## Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
-Now go to your Student Dashboard and submit the **link to your portfolio** so your coach can review it and give you feedback. 
+Now go to your Student Dashboard and submit the **link to your portfolio** so your coach can review it and give you feedback.
 
-Please note that you don't need to submit the worksheet, the link to your portfolio! 
+Please note that you don't need to submit the worksheet, the link to your portfolio!
 
 ---
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
