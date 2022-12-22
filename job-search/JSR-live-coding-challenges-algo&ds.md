@@ -18,6 +18,66 @@ In this lesson, you will practice your **live coding skills** focusing on one ou
 - Algorithm: Recursion
 - Algorithm: Sorting & Searching
 
+## Preparatory work
+
+In order to do this exercise well you need to make sure you:
+
+- Have a good understanding of the fundamental data structures: arrays, strings and linked lists
+- Have a good understanding of the most important algorithms: recursion, sorting & searching
+
+Take a look at the following resources to refresh your mind!
+
+### Data structures
+
+Data structures are the **building blocks of applications**. They allow us to **most efficiently store data** in order to create fast and cheap algorithms.
+
+- [What is a Data Structure?](https://www.simplilearn.com/tutorials/data-structure-tutorial/what-is-data-structure)
+
+#### Data structure: Array
+
+An `array` is a data structure that **collects elements of the same data type** and **stores them in contiguous** memory locations.
+
+- [Definition of Array](https://www.youtube.com/watch?v=55l-aZ7_F24)
+- [Array cheatsheet](https://www.techinterviewhandbook.org/algorithms/array/)
+
+#### Data structure: String
+
+A `string` (or string literal) is an **array of characters** (i.e. any combination of numbers, letters, symbols).
+
+- [Basics of String Literals](https://www.youtube.com/watch?v=IlqiTmcK1Eg)
+- [String cheatsheet](https://www.techinterviewhandbook.org/algorithms/string/)
+
+#### Data structure: Linked List
+
+A `Linked List` is a user-defined data structure that consists of **nodes** that point to either in one direction (singly Linked List) or both directions (doubly Linked List).
+
+- [Introduction to Linked List](https://www.youtube.com/watch?v=R9PTBwOzceo)
+- [Linked Lists for Technical Interviews](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+- [Linked list cheatsheet](https://www.techinterviewhandbook.org/algorithms/linked-list/)
+
+### Algorithms
+
+An algorithm is a **set of instructions** that (when executed in order)** solves a computational problem**.
+
+- [What is an Algorithm?](https://www.youtube.com/watch?v=vVYG8TNN7hg)
+
+#### Algorithm technique: Recursion
+
+While technically not an algorithm, recursion is an algorithm technique used to help break down an algorithm into a `base case` and `recursive cases`. While these algorithms can also be implemented using loops, they tend to be more readable. 
+
+- [Recursion cheatsheet](https://www.techinterviewhandbook.org/algorithms/recursion/)
+- [Recursion - FreeCodeCamp](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+
+#### Algorithm: Sorting and searching
+
+Sorting and searching are two fundamental operations that are performed on most data structures. Sorting serves to **order elements** in a particular way, while searching deals with **finding the desired element in a particular data structure**.
+
+There are various strategies (in other words, algorithms) to implement sorting and searching that you have to know.
+
+- [Sorting and searching cheatsheet](https://www.techinterviewhandbook.org/algorithms/sorting-searching/)
+- [Understanding sorting algorithms - FreeCodeCamp](https://www.youtube.com/watch?v=l7-f9gS8VOs)
+- [Searching and Sorting - MIT lecture](https://www.youtube.com/watch?v=6LOwPhPDwVc)
+
 ## Exercise
 
 > 💡 Please make use of the [following rubric](https://docs.google.com/document/d/18oP47pnzkLsy01T6220CvaxQhbhh061XmC8tTqVkYOQ) while you go through the exercise.

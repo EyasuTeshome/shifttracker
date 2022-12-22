@@ -16,24 +16,7 @@ In this exercise you'll practice **presenting your projects** in the right way a
 
 ### Structure of a good project presentation
 
-A good project presentation consists of 2 phases: **preparation** and **presentation**.
-
-#### Phase 1: Preparation
-
-In the preparation phase you're getting ready to present your project with confidence.
-
-1. Choose a project
-2. Get familiar with the codebase
-   - Architecture
-   - Implementation details of key features
-3. Make a presentation outline _(you can use the one from phase 2!)_
-4. Practice presenting (with use of the outline)
-
-An important part of preparation is to make sure you're **keeping track of time**!
-
-#### Phase 2: Presentation
-
-The actual presentation **starts of high level** and **non-technical**. Depending on your audience, you should go into the technical details or not.
+A good presentation **starts of high level** and **non-technical**. Depending on your audience, you should go into the technical details or not.
 
 1. Provide a high level description
    - What problem does the app solve?
@@ -50,6 +33,23 @@ _(only continue from here if your audience is technical or if they are intereste
    - Describe your implementation approach
    - Present the code (from file to file)
 5. Answer any question your audience might have
+
+## Preparatory work
+
+In order to do this exercise well make sure you follow these steps beforehand:
+
+1. Choose a project
+2. Get familiar with the codebase
+   - Architecture
+   - Implementation details of key features
+3. Make a presentation outline _(use the one from the section above!)_
+4. Practice presenting
+
+When practicing, here's what we recommend you do:
+
+- Practice your presentation **at least 3 times**
+- Make sure to have an **audience**, or if there's no one available, **use a mirror** and talk to yourself (it might sound silly but it actually works!).
+- Use a **timer** to make sure you dedicate sufficient time for each section
 
 ## Exercise
 

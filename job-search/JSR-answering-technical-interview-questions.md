@@ -55,6 +55,19 @@ This is necessary part of the answer, but not enough to show the interviewer wha
 
 Which answer is a better display of expertise? Probably the second one!
 
+## Preparatory work
+
+In order to do this exercise well you need to make sure you:
+
+- Have a good understanding of core concepts
+- Are able to articulate them easily and eloquently
+
+A very effective way of getting there is to study with **flashcards**!
+
+- [Daily practice - Flashcards with Brainscape](https://microverse.zendesk.com/hc/en-us/articles/12137352806419)
+
+We recommend that you make this into a daily habit and spend **at least 5 minutes a day practicing with flashcards**.
+
 ## Exercise
 
 > 💡 Please make use of the [following rubric](https://docs.google.com/document/d/16Ee5kuxbSGMEBSAxdQJrukoa5f01Z7w9RSMPGq0QEYY/) while you go through the exercise.

@@ -51,6 +51,27 @@ Imagine you're asked to solve the following coding challenge: [Two Sum](https://
 (🤔 Reflect) "As a final step I could analyze the efficiency of this algorithm using Big O notation. Since I made use of a hash table I have a O(1) lookup, as I can directly access any value inside of an object... (etcetera)"
 ```
 
+## Preparatory work
+
+In order to do this exercise well you need to make sure you:
+
+- Have a good understanding of common patterns for coding challenges
+- Have mastered best practices before, during and after a coding interview
+
+### Common patterns for coding challenges
+
+While there are an infinite amount of coding challenges, there are only a limited amount of patterns that can solve them. When you learn these you'll be able to recognize what type of challenge you're facing and know how to solve them. The following are a starting point:
+
+- [Two Pointers](https://www.youtube.com/watch?v=-gjxg6Pln50)
+- [Sliding Window](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
+- [Tortoise and Hare Two Pointer](https://www.youtube.com/watch?v=aAGu9C6_rUI)
+
+### Best practices
+
+A coding challenge is more than just the actual code you have to write. Study up on the best practices (technical and behavioral) in order to show your expertise well before, during and after!
+
+- [Coding interview cheatsheet: Best practices before, during and after](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/)
+
 ## Exercise
 
 > 💡 Please make use of the [following rubric](https://docs.google.com/document/d/18oP47pnzkLsy01T6220CvaxQhbhh061XmC8tTqVkYOQ) while you go through the exercise.
