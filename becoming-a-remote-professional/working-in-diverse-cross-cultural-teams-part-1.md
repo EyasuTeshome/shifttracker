@@ -28,8 +28,8 @@ First, you will watch a video together. Before watching think about the followin
 **Learn more about Hofstede's dimensions:**
 
 - [Hofstede's cultural dimensions - video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
-- [Hofstede's cultural dimensions summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
-- [Hofstede's cultural dimension](https://www.mindtools.com/pages/article/newLDR_66.htm)
+- [Hofstede's cultural dimensions - summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
+- [Hofstede's cultural dimensions - article](https://www.mindtools.com/pages/article/newLDR_66.htm)
 
 ### Discussion
 
