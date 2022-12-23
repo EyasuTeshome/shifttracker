@@ -36,12 +36,15 @@ You have already crafted several stories in your behavioral grid that illustrate
 **A. Interview set up (15 min)**
 
 1. After you join the call, watch the following video to learn how to use your behavioral grid to answer behavioral questions.
-2. Discuss the following questions with your partner (5 mins):
+
+[![Watch the video](https://img.youtube.com/vi/rEgIq02RWa0/0.jpg)](https://www.youtube.com/watch?v=rEgIq02RWa0)
+
+3. Discuss the following questions with your partner (5 mins):
     - How do you identify which story to use?
     - Can you use the same story for different questions?
     - Can you use different stories to answer the same question?
     - What if the question you are asked is not included in the common behavioral questions you worked on in your behavioral grid?
-3. You will both be interviewers during the exercise, so each of you must follow the steps below to prepare the questions you will ask your partner:
+4. You will both be interviewers during the exercise, so each of you must follow the steps below to prepare the questions you will ask your partner:
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
     - Read the list of questions and select 3 that ask your partner about a past situation (usually they have the format “Tell me about”).
     - Reflect upon the attribute that each question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork.
