@@ -17,11 +17,12 @@ In this review, you should do an in-depth revision of the portfolio using the re
 - This is the [sneak peak to the project where they create their portfolio](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/sneak_peek.md) in Module 1 - The Portal.
 
 In the following videos, you can find a detailed explanation of each set of requirements in the rubric:
-1. [Part 2: Content](https://www.loom.com/share/c48e7a96105d48d18023e57f728af9a4)
-2. [Part 3: Interactivity](https://www.loom.com/share/6594089c064c401bbedfcf39d39d2425)
-3. [Part 4: Device Support](https://www.loom.com/share/36be760520eb4949a5acccbad804e542)
-4. [Part 5: Language](https://www.loom.com/share/0f839d85c16e45eebc9c7e9de1c2f9a3)
-5. [Part 5: Projects](https://www.loom.com/share/9e52e9ab36864bf2ba72ebd7515df681)
+- [Part 1: Intro & Design](https://www.loom.com/share/a0ab6fc5cb46459db6adc5401f182c34)
+- [Part 2: Content](https://www.loom.com/share/c48e7a96105d48d18023e57f728af9a4)
+- [Part 3: Interactivity](https://www.loom.com/share/6594089c064c401bbedfcf39d39d2425)
+- [Part 4: Device Support](https://www.loom.com/share/36be760520eb4949a5acccbad804e542)
+- [Part 5: Language](https://www.loom.com/share/0f839d85c16e45eebc9c7e9de1c2f9a3)
+- [Part 6: Projects](https://www.loom.com/share/9e52e9ab36864bf2ba72ebd7515df681)
 
 ## Mandatory requirements
 
