@@ -8,11 +8,11 @@
 
 ## Description
 
-In today’s session, you will practice with one of your peers using the behavioral grid to help you answer interview questions structured with the CARL framework.
+In today’s session, you will practice with your learning partner how to use the behavioral grid to answer behavioral interview questions structured with the CARL framework.
 
 ### Why is it important?
 
-You have already crafted several stories in your behavioral grid that illustrate your professional skills in previous projects and experiences. The purpose of these stories is to help you answer behavioral questions during interviews.  But one thing is to write them and another to use them effectively during interviews! There are two important steps you need to practice:
+You have already crafted several stories in your behavioral grid that illustrate your professional skills in previous projects and experiences. The purpose of these stories is to help you answer questions during interviews.  But one thing is to write them and another to use them effectively during interviews! There are two important steps you need to practice:
 
 - Selecting the right story for a question.
 - Presenting your answer orally.
@@ -30,8 +30,8 @@ You have already crafted several stories in your behavioral grid that illustrate
 
 ### During the call - Mock interviews
 
-- Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
-- Today you will interview each other, taking turns to play the role of interviewer and applicant.
+- Join the Zoom call with your partner - remember to always be on time to respect their time. Punctuality is essential for your professional career!
+- Today you will ask behavioral questions to each other, taking turns to play the role of interviewer and applicant.
 
 **A. Interview set up (15 min)**
 
@@ -46,7 +46,8 @@ You have already crafted several stories in your behavioral grid that illustrate
     - Read the list of questions and select 3 that ask your partner about a past situation (usually they have the format “Tell me about”).
     - Reflect upon the attribute that each question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork.
     - Open the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) that you will use to offer feedback to your partner Copy the 3 questions that you will be asking in section 2 and register the attribute that they will help you identify.
-    - Read through the criteria you will assess in the interview.
+    - Read the criteria and indicators you will assess in the interview.
+    
 
 **B. Check each other’s video setup - 10 min**
 
@@ -59,25 +60,25 @@ You have already crafted several stories in your behavioral grid that illustrate
 1. Begin by telling each other the first question you chose to ask each other. **At this time, only the first!** 
 2. Discuss the attribute that you think recruiters wish to explore with the questions. Is it teamwork? Collaboration? Resilience?
 3. Together, look at each other's behavioral grid and identify one story that can be used to answer the question. 
-    - Share the screen so that you can look at the story together.
-    - Discuss why it’s a good story for the question and how it addresses the attribute that recruiters wish to explore.
+    - Share the screen so that you can look at the different stories together.
+    - Discuss why the story you selected is a good option for the question and how it addresses the attribute that recruiters wish to explore.
 
 **D. Mock interviews  - 45 min**
 
 1. Take turns playing the role of interviewer and applicant in a mock interview. In each one, the interviewer will ask their partner the 3 behavioral questions: first, the question you shared in step 1, and then the two you haven’t shared with your partner. Follow these steps for each question:
-    - The interviewer opens the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing). **You should fill it in during the interview, if possible.**
+    - The interviewer opens the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) to look at the questions they selected.  
     - The interviewer starts [timer](https://vclock.com/timer/#countdown=00:03:00&date=2022-06-24T17:11:04&sound=xylophone&loop=1) (2 min).
     - The interviewer asks the first question.
     - **The applicant answers with the CARL structure.**
     - The interviewer indicates when the time is up.
     - The interviewer completes the checklist for the first question.  
-    - The interviewer follows the steps above to ask the second and third questions
-    - The interviewer offers feedback to the applicant about this performance, stressing if the answers provided evidence of the attribute to be explored and explaining why it did or did not (if possible, give concrete examples). 
+    - The interviewer follows steps a) to f) to ask the second and third questions
+    - The interviewer offers feedback to the applicant about their performance, stressing if the answers provided evidence of the attribute to be explored and explaining why it did or did not (if possible, give concrete examples). 
 
-     **Do not extend the allocated time as you must practice completing tasks on time, as you will need to in your actual interviews.**
+**Do not extend the allocated time as you must practice completing tasks on time, as you will need to in your actual interviews.**
 
-2. Change roles so that now the applicant becomes the interviewer, and repeat all the steps above.
-3. When you finish all interviews, both of you share the filled-in checklist with your partner. **The applicant will use this for their exercise submission**.
+1. Change roles so that now the applicant becomes the interviewer, and repeat all the steps above.
+2. When you finish all interviews, both of you share the filled-in checklist with your partner. **The applicant will use this for their exercise submission**.
 
 ### Submit your exercise
 
