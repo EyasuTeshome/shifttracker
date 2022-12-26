@@ -17,24 +17,23 @@ Hofstede's six dimensions of culture will help you understand why people around 
 
 ### Hofstede's six dimensions of culture
 
-Take a look at the following links to learn more about Hofstede's six dimensions of culture. If you've already done the Learning about diversity and multicultural teams lesson, you'll recognize these from there. 
+Together, watch the following video to learn more about Hofstede's six dimensions of culture:
 
-First, you will watch a video together. Before watching think about the following questions:
+- [Hofstede's Cultural Framework - video](https://www.youtube.com/watch?v=TX0fUAhBAfc)
 
+As you do, think about the following questions:
 - Do you recognize yourself in any of the dimensions?
 - Have you experienced any conflict or difference with a partner that can be explained by the different dimensions?
 - How might these dimensions help you to collaborate cross-culturally?
-
-**Learn more about Hofstede's dimensions:**
-
-- [Hofstede's cultural dimensions - video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
-- [Hofstede's cultural dimensions summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
-- [Hofstede's cultural dimension](https://www.mindtools.com/pages/article/newLDR_66.htm)
 
 ### Discussion
 
 - Did you recognize yourself or your country in any of the dimensions?
 - What differences exist between you in the team?
+
+This summary of the Hofstede's 6 dimensions may be useful during your discussion:
+
+- [Hofstede's cultural dimensions - summarized](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/hofstede's-cultural-dimensions-summarized.md)
 
 ## Additional materials
 
@@ -43,6 +42,8 @@ First, you will watch a video together. Before watching think about the followin
 - [Hofstede insights: the six dimensions](https://hi.hofstede-insights.com/national-culture)
 - [Compare countries - Hofstede insights](https://www.hofstede-insights.com/product/compare-countries/)
 - [The application of Hofstede’s cultural dimensions at Botho University: A model for workplace harmony in a multi-cultural business environment](https://core.ac.uk/download/pdf/234671602.pdf)
+- [Hofstede's cultural dimensions - video](https://www.youtube.com/watch?v=rBxCUZnRSjA)
+- [Hofstede's cultural dimensions - article](https://www.mindtools.com/pages/article/newLDR_66.htm)
 
 
 ------
