@@ -48,7 +48,7 @@ You have already crafted several stories in your behavioral grid that illustrate
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
     - Read the list of questions and select 3 that ask your partner about a past situation (usually they have the format “Tell me about”).
     - Reflect upon the attribute that each question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork.
-    - Open the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) that you will use to offer feedback to your partner Copy the 3 questions that you will be asking in section 2 and register the attribute that they will help you identify.
+    - Open the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) that you will use to offer feedback to your partner Copy the 3 questions that you will be asking and register the attribute that they will help you identify.
     - Read the criteria and indicators you will assess in the interview.
     
 
@@ -69,8 +69,8 @@ You have already crafted several stories in your behavioral grid that illustrate
 **D. Mock interviews  - 45 min**
 
 1. Take turns playing the role of interviewer and applicant in a mock interview. In each one, the interviewer will ask their partner the 3 behavioral questions: first, the question you shared in step 1, and then the two you haven’t shared with your partner. Follow these steps for each question:
-    - The interviewer opens the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) to look at the questions they selected.  
-    - The interviewer starts [timer](https://vclock.com/timer/#countdown=00:03:00&date=2022-06-24T17:11:04&sound=xylophone&loop=1) (2 min).
+    - The interviewer looks at the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) to read the questions to ask.  
+    - The interviewer starts [timer](https://vclock.com/timer/#countdown=00:02:00&enabled=0&seconds=120&sound=xylophone&loop=1) (2 min).
     - The interviewer asks the first question.
     - **The applicant answers with the CARL structure.**
     - The interviewer indicates when the time is up.
