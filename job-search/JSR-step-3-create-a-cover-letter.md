@@ -45,8 +45,8 @@ Many of you have asked our coaches for a cover letter template, but using a pre-
 4. Open the [cover letter worksheet](https://docs.google.com/document/d/1AZ1duefV3HSQfiST0Ao95fwl3jSktOKip-yFmkTTkSg/edit?usp=sharing) (this is the document you will turn in).
 5. Open the [cover letter rubric](https://docs.google.com/document/d/1NIGZQ62L84q0o8ahkKDQRLEK39Jd3g0qeESWhGF9i3Q/edit#).
 6. Open the skills grid that you created in these two exercises:
-    1. [Creating your skills chart - day 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day-1.md),
-    2. [Creating your skills grid - day 2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day2.md).
+    1. [Creating your skills chart - day 1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day-1.md).
+    2. [Creating your skills chart - day 2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-create-your-skills-chart-day2.md).
 
 ## Exercise
 
