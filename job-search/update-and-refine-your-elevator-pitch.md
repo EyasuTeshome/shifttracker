@@ -1,4 +1,4 @@
-# Prepare a polished version of your elevator pitch to start the revision process
+# Update and refine your elevator pitch
 
 ## **Learning objectives**
 
