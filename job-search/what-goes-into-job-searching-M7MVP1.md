@@ -1,4 +1,4 @@
-## What goes into job searching?
+# What goes into job searching?
 
 We have broken down the areas of your job search you do have control over into four categories:
 
