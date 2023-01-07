@@ -23,7 +23,7 @@ But networking is a lot more than just making contact with people: it is about b
 
 Read [“How to network: a guide for remote software developers and engineers”](https://arc.dev/developer-blog/how-to-network-as-remote-developer/) for some new ideas about networking. 
 
-**Refresh your understanding of what networks are and the different ways to build a network.** 
+**Refresh your understanding of what you learned in the Core Program about networks and the different ways to build a network.** 
 
 - [Defining Networking: What networking is and what it is not](https://github.com/microverseinc/curriculum-professional-skills/blob/main/community/defining-networking-what-networking-is-and-what-it-is-not.md)
 - [LinkedIn Networking: How to network successfully on LinkedIn](https://microverse.zendesk.com/hc/en-us/articles/360050721094-How-can-I-network-successfully-on-LinkedIn-)
@@ -50,10 +50,9 @@ Since networking is a strategy to access your dream jobs, it’s useful to consi
 
 **Apply what you've learned**
 
-1. Look again at your dream jobs and then define your big-picture networking goal. What do you want to achieve with your networking efforts? How can your network contribute to getting you a dream job?
-2. Register your answers in Section 1 of this [template](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing). 
-3. Make a list of the qualities you want your network to have, considering sectors, companies, roles, areas of expertise, location, or any other trait that is relevant to you.
-4. Register your answers in section 2 of the [template](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing). 
+1. Open this [template](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing).
+2. Answer the questions in section 1 to make a list of the qualities you want your network to have (sectors, companies, roles, areas of expertise, location, or any other trait that is relevant to you).
+3. In section 2, analyze the changes you need to make to your current professional network.
 
 ### Step 2: Set your networking SMART goals for next month
 
@@ -63,10 +62,8 @@ Once you have a clear vision of the professional network you want to build, you 
 
 [Setting better networking SMART goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/setting-better-smart-networking-goals.md).
 
-1. Open the network map that you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/map-your-network.md). Compare your current network to the long-term networking goal and the qualities that you listed in section 1. 
-2. Think carefully about the changes that you would like to make to your network and write some ideas in section 2.
-3. Now, set at least 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal and list them in section 3 of the exercise template. Use the tables included as a guide to write your goals. 
-4. Finally, copy your networking goals to the job search plan you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/update-your-job-searching-plan-and-set-SMART-goals.md).
+1. Now, in section 3 of the template, set at least 3 SMART networking goals for the next month that will help you move forward toward your big-picture networking goal. Register each SMART goal in the first row of the tables included (remember the goal is ONE sentence) and use the questions in the row below to verify that your goal is SMART.
+2. Finally, copy your networking goals to the job search plan you created in [this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/update-your-job-searching-plan-and-set-SMART-goals.md).
 
 
 **Exercise template to copy:** [Your networking SMART goals](https://docs.google.com/document/d/14UexNF3aZxtbH0mY39weG7EOlJr0ZEN96mqBkOa3Ilc/edit?usp=sharing).
