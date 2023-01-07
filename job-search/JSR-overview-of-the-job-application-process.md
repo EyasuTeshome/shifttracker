@@ -1,4 +1,4 @@
-# Overview of the job application walkthrough
+# Overview of the job application process
 
 ## Learning objectives
 
