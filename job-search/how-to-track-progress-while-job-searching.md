@@ -1,4 +1,4 @@
-## How to track progress while job searching
+# How to track progress while job searching
 
 During job searching, you will be using different metrics to track your progress, such as:
 
