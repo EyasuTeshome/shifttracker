@@ -1,4 +1,4 @@
-## Intro to job search lesson - challenge yourself questions and nswers
+## Intro to job search lesson - challenge yourself questions and answers
 
 **1. What will your daily schedule look like while you search for a job?**
 
