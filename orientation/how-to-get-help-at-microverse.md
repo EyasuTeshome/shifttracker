@@ -59,7 +59,7 @@ Each communication site has a different purpose, and getting your questions answ
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 
 - [Your Support Structure](https://microverse.zendesk.com/hc/en-us/articles/360046678573-Your-Support-Structure)
-- [First Day Questions](https://microverse.zendesk.com/hc/en-us/articles/9560319553683--FAQ-Troubleshooting-the-Student-Dashboard-on-Your-First-Day-)
+- [First Day Questions](https://microverse.zendesk.com/hc/en-us/articles/9560319553683)
 
 
 ------
