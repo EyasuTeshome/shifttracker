@@ -30,7 +30,7 @@ Before going through the materials below, think about the following questions:
 
 - [What is Zendesk and how can I gain access?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/zendesk.md)
 
-Please read the above FAQ if you were unable to access Zendesk. If after looking at the FAQ, you are still unable to access Zendesk **please email success@microverse.org to get help. Make sure you explain what you did and what happened so that they can resolve the issue quickly.* For tips on how to submit a helpful technical issue report, check out this article: [How to Report a Technical Issue](https://microverse.zendesk.com/hc/en-us/articles/360040246613-How-to-Report-a-Technical-Issue)
+Please read the above FAQ if you were unable to access Zendesk. If after looking at the FAQ, you are still unable to access Zendesk **please email success@microverse.org to get help. Make sure you explain what you did and what happened so that they can resolve the issue quickly.* For tips on how to submit a helpful technical issue report, check out this article: [How to Report a Technical Issue](https://microverse.zendesk.com/hc/en-us/articles/360040246613-How-to-Report-a-Technical-Issue).
 
 - [Troubleshooting on your first day](https://microverse.zendesk.com/hc/en-us/articles/360042901554-Troubleshooting-On-Your-First-Day)
 
