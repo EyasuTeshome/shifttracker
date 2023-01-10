@@ -18,7 +18,7 @@ Coffee chats are a form of networking. They allow you to build trust, form a gen
 **Learn more about setting up a successful coffee chat:**
 
 - [Setting up a virtual coffee: before, during, and after](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/setting-up-a-virtual-coffee-before-during-and-after.md) - Review this lesson to learn more about what to do before, during, and after a virtual coffee chat.
-- [3 Steps to Ask for a Professional Coffee Meeting](https://lanterninstitute.ca/steps-ask-professional-coffee-meeting) - Read this article with tips and email templates you can get inspiration from.
+- [How to ask someone for a coffee meeting](https://life-longlearner.com/the-art-of-asking-someone-to-meet-for-coffee/) - Read this article with tips and an email sample you can get inspiration from.
 
 ## Exercise
 
