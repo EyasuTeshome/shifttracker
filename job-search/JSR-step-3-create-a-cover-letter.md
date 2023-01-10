@@ -15,7 +15,7 @@ Y**our cover letter must be approved by a career coach to complete the block and
 Remember that you have:
 
 - **Three rounds of review:** Study the coach’s comments carefully and integrate any changes required before resubmitting your letter.
-- **Two weeks to completion:** This is a carry-over activity, so you will have **two weeks to complete it**.
+- **One week for approval:** This is a core requirement, so your cover letter will have to be approved **before the end of the block, that is by Saturday 11:59**.
 
 We recommend you submit your first version as soon as possible to have enough time to go through the necessary rounds of revision for approval. Coaches might take up to 4 days to send you their comments and request changes.
 
