@@ -10,7 +10,7 @@
 
 In this exercise, you will create a cover letter for a job you are applying to and submit it to a career coach for review. Since strong cover letters are tailored for a specific job posting, you will submit the link to the job posting and the cover letter in a copy of [this worksheet](https://docs.google.com/document/d/1AZ1duefV3HSQfiST0Ao95fwl3jSktOKip-yFmkTTkSg/edit?usp=sharing).
 
-Y**our cover letter must be approved by a career coach to complete the block and the module.**
+**Your cover letter must be approved by a career coach to complete the block and the module**
 
 Remember that you have:
 
@@ -21,11 +21,11 @@ We recommend you submit your first version as soon as possible to have enough ti
 
 ### Why is it important to write a compelling cover letter?
 
-Recruiters’ initial screening of applicants is based on the application materials you submit, including the cover letter. Since this document is less formally structured than your resume or profile, here you can use it to “**connect the dots**,” that establishes a relationship **between you** —who you are and how you have become this talented software developer—, **the job** —with requirements and responsibilities—, **and the company** —with a specific mission and challenges.
+Recruiters’ initial screening of applicants is based on the application materials you submit, including the cover letter. Since this document is less formally structured than your resume or profile, here you can use it to “**connect the dots**,” that establishes a relationship **between you** (who you are and how you became this talented software developer), **the job** (with requirements and responsibilities), **and the company** (with a specific mission and challenges).
 
-So, cover letters are useful to bring together and highlight the essential information in your story: why you are a good candidate for the job. Afterward, in other stages of the recruitment process like interviews, you can add more details to the initial arguments you lay down in the cover letter.
+So cover letters are useful to bring together and highlight the essential information in your story: why you are a good candidate for the job. Afterward in other stages of the recruitment process like interviews you can add more details to the initial arguments you lay down in the cover letter.
 
-### **Refresh your memory about what makes a strong cover letter**
+### Refresh your memory about what makes a strong cover letter
 
 Compelling cover letters **tell a story** about you, your knowledge, skills, and previous experience, **in the context of a specific job posting and a particular company**. Before crafting your cover letter, review this lesson to make sure you understand the attributes of a strong cover letter and how it differs from weak ones:
 
@@ -33,9 +33,9 @@ Compelling cover letters **tell a story** about you, your knowledge, skills, and
 
 ### A short but compelling version of a cover letter
 
-Since you will be sending between 10 - 20 job applications a week, writing cover letters can become boring and tiresome. In this exercise, we will walk you through a shorter version than your initial one, with only two “central” paragraphs you will need to edit for each application. We also share with you sample phrases for the introductory and closing paragraphs.
+Since you will be sending between 10-20 job applications a week, writing cover letters can become boring and tiresome. In this exercise we will walk you through a shorter version than your initial one, with only two “central” paragraphs you will need to edit for each application. We also share with you sample phrases for the introductory and closing paragraphs.
 
-Many of you have asked our coaches for a cover letter template, but using a pre-designed format beats the purpose of this document. You are a unique human being and software developer, and each job has different requirements. Thus, there is no general and automated way of “connecting the dots.” Nevertheless, you can use the cover letter you create in this exercise as a “skeleton” and only edit phrases that refer to the specific job and company.
+Many of you have asked our coaches for a cover letter template, but using a pre-designed format defeats the purpose of this document. You are a unique human being and software developer and each job has different requirements. Thus there is no general and automated way of “connecting the dots.” Nevertheless you can use the cover letter you create in this exercise as a “skeleton” and only edit phrases that refer to the specific job and company.
 
 ## Project setup
 
@@ -52,43 +52,44 @@ Many of you have asked our coaches for a cover letter template, but using a pre-
 
 ### Instructions
 
-There are 8 steps to prepare a customized cover letter for the job application you plan to send this week, and an additional one to create your “skeleton”
+There are 8 steps to prepare a customized cover letter for the job application you plan to send this week and an additional one to create your “skeleton:”
 
 1. Review all the information you have about the job, the company, and yourself.
 2. Edit the header.
 3. Write the introductory paragraph for the specific job.
-4. Explain why you are fit for the job in the second paragraph.
-5. Describe accomplishments, metrics, and skills that support you are a good applicant in the third paragraph
+4. Explain why you are a good fit for the job in the second paragraph.
+5. Describe accomplishments, metrics, and skills that support the argument that you are a good applicant in the third paragraph.
 6. Close with a polite farewell.
 7. Check your grammar and spelling.
 8. Self-assess your cover letter with the rubric.
 
-### 1. Review all the information you have about the job, the company, and yourself.
+### 1. Review all the information you have about the job, the company, and yourself
 
 Throughout the activities in this module, you have gathered a lot of information that offers you a clear picture of the following: 
-- the position you are applying to and the company where you would work, and
-- you, a software developer with unique knowledge, skills, and experiences.
 
-Since in the cover letter you will craft a story that connects these two aspects, it’s a good idea to begin by looking at all the information that you have about each, and reflect upon the links that you will establish in the cover letter. 
+- The position you are applying to and the company where you would work, and,
+- You, a software developer with unique knowledge, skills, and experiences.
 
-For example, identify the company's mission and value statements. Why are they aligned with your personal goals? Consider the functions and responsibilities of the job. How do they tie in with your knowledge and skills? When answering these questions, your starting point is the job and the company, and you strive to find links with yourself. 
+Since in the cover letter you will craft a story that connects these two aspects, it’s a good idea to begin by looking at all the information that you have about each and reflect upon the links that you will establish in the cover letter. 
 
-But you can also think it the other way: look at your interests, goals, and attributes, and try to connect them with the job and the company. How have your experiences prepared you to approach the company’s challenges? What can your knowledge and skills contribute to performing efficiently in the role? 
+For example, identify the company's mission and value statements. Why are they aligned with your personal goals? Consider the functions and responsibilities of the job. How do they tie in with your knowledge and skills? When answering these questions your starting point is the job and the company, and you strive to find links with yourself. 
+
+But you can also think of it the other way: look at your interests, goals, and attributes, and try to connect them with the job and the company. How have your experiences prepared you to approach the company’s challenges? What can your knowledge and skills contribute to performing efficiently in the role? 
 
 **Apply what you've learned**
 
 1. Read carefully:
-    - the job posting you are applying to,
-    - your findings about the company,
-    - your resume and skills chart.
-2. Find at least 2 -3 reasons **why you want this job** and write them down in section 2 of the worksheet (that is draw connections from you to the job and company).
-3. Find at least 2 - 3 reasons **why you are a good applicant** for the job and register them in the same section of the worksheet (now draw connections from the company to you).
+    - The job posting you are applying to,
+    - Your findings about the company,
+    - Your resume and skills chart.
+2. Find at least 2-3 reasons **why you want this job** and write them down in section 2 of the worksheet (that is draw connections from you to the job and company).
+3. Find at least 2-3 reasons **why you are a good applicant** for the job and register them in the same section of the worksheet (now draw connections from the company to you).
 
 ### 2. Edit the header
 
 Once you know the connections that you will lay out in your cover letter, it’s time to start writing it. In Section 3, we provide you with a basic structure to work with. Begin with the header.
 
-Yes! You are probably tired of editing headers! Yet, you want recruiters to be a click away from your portfolio and professional profiles, just in case they want to look at more detailed information about you. So it’s worth the effort!
+Yes! You are probably tired of editing headers! Yet you want recruiters to be a click away from your portfolio and professional profiles just in case they want to look at more detailed information about you. So it’s worth the effort!
 
 If you need a refresher about writing the header, refer to [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-should-you-add-to-your-cover-letter-header.md).
 
@@ -99,7 +100,7 @@ If you need a refresher about writing the header, refer to [this lesson](https:/
 
 ### 3. Write the introductory paragraph for the specific job
 
-Good stories begin with “Once upon a time there was a… that… and…”, a phrase that sets the context for a series of events and conflicts that will happen. This initial phrase catches the attention of the readers and engages them. The same happens with cover letters: your opening paragraph should situate recruiters regarding the job and company you are applying for, and attract them so they keep reading. One way to achieve this is to state, creatively, why you are interested in that particular job and company. It shows that you didn’t simply copy a “cookie-cutter” cover letter that you are resending to many job applications. In this intro, you tie the first dots: your interests, as a software developer, and that job and company.
+Good stories begin with a “once upon a time there was a… that… and…”-like phrase that sets the context for a series of events and conflicts that will happen. This initial phrase catches the attention of the readers and engages them. The same happens with cover letters: your opening paragraph should situate recruiters regarding the job and company you are applying to and attract them so they keep reading. One way to achieve this is to state creatively why you are interested in that particular job and company. It shows that you didn’t simply copy a “cookie-cutter” cover letter that you are resending to many job applications. In this intro you connect the first dots: your interests as a software developer and that job and company.
 
 Reread [this article](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-a-strong-focused-introduction-to-your-cover-letter.md), if you need a refresher about writing the introductory paragraph of a cover letter. 
 
@@ -110,14 +111,14 @@ Reread [this article](https://github.com/microverseinc/curriculum-professional-s
     
     *I am very excited to apply for a position as [ROLE] at [COMPANY].
     I am interested in applying for a position as [ROLE] at [COMPANY].
-    I hereby wish to apply for the “ROLE” position at [COMPANY].* 
+    I hereby wish to apply for the [ROLE] position at [COMPANY].* 
     
 3. Read the list of reasons **why you want the job** that you wrote in the worksheet (section 2) and select one or two to use in your introductory paragraph. Find some that catch the reader’s attention. Analyze carefully which of those reasons can be more engaging and compelling.
-4. Write the rest of the paragraph, explaining why you are interested in the job. Two or three sentences are enough.
+4. Write the rest of the paragraph explaining why you are interested in the job. Two or three sentences are enough.
 
-### 4. Explain why you are fit for the job in the second paragraph.
+### 4. Explain why you are fit for the job in the second paragraph
 
-After you. have shown your interest in the job, in the next paragraph you should explain why you are an ideal candidate for the job —making specific reference to the requirements in the job posting. Include some compelling arguments; describe why you are prepared to perform the specific functions and responsibilities of the job. Your goal in this paragraph is to **connect more dots, in this case between you**: your personal knowledge, and skills —both technical and transferable—, your previous experiences or projects, **and the job requirements, functions, and responsibilities** as stated in the job posting. 
+After you have shown your interest in the job, in the next paragraph you should explain why you are an ideal candidate for the job by making specific references to the requirements in the job posting. Include some compelling arguments; describe why you are prepared to perform the specific functions and responsibilities of the job. Your goal in this paragraph is to **connect more dots, in this case between you**: your personal knowledge and skills (both technical and transferable), your previous experiences or projects, **and the job requirements, functions, and responsibilities** as stated in the job posting. 
 
 **Apply what you've learned**
 
@@ -129,9 +130,9 @@ After you. have shown your interest in the job, in the next paragraph you should
     3. Be precise, that is find the words that refer exactly and accurately to the concepts and ideas you want to communicate. Study the difference between precise and vague vocabulary [here.](https://courses.lumenlearning.com/suny-esc-communicationforprofessionals/chapter/concrete-language/#:~:text=Precise%20vs.%20Vague%20Language)
     4. Give specific examples and make reference to how your most recent projects or education have prepared you for that role. For example, if the company you are applying to is international and remote, mention how your Microverse trajectory has prepared you to collaborate in distributed and multicultural teams.
 
-### 5. Describe accomplishments, metrics, and skills that support you are a good applicant in the third paragraph.
+### 5. Describe accomplishments, metrics, and skills that support you are a good applicant in the third paragraph
 
-In the third paragraph, you need to provide evidence of the arguments you stated in the second. Highlight the aspects of your professional career that can support you are fit for the job. **Find more dots**, this time between what you have done or know, and the tasks and challenges of the role. Try to describe precisely your achievement, and -if possible- consider metrics. See some examples [here.](https://arc.dev/developer-blog/analytical-skills/#:~:text=Your%20Analytical%20Skills-,On%20a%20resume%20or%20cover%20letter,-Writing%20%E2%80%9Cstrong%20analytical)
+In the third paragraph you need to provide evidence of the arguments you stated in the second. Highlight the aspects of your professional career that can support you are fit for the job. **Find more dots**, this time between what you have done or know and the tasks and challenges of the role. Try to describe precisely your achievement, and if possible consider metrics. See some examples [here.](https://arc.dev/developer-blog/analytical-skills/#:~:text=Your%20Analytical%20Skills-,On%20a%20resume%20or%20cover%20letter,-Writing%20%E2%80%9Cstrong%20analytical)
 
 **Apply what you've learned**
 
@@ -142,15 +143,15 @@ In the third paragraph, you need to provide evidence of the arguments you stated
 
 Finally, end your letter with a courteous and respectful phrase and sign your name. Reiterate your interest in joining the company, thank the reader, and include a call for action. You can combine some of the well-known farewell phrases and their variations, such as:
 
-*I am very excited about the opportunity to join [the company] and hope you will be as happy to have me.* 
+*I am very excited about the opportunity to join [COMPANY] and hope you will be as happy to have me.* 
 
 *Should you have any questions, it would be my pleasure to answer them.*
 
 *Please let me know if you have any questions or require additional information.*
 
-*Thank you for your time and consideration.  Thank you very much for your time.*
+*Thank you for your time and consideration. Thank you very much for your time.*
 
-*Looking forward to hearing from you. I look forward to hearing from you.*  
+*Looking forward to hearing from you.*  
 
 *I am looking forward to learning more about the job.*
 
@@ -165,19 +166,19 @@ And, don’t forget to sign your name afterward!
 1. Add a farewell phrase or paragraph to your cover letter.
 2. Sign your name.
 
-### 7. Check your grammar and spelling.
+### 7. Check your grammar and spelling
 
 As with all application materials, you must ensure that your cover letter is free of grammar and spelling mistakes. So read it carefully once more and run it through Grammarly.
 
-A**pply what you've learned**
+**Apply what you've learned**
 
 1. Check the grammar and spelling of your cover letter.
 
 ### 8. Self-assess your cover letter with the rubric
 
-If you have gone through the seven steps above, your cover letter will most likely meet all the rubric requirements. As a final check, self-assess your cover letter.
+If you have gone through the seven steps above your cover letter will most likely meet all the rubric requirements. As a final check, self-assess your cover letter.
 
-A**pply what you've learned:**
+**Apply what you've learned:**
 
 1. Open the cover letter rubric.
 2. Read the first item and compare it with your cover letter.
