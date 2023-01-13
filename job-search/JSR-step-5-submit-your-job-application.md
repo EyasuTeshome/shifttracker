@@ -8,32 +8,32 @@
 
 ## Description
 
-In this final step, you will submit your application materials, including your cover letter and customized resume, to apply to the job position you have selected. 
+In this final step you will submit your application materials, including your cover letter and customized resume, to apply to the job position you have selected. 
 
-With this task ends the submission process; if you are selected to move forward on the recruitment process, you will be contacted by a recruiter or hiring manager for a phone screen or interview. 
+This is the last step of the submission process. If you are selected to move forward in the recruitment process, you will be contacted by a recruiter or hiring manager for a phone screen or interview. 
 
 ### Do I need to follow all the steps in the process for every application I submit?
 
-As you have experienced in our walkthrough, submitting customized job applications involves time and effort. This investment is worthwhile for the jobs that are especially interesting for you. Still, you cannot always work so hard in each application if you want to apply for many jobs.
+As you have experienced in our walkthrough, submitting customized job applications involves time and effort. This investment is worthwhile for the jobs that are especially interesting for you. But you cannot always work so hard in each application if you want to apply for many jobs.
 
-Our recommendation when you start job searching is to send between 2 and 4 applications daily. Your challenge will be to make strategic decisions whenever you find a job opportunity: how close is it to your dream job? Is there something that makes you a particularly good fit for that position? Are there required attributes that you are missing? With the answers to these questions in mind, you need to decide **if you want to apply** for the job and **how much time and effort you will invest** in customizing your application materials.
+Our recommendation when you start job searching is to send between 2 and 4 applications daily. Your challenge will be to make strategic decisions whenever you find a job opportunity: how close is it to your dream job? Is there something that makes you a particularly good fit for that position? Are there required attributes that are missing? With the answers to these questions in mind, you need to decide **if you want to apply** for the job and **how much time and effort you will invest** in customizing your application materials.
 
-In some cases, it will be worthwhile to spend as much time as possible to ensure your application materials are customized. In others, you may decide to apply for a job even though you don’t meet all the requirements or are not 100% sure about the company. You never know whether the recruiter will select you for some other reason. And, if they invite you for an interview, you can always revisit your decision.
+In some cases it will be worthwhile to spend as much time as possible to ensure your application materials are customized. In others you may decide to apply for a job even though you don’t meet all the requirements or are not 100% sure about the company. You never know whether the recruiter will select you for some other reason. And if they invite you for an interview, you can always revisit your decision.
 
 ### What’s next?
 
-Once you send a job application, you need to wait for a response, at least for a week. If you don’t get one, you may follow up with a message as described in this lesson. 
+Once you send a job application, you need to wait for a response for at least a week. If you don’t get one, you may follow up with a message as described in this lesson. 
 
-To track the applications, you have submitted and know when you sent them, it’s important to use your Huntr board. So, don’t forget to update your Huntr every time you send an application. Make it a habit to do it immediately, so you don’t forget.
+To track the applications you have submitted and know when you sent them, it’s important to use your Huntr board. So don’t forget to update your Huntr every time you send an application. Make it a habit to do it immediately so you don’t forget.
 
-Also, Microverse will use the information in your Huntr board to identify your progress in your job search and to assign you Micro points. You will see the number of weekly applications submitted in your Progress View Page in the Student Dashboard. 
+Also Microverse will use the information in your Huntr board to identify your progress in your job search and to assign you Micro points. You will see the number of weekly applications submitted in your Progress View Page in the Student Dashboard. 
 
 ## Exercise
 
 ### Instructions
 
-1. Prepare a pdf version of your cover letter and customized resume, and check it. Don’t send editable versions! Sometimes, the format might get messed up, or blank pages might be added at the end.
-2. Read once again the application instructions in the job posting, to ensure you are aware of all the steps in the submission process.
+1. Prepare a PDF version of your cover letter and customized resume and check it. Don’t send editable versions! Sometimes the format might get messed up in the PDF conversion process or blank pages might be added at the end. If that happens, try converting it a different way or make edits to prevent those formatting errors.
+2. Read the application instructions in the job posting again to ensure you are aware of all the steps in the submission process.
 3. Submit your job application.
 4. Go to your Huntr board and move the job from the Wishlist section to the Applied. 
 5. Submit the link to your Huntr board. 
