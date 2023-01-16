@@ -1,22 +1,23 @@
-
 # Coding challenges practice
 
 ## Learning objectives
+
 - Solve interview-like coding challenges.
 
 ### Estimated time: 3h
 
 ## Exercise
 
-As mentioned in the [Coding challenges practice: intro](Coding challenges practice: intro), the only way to prepare for coding challenges is to solve as many coding challenges as possible.
+As mentioned in the [Coding challenges practice: intro](./coding_challenges_practice.md), the only way to prepare for coding challenges is to **solve as many coding challenges as possible** in order to **understand how they work and how to best approach them**.
 
 As this exercise is a recurring one, each time you will be able to select one (or more) challenges to solve.
 
-**It is your responsibility to select the coding challenge for a given day.**
+**Note: It is your responsibility to select the coding challenge for a given day!**
 
 ### Instructions
 
 1. Look for a coding challenge(s) (spend up to 0.5h on this) by browsing the following resources:
+
 - [Get a random coding challenge in the 3rd row of the Mock Interview Generator](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=2041017957).
 - [Get a random quick and simple coding challenge](https://docs.google.com/spreadsheets/d/1HkUyBZdcpGz_aEUa8W_rtNhS739jly8HY6sXVPPSAro/edit#gid=144653283).
 - Solve coding challenges from [leetcode.com](https://leetcode.com/problemset/all/).
@@ -27,7 +28,9 @@ As this exercise is a recurring one, each time you will be able to select one (o
 
 2. Timebox yourself [set up a timer for 2.5h](https://vclock.com/timer/#countdown=02:30:00&title=Coding+challenge+practice&sound=xylophone&loop=1).
 3. Solve as much as possible in 2.5h:
-    - Follow the advice from [Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf).
+   - Follow the advice from [Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf).
+
+**Note: We highly recommend you to disable [GitHub Copilot](https://github.com/features/copilot) while you're solving codiing challenges. Especially when you're going through real technical interviews.**
 
 ### Submit your exercise
 
@@ -36,5 +39,4 @@ Now go to your Student Dashboard and submit your exercise.
 challenge
 Paste the link to your coding challenge.
 
-*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
-
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

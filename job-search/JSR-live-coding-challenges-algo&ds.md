@@ -24,6 +24,7 @@ In order to do this exercise well you need to make sure you:
 
 - Have a good understanding of the fundamental data structures: arrays, strings and linked lists
 - Have a good understanding of the most important algorithms: recursion, sorting & searching
+- Have [GitHub Copilot](https://github.com/features/copilot) turned off
 
 Take a look at the following resources to refresh your mind!
 

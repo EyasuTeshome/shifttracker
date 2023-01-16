@@ -57,6 +57,7 @@ In order to do this exercise well you need to make sure you:
 
 - Have a good understanding of common patterns for coding challenges
 - Have mastered best practices before, during and after a coding interview
+- Have [GitHub Copilot](https://github.com/features/copilot) turned off
 
 ### Common patterns for coding challenges
 
