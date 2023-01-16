@@ -8,19 +8,19 @@ Your goal is to submit job applications daily during your job search. This activ
 
 ## How many job applications should I submit every day?
 
-Begin by sending 1 or 2 each day, and as you master the process increase the number to between 2 and 4.
+Begin by sending 1 or 2 each day and as you master the process increase the number to between 2 and 4.
 
 Remember it's important to **select the job applications that you send strategically!** Don't send only bulk applications. Try to combine:
-- Selecting some job applications that you are very interested in or that seem like a perfect fit for you, and customizing your resume and cover letter carefully. This might take you a couple of hours.
-- Using a brute force strategy for other applications, and sending the job applications without tailoring them so much. Yet, always edit your cover letter!
+- Selecting some job applications that you are very interested in or that seem like a perfect fit for you and customizing your resume and cover letter carefully. This might take you a couple of hours.
+- Using a brute force strategy for other applications and sending the job applications without tailoring them so much. Even for these though you should always edit your cover letter at a minimum to address the correct company and job requirements.
 
 ### Why is submitting job applications daily critical?
 
 Job searching is more of a marathon than a sprint race. Regularity and consistency are vital to ensuring job opportunities come your way. Keeping pace is also essential. Running too fast will burn you out; running too slow will take a very long time to get to the finish line.
 
-By sending between 2 and 4 applications daily while ensuring that your application materials showcase the skills and attributes that make you an excellent candidate, you will increase your chances of getting job interviews and finding an amazing job.
+By sending between 2 and 4 applications daily while ensuring that your application materials showcase the skills and attributes that make you an excellent candidate you will increase your chances of getting job interviews and finding an amazing job.
 
-To assist you and keep you going, we've included below relevant information for submitting job applications
+To assist you and keep you going we've included below relevant information for submitting job applications.
 
 ## Places to look for jobs online
 
