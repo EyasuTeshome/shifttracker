@@ -8,7 +8,7 @@
 
 ## Description
 
-In this exercise, you will schedule an interview with a professional mock interviewer. 
+In this exercise, you will schedule an interview with a professional mock interviewer who will rate your hireability using a scale of 1 to 4, where 1 is "Definitely won't hire" and 4 is "Definitely would hire". **To successfully complete this activity and avoid a block repetition, you have to attend the interview AND obtain a score of 2, 3, or 4.**
 
 ### Why is scheduling your industry professional mock interview important?
 
@@ -16,7 +16,7 @@ Your industry professional mock interview is an opportunity to have an interview
 
 Later in the module, we will help you prepare for the interview, plan how to gather feedback about your performance in a mock interview, self-assess yourself in the different aspects covered in the interview, and define SMART goals to improve your interview skills.
 
-Attending this interview and receiving a satisfactory score from the interviewer is a module requirement. To avoid a block repetition, ensure that you schedule your interview before the end of Module 7 week 3 and prepare yourself thoroughly.   
+Attending this interview and receiving a satisfactory score from the interviewer is a module requirement. So, to avoid a block repetition, ensure that you schedule your interview before the end of Module 7 week 3 and prepare yourself thoroughly.   
 
 ### How do you schedule your industry professional mock interview?
 
