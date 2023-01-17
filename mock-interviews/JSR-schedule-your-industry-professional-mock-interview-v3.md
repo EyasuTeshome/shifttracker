@@ -10,7 +10,9 @@
 
 In this exercise, you will schedule a mock interview with a industry professional who will assess your performance.
 
-Attending this interview **and receiving a satisfactory score from the interviewer** is a core requirement in the third block of this module. So, to avoid a repetition, ensure that you schedule your interview before the end of Module 7 and prepare yourself thoroughly. 
+**Attending this interview and receiving a satifactory score from the interviewer** is required to complete successfuly the third block of this module. 
+
+The industry professional mock interviewer will assess and rate your performance using a scale of 1 to 4, where 1 means you need to improve substantially to be prepared for job interviews and 4, that you are very well prepared. To successfully complete the interview, you will need a score of 2 - 4. If you get a score of 1, you will repeat the block so that you can hone your interview skills. 
 
 ### Why is scheduling your industry professional mock interview important?
 
