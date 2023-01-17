@@ -21,17 +21,18 @@ After some introductory lessons about the recruitment process in general, you wi
 - Lessons and exercises to hone your interviewing skills:
     - In morning sessions, you will continue practicing the strategies to deal with the common issues that you face in technical with your peers. This second look at them, will strengthen your knowledge and master them.
     - Every day, you will also have a more extended interview practice where you will work on specific interview skills: answering technical & behavioral questions, talking about your projects, and live coding. In some live coding sessions, you will apply the Algo & DS structures that are commonly considered in int 
-    - You will refresh your knowledge about the specific types of interviews and how to prepare for them, and you will learn about CARL, an alternate format to SAR, and refine your behavioral grid. Throughout the module, you will add more stories throughout the module.
-    - Finally, you will also attend an interview with an industry professional interviewer who will assess you. Successful performance in this interview is a requirement to complete the module
-- Projects to strengthen your application materials and online presence:
-    - You will update and refine your LinkedIn, portfolio, and GitHub profile, to make sure they present a strong online presence of you, as a software developer.
-    - You will update and revamp your resume, and your cover letter, to ensure they tell a personalized story. You will also submit them to a career coach for review and approval.
+    - You will refresh your knowledge about the specific types of interviews and how to prepare for them. You will learn about CARL, an alternate format to SAR, refine your behavioral grid and add more stories to it.
+    - Finally, you will also attend an interview with an industry professional interviewer who will assess you. Successful performance in this interview is a requirement to complete the block 3 in the module.
+- Projects where you will update and refine your application materials, send them to a career focah for review and improve them until they meet all the requirements in the corresponding rubric:
+    - You will work on your LinkedIn and GitHub profile to present a strong picture of you, as a software developer.
+    - You will revise your resume and your cover letter to ensure they tell a personalized story. You will also submit them to a career coach for review and approval.
+    - You will revamp your portfolio and include all your projects.
 - A step-by-step walkthrough to submit a job application. We will guide you all the way, from finding a job posting to submitting the job application.
 
 ### How will you be assessed?
 
-- A career coach will review your behavioral grid and application materials, and approve them if they meet all the requirements in the corresponding rubric. You have a maximum of 3 rounds of review in each case to avoid a block repetition.
-- The industry professional mock interviewer will assess your performance in the mock interview. You will need to repeat the module if your performance does not satisfy minimum requirements. 
+- A career coach will review your behavioral grid and application materials, and approve them if they meet all the requirements in the corresponding rubric. You will have a maximum of 2 or 3 reviews to get your submission approved, depending on the project. If necessary, you might use your extra reviews to improve your material further and get it approved.
+- The industry professional mock interviewer will assess and rate your performance in the mock interview using a scale of 1 to 4, where 1 means you need to improve substantially to be prepared for job interviews and 4, that you are very well prepared. To successfully complete the interview, you will need a score of 2 - 4. If you get a score of 1, you will repeat the block so that you can hone your interview skills.
 
 
 ### An final note about workload
