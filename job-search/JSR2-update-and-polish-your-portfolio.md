@@ -7,7 +7,7 @@
 
 ### **Estimated time: 6-10h**
 
-Today, we have set up 2 hours to start this activity. There is time booked other days for this purpose. The total time to invest depends on your specific needs.
+Today, we have set up 3 hours to start this activity. There is time booked other days for this purpose. The total time to invest depends on your specific needs.
 
 ## **Description**
 
