@@ -11,10 +11,12 @@
 
 In this project, you will prepare the **strongest possible version** of your resume and ensure it presents the **unique combination of skills and attributes** that help you tell your story when applying for a job. Resumes and profiles are the documents recruiters use to filter out candidates in the first stage of the recruitment process. A strong resume will help you stand out among others and get you to interviews. It’s the data you can use to convince a recruiter that you are the best candidate for the job.
 
-Then, you will submit your resume to a career coach for review and approval. Remember:
+Then, you will submit your resume to a career coach for review and approval. You have:
 
-- You will have a max 3 rounds of review.
-- This activity is a carry-over so you can complete it in two weeks. We recommend you turn in your first version as soon as possible. Coaches might take up to 4 days to send you their feedback.
+- **A max 3 rounds of review.**
+- **Two weeks to get your resume approved** because this activity is a carry-over. 
+
+❗️ Submit your first version no later than **Wednesday of the week it's due** to have time to go through the necessary rounds of revision. Refining a resume is a complex tax: our coaches might take up to 4 days to review your work and send their comments, and you may need 3 reviews to get it right!
 
 ## **Refresher: the three main components of a resume**
 
@@ -88,7 +90,7 @@ Your resume and professional profiles (LinkedIn and GitHub) have a similar struc
 
 Now go to your Student Dashboard and **submit the link to your resume** for your coach to review and comment.
 
-Refining a resume is a complex tax. Our coaches might take up to 4 days to review your work and send their comments. We recommend you submit your work today to have time for the rounds of revision. You can require 3 of them!
+Remember to **submit the first version of your resume by Wednesday** to have time for the rounds of revision. You may require 3 reviews before gettingn approval!
 
 Please note **you don't need to submit the worksheet.** It is intended to help you assess if your resume meets the requirements in the rubric.
 
