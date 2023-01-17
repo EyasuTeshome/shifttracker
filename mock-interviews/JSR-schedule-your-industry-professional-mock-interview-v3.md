@@ -10,7 +10,7 @@
 
 In this exercise, you will schedule a mock interview with a industry professional who will assess your performance.
 
-Attending this interview **and receiving a satisfactory score from the interviewer** is core requirement in the third block of this module. So, to avoid a repetition, ensure that you schedule your interview before the end of Module 7 and prepare yourself thoroughly. 
+Attending this interview **and receiving a satisfactory score from the interviewer** is a core requirement in the third block of this module. So, to avoid a repetition, ensure that you schedule your interview before the end of Module 7 and prepare yourself thoroughly. 
 
 ### Why is scheduling your industry professional mock interview important?
 
