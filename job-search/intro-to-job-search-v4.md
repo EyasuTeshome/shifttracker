@@ -8,26 +8,26 @@
 
 ## Description
 
-Congratulations on finishing the Core Program! You have learned the basic skills needed to be a full-stack web developer and a job searcher. Also, you prepared application materials that showcase your personal knowledge and skills, reviewed and approved by career coaches. 
+Congratulations on finishing the Core Program! You have learned the basic skills needed to be a full-stack web developer and a job searcher. Also you prepared application materials that showcase your personal knowledge and skills; reviewed and approved by career coaches. 
 
 It's time to focus on using these skills and application materials to get a job as a software developer and Microverse is here to ensure you have the tools and structure you need to succeed. 
 
-In this lesson, we will go over what you should expect from the next segment of the Microverse program: job searching.
+In this lesson we will go over what you should expect from the next segment of the Microverse program: job searching.
 
 ### Why is job searching important?
 
-There any many factors that impact your success during job searching. Many are out of your control, such as the jobs available in the market at a given moment, the attributes that a company is looking for, or the mood of your interviewers on the day they interview you. But, since you cannot control them, instead of worrying about them, you need to concentrate on the things you *can* control: your daily job searching activities.
+There any many factors that impact your success during job searching. Many are out of your control, such as the jobs available in the market at a given moment, the attributes that a company is looking for, or the mood of your interviewers on the day they interview you. But since you cannot control them, instead of worrying about them, you need to concentrate on the things you *can* control: your daily job searching activities.
 
 ### What makes a successful job search?
 
- A successful job search requires consistency and dedication, working every day in four core areas:
+A successful job search requires consistency and dedication; working every day in four core areas:
 
 - Actively applying to jobs and participating in interviews,
 - Preparing for interviews,
 - Strengthening your technical skills and working on side projects,
 - Networking.
 
-Finding a job will demand time and sustained effort. Job searching can be difficult and emotionally challenging: you may send many applications and get rejected, or even worse, you. may not hear back from recruiters at all. Now, remember that you are not alone! The Microverse curriculum has been designed to help you work strategically to get a job, and our team of career coaches will support you throughout. Yet, *you* also have to do your part.
+Finding a job will demand time and sustained effort. Job searching can be difficult and emotionally challenging: you may send many applications and get rejected, or even worse, you may not hear back from recruiters at all. Now remember that you are not alone! The Microverse curriculum has been designed to help you work strategically to get a job and our team of career coaches will support you throughout. Yet *you* also have to do your part.
 
 [![Watch the video](https://img.youtube.com/vi/mn2kUUzUm94/0.jpg)](https://www.youtube.com/watch?v=mn2kUUzUm94)
 
@@ -41,7 +41,7 @@ Finding a job will demand time and sustained effort. Job searching can be diffic
 
 ### What will my days look like while I'm job searching?
 
-While you are job searching, you will still attend your full-time Microverse schedule. However, there will be more flexibility with the specific activities you do each day, so you'll have space to focus on what works best for YOU.
+While you are job searching you will still attend your full-time Microverse schedule. However there will be more flexibility with the specific activities you do each day so you'll have space to focus on what works best for you.
 
 [![Watch the video](https://img.youtube.com/vi/qfv3IKURkdk/0.jpg)](https://www.youtube.com/watch?v=qfv3IKURkdk)
 
@@ -56,7 +56,7 @@ While you are job searching, you will still attend your full-time Microverse sch
 
 ### How will I use my weekly retrospectives to guide my job search?
 
-During the job searching modules, you will consider a different set of questions and issues in your weekly retrospectives. 
+During the job searching modules you will consider a different set of questions and issues in your weekly retrospectives. 
 
 [![Watch the video](https://img.youtube.com/vi/fPWFokwNBPo/0.jpg)](https://www.youtube.com/watch?v=fPWFokwNBPo)
 
@@ -64,7 +64,7 @@ During the job searching modules, you will consider a different set of questions
 
 You will be tracking your job searching performance with specific metrics related to your job searching activities, called Micropoints, instead of your progress through the curriculum. They will be displayed on your Dashboard home page.
 
-- Read an explanation about [how to track progress while job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-track-progress-while-job-searching.md)
+- Read an explanation about [how to track progress while job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-track-progress-while-job-searching.md).
 
 **Guiding questions:**
 
@@ -74,7 +74,7 @@ You will be tracking your job searching performance with specific metrics relate
 
 ### How will career coaches support me?
 
-During job searching, you will communicate with career coaches in group meetings, and you will be able to get in touch with them through Zendesk to get support for any immediate needs throughout the process, such as preparing for an interview that has just been scheduled. You will be able to schedule 1:1 meetings to solve specific issues and will participate in online workshops designed to help you put into practice what you have learned about job searching.
+During job searching you will communicate with career coaches in group meetings and you will be able to get in touch with them through Zendesk to get support for any immediate needs throughout the process such as preparing for an interview that has just been scheduled. You will be able to schedule 1:1 meetings to solve specific issues and will participate in online workshops designed to help you put into practice what you have learned about job searching.
 
 - Find out [how you will communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md).
 
@@ -84,7 +84,7 @@ During job searching, you will communicate with career coaches in group meetings
 
 - What support will you get as you are job searching?
 - How can you reach out to your career coach?
-- What should you do if you have a job offer, but your coaching group meeting is in a few days?
+- What should you do if you have a job offer but your coaching group meeting is in a few days?
 
 ## Challenge yourself
 
