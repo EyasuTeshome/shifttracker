@@ -34,7 +34,7 @@ In the following video, Lizzie Tran from Career Services shares some advice for 
 
 **Spend 30 minutes working on this exercise**
 
-1. Choose two behavioral video questions that you would like to answer from your behavioral grid.
+1. Open the behavioral grid that you created in [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-your-behavioral-grid-v2.md). Select two behavioral questions that you would like to include in your video.
 
 2. Prepare your setting to record videos, considering the guidelines above for creating a good behavioral video.
 
