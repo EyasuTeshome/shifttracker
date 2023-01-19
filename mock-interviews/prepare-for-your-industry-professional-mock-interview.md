@@ -32,7 +32,7 @@ In a [previous exercise](https://github.com/microverseinc/curriculum-professiona
 
 **These same steps will help you be ready for actual job interviews.**
 
-## How you will be evaluated
+### How you will be evaluated
 
 The goal of the mock interview is to **help clarify how hirable you are**. We will follow the guidelines from the [TechInterviewHandbook](https://www.techinterviewhandbook.org/coding-interview-rubrics/) and your final evaluation will result in 1 of the following:
 
