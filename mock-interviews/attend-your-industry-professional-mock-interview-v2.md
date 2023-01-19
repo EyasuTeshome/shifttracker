@@ -8,9 +8,14 @@
 
 ## Description
 
-You will attend your industry professional mock interview on the date and time that you scheduled. Once you participate in the interview, the industry professional mock interviewer will inform Microverse and this activity will be marked as complete.
+You will attend your industry professional mock interview on the date and time that you scheduled. Once you participate in the interview, the industry professional mock interviewer will inform Microverse of your score. This activity will be marked as complete if you obtain a score of 2, 3 or 4.  If you receive a 1, you will not complete this activity and you will have to repeat a block. 
 
 Remember that the interview is a module requirement, so you must complete it before the module ends.
+
+**If you are repeating the block because you didn't complete this activity, you need to schedule another interview. To do so, follow the instructions in [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/JSR-schedule-your-industry-professional-mock-interview-v3.md).** We suggest that you focus your efforts on honing your interview skills during the week.
+
+
+
 
 ### Refresher on preparing for your industry professional mock interview?
 
