@@ -1,92 +1,83 @@
-# Interview practice: Using the behavioral grid to answer interview questions
+# Peer-to-peer interview practice: Behavioral interviews with the CARL framework
 
 ## Learning objectives
 
-- Answer common behavioral questions in the CARL format.
+- Answer behavioral questions using the CARL framework.
 
-### Estimated time: 2h
-
-## Description
-
-In today’s session you will practice how to use the behavioral grid to answer behavioral interview questions structured with the CARL framework with your learning partner.
-
-### Why is it important?
-
-You have already crafted several stories in your behavioral grid that illustrate your professional skills in previous projects and experiences. The purpose of these stories is to help you answer questions during interviews. But it's one thing to write them and another to use them effectively during interviews! There are two important steps you need to practice:
-
-- Selecting the right story for a question.
-- Presenting your answer orally.
+### Estimated time: 1h
 
 ## Exercise
 
 ### Instructions
 
-💡 Plan to meet with your learning partner for 1.25 hr and to spend .25 hr before the session to prepare yourself.
+💡 **Remember that this meeting should take 1 hour, not 30 minutes.**
 
-### Before the call: Review your behavioral grid (15 min)
+- Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
+- Select a **leader** who will ensure you follow the outline below - do not skip any steps!
 
-- Open your behavioral grid and read through the different stories you have written.
-- Identify the key information for each of the four components of the CARL framework and highlight the words related to them.
+### Preparation - 10 min
 
-### During the call: Mock interviews
+1. In a big group, read the following information to refresh your understanding of using the CARL format to answer behavioral questions.
+    - Mute your microphones and read in silence.
 
-- Join the Zoom call with your partner. Remember to always be on time to respect their time. Punctuality is essential for your professional career!
-- Today you will ask behavioral questions to each other, taking turns to play the role of interviewer and applicant.
+**Why is structuring your answers to behavioral interview questions important?**
 
-**A. Interview set up (15 min)**
+To get to know you better and assess if you are culturally fit for the company, recruiters will ask you to describe past experiences related to issues that are important for the role you are applying for. For example, they can ask how you have dealt with conflict or communicated in interdisciplinary teams or multicultural environments to predict how you will behave in the future. Typically, these questions begin with “Tell me about…”.
 
-1. After you join the call, watch the following video to learn how to use your behavioral grid to answer behavioral questions.
+The CARL (context-action-result-learning) format you studied during the job search readiness module helps you structure your answers to these questions. Practicing how to apply it to show different attributes of your personality and provide evidence of your professional performance with past examples will help you prepare for interviews.
 
-[![Watch the video](https://img.youtube.com/vi/rEgIq02RWa0/0.jpg)](https://www.youtube.com/watch?v=rEgIq02RWa0)
+**Refresh your knowledge by reviewing the following lesson:**
 
-2. Discuss the following questions with your partner (5 mins):
-    - How do you identify which story to use?
-    - Can you use the same story for different questions?
-    - Can you use different stories to answer the same question?
-    - What if the question you are asked is not included in the common behavioral questions you worked on in your behavioral grid?
-3. You will both be interviewers during the exercise, so each of you must follow the steps below to prepare the questions you will ask your partner:
+- [The CARL format](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-the-CARL-format.md)
+
+Once everybody is ready, make a collective summary of the attributes of each element of the answer: Context, Action, Result, and Learning.
+
+### Interviewers setup - 5 min
+
+1. Everybody will be an interviewer during the exercise, so each of you must follow the steps below:
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
-    - Read the list of questions and select 3 that ask your partner about a past situation (usually they have the format “Tell me about”).
-    - Reflect upon the attribute that each question will help you identify in the interviewee, such as initiative, empathy, compassion, humility, and teamwork.
-    - Open the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) that you will use to offer feedback to your partner. Copy the 3 questions that you will be asking and register the attribute that they will help you identify.
-    - Read the criteria and indicators you will assess in the interview.
-    
+    - Select two questions to ask your partner about a past situation (with the format Tell me about).
+    - Reflect upon the attribute that the question will help you identify in the interviewee, (for example, initiative, empathy, compassion, humility, problem-solving, and teamwork). Then, identify possible follow-up questions to dig deeper into that attribute during the interview.
+    - Open the [following checklist for providing feedback](https://docs.google.com/document/d/16-ksqgYN4KX21DEfk46zib5OY8KnDOYRtPPviLGtes8/edit#heading=h.za7e1fwup8u). Copy the two questions you will be asking at the top of each section and register the attribute they will help you identify.
+    - Read the criteria and indicators that you will assess in the interview.
+2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
+    - **Set timer for breakout rooms - it should be 25 minutes.**
+    - If there is an odd number of people in your group, one room will need to have 3 people.
 
-**B. Check each other’s video setup (10 min)**
+### Quick interviews - 25 min
 
-1. Review [this infographic](https://pilbox.themuse.com/image.png?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fattachments%2F40538%2F7779d505-d5d1-48f1-bb6d-1f3c80dee5bf.png%3Fv%3D2e4cd9fa510f4997e5ab8a4b04f67176960f9d69efddbec778f20d2a26c18cd9&prog=1&w=780) together to prepare your setup for a video interview.
-2. Scroll to the bottom. Using the final image as a reference, look at each other's video image, and verify if it meets all the specifications. Share suggestions to improve your partner’s videoconference setup.
-3. Both of you make any changes necessary for your setup to comply with the guidelines.
-
-**C. Plan together how to answer the first question collaboratively (15 min)**
-
-1. Begin by telling each other the first question you chose to ask. **At this time, only the first!** 
-2. Discuss the attribute that you think recruiters wish to explore with the question. Is it teamwork? Collaboration? Resilience?
-3. Together look at each other's behavioral grid and identify one story that can be used to answer the question. 
-    - Share the screen so that you can look at the different stories together.
-    - Discuss why the story you selected is a good option for the question and how it addresses the attribute that recruiters wish to explore.
-
-**D. Mock interviews (45 min)**
-
-1. Take turns playing the role of interviewer and applicant in a mock interview. In each one the interviewer will ask their partner the 3 behavioral questions: first the question you shared in step 1 and then the two you haven’t shared with your partner. Follow these steps for each question:
-    - The interviewer looks at the [interview practice checklist](https://docs.google.com/document/d/1PUtA9kd7nqZNagKn_bAFhcCBe_ucCyH2CSGY47fDAGY/edit?usp=sharing) to read the questions to ask.  
-    - The interviewer starts [timer](https://vclock.com/timer/#countdown=00:02:00&enabled=0&seconds=120&sound=xylophone&loop=1) (2 min).
+1. In your breakout rooms, you will take turns.
+    - Each of you will play the role of an interviewer once and the role of an applicant once.
+2. In each interview, the interviewer will ask 2 behavioral questions following these steps:
+    - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/16-ksqgYN4KX21DEfk46zib5OY8KnDOYRtPPviLGtes8/edit#heading=h.za7e1fwup8u). **You should fill it in during the interview if possible.**
+    - The interviewer starts the [timer (**3 minutes**)](https://vclock.com/timer/#countdown=00:03:00&enabled=0&seconds=180&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer asks the first question.
-    - **The applicant answers with the CARL structure.**
+    - **The applicant answers using the CARL framework.**
     - The interviewer indicates when the time is up.
-    - The interviewer completes the checklist for the first question.  
-    - The interviewer follows steps a) through f) to ask the second and third questions.
-    - The interviewer offers feedback to the applicant about their performance stressing if the answers provided evidence of the attribute to be explored and explaining why it did or did not (if possible give concrete examples). 
+    - The interviewer asks a follow-up question to dig deeper into the attribute they wish to explore and gives the applicant an additional minute to answer.
+    - The interviewer starts [timer (**1 minute**)](https://vclock.com/timer/#countdown=00:01:00&enabled=0&seconds=60&title=Peer+interviews+practice&sound=xylophone&loop=1).
+    - The applicant answers the follow-up question.
+    - The interviewer shares with the applicant the attribute(s) illustrated by the interviewee in answer and explains why (if possible, give concrete examples). (1 minute)
 
-**Do not extend the allocated time. You must practice completing tasks on time because your actual interviews will be timed.**
+**Do not extend the allocated time. It is important that you practice completing tasks promptly, as you will need to do in your real interviews.**
 
-1. Change roles so that now the applicant becomes the interviewer and repeat all the steps above.
-2. When you finish all interviews, both of you share the filled-in checklist with your partner. **The applicant will use this for their exercise submission**.
+1. When all interviews are finished:
+    - All interviewers fill out the checklist.
+    - All interviewers share a filled-in rubric with the applicant. **The applicant will use this for their exercise submission**.
+
+### Recap with the big group - 10 min
+
+1. Come back to the main room in Zoom.
+2. Use [this Airtable](https://airtable.com/shrclyLFtL6b5fMdT) form for self-reflection and the rating of the interviewer.
+3. Share something you will work on based on one piece of feedback with the entire group.
 
 ### Submit your exercise
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your exercise. Paste the link to the checklist with your interviewer’s feedback.
+
+Now go to your Student Dashboard and submit your exercise.
+
+Paste the link to the checklist with your interviewer’s feedback (thus, you will be able to access it from your dashboard in the future).
 
 ---
 
