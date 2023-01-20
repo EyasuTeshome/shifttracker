@@ -16,7 +16,9 @@ Then, you will submit your resume to a career coach for review and approval. You
 - **A max 3 rounds of review.**
 - **Two weeks to get your resume approved** because this activity is a carry-over. 
 
-❗️ Submit your first version no later than **Wednesday of the week it's due** to have time to go through the necessary rounds of revision. Refining a resume is a complex tax: our coaches might take up to 4 days to review your work and send their comments, and you may need 3 reviews to get it right!
+❗️ Submit your first version no later than **Wednesday of the week it's due** to have time to go through the necessary rounds of revision. 
+
+Coaches might take up to 3 days to review your work and send their comments. Please consider that refining a resume is a complex task, and you may need 3 reviews to get it right!
 
 ## **Refresher: the three main components of a resume**
 
