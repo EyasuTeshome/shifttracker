@@ -17,6 +17,8 @@ Remember that your GitHub profile **must be approved** to complete the block suc
 
 ❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision.
 
+Coaches might take up to 3 days to review your work and send their comments.
+
 
 ## Why is a GitHub profile important?
 
