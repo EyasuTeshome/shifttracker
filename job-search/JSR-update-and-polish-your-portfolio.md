@@ -17,7 +17,7 @@ After you’ve upgraded your website, you will then **submit it to a career coac
 
 Your portfolio **must be approved** to complete the module successfully:
 
-- This is a module requirement so you will have to complete it**by the end of week 3**. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. \
+- This is a module requirement so you will have to complete it**by the end of week 3**. We recommend you submit your first version as soon as possible to have time to go through the necessary rounds of revision. Coaches might take up to 4 days to send you their comments and request changes.
 - You have a maximum of **three rounds of reviews**, so study the coach’s comments carefully and integrate any changes required before re-submitting your portfolio. If necessary you may use an extra review to get your coach's approval.
 
 ## Refresher on what makes a good portfolio
