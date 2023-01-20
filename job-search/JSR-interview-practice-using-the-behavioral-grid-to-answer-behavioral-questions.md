@@ -38,7 +38,7 @@ Once everybody is ready, make a collective summary of the attributes of each ele
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
     - Select two questions to ask your partner about a past situation (with the format Tell me about).
     - Reflect upon the attribute that the question will help you identify in the interviewee, (for example, initiative, empathy, compassion, humility, problem-solving, and teamwork). Then, identify possible follow-up questions to dig deeper into that attribute during the interview.
-    - Open the [following checklist for providing feedback](https://docs.google.com/document/d/16-ksqgYN4KX21DEfk46zib5OY8KnDOYRtPPviLGtes8/edit#heading=h.za7e1fwup8u). Copy the two questions you will be asking at the top of each section and register the attribute they will help you identify.
+    - Open the [following checklist for providing feedback](https://docs.google.com/document/d/1jTBqbvLq3dVlZjFmCAmLEFWQL4A5xiGJEKp8BpDTVQ4/edit#heading=h.za7e1fwup8u). Copy the two questions you will be asking at the top of each section and register the attribute they will help you identify.
     - Read the criteria and indicators that you will assess in the interview.
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
     - **Set timer for breakout rooms - it should be 25 minutes.**
@@ -49,7 +49,7 @@ Once everybody is ready, make a collective summary of the attributes of each ele
 1. In your breakout rooms, you will take turns.
     - Each of you will play the role of an interviewer once and the role of an applicant once.
 2. In each interview, the interviewer will ask 2 behavioral questions following these steps:
-    - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/16-ksqgYN4KX21DEfk46zib5OY8KnDOYRtPPviLGtes8/edit#heading=h.za7e1fwup8u). **You should fill it in during the interview if possible.**
+    - The interviewer opens the [following checklist for giving advice](https://docs.google.com/document/d/1jTBqbvLq3dVlZjFmCAmLEFWQL4A5xiGJEKp8BpDTVQ4/edit#heading=h.za7e1fwup8u). **You should fill it in during the interview if possible.**
     - The interviewer starts the [timer (**3 minutes**)](https://vclock.com/timer/#countdown=00:03:00&enabled=0&seconds=180&title=Peer+interviews+practice&sound=xylophone&loop=1).
     - The interviewer asks the first question.
     - **The applicant answers using the CARL framework.**
