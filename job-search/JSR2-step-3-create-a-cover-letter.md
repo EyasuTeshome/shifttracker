@@ -19,6 +19,8 @@ You have:
 
 ❗️ Submit your first version **no later than Wednesday** to have time to go through the two rounds of revision if necessary.
 
+Coaches might take up to 3 days to review your work and send their comments.
+
 ### Why is it important to write a compelling cover letter?
 
 Recruiters’ initial screening of applicants is based on the application materials you submit, including the cover letter. Since this document is less formally structured than your resume or profile, here you can use it to “**connect the dots**,” that establishes a relationship **between you** (who you are and how you became this talented software developer), **the job** (with requirements and responsibilities), **and the company** (with a specific mission and challenges).
