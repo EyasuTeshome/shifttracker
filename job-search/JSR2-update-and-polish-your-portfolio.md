@@ -20,7 +20,9 @@ Your portfolio **must be approved** to complete the module successfully. You hav
 - **3 weeks** to go through the review process, because this activity is a module requirement. 
 - **2 rounds of reviews only**. So, study the coach's feedback carefully and **integrate all changes before re-submitting your portfolio**. 
 
-❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision.
+❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision. 
+
+Coaches might take up to 3 days to send you their comments and request changes.
 
 
 ## Refresher on what makes a good portfolio
