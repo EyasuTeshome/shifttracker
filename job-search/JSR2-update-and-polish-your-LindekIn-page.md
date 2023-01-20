@@ -16,7 +16,7 @@ You have:
 
 - **A maximum of two reviews**, so study the coach’s comments carefully and integrate any changes required. If necessary, you may use one of your extra reviews to get it approved.
 
-- **One week to complete the activity** and avoid a block repetition. **Submit your first version no later than Wednesday**, to have enough time for the two rounds of reviews. 
+- **One week to complete the activity** and avoid a block repetition. **Submit your first version no later than Wednesday**, to have enough time for the two rounds of reviews. Coaches might take up to 3 days to send you their comments and request changes.
 
 ## A refresher about the relevance of a LinkedIn profile
 
