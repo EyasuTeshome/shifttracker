@@ -35,7 +35,7 @@ One topic that is important to discuss is the differences in which countries vie
 **Learn more about gender and age in the workplace:**
 
 - [Women business and the law 2020: How does the law affect women’s economic opportunity?](https://blogs.worldbank.org/opendata/women-business-and-law-2020-how-does-law-affect-womens-economic-opportunity)
-- [Ageism: a global challenge](https://leadingage.org/magazine/july-august-2019/Ageism-Global-Challenge-V9N4) (Read until the title "Global ageing network")
+- [Ageism is a global challenge](https://www.who.int/news/item/18-03-2021-ageism-is-a-global-challenge-un) (Read "Findings from the Report" and stop reading after the second bullet in "Notes to the Editors".)
 
 ## Exercise
 
