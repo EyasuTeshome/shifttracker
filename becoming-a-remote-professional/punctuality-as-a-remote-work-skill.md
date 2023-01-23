@@ -10,9 +10,6 @@ https://www.loom.com/share/6240194c0e9b44a58fffa605c79998e3
 
 Microverse Alumni, James Okunlade from Nigeria, talking about punctuality.
 
-https://www.loom.com/share/bd1287005bc249acaa30d6b6532651a0
-
-Microverse Alumni, Shakhawat Hossain from Bangladesh, talking about punctuality.
 
 ### Benefits of punctuality at work
 
