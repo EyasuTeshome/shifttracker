@@ -23,7 +23,7 @@ After some introductory lessons about the recruitment process in general, you wi
     - Every day, you will also have a more extended interview practice where you will work on specific interview skills: answering technical & behavioral questions, talking about your projects, and live coding. In some live coding sessions, you will apply the Algo & DS structures that are commonly considered in int 
     - You will refresh your knowledge about the specific types of interviews and how to prepare for them. You will learn about CARL, an alternate format to SAR, refine your behavioral grid and add more stories to it.
     - Finally, you will also attend an interview with an industry professional interviewer who will assess you. Successful performance in this interview is a requirement to complete the block 3 in the module.
-- Projects where you will update and refine your application materials, send them to a career focah for review and improve them until they meet all the requirements in the corresponding rubric:
+- Projects where you will update and refine your application materials, send them to a career coach for review and improve them until they meet all the requirements in the corresponding rubric:
     - You will work on your LinkedIn and GitHub profile to present a strong picture of you, as a software developer.
     - You will revise your resume and your cover letter to ensure they tell a personalized story. You will also submit them to a career coach for review and approval.
     - You will revamp your portfolio and include all your projects.
