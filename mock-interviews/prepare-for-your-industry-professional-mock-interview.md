@@ -34,14 +34,11 @@ In a [previous exercise](https://github.com/microverseinc/curriculum-professiona
 
 ### How you will be evaluated
 
-The goal of the mock interview is to **help clarify how hirable you are**. We will follow the guidelines from the [TechInterviewHandbook](https://www.techinterviewhandbook.org/coding-interview-rubrics/) and your final evaluation will result in 1 of the following:
+The goal of the mock interview is for you to practice participating in a similar interview as the ones you will face during your job search and to **help clarify how hirable you are**. 
 
-| Fail           | Pass        |
-| -------------- | ----------- |
-| No hire        | Strong hire |
-| Strong no hire | Hire        |
+Your final evaluation will result in a score between 1 and 4, where 1 means you need to improve substantially to be prepared for job interviews ("Strong no hire") and 4, that you are very well prepared for interviews ("Strong hire"). You can learn more about the criteria used in the industry to assess technical interviews by looking at the guidelines from the [TechInterviewHandbook](https://www.techinterviewhandbook.org/coding-interview-rubrics/). 
 
-If you score `no hire` or `strong no hire` you should take extra care with implementing the feedback your interviewer will give you to improve for the next time.
+If you score 1, you will need to repeat the block, hone your interview skills, and attend another interview. So you should take extra care with implementing the feedback your interviewer will give you to improve for the next time.
 
 Good luck with your preparation!
 
