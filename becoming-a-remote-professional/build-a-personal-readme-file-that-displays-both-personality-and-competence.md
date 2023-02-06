@@ -8,7 +8,7 @@ Your personal README should be professional but fun, and should showcase a littl
 - Link to projects you've worked on that are not hosted on GitHub (and include attractive screenshots).
 - [Use Canva to create a professional banner](https://www.canva.com/create/banners/).
 - Display live updating statistics about your contributions to projects on GitHub.
-- Add links or contact information (such as an e-mail address, LinkedIn/AngelList buttons, etc).
+- Add links or contact information (such as an e-mail address, LinkedIn/Wellfound buttons, etc).
 - Mention that you're currently on the lookout for new opportunities
 
 As a general rule of thumb, your personal README can be about **80% development-related, and 20% personal** (as long as it's work-appropriate). You can use emojis or gifs, but limit them (no more than one per bullet point).
@@ -25,7 +25,6 @@ Again, the personal README is optional, but is **highly recommended**. It may re
 
 [You can find a tutorial with some great examples here](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj).
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

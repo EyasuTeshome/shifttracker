@@ -11,9 +11,9 @@ It doesn't matter if you have been in contact with a recruiter on LinkedIn, or i
 
 - **First, you will need to find your decision-maker.** If you didn't already speak to a recruiter and their name is not on the job posting, you can use LinkedIn to do research.
 - **Next, install [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo)** and open Gmail to complete the installation and get your first direct email address.
-- **[Watch this video](https://www.loom.com/share/6469dbca42364393856f13b0fb5204e8)** to show you how you can use company information from LinkedIn or AngelList with Clearbit Connect to get the email address of the hiring manager or recruiter that you want to message.
+- **[Watch this video](https://www.loom.com/share/6469dbca42364393856f13b0fb5204e8)** to show you how you can use company information from LinkedIn or Wellfound with Clearbit Connect to get the email address of the hiring manager or recruiter that you want to message.
 
-Now that you have a good email address, it’s time to craft your message. 
+Now that you have a good email address, it’s time to craft your message.
 
 It should be shorter than a cover letter, but it should never say, “What’s the status of my application?” because no hiring manager likes that message.
 

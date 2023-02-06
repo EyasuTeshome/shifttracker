@@ -40,7 +40,7 @@ No matter what, be confident in your own status and comfortable walking away, es
 
 ### **Research what is average for the role you are considering**
 
-Stack Overflow has a great salary calculator that offers salary info for the United States, Canada, the United Kingdom, France, Germany, Australia, Italy, Brazil, India, Netherlands, Poland, Russia, Spain, and Sweden. You can also try AngelList Startup Salary & Equity or Salary.com, but be sure to use location filters to get a more accurate range.
+Stack Overflow has a great salary calculator that offers salary info for the United States, Canada, the United Kingdom, France, Germany, Australia, Italy, Brazil, India, Netherlands, Poland, Russia, Spain, and Sweden. You can also try Wellfound Startup Salary & Equity or Salary.com, but be sure to use location filters to get a more accurate range.
 
 If you seek a remote job and the company is in another country, research the salary for that country instead of your local salary. Companies usually offer different salary ranges based on location, such as London vs Remote or San Francisco vs Medellín.
 
@@ -72,7 +72,6 @@ All the best,
 [YOUR NAME]
 ```
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

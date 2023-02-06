@@ -18,7 +18,7 @@ To update your cover photo, click the pencil icon in the upper right corner of t
 
 You should already have taken a professional photo in an earlier lesson of this module; upload that photo to your LinkedIn profile.
 
-**Wherever possible**, you should use the same professional photo on various social media profiles, including GitHub, LinkedIn, and AngelList; this will help you build your personal brand as a software developer, and will make it easier for recruiters to identify you.
+**Wherever possible**, you should use the same professional photo on various social media profiles, including GitHub, LinkedIn, and Wellfound; this will help you build your personal brand as a software developer, and will make it easier for recruiters to identify you.
 
 If you're not sure how to upload your photo, use the gif below as an example.
 
@@ -26,7 +26,7 @@ If you're not sure how to upload your photo, use the gif below as an example.
 
 ### **Add your headline**
 
-***Note:** to edit your headline, click the pencil icon in the upper right corner of your Intro block. The gif above shows you how to access it.*
+**\*Note:** to edit your headline, click the pencil icon in the upper right corner of your Intro block. The gif above shows you how to access it.\*
 
 As a default, LinkedIn provides you with an automatic headline: [your current job title] at [your current place of work]. Unfortunately, however, that default headline isn't keyword optimized, and (because it's the default), most software developer profiles on LinkedIn will have nearly identical headlines. The good news is that even small changes to your headline will help you with keyword optimization and standing out.
 
@@ -40,13 +40,13 @@ Your **job title** will be something like "Software Engineer" or "Web Developer.
 
 Here are a few examples you can use as models while creating your own headline:
 
-*Software Engineer | Development, Design, & Architecture | Building Click-and-Drag Kanban Tools with Redux*
+_Software Engineer | Development, Design, & Architecture | Building Click-and-Drag Kanban Tools with Redux_
 
-*Full-Stack Web Developer. JavaScript, Rails, React, Redux. Improving open-source projects, one commit at a time*
+_Full-Stack Web Developer. JavaScript, Rails, React, Redux. Improving open-source projects, one commit at a time_
 
-*Software Developer & Web Designer. I help startups take their products from concept to launch. Need help? Contact me below.*
+_Software Developer & Web Designer. I help startups take their products from concept to launch. Need help? Contact me below._
 
-*Software Engineer. In love with pair-programming, JavaScript, and remote work.*
+_Software Engineer. In love with pair-programming, JavaScript, and remote work._
 
 Two things to keep in mind:
 
@@ -55,13 +55,13 @@ Two things to keep in mind:
 
 ### **Add your education to the Intro block**
 
-***Note:** to edit your education, click the pencil icon in the upper right corner of your Intro block. The gif above shows you how to access it.*
+**\*Note:** to edit your education, click the pencil icon in the upper right corner of your Intro block. The gif above shows you how to access it.\*
 
-Your education may already be listed in your Intro block, but if not, add it. You can do so by clicking the "Edit Intro" pencil icon and then checking the *"Show education in my intro"* checkbox.
+Your education may already be listed in your Intro block, but if not, add it. You can do so by clicking the "Edit Intro" pencil icon and then checking the _"Show education in my intro"_ checkbox.
 
 As a default, LinkedIn will showcase your latest education experience (which for most students will be Microverse). If you have a degree from university, however, you might instead prefer to list your university instead. **Either choice is fine**, so long as you list one of them.
 
-If you would like to change the education entry that shows up, click the drop down in the edit box  and select the entry you would like to choose. See the image below for an example.
+If you would like to change the education entry that shows up, click the drop down in the edit box and select the entry you would like to choose. See the image below for an example.
 
 ![images/LI_1.png](images/LI_1.png)
 
@@ -86,7 +86,6 @@ Once you click those buttons, a pop up will appear containing the job titles you
 
 ![images/LI2.png](images/LI2.png)
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

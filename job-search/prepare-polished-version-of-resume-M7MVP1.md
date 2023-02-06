@@ -4,11 +4,11 @@
 
 - Create a strong resume that will pass applicant tracking systems.
 
-### **Estimated time:  2h**
+### **Estimated time: 2h**
 
 ## **Description**
 
-In this project, you will prepare the best possible version of your resume and submit it for review by your career coach. This version will be the starting point for the in-depth revision that you will do during the week with support from a career coach, with the goal of making sure that your resume showcases your technical and professional skills in a compelling way to help you land an awesome job. 
+In this project, you will prepare the best possible version of your resume and submit it for review by your career coach. This version will be the starting point for the in-depth revision that you will do during the week with support from a career coach, with the goal of making sure that your resume showcases your technical and professional skills in a compelling way to help you land an awesome job.
 
 ## Project setup
 
@@ -25,9 +25,9 @@ Review this video lesson to make sure you understand the key attributes of a com
 
 ### **Instructions**
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
 
-To review your resume, it is important to read it through several times, looking at specific attributes each time, and making any necessary changes: 
+To review your resume, it is important to read it through several times, looking at specific attributes each time, and making any necessary changes:
 
 1. Begin by looking at the feedback that you have received from your reviewers and verifying that you have made all the corrections they requested.
 
@@ -43,20 +43,16 @@ To review your resume, it is important to read it through several times, looking
 
 7. Read your resume one more time to make sure that you didn’t miss anything. Your resume should now be ready for your career coach to review!
 
-
-**Keep a record of all the edits that you made to your resume in the final sweep so that you can integrate them into other application materials, in particular, your Linkedin, AngelList or GitHub profile.**
-
+**Keep a record of all the edits that you made to your resume in the final sweep so that you can integrate them into other application materials, in particular, your Linkedin, Wellfound or GitHub profile.**
 
 ### Submit your exercise
 
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
 Now go to your Student Dashboard and **submit the link to your resume** for your coach to review and comment. Remember to submit your material by Wednesday of the week it's due so that career coaches can review it on time.
 
 NOTE: **You don't need to submit the worksheet.** It is intended to help you assess if your resume meets the requirements in the rubric.
 
-
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

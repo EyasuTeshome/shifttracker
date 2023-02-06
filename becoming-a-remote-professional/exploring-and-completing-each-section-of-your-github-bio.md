@@ -17,7 +17,7 @@ A good profile photo is:
 
 ### Name
 
-Fill in your **first and last name, or** your **preferred name and last name**. If you have privacy concerns, you can also use your first name and last initial. 
+Fill in your **first and last name, or** your **preferred name and last name**. If you have privacy concerns, you can also use your first name and last initial.
 
 ### Bio
 
@@ -30,11 +30,11 @@ A good bio field should be 2-3 sentences of jam-packed information, and should c
 
 Here's an example of a strong bio:
 
-*"Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities."*
+_"Full-Stack Software Developer with a love for React and Redux. I play chess and mess around with state machines in my spare time. Open to new opportunities."_
 
 **Note:** you don't necessarily need to use complete sentences. Here's another example of a good bio that doesn't use full sentences but still manages to communicate relevant information:
 
-*"Software developer, Rails enthusiast, part-time guitarist. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job!"*
+_"Software developer, Rails enthusiast, part-time guitarist. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job!"_
 
 ### Company
 
@@ -58,9 +58,9 @@ The purpose of the website field is to allow visitors to your profile to learn m
 
 - Your portfolio (**preferred**; if you have a portfolio, use your portfolio).
 - Your LinkedIn profile (only use if you don't have a portfolio yet)
-- Your AngelList profile (only use if you don't have a portfolio yet)
+- Your Wellfound profile (only use if you don't have a portfolio yet)
 
-Note: if you use your LinkedIn or AngelList URL because you don't have a portfolio yet, set a reminder right now to update the website field with your portfolio link **as soon as you create it.**
+Note: if you use your LinkedIn or Wellfound URL because you don't have a portfolio yet, set a reminder right now to update the website field with your portfolio link **as soon as you create it.**
 
 ## **Other important fields**
 
@@ -74,10 +74,8 @@ Note that this will **not** make your private projects public. It will merely sh
 
 ![https://cdn.filestackcontent.com/e5NizlaSnGp7oyDygXV4](https://cdn.filestackcontent.com/e5NizlaSnGp7oyDygXV4)
 
-
 You've now completed your GitHub bio. There are still several sections to complete, though, so continue reading this lesson for more information.
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

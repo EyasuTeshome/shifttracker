@@ -21,7 +21,7 @@ Headers are somewhat customizable, but there are a few things you **must** inclu
 
 1. Your phone number. Please include your country code.
 2. Your address (**only** city, state, and/or country, **not** the street name/house number)
-3. A link to your AngelList profile.
+3. A link to your Wellfound profile.
 4. A link to your professional Twitter profile.
 5. A link to Medium or any other site where you share development-related writing.
 
@@ -37,7 +37,6 @@ Headers are somewhat customizable, but there are a few things you **must** inclu
 3. Your ethnicity
 4. Your previous salary information
 
-
-------
+---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
