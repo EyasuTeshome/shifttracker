@@ -65,16 +65,19 @@ To make this concrete, let's take a look at some **bad and good examples of coac
 ### Bad examples
 
 > Question: "Have you ever tried doing this differently? Like in manner XYZ?"
+
 > Answer: _"No, I've always done things like this. I believe it works well for me, because..."_
 
 This is an example of not being coachable because it shows **inflexibility**. This could indicate a lack of adaptability and a rigid mindset.
 
 > Question: "Have you ever heard of XYZ? It might revolutionize the ways we work."
+
 > Answer: _"I don't think it's relevant. In technology, we always work in Scrum and it works well."_
 
 In this example, the person is **being dismissive**, which shows a lack of interest in learning and improving.
 
 > Question: "Could you explain why you believe this approach works well?
+
 > Answer: _"Of course it works. I've tried it many times and it works. You just do XYZ"_
 
 In this example, the person is not really addressing the question. Instead, they are **defensive** and feel a need to justify themselves.
@@ -82,16 +85,19 @@ In this example, the person is not really addressing the question. Instead, they
 ### Good examples
 
 > Question: "Have you ever tried doing this differently? Like in manner XYZ?"
+
 > Answer: _"I haven't tried it in manner XYZ, but it's an interesting approach. Could you tell me more?"_
 
 This is a good example of being coachable because the person is showing **genuine interest** and a **willingness to learn**. This indicates that the person is curious and engaged.
 
 > Question: "Have you ever heard of XYZ? It might revolutionize the ways we work."
+
 > Answer: _"I don't know it, but I can imagine why it might! For example, XYZ."_
 
 Here the person is showing the ability to **look at things from another perspective**. This indicates that the person is open-minded and able to think creatively.
 
 > Question: "Could you explain why you believe this approach works well?
+
 > Answer: _"There could be other approaches that work well too. However, I chose this approach because of XYZ"_
 
 This answer shows the person understands that **there is more than one solution** to any problem. This indicates humility and thoughtfulness. 
