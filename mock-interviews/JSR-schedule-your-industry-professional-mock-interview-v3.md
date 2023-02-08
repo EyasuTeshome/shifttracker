@@ -20,7 +20,7 @@ Your industry professional mock interview is an opportunity to have an interview
 
 Later in the module, we will help you prepare for the interview, plan how to gather feedback about your performance in a mock interview, self-assess yourself in the different aspects covered in the interview, and define SMART goals to improve your interview skills.
 
-**Your behavioral grid will help you answer behavioral interview questions. Make sure you complete the "Create stories for your behavioral grid with CARL" assignment before this interview. It will help you succeed!.**
+**Your behavioral grid will help you answer behavioral interview questions. Make sure you complete the "Create stories for your behavioral grid with CARL" assignment before this interview. It will help you succeed!**
   
 
 ### How do you schedule your industry professional mock interview?
