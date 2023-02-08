@@ -23,6 +23,8 @@ Coaches might take up to 3 days to send you their comments and request changes.
 
 Very soon you will be looking for a job and answering behavioral interview questions that assess your soft skills and cultural fitness by analyzing your past experiences. Since you will be applying to companies with different missions, values, and cultures it’s handy to have multiple examples to draw from for each behavioral question you might be asked. Stories have a theme and you need to have at hand stories that convey different messages. You can thus select the one that best fits the specific role and company you are applying for.
 
+👉🏽 Also, your behavioral grid will help you answer the behavioral question in you Industry Professional Mock Interview. Make sure you complete this assignment and get a coach's feedback before this interview!
+
 ## Exercise
 
 ### Instructions
