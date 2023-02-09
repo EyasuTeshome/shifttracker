@@ -8,7 +8,7 @@
 
 ## Exercise
 
-As mentioned in the [Take-home assignment practice: intro](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/take-home-assignments/take_home_intro.md#how-to-prepare-practically-for-take-home-assignments), there are **2 ways** you can prepare for take-home assignments:
+As mentioned in the [Take-home assignment practice: intro](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/take-home-assignments/take_home_prep.md), there are **2 ways** you can prepare for take-home assignments:
 
 - You can practice your coding skills - you never know what the task will be as usually it will be very specific for a company you are applying for. However, with each app you create, you are making yourself better prepared for any task.
 - You can prepare GitHub templates for different tech stacks - this will speed you up as you will have your boilerplate code ready.
