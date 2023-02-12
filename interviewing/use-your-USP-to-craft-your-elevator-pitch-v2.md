@@ -10,7 +10,7 @@
 
 In this professional skills project, you will use the Unique Selling Point (USP) you created earlier in the curriculum to craft the first version of your elevator pitch: a short speech that you'll use regularly during interviews and while networking, and that summarizes who you are, what makes you special, and why you'd be a good fit for a specific job. 
 
-You'll submit your elevator pitch for review, receive feedback from a professional skills reviewer, and make changes necessary changes to get it approved. Later, when you start job searching, you will revisit and polish your elevator pitch with support from a career coach.
+You'll submit your elevator pitch for review, receive feedback from a professional skills reviewer, and make necessary changes to get it approved. Later, when you start job searching, you will revisit and polish your elevator pitch with support from a career coach.
 
 
 *IMPORTANT NOTE: Read through each section thoroughly, and then add on to your project as you move through the lesson.*
