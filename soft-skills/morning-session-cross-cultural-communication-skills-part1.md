@@ -14,7 +14,7 @@
 
 *Spend 5 minutes on this section individually*
 
-We all see the world a little differently. Sometimes the places and cultures in which we grew up or currently live. can affect how we see things. Different points of view can sometimes lead to disagreements or conflicts. 
+We all see the world a little differently. Sometimes the places and cultures in which we grew up or currently live can affect how we see things. Different points of view can sometimes lead to disagreements or conflicts. 
 
 ### Why is understanding cross-cultural communication differences important?
 
