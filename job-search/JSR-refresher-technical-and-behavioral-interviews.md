@@ -56,6 +56,7 @@ Here are some quick tips to succeeding at a technical interview:
 
 - [What Are Interviewers Looking for in Candidates During Technical Interviews?](https://microverse.zendesk.com/hc/en-us/articles/1500000379342-What-Are-Interviewers-Looking-for-in-Candidates-During-Technical-Interviews-)
 - [Coding interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/)
+- [Common issues students face during technical job interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/common_issues_during_interviews.md)
 
 ## Behavioral interviews
 
@@ -100,6 +101,7 @@ Here are some quick tips to succeeding at a behavioral interview:
 
 - [What are Interviewers Looking for in Behavioral Interviews?](https://microverse.zendesk.com/hc/en-us/articles/360060681073-What-are-Interviewers-Looking-for-in-Behavioral-Interviews-)
 - [Behavioral interviews for Software Engineers: How to prepare](https://www.techinterviewhandbook.org/behavioral-interview/)
+- [Common issues students face during behavioral job interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/peer-interview-practice/articles/common_issues_during_interviews_behavioral.md)
 
 ---
 
