@@ -10,11 +10,11 @@
 
 ## What is a daily standup?
 
-This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day from Monday through Thursday.
+This lesson will help you become familiar with the value and importance of daily standups at Microverse, which take place at the end of every program day from Monday through Friday.
 
 ### Why are daily standup important?
 
-Daily standups are a common tool in software developer teams and technology companies. They serve a lot of purposes: they help with productivity, bring clarity to your goals, help you communicate with your team, and help you overcome your blockers. We use them internally as a company at Microverse too. We want you to do daily standups every day from Monday to Thursday at Microverse, to help you become more productive here—and to help you be ready for using them in your software development job after Microverse!
+Daily standups are a common tool in software developer teams and technology companies. They serve a lot of purposes: they help with productivity, bring clarity to your goals, help you communicate with your team, and help you overcome your blockers. We use them internally as a company at Microverse too. We want you to do daily standups every day from Monday to Friday at Microverse, to help you become more productive here—and to help you be ready for using them in your software development job after Microverse!
 
 ## Exercise
 
