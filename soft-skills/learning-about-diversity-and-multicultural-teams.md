@@ -59,7 +59,7 @@ Here are a few guidelines that you should follow to set yourself up for success 
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
 
-1. Familiarize yourself with key concepts related with multiculatural communication in the articles included in this lesson.
+1. Familiarize yourself with key concepts related with multicultural communication in the articles included in this lesson.
 2. Open the Google Doc. and answer the questions to check your understanding of these key concepts.
 
 **Exercise template to copy:** [Learning about diversity and multicultural teams](https://docs.google.com/document/d/1RSYgkehkx9-AllIKd2BEtFddLGKSdV_0C46WBlIIx4I/edit?usp=sharing)
