@@ -1,10 +1,10 @@
 # **How to be more coachable**
 
-Learning from others is an essential aspect of personal and professional growth. One way is to get **coaching** from others. The degree to that you benefit from others' advice to improve your performance is called **coachability**.
+Learning from others is an essential aspect of personal and professional growth. One way is to get **coaching** from others. The degree that you benefit from others' advice to improve your performance is called **coachability**.
 
 ## Being coachable in job interviews
 
-In job interviews, especially, you want to be coachable. This is because it demonstrates to the employer that the candidate is:
+In job interviews, especially, you want to be coachable. This is because it demonstrates to the employer that you are:
 
 - Open to feedback
 - Willing to learn and grow
@@ -22,7 +22,7 @@ One of the keys to being coachable is having a **growth mindset**.
 
 This is a belief that **you can change**, as well as recognizing that growth is a process, not a destination. Adopting a growth mindset allows you to **view coaching as an opportunity for learning and personal development**, rather than criticism or attack.
 
-- [Growth mindset vs. Fixed mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU)
+- [Using a growth mindset to overcome challenges](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/using-a-growth-mindset-to-overcome-challenges.md)
 
 ### Tip 2: Be open to feedback
 
@@ -34,7 +34,7 @@ Being coachable requires **being open to feedback**, both positive and negative.
 
 The last point is crucial, as it is the actual demonstration of being open to feedback; by actually applying it directly.
 
-- [What is constructive and destructive feedback?](https://matterapp.com/blog/the-primary-difference-between-constructive-feedback-and-destructive-feedback-is)
+- [Fundamentals of giving and receiving feedback](https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/fundamentals-of-giving-and-receiving-feedback.md)
 
 ### Tip 3: Practice active listening
 
@@ -86,7 +86,7 @@ In this example, the person is not really addressing the question. Instead, they
 
 > Question: "Have you ever tried doing this differently? Like in manner XYZ?"
 
-> Answer: _"I haven't tried it in manner XYZ, but it's an interesting approach. Could you tell me more?"_
+> Answer: _"I haven't tried it in manner XYZ, but it's an interesting approach. Let me try it right now..."_
 
 This is a good example of being coachable because the person is showing **genuine interest** and a **willingness to learn**. This indicates that the person is curious and engaged.
 
@@ -100,7 +100,7 @@ Here the person is showing the ability to **look at things from another perspect
 
 > Answer: _"There could be other approaches that work well too. However, I chose this approach because of XYZ"_
 
-This answer shows the person understands that **there is more than one solution** to any problem. This indicates humility and thoughtfulness. 
+This answer shows the person understands that **there is more than one solution** to any problem. This indicates humility and thoughtfulness.
 
 ---
 

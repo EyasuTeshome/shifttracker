@@ -2,7 +2,7 @@
 
 Job interviews can be stressful and it's easy to let our emotions get the best of us. However, it's important to present our best selves during a job interview, as it can have a significant impact on our chances of landing the job.
 
-Unfortunately, there are several common _behavioral_ issues that can occur during a job interview, which can negatively impact our chances of getting hired. Here are **4 common behavioral issues** that you should be aware of during your next job interview, as well as **suggested solutions to mitigate them**.
+Unfortunately, several common _behavioral_ issues can occur during a job interview, which can negatively impact our chances of getting hired. Here are **4 common behavioral issues** that you should be aware of during your next job interview, as well as **suggested solutions to mitigate them**.
 
 ## 4 Common behavioral issues
 
@@ -10,7 +10,7 @@ Unfortunately, there are several common _behavioral_ issues that can occur durin
 
 **Anxiety** is one of the most common issues that arise during a job interview. It can cause you to stammer, speak too fast, or make mistakes.
 
-To overcome this issue, it's important to **relax yourself** before you go into an interview. A great way to do so is by meditating, praying or taking a power nap.
+To overcome this issue, it's important to **relax yourself** before you go into an interview. A great way to do so is by meditating, breathing exercises or taking a power nap.
 
 - [10-Minute Meditation For Anxiety](https://www.youtube.com/watch?v=O-6f5wQXSu8)
 
@@ -34,7 +34,7 @@ This is undesirable because it can give the impression that you lack _confidence
 
 Employers are looking for individuals who are proactive, engaged, and have a clear understanding of the role they are applying for.
 
-To overcome this issue, be sure to be **energised** when you start the interview. During you should show **enthusiasm** and **curiosity** by asking questions yourself and try your best to make the interview feel like a dialoguee.
+To overcome this issue, be sure to be **energized** when you start the interview. Once it starts, you should show **enthusiasm** and **curiosity** by asking questions yourself and trying your best to make the interview feel like a dialogue.
 
 - [How to Show Enthusiasm in an Interview: 6 Ways](https://careersidekick.com/show-enthusiasm-interview/)
 
