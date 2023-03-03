@@ -8,7 +8,7 @@
 
 ## Description
 
-In this exercise, you will create a cover letter for a job you are applying to and submit it to a career coach for review. Since strong cover letters are tailored for a specific job posting, you will submit the link to the job posting and the cover letter in a copy of [this worksheet](https://docs.google.com/document/d/1AZ1duefV3HSQfiST0Ao95fwl3jSktOKip-yFmkTTkSg/edit?usp=sharing).
+In this exercise, you will create a cover letter for the job you are applying to and submit it to a career coach for review. Since strong cover letters are tailored for a specific job posting, you will submit the link to the job posting and the cover letter in a copy of [this worksheet](https://docs.google.com/document/d/1AZ1duefV3HSQfiST0Ao95fwl3jSktOKip-yFmkTTkSg/edit?usp=sharing).
 
 **Your cover letter must be approved by a career coach to complete the block and the module**
 
