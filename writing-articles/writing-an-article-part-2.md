@@ -12,7 +12,7 @@ In part 1 of this exercise, you learned why it was important to write articles, 
 
 ### Why is writing articles important?
 
-Because as we mentioned in Part 1, writing articles will help you get better at writing documentation, which is essential for a developer to do in their job. It also helps makes you more attractive to hiring managers because it shows them that you can communicate your ideas with clarity to an audience. This is really important to hiring managers and a good reason for you to start writing articles.
+Because as we mentioned in Part 1, writing articles will help you get better at writing documentation, which is essential for a developer to do in their job. It also helps make you more attractive to hiring managers because it shows them that you can communicate your ideas with clarity to an audience. This is really important to hiring managers and a good reason for you to start writing articles.
 
 ### Writing your first article using your created outline
 
