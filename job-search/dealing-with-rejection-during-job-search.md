@@ -33,7 +33,7 @@ Guiding questions:
 
 Of course not! Knowing that you are not the only one facing rejection during a job search helps you avoid judging yourself harshly. Many outstanding people have been rejected from jobs before finding the perfect place to thrive in their careers.
 
-Spend 5 - 10 min looking at the experience of other developers with rejection in the portal [Rejected](rejected.us).
+Spend 5 - 10 min looking at the experience of other developers with rejection in the portal [Rejected](https://rejected.us/)).
 
 
 ------
