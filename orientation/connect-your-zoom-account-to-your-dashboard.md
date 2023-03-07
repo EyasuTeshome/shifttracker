@@ -1,6 +1,8 @@
 # Connect your Zoom account to your Dashboard
 
-Zoom is the video call platform we use to connect you to both your coding partner or learning partner and standup team. We also use Zoom to track your attendance, so if it's not set up properly you will be counted as absent. We have fully integrated Zoom into your student dashboard so all you need to do is link your dashboard to the **Microverse Zoom account**. If you already have a Zoom account we still need you to read this article and follow the instruction so that you link your dashboard to your **Microverse Zoom account**. If you don't do this it will likely lead to issues in the near future which will prevent you from making progress in the curriculum and could lead you to be detected as absent from your meetings.
+Zoom is the video call platform we use to connect you to both your coding partner or learning partner and standup team. We also use Zoom to track your attendance, so if it's not set up properly you will be counted as absent. 
+
+We have fully integrated Zoom into your student dashboard so all you need to do is link your dashboard to the **Microverse Zoom account**. If you already have a Zoom account we still need you to read this article and follow the instruction so that you link your dashboard to your **Microverse Zoom account**. If you don't do this it will likely lead to issues in the near future which will prevent you from making progress in the curriculum and could lead you to be detected as absent from your meetings.
 
 After you have completed this tutorial you should be able to meet your coding partner using the Join Call Button on your Dashboard. Let's get started.
 
