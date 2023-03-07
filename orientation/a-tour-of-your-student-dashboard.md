@@ -24,18 +24,18 @@ Please only continue with this section after you've finished the previous sectio
 
 - You'll find here the activities for your current week.
 - You can also see activities for previous and next weeks in the module, but you won't be able to work on future ones.
-- You have to complete all core requirement activities as well as any activity that you have carried over by Satudary 11:59. 
+- You have to complete all core requirement activities as well as any activity that you have carried over by Saturday 11:59. 
 - You may skip one skippable activity per block and you may carry over up to 5 carry-over activities to the following week.
 - You can view the activities by clicking on the link.
-- Technical projects always require a "Project completion form" before it's completed. Failure to submit it will result in a repeat week.
-- Check-point quizzes will require a score of 70% to pass the week. You only have three attempts to achieve this score.
+- Technical projects always require you to submit a "Project completion form" to be completed. Failure to submit it will result in a repeat week.
+- Check-point quizzes will require a score of 70% to pass the week. You have three attempts to achieve this score.
 
 **Additional details about activities and submissions**
 
-- You can undo submissions and submit again for lessons, exercises, feedback forms, and projects.
-- Group projects (learning partner, standup team, and morning session team) will be done together but submitted individually (this means each student has to submit something).
+- You can undo submissions and submit again lessons, exercises, feedback forms, and projects.
+- Group projects (learning partner, standup team, and morning session team) will be done together but submitted individually (this means each student has to submit the link to the group product, usually a Google Doc). All members of the team can submit the same link.
 - Pair-programming activities will be done together and submitted together (this means only one person will have to submit).
-- "Test your knowledge quizzes" are designed as self-assessments; they are designed to help you identify any content that you haven't mastered and there is not a required score for them.
+- "Test your knowledge quizzes" are designed as self-assessments; they help you identify any content that you haven't mastered and there is not a required score for them.
 - Feedback forms can take up to one hour before the status changes to "completed".
 
 
