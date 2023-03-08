@@ -180,7 +180,7 @@ If you have gone through the seven steps above your cover letter will most likel
 
 **Apply what you've learned:**
 
-1. Open the cover letter rubric.
+1. Open the [cover letter rubric](https://docs.google.com/document/d/1NIGZQ62L84q0o8ahkKDQRLEK39Jd3g0qeESWhGF9i3Q/edit#).
 2. Read the first item and compare it with your cover letter.
 3. Score yourself.
 4. Look at the suggested resources and make changes if necessary.
