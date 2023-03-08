@@ -53,7 +53,7 @@ Everyone can improve with practice, but we understand that some people struggle 
 
 - *“I am flexible because I’m focused more on opportunities to learn and grow with solid mentorship.”*
 - *“My current priority is finding a role and company that offers a culture that is the right fit for me.”*
-- *“Through my research, I have discovered the market rate average is expected to be between X and Y. Would you be willing to share with me if the pay range is for this role matches my research?”*
+- *“Through my research, I have discovered the market rate average is expected to be between X and Y. Would you be willing to share with me if the pay range for this role matches my research?”*
 
 
 ------
