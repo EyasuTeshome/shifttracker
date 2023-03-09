@@ -56,7 +56,7 @@ This story, as any other, includes include five elements:
 
 For many of us it might be difficult to find a topic to start writing about and staring at a blank page becomes stressful. If you need help inspiring you, read this article to look at how other people have found their topic. 
 
-- [How to identify a story about yourself](https://www.notion.so/Create-your-skills-chart-1-hr-SANDRA-PATY-515e1e2b988e4da08d9cda1a3b9df898)
+- [How to identify a story about yourself](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-how-to-identify-a-story-about-yourself.md)
 
 **Guiding questions:**
 
