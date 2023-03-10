@@ -36,6 +36,8 @@ After some introductory lessons about the recruitment process in general, you wi
 - A career coach will review your behavioral grid and application materials, and approve them if they meet all the requirements in the corresponding rubric. You will have a maximum of 2 or 3 reviews to get your submission approved, depending on the project. If necessary, you can use your extra reviews to improve your materials further and get them approved.
 - The industry professional mock interviewer will assess and rate your performance in the mock interview using a scale of 1 to 4, where 1 means you need to improve substantially to be prepared for job interviews and 4, that you are very well prepared. To successfully complete the interview, you will need a score of 3 or 4. If you get a score of 1 or 2, you will repeat the block so that you can hone your interview skills and schedule another interview.
 
+❗️ On the "Professional Skills Feedback" page on your Student Dashboard, you will be able to check your scores for the different types of questions and recommended resources you can study.
+
 
 ### A final note about workload
 
