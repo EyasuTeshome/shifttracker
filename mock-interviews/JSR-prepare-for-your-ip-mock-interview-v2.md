@@ -38,7 +38,9 @@ The goal of the mock interview is for you to practice participating in a similar
 
 Your final evaluation will result in a score between 1 and 4, where 1 means you need to improve substantially to be prepared for job interviews ("Strong no hire") and 4, that you are very well prepared for interviews ("Strong hire"). You can learn more about the criteria used in the industry to assess technical interviews by looking at the guidelines from the [TechInterviewHandbook](https://www.techinterviewhandbook.org/coding-interview-rubrics/). 
 
-If you score 1 or 2, you will need to repeat the block, hone your interview skills, and attend another interview. So you should take extra care with implementing the feedback your interviewer will give you to improve for the next time. On the "Professional Skills Feedback" page on your Student Dashboard, you will be able to check your scores for the different types of questions and recommended resources you can study.
+If you score 1 or 2, you will need to repeat the block, hone your interview skills, and attend another interview. So you should take extra care with implementing the feedback your interviewer will give you to improve for the next time. 
+
+❗️On the "Professional Skills Feedback" page on your Student Dashboard, you will be able to check your scores for the different types of questions and recommended resources you can study.
 
 Good luck with your preparation!
 
