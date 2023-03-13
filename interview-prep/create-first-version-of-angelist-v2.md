@@ -4,9 +4,9 @@
 
 **❗️❗️ IMPORTANT NOTE ❗️❗️**
 
-Wellfound has just announced that they will become an independent company, called Wellfound, and that they will be making changes in the following months. We will be reviewing their platform and updating the curriculum during this process. Nevertheless, there might be some inconsistencies in the instructions included in this project while this happens. Sorry for the inconvenience!
+AngelList has recently announced that they will become an independent company, called Wellfound, and that they will be making changes in the following months. We will be reviewing their platform and updating the curriculum during this process. 
 
-If you created an Wellfound profile, it is now available in Wellfound.
+While we're doing this, we encourage you to submit your assignment using the old "angel.co" URL. 
 
 ---
 
@@ -24,7 +24,7 @@ In this project, we'll walk you through completing an Wellfound profile. Wellfou
 
 Now that you've created a LinkedIn profile, you may be wondering why you also need to create a near-identical profile on Wellfound. Most of the material will be exactly the same, and Wellfound isn't used as widely as LinkedIn. Why should you spend the next hour working on Wellfound, when something similar already exists?
 
-The answer is that Well found (formerly, AngelList) is one of the largest startup job sites online, and because startups sometimes have more limited budgets than bigger companies, they are often more willing to hire developers with more limited experience—including developers who work remotely.
+The answer is that Wellfound (formerly, AngelList) is one of the largest startup job sites online, and because startups sometimes have more limited budgets than bigger companies, they are often more willing to hire developers with more limited experience—including developers who work remotely.
 
 You will be using Wellfound extensively during your job search process--not only to find jobs but also to apply for them with a single click-and-copy/paste.
 
@@ -148,6 +148,7 @@ Your [Wellfound Talent Profile](https://angel.co/profile/edit) and your Wellfoun
 ### Submission Instructions
 
 1. Make sure that you have thoroughly completed each section of the Wellfound profile (formerly, AngelList).
+2. Submit your assignment using the old "angel.co" URL (i.e. replace `wellfound.com` with `angel.co`)
 
 ## Review
 
