@@ -18,7 +18,7 @@ Many parts of ethics in the workplace are universal: be honest; be reliable; don
 
 However, with the Internet making access to information and content easier than ever, cheating is also easier than ever, especially for some professions. At Microverse this would mean finding the code for assignments somewhere online and submitting it as your own or letting other students do all the work in a group project. In a writing profession, this would mean publishing whole sections from published papers or books as your own without giving credit to the original author. In group work, this means letting your team members do all the work while you share in the credit as if you'd contributed fully.
 
-The point of Microverse is to learn coding languages and be able to take on new problems in future jobs using code. This is not possible unless you put in the time and make the effort to learn, day-by-day. In this lesson, we consider why honesty is important, why it can be hard to be honest at times, and how the ethics of working honestly and gaining colleagues' trust include not only telling the truth but making an effort daily to develop a strong worth ethic.
+The point of Microverse is to learn coding languages and be able to take on new problems in future jobs using code. This is not possible unless you put in the time and make the effort to learn, day-by-day. In this lesson, we consider why honesty is important, why it can be hard to be honest at times, and how the ethics of working honestly and gaining colleagues' trust include not only telling the truth but making an effort daily to develop a strong work ethic.
 
 ### Integrity at work
 
