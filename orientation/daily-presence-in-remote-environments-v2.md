@@ -31,7 +31,7 @@ Find more information below about why we find attendance so important at Microve
 
 - [Schedule and attendance policy at Microverse](https://microverse.zendesk.com/hc/en-us/articles/9363977429395-Attendance-Policy)
 
-### Why is engagemenet during meetings important?
+### Why is engagement during meetings important?
 
 Collaborative learning is essential in the Microverse program to deepen your knowledge and skills by teaching others and being taught by them. Thus, we expect you to communicate and collaborate effectively with peers during your daily meetings. So, besides joining sessions on time, we require you to: 
 - participate in the learning tasks we have designed,
