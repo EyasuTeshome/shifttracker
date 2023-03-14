@@ -13,7 +13,7 @@ To reach the 90% attendance rate, start by knowing your schedule and identifying
 
 - **12:00 pm - 1:00 pm**: Lunch break *(1 hour)*
 
-**Afternoon**Zoo
+**Afternoon**
 - **1:00 pm - 4:45 pm**: Program time to learn, building projects, and interacting or working with your partner(s). You must join a Zoom call for at least 10 minutes with your partner(s) during this session. *(3.75 hours)*
 - **4:45 pm - 5:00 pm**: Prep for your stand-up call *(15 minutes)*
 - **5:00 pm - 5:15 pm**: Evening Stand-up Team meeting *(15 minutes)*
