@@ -4,7 +4,7 @@
 
 - Recognize attendance and engagement as two aspects of daily presence.
 - Recognize punctuality as a form of respect and key to success in global remote work.
-- Describe the MV schedule and attendance policy.
+- Describe the MV attendance score and attendance policy.
 - Describe the MV engagement policy.
 
 ### Estimated time: 0.25h
