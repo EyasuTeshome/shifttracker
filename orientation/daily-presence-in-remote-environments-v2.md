@@ -50,7 +50,7 @@ Read the article below to learn about the engagement policy at Microverse and so
 
 ### Monitoring your attendance and engagement
 
-To help you comply with Microverse’s attendance and engagement policy, you will find information about your absences, use of camera and. microphone in meetings in the “Attendance and Engagement” page of your Student Dashboard.
+To help you comply with Microverse’s attendance and engagement policy, you will find information about your absences, use of camera and. microphone in meetings in the “Attendance and Engagement” page of your student dashboard.
 
 - [Checking your attendance and engagement](link to video required)
 
