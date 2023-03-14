@@ -42,7 +42,7 @@ Remember that it's harder to relate with others when you are not together in the
 
 Initially, you may feel uncomfortable or overwhelmed talking to strangers, and showing yourself or your environment to others. With practice and mastering some tips for effective camera and microphone usage, you will build confidence and become skillful at communicating online.
 
-### Engagement policy at Microverse
+### Engagement expectations at Microverse
 
 Read the article below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively.
 
