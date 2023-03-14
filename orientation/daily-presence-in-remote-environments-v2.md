@@ -13,8 +13,8 @@
 
 Your life in the Microverse program mimics the daily routines of a remote job where you belong to virtual community whose members interact in an online space instead of a physical one. In this context, “being present” involves: 
 
-- following your daily schedule and joining the required virtual meetings on time (attendance), and
-- actively participating in learning activities during sessions (engaging).
+- following your daily schedule and joining the required virtual meetings on time, that is, attendance, and
+- actively participating in learning activities during sessions or engagement.
 
 This lesson talks about the importance of attendance and engagement as components of daily presence and describes the policy and expectations about each aspect at Microverse.
 
