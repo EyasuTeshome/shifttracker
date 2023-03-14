@@ -1,6 +1,6 @@
 # Scheduled and required meetings at Microverse
 
-To reaching the 90% attendance rate, start by knowing your schedule and identifying which meetings are required!
+To reach the 90% attendance rate, start by knowing your schedule and identifying which meetings are required!
 
 ## Microverse schedule UTC+1/UTC-6
 
