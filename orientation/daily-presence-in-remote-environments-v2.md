@@ -50,9 +50,23 @@ Read the article below to learn about the engagement policy at Microverse and so
 
 ### Monitoring your attendance and engagement
 
-To help you comply with Microverse’s attendance and engagement policy, you will find information about your absences, use of camera and. microphone in meetings in the “Attendance and Engagement” page of your student dashboard.
+To help you comply with Microverse’s attendance and engagement policy, you will find information about your absences, use of camera and. microphone in meetings in the “Attendance and Engagement” page of your student dashboard. To view them:
 
-- [Checking your attendance and engagement](link to video required)
+1. Click on **Attendance & Engagement** on the side menu.
+
+2. Navigate to the **Attendance tab.** Here you will:
+
+- information on the number of days in the MV program, the number of meetings you should have attended, your absences and the attendance percentaje
+- a list, day by day, of the collaborative sessions you attended.
+
+![attendance-page.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/images/attendance-page.png)
+
+4. Navigate to the **Engagement tab.** Here you will see:
+
+- a record of how you showed up with your microphone and camera in all collaborative meetings (morning sessions, stand-ups & program time collaborative sessions) every day.
+- percentages for your engagement in a) morning sessions and b) all your collaborative sessions. A great engagement percentage is above 80% for all collaborative sessions, and especially morning sessions. These percentages are based on whether you turned both your microphone and camera on in the collaboratives sessions.
+
+![engagement-page.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/images/CARL%20elements.png)
 
 ### Additional materials
 
