@@ -5,7 +5,7 @@
 - Recognize attendance and engagement as two aspects of daily presence.
 - Recognize punctuality as a form of respect and key to success in global remote work.
 - Describe the MV attendance score and policy.
-- Describe the MV engagement score and policy.
+- Describe the MV engagement expectations.
 
 ### Estimated time: 0.25h
 
@@ -13,8 +13,8 @@
 
 Your life in the Microverse program mimics the daily routines of a remote job where you belong to virtual community whose members interact in an online space instead of a physical one. In this context, “being present” involves: 
 
-- following your daily schedule and joining the required virtual meetings on time, that is, attendance, and
-- actively participating in learning activities during sessions or engagement.
+- following your daily schedule and joining the required virtual meetings on time, that is attendance, and
+- actively participating in learning activities during sessions, which is engagement.
 
 This lesson talks about the importance of attendance and engagement as components of daily presence and describes the policy and expectations about each aspect at Microverse.
 
@@ -36,7 +36,7 @@ Find more information below about why we find attendance so important at Microve
 Collaborative learning is essential in the Microverse program to deepen your knowledge and skills by teaching others and being taught by them. Thus, we expect you to communicate and collaborate effectively with peers during your daily meetings. So, besides attending sessions on time, we require you to: 
 - participate in the learning tasks we have designed,
 - turn on your camera to connect with others and show them you are listening, and
-- open your microphone to express your ideas verbally.
+- turn on your microphone to express your ideas verbally.
 
 Remember that it's harder to relate with others when you are not together in the same room. Sharing your video and opening your microphones to talk with your peers demonstrates your investment in the activities and contributes to developing mutual trust. 
 
@@ -46,7 +46,7 @@ Initially, you may feel uncomfortable or overwhelmed talking to strangers, and s
 
 Read the article below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively.
 
-- [Engagement expectation at Microverse](link to Zendesk required)
+- [Engagement expectations at Microverse](link to Zendesk required)
 
 ### Monitoring your attendance and engagement
 
