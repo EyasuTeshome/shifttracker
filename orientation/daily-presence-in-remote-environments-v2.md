@@ -66,7 +66,7 @@ To help you comply with Microverse’s attendance and engagement policy, you wil
 - a record of how you showed up with your microphone and camera in all collaborative meetings (morning sessions, stand-ups & program time collaborative sessions) every day.
 - percentages for your engagement in a) morning sessions and b) all your collaborative sessions. A great engagement percentage is above 80% for all collaborative sessions, and especially morning sessions. These percentages are based on whether you turned both your microphone and camera on in the collaboratives sessions.
 
-![engagement-page.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/images/CARL%20elements.png)
+![engagement-page.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/images/engagement-page.png)
 
 ### Additional materials
 
