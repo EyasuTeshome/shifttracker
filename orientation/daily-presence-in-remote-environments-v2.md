@@ -4,8 +4,8 @@
 
 - Recognize attendance and engagement as two aspects of daily presence.
 - Recognize punctuality as a form of respect and key to success in global remote work.
-- Describe the MV attendance score and attendance policy.
-- Describe the MV engagement policy.
+- Describe the MV attendance score and policy.
+- Describe the MV engagement score and policy.
 
 ### Estimated time: 0.25h
 
@@ -42,7 +42,7 @@ Remember that it's harder to relate with others when you are not together in the
 
 Initially, you may feel uncomfortable or overwhelmed talking to strangers, and showing yourself or your environment to others. With practice and mastering some tips for effective camera and microphone usage, you will build confidence and become skillful at communicating online.
 
-### Engagement expectations at Microverse
+### Engagement expectation at Microverse
 
 Read the article below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively.
 
@@ -54,17 +54,17 @@ To help you comply with Microverse’s attendance and engagement policy, you wil
 
 1. Click on **Attendance & Engagement** on the side menu.
 
-2. Navigate to the **Attendance tab.** Here you will:
+2. Navigate to the **Attendance tab.** Here you will see :
 
-- information on the number of days in the MV program, the number of meetings you should have attended, your absences and the attendance percentaje
+- information on the number of days in the MV program, the number of meetings you should have attended, your absences and your attendance score (percentage of sessions you were present),
 - a list, day by day, of the collaborative sessions you attended.
 
 ![attendance-page.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/images/attendance-page.png)
 
-4. Navigate to the **Engagement tab.** Here you will see:
+3. Navigate to the **Engagement tab.** Here you will see:
 
-- a record of how you showed up with your microphone and camera in all collaborative meetings (morning sessions, stand-ups & program time collaborative sessions) every day.
-- percentages for your engagement in a) morning sessions and b) all your collaborative sessions. A great engagement percentage is above 80% for all collaborative sessions, and especially morning sessions. These percentages are based on whether you turned both your microphone and camera on in the collaboratives sessions.
+- information on the number of days in the MV program, the number of meetings you should have attended, your absences and your engagement score (percentage based on whether you turned both your microphone and camera on in the collaboratives sessions).
+- a record of your microphone and camera use in each collaborative meetings (morning sessions, stand-ups & program time collaborative sessions) every day.
 
 ![engagement-page.png](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/images/engagement-page.png)
 
