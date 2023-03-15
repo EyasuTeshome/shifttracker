@@ -1,11 +1,15 @@
 # What makes a compelling "About?"
 
-Many students feel intimidated when asked to write a long-form introduction to themselves. The good news, though, is that you've already written one, so now you can use it to fill in the LinkedIn "About." Take a look at this formula:
-
-[Your elevator pitch] + [Your stack] + [A call to action]
-
 As you know, an elevator pitch is a short, persuasive introduction to who you are and your major accomplishments—**[and you wrote one at the very beginning of your Microverse journey](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interviewing/use-your-usp-to-craft-the-first-draft-of-your-elevator-pitch.md
-)**. Copy/paste your approved elevator pitch into the "About" section, and then add your stack and a call to action. Listing your preferred stack gives recruiters a quick idea of the technologies you've worked with, and the call to action will invite recruiters, hiring managers, and others to contact you.
+)**. Its purpose to quickly show potential employers who you are and what you can do so that they're motivated to contact you.
+
+On LinkedIn, you mention this information in the "About section". In addition to that, you should add 2 more components: you **tech stack**, as well as a **call to action**.
+
+```md
+[Your elevator pitch] + [Your stack] + [A call to action] = LinkedIn's About section
+```
+
+Listing your preferred stack gives recruiters a quick idea of the technologies you've worked with, and the call to action will invite recruiters, hiring managers, and others to contact you.
 
 For an example that follows this formula almost exactly, look below:
 
@@ -18,12 +22,21 @@ If you'd like, you can also add a little more information, such as:
 - 1-2 sentences about your hobbies or likes/dislikes.
 - A few accomplishments that didn't fit into your elevator pitch
 
-However, all you need in order to create a fantastic About Me is are those three elements: your elevator pitch, your stack, and a short call to action.
+However, all you need to create a fantastic "About section" are those three elements: 
+1. Elevator pitch
+2. Tech stack
+3. Call to action
 
-Take 10 minutes to write an elevator pitch and general call to action, and then copy/paste your stack into your About section. 
+Now take 10 minutes to update your **elevator pitch** (if needed), list out your **tech stack** and write a 1 sentence **general call to action**. Add that to the "About section".
 
-**To edit the About section, click on Add profile section and select Add about from the Core menu options.**
+- [Edit the About Section in your LinkedIn Profile](https://www.linkedin.com/help/linkedin/answer/a553140/edit-the-about-section-in-your-profile)
 
+When you've done so, go through a second iteration and follow these guidelines to **format your text for a more appealing look**:
+- If a sentence is longer than 3 lines, break it up and put a space in between
+- Check for any typo's (with something like [Grammarly](https://www.grammarly.com/browser/chrome))
+- Add useful links to work you've done
+
+Try to aim for something like the example mentioned above!
 
 ------
 
