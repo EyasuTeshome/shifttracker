@@ -25,6 +25,8 @@ Guiding questions:
 
 Learn more about staying connected while working remotely:
 
+
+
 [Remote work communication and other ways to stay connected while working remotely](remote-work-communication-and-other-ways-to-stay-connected-while-working-remotely.md).
 
 ## Exercise
@@ -36,6 +38,9 @@ Learn more about staying connected while working remotely:
 **Individual Exercise** - Do this exercise individually for ten minutes, but stay on the Zoom call with your group.
 
 - Open the exercise template and work through Part 1 and 2 individually, then have the discussions as a group.
+
+**IMPORTANT NOTE** We temprarily lost access to the template file. While we are working on restorin it - please ignore this part of this exercise.
+
 
 **Exercise template to copy:** [Staying connected in a remote setting assessment](https://docs.google.com/document/d/14X_l7h1iljZl7N28LVFbBnaMRtMQS4XZLsWRQa5FZeQ/edit?usp=sharing)
 
