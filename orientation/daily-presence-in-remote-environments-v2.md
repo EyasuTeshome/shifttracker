@@ -46,7 +46,7 @@ Initially, you may feel uncomfortable or overwhelmed talking to strangers, and s
 
 Read the article below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively.
 
-- [Engagement policy at Microverse](link required)
+- [Engagement expectation at Microverse](link required)
 
 ### Monitoring your attendance and engagement
 
