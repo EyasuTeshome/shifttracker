@@ -33,7 +33,7 @@ Find more information below about why we find attendance so important at Microve
 
 ### Why is engagement during meetings important?
 
-Collaborative learning is essential in the Microverse program to deepen your knowledge and skills by teaching others and being taught by them. Thus, we expect you to communicate and collaborate effectively with peers during your daily meetings. So, besides joining sessions on time, we require you to: 
+Collaborative learning is essential in the Microverse program to deepen your knowledge and skills by teaching others and being taught by them. Thus, we expect you to communicate and collaborate effectively with peers during your daily meetings. So, besides attending sessions on time, we require you to: 
 - participate in the learning tasks we have designed,
 - turn on your camera to connect with others and show them you are listening, and
 - open your microphone to express your ideas verbally.
@@ -46,7 +46,7 @@ Initially, you may feel uncomfortable or overwhelmed talking to strangers, and s
 
 Read the article below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively.
 
-- [Engagement expectation at Microverse](link required)
+- [Engagement expectation at Microverse](link to Zendesk required)
 
 ### Monitoring your attendance and engagement
 
@@ -72,7 +72,6 @@ To help you comply with Microverse’s attendance and engagement policy, you wil
 
 *These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
 
-- [Attendance Policy at Microverse](https://microverse.zendesk.com/hc/en-us/articles/9363977429395-Attendance-Policy) (this link points to the Zendesk article that needs to be updated)
 - [Teammate checkins during program time sessions](https://www.notion.so/microverse/teammate-checkins-during-program-time-sessions.md)
 - [World time buddy](https://www.worldtimebuddy.com/)
 
