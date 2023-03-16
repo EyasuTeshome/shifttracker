@@ -1,6 +1,6 @@
 # Creating your Wellfound profile
 
-First step: [visit Wellfound and create an account](https://angel.co/).
+First step: [visit Wellfound and create an account](https://wellfound.com/).
 
 During the sign-up process, Wellfound will ask you to fill in a few basic fields, such as your location, role, experience, education, LinkedIn profile, website, job preferences, desired salary, and whether or not you are willing to work remotely. You can come back and edit this information later on, but for now, fill it out as thoroughly as possible. If you're not sure what to put for desired salary, do a quick Google search for the average salary that software developers of your level (junior/senior/etc.) make in your country.
 

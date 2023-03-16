@@ -8,7 +8,7 @@ So, to maximize your chances of landing interviews (and your dream job), you'll 
 
 One of the best sources of jobs offered by startups is Wellfound. You already have an account there, so you should be able to start applying for jobs immediately.
 
-Go to [https://angel.co/jobs](https://angel.co/jobs) and use tags to filter the types of jobs you are interested in.
+Go to [https://wellfound.com/jobs](https://wellfound.com/jobs) and use tags to filter the types of jobs you are interested in.
 
 You should select “Software Engineer” in the “Role” drop-down, select “Remote” and any location that you are interested in in the “Location” drop-down (e.g. if you are willing to relocate to any country in Europe, you can select Europe as location).
 
@@ -66,7 +66,7 @@ Some of the more general platforms also have sections and filters dedicated to r
 - [https://stackoverflow.com/jobs](https://stackoverflow.com/jobs)
 - [https://www.linkedin.com/jobs/remote-jobs/](https://www.linkedin.com/jobs/remote-jobs/)
 - [https://www.indeed.com/l-Remote-jobs.html](https://www.indeed.com/l-Remote-jobs.html)
-- [https://angel.co/job-collections/remote](https://angel.co/job-collections/remote)
+- [https://wellfound.com/job-collections/remote](https://wellfound.com/job-collections/remote)
 - [https://startup.jobs/](https://startup.jobs/) - You must click on the "Remote" filter in the Location bar
 - [https://workinstartups.com/job-board/](https://workinstartups.com/job-board/)
 - [https://jobs.workable.com/](https://jobs.workable.com/)

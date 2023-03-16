@@ -55,7 +55,7 @@ Now go to your Student Dashboard and submit your exercise.
 ## Additional materials
 
 - [Video - How to use others' feedback to learn and grow | Sheila Heen | TEDx](https://www.youtube.com/watch?v=FQNbaKkYk_Q)
-- [How to Make Your Wellfound Profile Stand out from the Competition](https://angel.co/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
+- [How to Make Your Wellfound Profile Stand out from the Competition](https://wellfound.com/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
 
 ---
 

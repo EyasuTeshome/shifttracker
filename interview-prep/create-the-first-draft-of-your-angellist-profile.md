@@ -20,7 +20,7 @@ You will be using Wellfound extensively during your job search process--not only
 
 ### Project Setup
 
-1. If you don't already have an Wellfound profile, [sign up for one here](https://www.angel.co).
+1. If you don't already have an Wellfound profile, [sign up for one here](https://www.wellfound.com).
 2. If you have trouble creating an account, [please use this tutorial on how to create an Wellfound account](how-to-create-an-angellist-profile.md).
 
 ## Thoroughly fill in your Wellfound header
@@ -119,7 +119,7 @@ The Investments and Q&A section are optional. Answering some questions can be a 
 
 ## Make sure that your Talent Profile has been filled out
 
-Your [Wellfound Talent Profile](https://angel.co/profile/edit) and your Wellfound Public Profile are nearly identical, so you should now see that your Talent Profile is almost entirely complete. However, there are a few fields that you should confirm, and a few more that you still need to fill out. These can be accessed by clicking on the tabs at the top of the talent profile.
+Your [Wellfound Talent Profile](https://wellfound.com/profile/edit) and your Wellfound Public Profile are nearly identical, so you should now see that your Talent Profile is almost entirely complete. However, there are a few fields that you should confirm, and a few more that you still need to fill out. These can be accessed by clicking on the tabs at the top of the talent profile.
 
 **Learn more about ensuring the completeness of your Talent Profile:**
 
@@ -153,7 +153,7 @@ Now go to your Student Dashboard and submit your exercise.
 
 _These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-- [How to Make Your Wellfound Profile Stand out from the Competition](https://angel.co/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
+- [How to Make Your Wellfound Profile Stand out from the Competition](https://wellfound.com/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
 - [9 Tips for Making the Most of an Wellfound Profile](https://businesscollective.com/9-tips-for-making-the-most-of-an-angellist-profile/index.html)
 
 ---

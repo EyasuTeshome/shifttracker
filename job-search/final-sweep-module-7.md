@@ -26,7 +26,7 @@ In order to make the best use of time and avoid unnecesary revisions, make sure 
 
 - [Create a professional looking GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/create-the-first-draft-of-a-professional-looking-github-profile-page.md)
 - [Create a professional LinkedIn page](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-first-draft-of-a-professional-linkedin-page.md)
-- [Create your Wellfound profile (formerly AngelList)](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Create your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 - [Create your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md)
 - [Write a cover letter template](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/write-and-submit-a-customized-cover-letter.md)
 - Portfolio - Review your portfolio and ensure you've added your most recent projects

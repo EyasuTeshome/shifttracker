@@ -2,9 +2,9 @@
 
 ### **Before You Begin**
 
-Before you get started working on your profile, you should know that Wellfound actually has **two** places where you can edit your profile: on the **[Talent Profile](https://angel.co/profile/edit)** page, and on your **Public Wellfound Profile itself**. The Public Wellfound Profile is **the more complete version**, so we'll be primarily focusing on that. However, there are a few fields that are unfortunately only available on the Talent Profile, so we will later switch over.
+Before you get started working on your profile, you should know that Wellfound actually has **two** places where you can edit your profile: on the **[Talent Profile](https://wellfound.com/profile/edit)** page, and on your **Public Wellfound Profile itself**. The Public Wellfound Profile is **the more complete version**, so we'll be primarily focusing on that. However, there are a few fields that are unfortunately only available on the Talent Profile, so we will later switch over.
 
-To access the Public Wellfound profile, visit the [Talent Profile](https://angel.co/profile/edit) and then click **View Public Profile.**
+To access the Public Wellfound profile, visit the [Talent Profile](https://wellfound.com/profile/edit) and then click **View Public Profile.**
 
 ![images/AL1.png](images/AL1.png)
 

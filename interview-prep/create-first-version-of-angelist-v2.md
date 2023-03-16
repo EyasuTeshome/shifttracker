@@ -1,15 +1,5 @@
 # Project: Create your Wellfound profile (formerly, AngelList).
 
----
-
-**❗️❗️ IMPORTANT NOTE ❗️❗️**
-
-AngelList has recently announced that they will become an independent company, called Wellfound, and that they will be making changes in the following months. We will be reviewing their platform and updating the curriculum during this process. 
-
-While we're doing this, we encourage you to submit your assignment using the old "angel.co" URL. 
-
----
-
 ## Learning objectives
 
 - Create a clear, compelling Wellfound profile.
@@ -24,14 +14,14 @@ In this project, we'll walk you through completing an Wellfound profile. Wellfou
 
 Now that you've created a LinkedIn profile, you may be wondering why you also need to create a near-identical profile on Wellfound. Most of the material will be exactly the same, and Wellfound isn't used as widely as LinkedIn. Why should you spend the next hour working on Wellfound, when something similar already exists?
 
-The answer is that Wellfound (formerly, AngelList) is one of the largest startup job sites online, and because startups sometimes have more limited budgets than bigger companies, they are often more willing to hire developers with more limited experience—including developers who work remotely.
+The answer is that Wellfound is one of the largest startup job sites online, and because startups sometimes have more limited budgets than bigger companies, they are often more willing to hire developers with more limited experience—including developers who work remotely.
 
 You will be using Wellfound extensively during your job search process--not only to find jobs but also to apply for them with a single click-and-copy/paste.
 
 ### Project Setup
 
-1. If you don't already have a Wellfound profile (formerly, AngelList), [sign up for one here](https://www.angel.co).
-2. If you have trouble creating an account, [please use this tutorial on how to create an Wellfound account (formerly, AngelList](how-to-create-an-angellist-profile.md).
+1. If you don't already have a Wellfound profile, [sign up for one here](https://wellfound.com/).
+2. If you have trouble creating an account, [please use this tutorial on how to create an Wellfound account](how-to-create-an-angellist-profile.md).
 
 ## Thoroughly fill in your Wellfound header
 
@@ -121,7 +111,7 @@ The Investments and Q&A section are optional. Answering some questions can be a 
 
 **Learn more about the Q&A section:**
 
-[How to fill out the Q&A section on Wellfound (formerly, AngelList)](how-to-fill-out-the-q-and-a-section-on-angellist.md)
+[How to fill out the Q&A section on Wellfound](how-to-fill-out-the-q-and-a-section-on-angellist.md)
 
 **Apply what you've learned**
 
@@ -129,7 +119,7 @@ The Investments and Q&A section are optional. Answering some questions can be a 
 
 ## Make sure that your Talent Profile has been filled out
 
-Your [Wellfound Talent Profile](https://angel.co/profile/edit) and your Wellfound Public Profile are nearly identical, so you should now see that your Talent Profile is almost entirely complete. However, there are a few fields that you should confirm, and a few more that you still need to fill out. These can be accessed by clicking on the tabs at the top of the talent profile.
+Your [Wellfound Talent Profile](https://wellfound.com/profile/edit) and your Wellfound Public Profile are nearly identical, so you should now see that your Talent Profile is almost entirely complete. However, there are a few fields that you should confirm, and a few more that you still need to fill out. These can be accessed by clicking on the tabs at the top of the talent profile.
 
 **Learn more about ensuring the completeness of your Talent Profile:**
 
@@ -143,12 +133,12 @@ Your [Wellfound Talent Profile](https://angel.co/profile/edit) and your Wellfoun
 
 ### Project Requirements
 
-- [Make sure that your Wellfound profile (formerly, AngelList) meets every requirement of the rubric.](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit)
+- [Make sure that your Wellfound profile meets every requirement of the rubric.](https://docs.google.com/document/d/1ZHhPBL8w6tqSlVDOWI4u9kMVCQtxeDDL9aL3j0VQ2iA/edit)
 
 ### Submission Instructions
 
-1. Make sure that you have thoroughly completed each section of the Wellfound profile (formerly, AngelList).
-2. Submit your assignment using the old "angel.co" URL (i.e. replace `wellfound.com` with `angel.co`)
+1. Make sure that you have thoroughly completed each section of the Wellfound profile.
+2. Submit your Wellfound profile (i.e. `https://wellfound.com/u/your_name`) in your Dashboard
 
 ## Review
 
@@ -170,7 +160,7 @@ Remember you have **a max of 5 reviews** per professional skills project.
 
 _These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time._
 
-- [How to Make Your Wellfound Profile Stand out from the Competition](https://angel.co/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
+- [How to Make Your Wellfound Profile Stand out from the Competition](https://wellfound.com/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
 - [9 Tips for Making the Most of an Wellfound Profile](https://businesscollective.com/9-tips-for-making-the-most-of-an-angellist-profile/index.html)
 
 ---

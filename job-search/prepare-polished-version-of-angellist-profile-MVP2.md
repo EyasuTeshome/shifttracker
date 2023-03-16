@@ -30,7 +30,7 @@ After creating a LinkedIn and GitHub profile, you probably wonder why another on
 
 - Open up your Wellfound profile.
 - Open the latest version of your resume.
-- Open the [Assess your Wellfound profile (formerly, AngelList) rubric and worksheet](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#).
+- Open the [Assess your Wellfound profile rubric and worksheet](https://docs.google.com/document/d/1xhb03isMP8G4kl6juDrSi3rjST-xUUrQrwiIJxSFj9Y/edit#).
 
 ## **Exercise**
 
@@ -55,7 +55,7 @@ By now, you are familiar with polishing your professional profiles. Using the [A
 
 _Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
 
-Now go to your Student Dashboard and submit the **link to your Wellfound (formerly, AngelList) profile** so that your coach can review it and give you feedback.
+Now go to your Student Dashboard and submit the **link to your Wellfound profile** so that your coach can review it and give you feedback.
 
 **Remember to submit your profile no later than Wednesday on the week it's due, so that coaches have enough time for the review process.**
 
