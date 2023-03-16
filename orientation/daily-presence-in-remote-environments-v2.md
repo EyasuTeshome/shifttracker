@@ -44,9 +44,10 @@ Initially, you may feel uncomfortable or overwhelmed talking to strangers, and s
 
 ### Engagement expectation at Microverse
 
-Read the article below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively.
+Read the articles below to learn about the engagement policy at Microverse and some tips to help you use your camera and microphone effectively:
 
-- [Engagement expectations at Microverse](link to Zendesk required)
+- [Engagement expectations at Microverse](https://microverse.zendesk.com/hc/en-us/articles/14896318597395-Engagement-expectations-in-collaborative-meetings)
+- [Best practices for your Zoom camera and microphone use](https://microverse.zendesk.com/hc/en-us/articles/14874582776211)
 
 ### Monitoring your attendance and engagement
 
@@ -72,7 +73,7 @@ To help you comply with Microverse’s attendance and engagement policy, you wil
 
 *These are all optional, but if you're interested in exploring this topic further here are some resources that can help you.*
 
-- [Teammate checkins during program time sessions](https://www.notion.so/microverse/teammate-checkins-during-program-time-sessions.md)
+- [Check-in guide for collaborative partners](https://microverse.zendesk.com/hc/en-us/articles/360050419034-Check-in-Guide-for-Collaborative-Partners)
 - [World time buddy](https://www.worldtimebuddy.com/)
 
 ---
