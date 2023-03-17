@@ -10,7 +10,7 @@
 
 The purpose of this lesson is to help you practice how to draw up salary baselines when asked for salary expectations. 
 
-### Why is practicing coming up with salary baselines is important?
+### Why is coming up with salary baseline important?
 
 In the early stages of the interview process, you may be asked about your desired salary, and even before you're asked, you would want to carry out your research to give you an idea of what to ask for. 
 
