@@ -6,7 +6,8 @@ Please only continue with this section after you've finished the previous sectio
 
 ### Introduction to the dashboard
 
-[Watch this video: Introduction to the dashboard](https://www.loom.com/share/42fd8612216644578b440acd5cb66026)
+[![Watch the video](https://img.youtube.com/vi/4SexxqiWBZM/0.jpg)](https://www.youtube.com/watch?v=4SexxqiWBZM) 
+
 
 **Important highlights from the video:** 
 
