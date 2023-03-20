@@ -27,9 +27,11 @@ Later in the module, we will help you prepare for the interview, plan how to gat
 
 1. **Figure out the possible dates for your interview.** Module 7 is three blocks long and you should attend the interview before the end of the module. So if you are scheduling it on Day 1 of the module you will have almost three weeks to attend — until the Friday of week 3. For example: if you start module 7 on Monday, November 7th, you will be finishing week 3 on Saturday, November 26th. Thus, you should schedule your interview between November 7th and 26th. 
 
-2. **Schedule your meeting.** You will use Calendly to select the date and time for your interview. Follow these steps:
-    - Click on the Calendly link that appears in the instructions below to display the dates available. 
-    - Select a day that suits your schedule, based on the step above. 
+2. **Schedule your meeting.** Through your Student Dashboard, you will access Calendly to select the date and time for your interview. Follow these steps:
+    - Go to your "View Progress Page", and find this activity.
+    - Click on the "Actions" button that appears at the right-hand side. 
+    - Select the "Schedule interview" option. 
+    - On the Calendly page that appears, select a day that suits your schedule, based on the step above. 
     - Choose the time.
     - Fill in your name and email address. Note: you must use the same email address you use for the Microverse Student Dashboard. 
     
@@ -49,8 +51,7 @@ To reschedule or cancel, click the corresponding link that appears in the confir
 
 ### Instructions
 
-1. Please use [this link](https://calendly.com/ip-mock-interview/mock-interviews) to schedule your IP mock interview via Calendly
-2. You don't need to submit any document in this activity; simply mark it as complete once you have scheduled your interview.
+1. You don't need to submit any document in this activity; simply mark it as complete once you have scheduled your interview.
  
 **Remember to share the date and time for your interview with us in the next activity.**
 
