@@ -39,6 +39,14 @@ When listing your technical skills, it's essential to use the correct technical 
 
 - [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
 
+Guiding questions:
+
+*Think about these questions as you learn about improving your ability to state your knowledge and skills.*
+
+- Am I categorizing my skills correctly?
+- Did I make sure to follow a style guide when writing my skills down?
+- Would my audience be convinced of my technical expertise if they saw my application materials?
+
 ## Project setup
 
 - Open up your LinkedIn profile.
