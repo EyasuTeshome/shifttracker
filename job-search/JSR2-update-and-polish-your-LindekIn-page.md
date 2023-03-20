@@ -33,6 +33,12 @@ A compelling LinkedIn page will help you get invited to interviews!
 - Watch [this video](https://www.loom.com/share/34dc0ab9016546e49df5e8d41b01f0ee) where Ana Yuzuva describes how recruiters use Linkedin when searching for talent and offers you 4 tips to optimize your profile.
 - Refresh your memory about the importance of a LinkedIn profile by reading the article [Resume Study: How LinkedIn affects the Interview Chances of Job Applicants](https://www.resumego.net/research/linkedin-interview-chances/).
 
+## Show your technical expertise by categorizing your skills correctly
+
+When listing your technical skills, it's essential to use the correct technical terms. For exampls, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
+
+- [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
+
 ## Project setup
 
 - Open up your LinkedIn profile.
