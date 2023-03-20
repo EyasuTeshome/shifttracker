@@ -42,6 +42,7 @@ A compelling profile provides information for the purposes above in your short b
 - Open up your GitHub profile.
 - Open the [Assess your GitHub profile rubric](https://docs.google.com/document/d/1bKRDHlZMUc9xIQrktnoRMs8Z6e3k_fdeFipr1IT1cWw/edit#).
 - Open the latest version of your resume and your LinkedIn profile (as a reference for filling in your bio and README).
+- Open the [style guide for listing your technical skills](How to use correct technical terminology in application materials).
 
 ## **Exercise**
 
