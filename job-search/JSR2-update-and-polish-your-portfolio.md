@@ -95,6 +95,13 @@ Now go to your Student Dashboard and submit the **link to your portfolio** so yo
 
 Please note that you don't need to submit the worksheet, the link to your portfolio!
 
+## Additional resources
+
+Check this lesson if you neet a refresher on how to list and categorize your technical skills correctly.
+
+- [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
+
+
 ---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
