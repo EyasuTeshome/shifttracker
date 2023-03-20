@@ -52,7 +52,7 @@ We will require you to use one of these templates, but you may adapt some sectio
 
 ## Categorizing your skills correctly
 
-When listing your technical skills, it's essential to use the correct technical terms. For exampls, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
+Remember it's essential to use the correct technical terms in your resume. For exampls, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
 
 - [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
 
