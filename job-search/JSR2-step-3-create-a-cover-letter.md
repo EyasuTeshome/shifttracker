@@ -199,6 +199,13 @@ Once your cover letter is approved, you can use it as a “skeleton” for futur
 
 Now go to your Student Dashboard and submit your exercise. Remember to submit your first version **on Wednesday at the latest**.
 
+## Additional resources
+
+Check this lesson if you neet a refresher on how to list and categorize your technical skills correctly.
+
+- [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
+
+
 ---
 
 *If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
