@@ -50,6 +50,13 @@ We will require you to use one of these templates, but you may adapt some sectio
 - [Template 4](https://docs.google.com/document/d/1kWikoIDAKUK1SBeEctIHVj6zpaVDsDcDzjXGU_JI6fo/edit?usp=sharing): Traditional, corporate. Two columns. Inspired by [Serif](https://docs.google.com/document/d/1NdTcp-sNr9gzgWqx4bYOWw-w1rT6ltEhkpFQ4wIxTA0/edit).
 - [Template 5](https://docs.google.com/document/d/1jMxmTpC1kZT2F6wcyXeM_0NEdhuWbRhYeYUSaP0qNAk/edit?usp=sharing): Traditional, corporate, confident. Two columns.
 
+## Categorizing your skills correctly
+
+When listing your technical skills, it's essential to use the correct technical terms. For exampls, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
+
+- [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
+
+
 ## Project setup
 
 - Open up the latest version of your resume in Google Docs.
