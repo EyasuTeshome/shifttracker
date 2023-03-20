@@ -27,7 +27,7 @@ During Day 1, you will have different partners during the day. In the first half
 
 This is different from rest of the week, when you will have the same partner and collaborate together day after day. Starting on Day 2 of the course you'll have 1-2 partners you'll keep for the rest of the week.
 
-If you do not hear back from your learning partner or your parner isn't following the collaboration requirements, please reach out to Student Success right away so we can help figure out what is going on. 
+If you do not hear back from your learning partner or your partner isn't following the collaboration requirements, please reach out to Student Success right away so we can help figure out what is going on. 
 
 For onboarding, you will work together with your partner once you've linked your Zoom Account to your dashboard. (more on that later!)
 
