@@ -79,6 +79,14 @@ For each section:
 6. **Make changes** to your LinkedIn profile.
 7. *Continue with the next section.*
 
+❗️**Important note:** Once you have finished all sections, verify that your visibillity settings will let career coaches and recruiters see your email. Follow these steps:
+- Click on your profile at the upper right corner.
+- Select "Privacy and setting".
+- Click on "Visibility".
+- Select "Who can see or download my email".
+- Set email visibility to "Anyone on Linkedin".
+It's a good idea to check other visibility options also. Since you are job searching, you want to be as visible as possible!
+
 Once you believe your LinkedIn page satisfies all the requirements, **submit it to your coach** for review. Don't waste your time and the coaches' by submitting a profile that hasn't been reviewed and updated!
 
 ### Submit your exercise
