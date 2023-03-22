@@ -107,7 +107,10 @@ Other lists of job search venues:
 - [https://github.com/lukasz-madon/awesome-remote-job/](https://github.com/lukasz-madon/awesome-remote-job/)
 - [https://dev.to/duomly/18-websites-where-you-can-find-a-remote-job-3a91](https://dev.to/duomly/18-websites-where-you-can-find-a-remote-job-3a91)
 
+Another interest option is [DiversifyTech](https://www.diversifytech.com/post-a-job), a job board that includes remote jobs for "underestimated folks in Tech" as they mention in their web page. You can look for job postings and also create a profile in their talent directory.
+
 If you are interested in remote jobs, you should set up alerts on all those websites and build the habit of checking for new remote jobs there every day.
+ mention
 
 ### **Local job boards**
 
