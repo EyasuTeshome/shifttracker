@@ -12,11 +12,14 @@ Please only continue with this section after you've finished the previous sectio
 **Important highlights from the video:** 
 
 - The green dot highlights which session is currently taking place.
-- You should always join the call through the "Join call" button on the main dashboard page.
+- You should always join Zoom calls through the "Join call" button on the main dashboard page.
 - The Program hours you see are the UTC+1 or UTC-6 hours, not your local hours.
 - You can see your progress in the Program, as well as the modules and blocks you have repeated, in the homepage.
 - Your progress in the current block appears in the Progress View page.
-
+- You can check your attendance and engagement in one of the pages.
+- The technical questions menu option takes you to Discourse, where you can get technical help.
+- The FAQs and announcements takes you to Zendesk, where you can look for answers to non-technical questions.
+ 
 ### View Progress page:
 
 [Watch this video: View Progress Page](https://www.loom.com/share/6eae838a4f44435ca31ba98c219e11f2)
