@@ -85,7 +85,7 @@ For each section:
 - Click on "Visibility".
 - Select "Who can see or download my email".
 - Set email visibility to "Anyone on Linkedin".
-It's a good idea to check other visibility options also. Since you are job searching, you want to be as visible as possible!
+It's a good idea to check other visibility options also since you are job searching.
 
 Once you believe your LinkedIn page satisfies all the requirements, **submit it to your coach** for review. Don't waste your time and the coaches' by submitting a profile that hasn't been reviewed and updated!
 
