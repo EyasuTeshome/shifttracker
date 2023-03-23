@@ -77,14 +77,21 @@ You may add other links as well (for example links to your Medium, professional 
 
 ### **Let recruiters know that you're open to work**
 
-The last step to creating your Intro block is to let recruiters know that you're open for potential outreach. Click the **Open to** button beneath your profile photo and select **Finding a new job**.
+The last step to creating your Intro block is to let recruiters know that you're open for potential outreach and you have to way of communicating this.
 
-Once you click those buttons, a pop up will appear containing the job titles you're open to. Then make sure to do these two things:
+First, you can specify in your profile that you are looking for a job:
 
-1. Add **five related job titles** (see the photo below for examples).
-2. Click the **I'm open to remote work** checkbox.
+- Click the **Open to** button beneath your profile photo and select **Finding a new job**. Once you click those buttons, a pop up will appear containing the job titles you're open to.
+- Add **five related job titles** (see the photo below for examples).
+- Click the **I'm open to remote work** checkbox.
 
 ![images/LI2.png](images/LI2.png)
+
+You can also include a banner "Open to work" in your profile photo:
+
+- Click on your profile photo.
+- Click on "Frames".
+- Select the "Open to work" frame and click "Apply"
 
 ---
 
