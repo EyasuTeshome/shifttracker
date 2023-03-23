@@ -34,9 +34,10 @@ A strong headline should contain at least two (and preferably all three) of the 
 
 - Your **job title** (required)
 - **Keywords** (required)
+- Your **USP or Unique Selling Proposition** (required)
 - A **metric, goal,** or **accomplishment** (strongly preferred)
 
-Your **job title** will be something like "Software Engineer" or "Web Developer." Your **keywords** can include your specific tech stack, major tools you've worked with, or the type of development you focus on. And **metrics**, like always, are something cool you've accomplished.
+Your **job title** will be something like "Software Engineer" or "Web Developer." Your **keywords** can include your specific tech stack, major tools you've worked with, or the type of development you focus on. Your USP should highlight a quality or skill that distinguishes you. And **metrics**, like always, are something cool you've accomplished.
 
 Here are a few examples you can use as models while creating your own headline:
 
@@ -75,19 +76,25 @@ At the very least, your contact information must include the following:
 
 You may add other links as well (for example links to your Medium, professional Twitter, etc.), but these three links are essential.
 
+❗️**Important note:** Verify that your visibillity settings will display your email to reviewers and recruiters -- people that may not be your close contacts. Follow these steps:
+- Click on your profile at the upper right corner.
+- Select "Privacy and setting".
+- Click on "Visibility".
+- Select "Who can see or download my email".
+- Set email visibility to "Anyone on Linkedin".
+
 ### **Let recruiters know that you're open to work**
 
-The last step to creating your Intro block is to let recruiters know that you're open for potential outreach and you have to way of communicating this.
+The last step to creating your Intro block is to let recruiters know that you're looking for a job. There are to ways to communicate you are open to potential outreach in your LinkedIn profile:
 
-First, you can specify in your profile that you are looking for a job:
-
-- Click the **Open to** button beneath your profile photo and select **Finding a new job**. Once you click those buttons, a pop up will appear containing the job titles you're open to.
+1. Click the **Open to** button beneath your profile photo and select **Finding a new job**. Once you click those buttons, a pop up will appear containing the job titles you're open to.
 - Add **five related job titles** (see the photo below for examples).
 - Click the **I'm open to remote work** checkbox.
 
 ![images/LI2.png](images/LI2.png)
 
-You can also include a banner "Open to work" in your profile photo:
+
+2. You can also display a banner "Open to work" in your profile photo. Follow these steps:
 
 - Click on your profile photo.
 - Click on "Frames".
