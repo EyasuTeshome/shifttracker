@@ -31,7 +31,7 @@ During this morning session, you will practice with one of your peers how to ans
     - Open [this spreadsheet](https://docs.google.com/spreadsheets/d/1pJ8BIhi39iYl6k498xqdAR_TfZhotunao2CTqF6L6Rs/edit#gid=2041017957) and get a list of randomly generated behavioral questions.
     - Everybody selects 3 questions that ask applicants to talk about themselves. If there are not enough questions of this nature, reload the page to get a different set of questions.
     - Open the [following checklist for providing feedback](https://docs.google.com/document/d/1QypLE8llAU1doZ71kPdeoVtdlZqBRTBbMncGrMxjElc/edit#heading=h.za7e1fwup8u). Copy the 3 questions that you will be asking at the top of each section.
-    - Notice than you will share with your peers the personal qualities you identified in their answers. It's important for us to know if we are communicating what we want!
+    - Notice that you will share with your peers the personal qualities you identified in their answers. It's important for us to know if we are communicating what we want!
     - Read the criteria and indicators that you will assess in the interview.
 
 2. Split yourselves into groups of 2 and go into breakout rooms as you did [in this exercise](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/job-searching-morning-session-using-breakout-rooms-for-interview-practice.md#what-are-breakout-rooms).
