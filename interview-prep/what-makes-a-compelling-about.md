@@ -7,16 +7,17 @@ To begin writing this section, open your elevator pitch and ensure that it provi
 - Your background
 - Preferred stack
 - Education
-- Personal information, such as hobbies, personal interests and goals.
+- Personal information, such as hobbies, personal interests and goals
+- At least one accomplishment or "hook" that can encourage someone to keep reading.
 
 Then add:
-- Some keywords that will help recruiters find you (Check [this link](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/preparing-your-linkedin-for-both-keyword-searches-and-hiring-managers-with-the-skills-section.md) for some suggestions), and
+- Some keywords that will help recruiters find you --check [this link](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/preparing-your-linkedin-for-both-keyword-searches-and-hiring-managers-with-the-skills-section.md) for some suggestions), and
 - Links to your Github profile, portforlio and email address.
 
 You can also include:
 - Testimonials from peers (which you can copy/paste from your LinkedIn recommendations)
 - A few major projects you've worked on (which you can copy/paste from GitHub descriptions)
-- A few accomplishments that didn't fit into your elevator pitch.
+- Additional accomplishments.
 
 Finish with a **call to action** to invite recruiters, hiring managers, and others to contact you.
 
