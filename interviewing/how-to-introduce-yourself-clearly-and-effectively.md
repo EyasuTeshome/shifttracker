@@ -6,9 +6,7 @@ The introduction to an elevator pitch is simple:
 2. Give your name
 3. Give a one-sentence overview of what you do.
 
-If you've ever worked in sales or marketing, you may have heard of a format like this: "My name is [X], and I help [Y] by doing [Z]." That format is a little too sales-y for a software development elevator pitch, but it raises one very important key point: **the purpose of an elevator pitch is to convince someone else that they should talk to you**. You don't have to say "I help [Y] by doing [Z]" directly, but your first sentence should still explain **what you can offer.**
-
-Now that we understand the purpose of an elevator pitch, let's look at a few examples.
+Remember that **the purpose of an elevator pitch is to convince someone else that they should talk to you** so your first sentence should explain **what you can offer.** Let's look at a few examples.
 
 ### Bad examples
 
