@@ -100,6 +100,12 @@ The last step to creating your Intro block is to let recruiters know that you're
 - Click on "Frames".
 - Select the "Open to work" frame and click "Apply"
 
+## Remove the "People also viewed" box from your profile
+
+Finally, you can disable the box that shows some of the other profiles that viewers have looked while searching on LinkedIn. This prevents showing recruiters other candidates with similar profiles as yours --that is, your competition. Follow these instructions:
+
+- [Remove or Add the People Also Viewed Box](https://www.linkedin.com/help/linkedin/answer/a543958/remove-or-add-the-people-also-viewed-box?lang=en)
+
 ---
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
