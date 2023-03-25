@@ -50,7 +50,7 @@ According to most students, the "About Me" is the hardest (and most intimidating
 
 **Apply what you've learned**
 
-1. Take 5 minutes to copy/paste your elevator pitch and preferred stack into the "About" section, and to write a short call to action.
+1. Copy/paste your elevator pitch, add the necessary information and preferred stack into the "About" section, and write a short call to action.
 
 ## Curate your list of featured projects
 
