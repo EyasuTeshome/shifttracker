@@ -156,27 +156,31 @@ Sure! LinkedIn offers several types of blocks that can be added to your profile,
 Two more things to keep in mind:
 
 - **Don't** add test scores **unless** 1) you are a recent college graduate **AND** your test scores are extremely high (at least in the 90th percentile). If you do add test scores, make sure to include the percentile in the Description box (for example, *Title: GRE Verbal, Score: 167, Description: Scored in the 98th percentile*).
-- Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to the Publication section of Accomplishments.
+- Within the next 1-2 weeks, you'll be writing a **development-focused Article** as part of the Microverse curriculum. Set a reminder for one month from now: once you've completed that article, come back and add it to a Publication section that you can find in the Additional options.
 
 **Apply what you've learned**
 
 1. Take 5 minutes to add any Additional or Recommended sections applicable to you.
 
-## Follow peers or companies for your Interests section
+## Follow peers, companies or groups for your Interests section
 
-The Interests section is generally **a section for you, not for hiring managers**: your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, and choosing your Interests wisely can help if you plan on networking within certain companies or industries. Nowadays, when you create your LinkedIn account, you are presented with different peers, companies, and organizations for this section. You add others by choosing to follow them later.
+In LinkedIn, you can follow people, companies or groups that will be included in your Interests section, which is generally **a section for you, not for hiring managers**. Your LinkedIn interests affect what sort of posts show up on your LinkedIn Activity feed, so choosing your Interests wisely can help if you plan on networking within certain companies or industries. 
+
+If you created your LinkedIn account recently, you were probably prompted to select peers, companies, and organizations for this section. Now, you can add others by choosing to follow them. 
+
+For this assignment, it's optional to follow others, but highly recommended.
 
 **Learn more about how to (wisely) select entries for the Interests section:**
 
-[What to include (and what not to include) in the Interests section](what-to-include-and-what-not-to-include-in-the-interests-section.md)
+[Whom to follow (and whom to avoid following) in LinkedIn](what-to-include-and-what-not-to-include-in-the-interests-section.md)
 
 **Apply what you've learned**
 
-1. Spend 5 minutes filling out the Interests section.
+1. Spend 5 minutes selecting some additional professionals, companies or organizations to follow (optional).
 
-## Decide whether to make LinkedIn part of your networking strategy
+## Start networking on LinkedIn (Optional)
 
-The Activity section is **optional**. It won't affect the score that Microverse gives you for the LinkedIn project, and there are many successful students who find jobs without ever becoming active in the LinkedIn community. However, LinkedIn activity is a bit like a video game boost: you can win without it, but it does make winning easier.
+LinkedIn is a great place to start networking. It includes an Activity section where the posts that you create or like from others will appear. For this assignment, creating possts and liking others' posts is **optional**. It won't affect the score that Microverse gives you for the LinkedIn project. Yet, it's highly recommended that you start having some activity in your feed. Why? Because LinkedIn activity is a bit like a video game boost: you can win without it, but it does make winning easier.
 
 **Learn more about how to use LinkedIn to network:**
 
