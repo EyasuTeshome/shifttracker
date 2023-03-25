@@ -6,7 +6,7 @@ One of the Additional sections that you can add to your Linkedin profile is the 
 
 The Projects section is exactly what it sounds like: a section where you can showcase projects meant to display your dev skills. The Projects section is an expanded version of the Featured section: while your Featured section should focus on a few projects you feel are especially strong, your Projects section can showcase **any project you're proud of or that fully displays your development skills**.
 
-Pick **at least 1 project** that you think are particularly strong. **Do not choose HTML clones**; by now, you've created much more complex projects. You can choose projects you already listed in the Featured section, but if you have worked on more projects **we strongly encourage** **you to choose 1-2 additional projects as well**. Remember, the purpose of a LinkedIn is to attract recruiters and hiring managers; you'll attract them better if you show off a range of projects.
+Pick **at least 1 project** that you think is particularly strong. **Do not choose HTML clones**; by now, you've created much more complex projects. You can choose projects you already listed in the Featured section. **We strongly encourage you to add 1-2 additional projects if possible**. Remember, the purpose of a LinkedIn is to attract recruiters and hiring managers; you'll attract them better if you show off a range of projects.
 
 **For each project, make sure you complete at least these three fields:**
 
