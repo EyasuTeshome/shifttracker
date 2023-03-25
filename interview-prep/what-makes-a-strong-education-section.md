@@ -1,6 +1,6 @@
 # What makes a strong Education section?
 
-To complete your Education section, open up your resume and **start copy-pasting** each education entry into LinkedIn (in the same **reverse-chronological order**). Be sure to review each entry to make sure that you haven't introduced copy/paste errors or formatting mistakes. Include graduation dates for each entry. Since you are currently completing the Microverse program, register your expected graduation date instead.
+To complete your Education section, open up your resume and **start copy-pasting** each education entry into LinkedIn (in the same **reverse-chronological order**). Be sure to review each entry to make sure that you haven't introduced copy/paste errors or formatting mistakes. Remember to include graduation dates for each entry. Since you are currently completing the Microverse program, register your expected graduation date instead.
 
 There are also a few additional things to keep in mind that are Education-specific. Let's discuss them below:
 
