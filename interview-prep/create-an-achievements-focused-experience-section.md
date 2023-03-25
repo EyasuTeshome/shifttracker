@@ -1,6 +1,8 @@
 # Create an achievements-focused Experience section
 
-To complete your Experience section, open up your resume and start copy-pasting each work experience into LinkedIn (in the same **reverse-chronological order**). Then, when you're done, **review these four things** to make sure that your Experience section is good to go.
+To complete your Experience section, open up your resume and start copy-pasting each work experience into LinkedIn. List first your software development (or development-adjacent) experience followed by your previous experience from other fields or industries (in **reverse-chronological order**). 
+
+Then, when you're done, **review these four things** to make sure that your Experience section is good to go.
 
 1. **Make sure that each bullet point is on a separate line**, and that all descriptions are formatted correctly. LinkedIn occasionally messes up formatting when copy/pasting. 
 2. **Copy/pasting errors are common**; read your project descriptions out loud to make sure that you didn't accidentally omit a word or punctuation mark.
