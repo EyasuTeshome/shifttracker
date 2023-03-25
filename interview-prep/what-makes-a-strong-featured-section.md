@@ -10,7 +10,7 @@ The Featured Section lets you showcase your work as a software developer, so it 
 - Web development articles you've posted online (add as a link)
 - Development-related presentations you've given (add as media or as a link)
 
-In this first version of your LinkedIn page, **add 3 items to this section, and at least 1 of them should be a project with links to the live pdemos**. 
+In this first version of your LinkedIn page, **add 3 items to this section, and at least 2 of them should be projects with links to the live demos**. 
 
 As you move through the program and work on more projects, remember to include them here but try to limit yourself to **5-6 items**, total. But don't over do it! If necessary, replace simple projects with more complex ones.
 
@@ -35,7 +35,7 @@ If one of your projects **does not** have a thumbnail, **add** **link previews t
 
 ### **Finally, arrange your best projects first**
 
-LinkedIn only shows the first 3 featured projects as a default; viewers have to scroll to see the rest of them. Therefore, you need to make sure that your best projects come first. Click the pencil/edit icon and then click and drag your projects to fit the order that you'd like.
+LinkedIn only shows the first 3 featured media as a default; viewers have to scroll to see the rest of them. Therefore, you need to make sure that your best projects come first. Click the pencil/edit icon and then click and drag your projects to fit the order that you'd like.
 
 ![images/LI6.gif](images/LI6.gif)
 
