@@ -73,10 +73,17 @@ The Experience section is the most important part of your LinkedIn profile. Here
 
 [Create an achievements-focused Experience section](create-an-achievements-focused-experience-section.md)
 
+You will have to add your different work experiences, one by one. Follow these steps:
+- Click on your profile picture at the upper right corner.
+- Click on "Add profile section".
+- Select "Add position" from the "Core" section.
+- Fill in the required information in the form that appears.
+- Click "Save".
+
 **Apply what you've learned**
 
-1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn. Note: Click on the Add position option that appear in the Add profile section menu to begin copying your experiences.
-2. Take an additional 10 minutes to **use the checklist above** to help identify any copy/paste errors.
+1. Take 10 minutes to copy/paste your experiences from your resume into LinkedIn. 
+2. Take an additional 10 minutes to **use the checklist above** to verify that your Experience section is good to go.
 3. Optional: if you intend on including work experiences that you did not include in your resume, take an additional 20 minutes to [**review the resume curriculum on how to phrase achievements so that they stand out**](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-resume.md), and then write your bullet points using the achievements-focused formulas found in the curriculum.
 
 ## Fill in the Education section
