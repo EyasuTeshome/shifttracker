@@ -2,16 +2,18 @@
 
 ### **What should you add to the Featured section?**
 
-At a **minimum**, the Featured Section should include links to **your most complex, attractive projects**. Add 2 now, but as you move through the program and work on more projects, remember to include them here. However, there are also other things you can add. Here's a list of ideas:
+The Featured Section lets you showcase your work as a software developer, so it should include links to **your most complex, attractive projects**. However, there are also other things you can add. Here's a list of ideas:
 
-- **At least 2** of your most complex, attractive projects (add as links **to the live demos**)
 - Your resume (add as media)
 - A project walkthrough recorded on Loom or Youtube (add as a link)
 - A link to your portfolio (add as a link)
 - Web development articles you've posted online (add as a link)
 - Development-related presentations you've given (add as media or as a link)
 
-Try to limit yourself to **5-6 items**, total.
+In this first version of your LinkedIn page, **add 3 items to this section, and at least 1 of them should be a project with links to the live pdemos**. 
+
+As you move through the program and work on more projects, remember to include them here but try to limit yourself to **5-6 items**, total. But don't over do it! If necessary, replace simple projects with more complex ones.
+
 
 ### **How to correctly add projects to the Featured section**
 
