@@ -6,13 +6,15 @@ Then, when you're done, **review these four things** to make sure that your Expe
 
 1. **Make sure that each bullet point is on a separate line**, and that all descriptions are formatted correctly. LinkedIn occasionally messes up formatting when copy/pasting. 
 2. **Copy/pasting errors are common**; read your project descriptions out loud to make sure that you didn't accidentally omit a word or punctuation mark.
-3. **Don't add Microverse to the Experience section unless you were a code reviewer, project reviewer, or otherwise were a contractor for Microverse**! The LinkedIn Experience section is for work experiences. You can add internships or part-time jobs here, but listing Microverse here (unless you actually did work for Microverse) can lead a hiring manager to think that you're trying to purposefully mislead them. 
-4. **If you want your Microverse projects to be featured in the Experience section of your LinkedIn**, you can add a new experience called "Full Stack Software Developer" or similar, and in the "company name" field, enter the text "Highlighted Personal Projects". You can then proceed to describe the awesome projects you created at Microverse in this section. See the image below for an example.
+3. **Don't add Microverse to the Experience section unless you were a code reviewer, project reviewer, or otherwise were a contractor for Microverse**! The LinkedIn Experience section is for work experiences. You can add internships or part-time jobs here, but listing Microverse here (unless you actually did work for Microverse) can lead a hiring manager to think that you're trying to purposefully mislead them. Nevertheless, you can add your experience mentoring other colleague during the Core Program in the "Volunteering" section. See [this example](https://www.linkedin.com/in/neerajbhardwaj216/#:~:text=8%20licenses%20%26%20certifications-,Volunteering,-Volunteering) from a Micronaut. 
+4. **If you don't have any software developer experience, you may feature your Microverse projects in the Experience section**. Add a new experience called "Full Stack Software Developer", and in the "company name" field, enter the text "Self-employed" or 'High-lighted Personal Projects". You can then proceed to describe scuccintly the awesome projects you created at Microverse and add the phrase “For more info, see the project section below”. Check an example [here](https://www.linkedin.com/in/manel-hammouche/#:~:text=United%20States%20%C2%B7%20Remote-,Software%20Developer,-Software%20Developer) and another one in the image below:
 
 ![images/Example-linkedIn-highlighted-personal-projects.png](images/Example-linkedIn-highlighted-personal-projects.png)
 
 <br/>
 
+
+5. Finally, **remember to add also, other work experiences that showcase your transferrable skills.** The unique combination of knowledge and skills can make the difference in your job application, so it's important to highlight all the abilities you can offer to a company. 
 
 ### **If I have other experiences I didn't list on my resume, can I add them to LinkedIn?**
 
