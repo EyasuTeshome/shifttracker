@@ -16,8 +16,8 @@ Please only continue with this section after you've finished the previous sectio
 - The Program hours you see are the UTC+1 or UTC-6 hours, not your local hours.
 - You can see your progress in the Program, as well as the modules and blocks you have repeated, in the homepage.
 - Your progress in the current block appears in the Progress View page.
-- You can check your attendance and engagement in one of the pages.
-- If you need to be absent once, inform your teammates. You don't need to report it to MV, only long ones.
+- You can check your attendance and engagement in the corresponding page.
+- If you need to be absent once, inform your teammates. You don't need to report a short absence to MV, only long ones.
 - The technical questions menu option takes you to Discourse, where you can get technical help.
 - The FAQs and announcements takes you to Zendesk, where you can look for answers to non-technical questions.
  
