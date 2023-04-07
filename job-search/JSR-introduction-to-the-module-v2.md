@@ -34,7 +34,7 @@ After some introductory lessons about the recruitment process in general, you wi
 
 ### Do you need to keep coding while you refine your application materials?
 
-Yes! Even though you won't be working on coding projects, it's very important that you **code and make commits to your GitHub every day to keep your activity green**. A green GitHub is an attribute that shows recruiters your passion and dedication to programming, and helps you stand out. A grey one can be misinterpreted by recruiters as a signal that you haven't been coding for a while. 
+Yes! Even though you won't be working on coding projects, it's very important that you **code and make commits to your GitHub every day to keep your activity green**. A green GitHub is an attribute that shows recruiters your passion for and dedication to programming. A grey one can be misinterpreted by recruiters as a signal that you haven't been coding for a while. 
 
 You don't need to work on complex project. A useful strategy to maintain GitHub activity while you're busy working on something else is to work on one of your side projects very slowly. For instance, you could update a Ruby gem dependency on one of your projects, or do some minor code cleanup to improve formatting to generate commits. You can also generate GitHub activity simply by opening issues against one of your projects. For example, if you want a green dot on your profile today, you could find one of your projects that doesn't have any automated tests, then open an issue that says ‘Write tests for this project.’ Check [this video](https://www.loom.com/share/97f5fba2a94445cd8f6eaac70cc987ef) for more suggestions. 
 
