@@ -2,7 +2,7 @@
 
 ### **Estimated time**: .25h
 
-## Welcome to the Job Search Readiness Module!
+## Welcome to the Professional Skills Capstone!
 
 Congratulations on successfully completing the technical component of Microverse’s Core Program. In this last module, you will work on getting ready for job searching. We know you are anxious to get a job as soon as possible, but the best way to succeed is to take some time to prepare yourself before sending job applications. Knowing how to code is critical, but not enough! You also need to “sell” yourself through your application materials and in interviews. So, as the saying goes: “Slow and steady wins the race!”
 
