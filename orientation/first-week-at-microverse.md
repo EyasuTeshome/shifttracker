@@ -34,7 +34,7 @@ For onboarding, you will work together with your partner once you've linked your
 
 ### What happens if you cannot complete all the required activities in a block?
 
-Our program is designed to help you progress steadily towards your goal of becoming a software developer, working eight hour a day. We have planned individual and collaborative learning activities for each day and we expect you to complete all the required ones by Saturday 11:59. Since we know some topics may be more challenging for you or other life events might hinder your learning we allow some block or module repetitions. Familiarize yourself with our block and module repetition policy for this first module in the following link:
+Our program is designed to help you progress steadily toward your goal of becoming a software developer, working eight hours a day. We have planned individual and collaborative learning activities for each day, and we expect you to complete all the required ones by Saturday 11:59. Since we know some topics may be more challenging for you or other life events might hinder your learning, we allow some block or module repetitions. Familiarize yourself with our block and module repetition policy for this first module in the following link:
 
 - [Block and module repetition policy in The Portal](XXX)
 
