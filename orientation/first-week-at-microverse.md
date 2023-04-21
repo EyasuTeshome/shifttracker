@@ -32,11 +32,18 @@ If you do not hear back from your learning partner or your partner isn't followi
 
 For onboarding, you will work together with your partner once you've linked your Zoom Account to your dashboard. (more on that later!)
 
-### What happens if you cannot complete all the required activities in a block?
+### What happens if you cannot complete all the required activities in the week?
 
-Our program is designed to help you progress steadily toward your goal of becoming a software developer, working eight hours a day. We have planned individual and collaborative learning activities for each day, and we expect you to complete all the required ones by Saturday 11:59. Since we know some topics may be more challenging for you or other life events might hinder your learning, we allow some block or module repetitions. Familiarize yourself with our block and module repetition policy for this first module in the following link:
+Our program is designed to help you progress steadily toward your goal of becoming a software developer, working eight hours a day. We have planned individual and collaborative learning activities for each day, and we expect you to complete all the required ones by Saturday 11:59. If you fail to do so, you will have to repeat the block.
 
-- [Block and module repetition policy in The Portal](XXX)
+Since we know some topics may be more challenging for you or other life events might hinder your learning, we allow a limited number of block or module repetitions during the program. Familiarize yourself with our block and module repetition policy in the following links:
+
+- [Block repetition policy](https://microverse.zendesk.com/hc/en-us/articles/9317705670035)
+- [Module repetition policy](https://microverse.zendesk.com/hc/en-us/articles/9317876551059-Module-Repetition-Policy)
+
+**Please note that you are only allowed to repeat the Portal once!**
+
+
 
 ------
 
