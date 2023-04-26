@@ -14,17 +14,15 @@ If you're just starting out, it helps to **know what to look for** in a good ope
 
 If the project checks all of these boxes, you have a winner!
 
-## Getting starting
+## Getting started
 To help you on your journey we have curated some resources to help you get started:
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [7 Tips For Contributing To Open Source Projects On Github For Beginners](https://loudprogrammer.net/7-tips-for-contributing-to-open-source-projects-on-github-for-beginners/)
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [Curated list of beginner-friendly projects](https://github.com/MunGell/awesome-for-beginners).
-- [GitHub's official guide](https://opensource.guide/how-to-contribute/)
 - [FreeCodeCamp's guide](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)
 - [Beginner Open Source](https://opensource.com/life/16/1/6-beginner-open-source)
-- [Open Source Contributions](https://opensource.guide/how-to-contribute/)
 
 Remember that contributing to open source for the first time is **not easy, but it’s worth it**. Start small by setting up the development environment and by trying to fix something in the documentation. You can move to more complicated tasks once you are more familiar with the code.
 
