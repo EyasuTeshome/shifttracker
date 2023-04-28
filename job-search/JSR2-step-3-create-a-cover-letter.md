@@ -39,6 +39,8 @@ Since you will be sending between 10-20 job applications a week, writing cover l
 
 Many of you have asked our coaches for a cover letter template, but using a pre-designed format defeats the purpose of this document. You are a unique human being and software developer and each job has different requirements. Thus there is no general and automated way of “connecting the dots.” Nevertheless you can use the cover letter you create in this exercise as a “skeleton” and only edit phrases that refer to the specific job and company.
 
+👉🏽 An important note: **Don't copy the application materials of someone that have gotten a job in the company you are applying to**. Instead of increasing your chances of getting the job, it will eliminate you automatically. It has happened to Micronauts on several occasions already!
+
 ## Project setup
 
 1. Open the job description that you have selected to apply to.
