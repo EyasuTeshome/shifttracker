@@ -2,7 +2,7 @@
 # Attend your industry professional mock interview
 
 **❗️ Important note:**
-If you are repeating the block because you didn't get the required score in your industry professional mock interview, you need to schedule another one. To do so, follow the instructions in [this lesson](https://github.com/microverseinc/curriculum-professional-skills/blob/main/mock-interviews/JSR-schedule-your-industry-professional-mock-interview-v4.md). We suggest that you focus your efforts on honing your interview skills during the week.
+If you are repeating this block because you didn't get the required score in your industry professional mock interview, you need to schedule another one. To do so, please contact ennio.poscia@microverse.org. We suggest that you study carefully the feedback we offer about your performance on your Dashboard and focus your efforts on honing your interview skills during the week.
 
 
 ## Learning objectives
