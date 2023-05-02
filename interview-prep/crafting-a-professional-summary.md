@@ -1,6 +1,6 @@
 # Crafting a professional summary
 
-There are many ways to create a strong professional summary, and you can find several great examples online ([here an excellent one](http://www.blueskyresumes.com/blog/wp-content/uploads/2011/02/sampleprofile-final1.jpg)). The examples below, however, have been written to focus on multiple types of pre-Microverse experience. These summaries can be edited and personalized as you wish.
+There are many ways to create a strong professional summary, and you can find several great examples online ([here an excellent one](https://www.blueskyresumes.com/free-resume-samples/web-developer-resume-sample/). The examples below, however, have been written to focus on multiple types of pre-Microverse experience. These summaries can be edited and personalized as you wish.
 
 **Example 1: student with previous professional software developer experience**
 
