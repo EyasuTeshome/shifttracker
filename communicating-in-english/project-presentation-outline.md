@@ -9,7 +9,7 @@
 
 ## Exercise
 
-Part of being a remote web developer is not only writing code but is being able to talk about that code to others, both technical and non-technical co-workers. Whether you’re telling your manager what you’re working on, trying to explain how you did something to your Product Manager, or asking another developer for help, communicating about what you’re working on clearly and effectively is a key skill.
+Part of being a remote web developer is not only writing code but is being able to talk about that code to others, both technical and non-technical co-workers. Whether you’re telling your manager what you’re working on, trying to explain how you did something to your Product Manager, or asking another developer for help, communicating about what you’re working on clearly and effectively is a key skill. This is easier said than done, so we have included opportunities for practicing this skill throughout the program and in the module assessment, you will get feedback on the progress you have made.
 
 Today you’ll write your draft for a presentation of your portfolio project. Then in the next exercise, you’ll record a Loom video sharing these key points. 
 
@@ -18,7 +18,7 @@ Today you’ll write your draft for a presentation of your portfolio project. Th
 1. Open [this Google Doc](https://docs.google.com/document/d/1GdNVhP8i98m_ahSAh5LLdp3wEyFPwqMCdhAoCb2_h9s/edit#)
 2. Make a copy and complete your outline
 
-**Remember this is a first draft outline** and it doesn’t need to be perfect. You can refine your thoughts before you record your presentation 🙂
+**Remember this is a first draft outline** and it doesn’t need to be perfect. You can refine your thoughts before you record your presentation 🙂.
 
 ### Submit your exercise
 
