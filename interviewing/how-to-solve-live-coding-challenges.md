@@ -9,14 +9,14 @@
 
 ## Description
 
-We will take a look at it from 2 angles before we go into the exercise:
+We will take a look at solving coding challenges from 2 angles, before we go into the exercise:
 
 1. Why "jumping into coding immediately" is a bad approach
 2. A 4 step approach to solving live coding challenges
 
-### Why "jumping into coding immediately" is a bad approach
+### Why is "jumping into coding immediately" is bad approach?
 
-Why is "jumping right into coding" a bad approach? To answer this we have to understand **the goal of a technical interview** from the perspective of an interviewer.
+To answer this we have to understand **the goal of a technical interview** from the perspective of an interviewer.
 
 Whenever you're given a challenge, an interviewer is trying to assess the following: can this person...
 
@@ -24,7 +24,7 @@ Whenever you're given a challenge, an interviewer is trying to assess the follow
 - answer the question in a natural, thoughtful way (instead of rehearsed or forced)?
 - share their thoughts on better ways of doing things?
 
-They care about this because they're trying to **see if you are know what you're doing**, as well as **learn more about how you think**. This is not the same thing as "wanting to see the right answer". Often, it's not even about giving the right answer but **showing that you can collaborate** in order to come up with a basic solution and some suggestions for improvement.
+They care about this because they're trying to **see if you know what you're doing**, as well as to **learn more about how you think**. This is not the same thing as "wanting to see the right answer". Often, it's not even about giving the right answer but **showing that you can collaborate** in order to come up with a basic solution and some suggestions for improvement.
 
 ### A 4 step approach to solving live coding challenges
 
