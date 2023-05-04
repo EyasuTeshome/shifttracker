@@ -79,7 +79,7 @@ For each section:
 6. **Make changes** to your LinkedIn profile.
 7. *Continue with the next section.*
 
-❗️**Important note:** Once you have finished all sections, verify that your visibillity settings will let career coaches and recruiters see your email. Follow these steps:
+❗️**Important note:** Once you have finished all sections, verify that your visibility settings will let career coaches and recruiters see your email. Follow these steps:
 - Click on your profile at the upper right corner.
 - Select "Privacy and setting".
 - Click on "Visibility".
