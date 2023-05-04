@@ -10,7 +10,9 @@ While you're working on the capstone, you will see that you're well-prepared due
 
 You'll likely feel time pressure in capstones. We enforce deadlines in capstones because while working in a company with a client you will often have tight deadlines. You must learn to prioritize what you will work on in a project given the time limit and to do your best in the time you have.
 
-Once your project achieves mastery, you will be able to move forward to the next module. Not only will you have achieved the technical skills from the module but also soft skills such as project planning, time management, and working under pressure. You can repeat the capstone project if you haven't had a repeat week yet in the given module.
+After some capstones, we will ask you to prepare an oral presentation of your project, either recorded or life, so that we also assess your ability to communicate your thought processs of your own coding. This is also an essential skills for software developers.
+
+Once you achieve mastery --and this means that your code is approved and you've successfully passed any oral presentation of your code that werequired--, you will be able to move forward to the next module. Not only will you have achieved the technical skills from the module but also soft skills such as project planning, time management, communicating, and working under pressure. 
 
 ### How can I utilize the capstone projects after the Microverse curriculum?
 
