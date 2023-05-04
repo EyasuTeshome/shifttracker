@@ -1,4 +1,4 @@
-# How to fill your LinkedIn if you don’t have experience as a software developer
+# How to fill your LinkedIn profile if you don’t have experience as a software developer
 
 Getting your first job in any field is always very complicated. How can you convince someone that you are a reliable professional if you’ve never had the chance to prove it? How do you fill out the “Experience” section if you haven’t had any paid job as a software developer? 
 
