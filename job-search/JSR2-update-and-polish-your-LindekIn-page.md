@@ -35,7 +35,7 @@ A compelling LinkedIn page will help you get invited to interviews!
 
 ## Show your technical expertise by categorizing your skills correctly
 
-When listing your technical skills, it's essential to use the correct technical terms. For exampls, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
+When listing your technical skills, it's essential to use the correct technical terms. For example, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
 
 - [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
 
