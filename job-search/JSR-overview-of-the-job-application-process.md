@@ -26,7 +26,7 @@ Submitting a job application comprises five steps:
 
 Each step includes several activities that may take between 45 min and 2 hours. Throughout this block and the next one, you will find an exercise where we show you how to complete each step and share with you some resources and tools you can use in the future. 
 
-You should select at least one job application to go through the whole process, but you can decide to apply to several jobs.
+You should select at least one job application to go through the whole process, but as you go through the process, you can decide to apply to several jobs.
 
 ### Will I need to submit the job application for review?
 
