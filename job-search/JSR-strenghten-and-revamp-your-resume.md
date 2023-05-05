@@ -50,9 +50,9 @@ We will require you to use one of these templates, but you may adapt some sectio
 - [Template 4](https://docs.google.com/document/d/1kWikoIDAKUK1SBeEctIHVj6zpaVDsDcDzjXGU_JI6fo/edit?usp=sharing): Traditional, corporate. Two columns. Inspired by [Serif](https://docs.google.com/document/d/1NdTcp-sNr9gzgWqx4bYOWw-w1rT6ltEhkpFQ4wIxTA0/edit).
 - [Template 5](https://docs.google.com/document/d/1jMxmTpC1kZT2F6wcyXeM_0NEdhuWbRhYeYUSaP0qNAk/edit?usp=sharing): Traditional, corporate, confident. Two columns.
 
-## Categorizing your skills correctly
+## Categorize your skills correctly
 
-Remember it's essential to use the correct technical terms in your resume. For exampls, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Read the following article for more information:
+Remember it's essential to use the correct technical terms in your resume. For example, programming languages and frameworks are NOT the same! So differentiating them clearly in your application materials is a good way of showing your mastery of technical concepts. Refer to the following article if you need more information:
 
 - [How to use correct technical terminology in application materials](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md)
 
