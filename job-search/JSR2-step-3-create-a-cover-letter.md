@@ -170,13 +170,14 @@ And, don’t forget to sign your name afterward!
 1. Add a farewell phrase or paragraph to your cover letter.
 2. Sign your name.
 
-### 7. Check your grammar and spelling
+### 7. Check technical terms, grammar and spelling
 
-As with all application materials, you must ensure that your cover letter is free of grammar and spelling mistakes. So read it carefully once more and run it through Grammarly.
+As with all application materials, you must ensure that you are using technical terms correctly when you state your knowledge and skills, and that your cover letter is free of grammar and spelling mistakes. So read it carefully once more, verify that you are using the correct technical term to describe your capabilities, and run it through Grammarly.
 
 **Apply what you've learned**
 
-1. Check the grammar and spelling of your cover letter.
+1. Check that you are presenting your skills correctly. Refer to [this styleguide](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md) if necessary.
+2. Check the grammar and spelling of your cover letter.
 
 ### 8. Self-assess your cover letter with the rubric
 
