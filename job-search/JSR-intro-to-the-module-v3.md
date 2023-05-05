@@ -30,7 +30,7 @@ After some introductory lessons about the recruitment process in general, you wi
     - You will revise your resume and your cover letter to ensure they tell a personalized story. 
     - You will revamp your portfolio and include all your projects.
 - A step-by-step walkthrough to submit a job application. We will guide you all the way, from finding a job posting to submitting the job application.
-- In the third and last week of the module, you will schedule and attend an "Industry Professional Mock Interview" where a software developer will interview you, presenting you questions and coding challenges that are similar to those you will face in real interviews.
+- In the third and last week of the module, you will schedule and attend an "Industry Professional Mock Interview" where a software developer will ask you to answer behavioral and technical questions, and solve a coding challenges. It will be a similar experience as a real job interview.
 
 
 ### Do you need to keep coding while you refine your application materials?
