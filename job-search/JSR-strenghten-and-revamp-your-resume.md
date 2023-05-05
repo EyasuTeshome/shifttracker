@@ -61,6 +61,8 @@ Remember it's essential to use the correct technical terms in your resume. For e
 
 - Open up the latest version of your resume in Google Docs.
 - Open the [Resume rubric](https://docs.google.com/document/d/1Zbluw7oamzhFy40XR3nzbs6ZayK-iKEa2Y3AMJ1QDWY/edit?usp=sharing).
+- Open the [style guide for listing your technical skills](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/style-guide-technical-terminology-in-application-materials.md).
+
 
 ## **Exercise**
 
