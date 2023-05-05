@@ -16,9 +16,9 @@ The industry professional mock interviewer will assess and rate your performance
 
 ### Why is scheduling your industry professional mock interview important?
 
-Your industry professional mock interview is an opportunity to have an interview with a professional software developer. This will give you the feeling of what an actual interview is like and prepare you for the real interviews you will have in the future. Also, your interviewer will give you feedback at the end of the session.
-
 In this module, you have self-assessed your potential challenges during interviews, learned how to prepare for the interview, refreshed your knowledge about answering technical and behavioral interview questions, and practiced intensively both type of questions with your peers. It's time to assess the mastery of the interview process you have achieved!
+
+Your industry professional mock interview is an opportunity to have an interview with a professional software developer. This will give you the feeling of what an actual interview is like and prepare you for the real interviews you will have in the future. Also, your interviewer will give you feedback at the end of the session and you will be able to check your score for the different questions. You will also find recommended resources to prepare yourself better.
 
 ### How do you schedule your industry professional mock interview?
 
