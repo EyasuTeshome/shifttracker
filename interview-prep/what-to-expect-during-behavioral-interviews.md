@@ -31,7 +31,7 @@ If you’ve already had a phone screen, you’ve probably had some practice with
 - [What should I expect during behavioral interviews?](https://microverse.zendesk.com/hc/en-us/articles/360058158414-What-Should-I-Expect-During-Behavioral-Interviews-)
 - [What are interviewers looking for in behavioral interviews?](https://microverse.zendesk.com/hc/en-us/articles/360060681073-What-are-Interviewers-Looking-for-in-Behavioral-Interviews-)
 - [Tips on common interview questions (with useful examples)](https://www.linkedin.com/pulse/tips-common-interview-questions-answers-useful-/)
-- [125 of the most common interview questions, with answers and tips](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)
+- [19 top interview questions in 2023 (with sample answers)](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)
 
 ## Challenge yourself
 
