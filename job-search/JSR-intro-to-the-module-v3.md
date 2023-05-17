@@ -8,7 +8,7 @@ Congratulations on successfully completing the technical component of Microverse
 
 We know you are anxious to get a job as soon as possible, but the best way to succeed is to prepare yourself thoroughly before sending job applications. So, in this module, you will refresh your knowledge of the job searching process, update your application materials, and send them to a coach for approval. You will also practice your interview skills and participate in a mock interview with an industry professional that will assess if you are ready or not for real interviews.
 
-To offer you enough time and opportunities to get all your application materials approved and to pass the industry professional mock interview, we have changed the repetitions policy for this module: 
+👉🏽 To offer you enough time and opportunities to get all your application materials approved and to pass the industry professional mock interview, we have changed the repetitions policy for this module:  
 - **You will have 3 block repetitions, but you will not be allowed to repeat the module**.
 - If you don't complete the module with these three repetitions, you will be proceed to job searching but you will receive minimum support from our career coaches. 
 
@@ -50,7 +50,7 @@ After some introductory lessons about the recruitment process, you will complete
     - On the "Professional Skills Feedback" page on your Student Dashboard, you will be able to check your scores for the different types of questions and recommended resources you can study to improve.
     - If you get a score of 1 or 2 on the interview, you will repeat the block so that you can hone your interview skills and schedule a second interview.
 
-**Remember that the repetition policy changes in this module**. Plan your work carefully to make sure you complete these assessments successfully in the 3 block repetitions allowed. You won't be able to repeat the module.
+❗️**Remember that the repetition policy changes in this module**. Plan your work carefully to make sure you complete these assessments successfully in the 3 block repetitions allowed. You won't be able to repeat the module.
 
 ### Do you need to keep coding while you refine your application materials?
 
