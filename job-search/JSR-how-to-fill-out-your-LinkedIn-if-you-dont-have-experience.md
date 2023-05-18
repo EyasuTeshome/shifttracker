@@ -16,7 +16,7 @@ Our career coaches have prepared the following suggestions to help you fill out 
 
 [![Watch the video](https://img.youtube.com/vi/CN-xXnhVscM/0.jpg)](https://www.youtube.com/watch?v=CN-xXnhVscM)
 
-If you want to read a summary of the ideas presented in the video, read the article [How to create entries for the Experience section if you have no software dev preious experience](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/options-for-filling-your-experience-section-in-Linkedin-without-software-dev-experience.md).
+If you want to read a summary of the ideas presented in the video, read the article [Tips for your experience section](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/options-for-filling-your-experience-section-in-Linkedin-without-software-dev-experience.md).
 
 4. Finally, don’t include any Microverse experience unless you have been hired with a paid role. Nevertheless, you can mention that you have mentored other software devs as a volunteer in the Volunteering section. Check [neeraj bhardwaj’s Volunteering section](https://www.linkedin.com/in/neerajbhardwaj216/) for an example.
 
