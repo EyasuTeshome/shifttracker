@@ -17,17 +17,20 @@ You have:
 - **A maximum of two reviews**, so study the coach’s comments carefully and integrate any changes required. If necessary, you may use one of your extra reviews.
 - **One week to complete the activity** and avoid a block repetition.
 
-❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision.
+## Important❗️
+- Remember the repetition policy changes: now you are allowed 3 block repetitions but no module one. 
+- This module aims to prepare you for job searching, so experienced coaches will review very thoroughly your application materials. 
+- Plan your work to prepare each material carefully and submit it time. Thus, you will be able to use your block repetitions for more opportunities to present the industry professional mock interview.
+- Submit your first version **no later than Wednesday** to have time to go through the necessary rounds of revision. Coaches might take up to 3 days to send you their comments and request changes. 
 
-Coaches might take up to 3 days to send you their comments and request changes.
+
+
 
 ## A refresher about the relevance of a LinkedIn profile
 
 LinkedIn is one of the most used platforms for hiring professionals, so crafting your profile carefully and keeping it updated and active can impact your chances of being invited to interviews. You can also find job postings on LinkedIn, meet and interact with other professionals, and build your personal brand by sharing your knowledge.
 
-Your LinkedIn page consists of a header, a summarized introduction to who you are, and different sections with specific attributes. You already filled out all these sections in a previous module. To prepare for job searching you must update it and ensure it presents the skillset you bring to a position and your potential to contribute to a company and grow as a software developer. Also, if you publish posts regularly, your page can also show that you are an active professional.
-
-A compelling LinkedIn page will help you get invited to interviews!
+Your LinkedIn page consists of a header, a summarized introduction to who you are, and different sections with specific attributes. You already filled out all these sections in a previous module. To prepare for job searching you must update it and ensure it presents your story as a software developer compellingly. Also, if you publish posts regularly, your page can also show that you are an active professional.
 
 - Watch [this video](https://www.loom.com/share/34dc0ab9016546e49df5e8d41b01f0ee) where Ana Yuzuva describes how recruiters use Linkedin when searching for talent and offers you 4 tips to optimize your profile.
 - Refresh your memory about the importance of a LinkedIn profile by reading the article [Resume Study: How LinkedIn affects the Interview Chances of Job Applicants](https://www.resumego.net/research/linkedin-interview-chances/).
@@ -77,13 +80,11 @@ For each section:
 7. *Continue with the next section.*
 
 ❗️**Important note:** Once you have finished all sections, verify that your visibility settings will let career coaches and recruiters see your email. Follow these steps:
-
 - Click on your profile in the upper right corner.
 - Select "Privacy and setting.”
 - Click on "Visibility.”
 - Select "Who can see or download my email.”
 - Set email visibility to "Anyone on Linkedin.”
-It's a good idea to check other visibility options also since you are job searching.
 
 Once you believe your LinkedIn page satisfies all the requirements, **submit it to your coach** for review. Don't waste your time and the coaches' by submitting a profile that hasn't been reviewed and updated!
 
