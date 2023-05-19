@@ -34,6 +34,7 @@ Your LinkedIn page consists of a header, a summarized introduction to who you ar
 
 - Watch [this video](https://www.loom.com/share/34dc0ab9016546e49df5e8d41b01f0ee) where Ana Yuzuva describes how recruiters use Linkedin when searching for talent and offers you 4 tips to optimize your profile.
 - Refresh your memory about the importance of a LinkedIn profile by reading the article [Resume Study: How LinkedIn affects the Interview Chances of Job Applicants](https://www.resumego.net/research/linkedin-interview-chances/).
+- Analyze some examples of other Micronauts' LinkedIn page: [Uduak Essein](https://www.linkedin.com/in/acushlakoncept/), [Manel Hammouche](https://www.linkedin.com/in/manel-hammouche/), [Zain Sadaquat](https://www.linkedin.com/in/zain-sadaqat/), [neeraj bhardwaj’s](https://www.linkedin.com/in/neerajbhardwaj216/).
 
 ## Tips for students that have NOT had previous software experience
 
