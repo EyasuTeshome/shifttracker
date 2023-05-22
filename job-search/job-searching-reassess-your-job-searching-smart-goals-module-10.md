@@ -27,7 +27,7 @@ By now, you know the drill. Yet, since you don’t have a partner, in this case 
 
 ### Submit your exercise
 
-**This week you don't need to submit your exercise.**
+**This week you don't need to submit your exercise.** Once you finish, mark the activity as complete.
 
 ---
 
