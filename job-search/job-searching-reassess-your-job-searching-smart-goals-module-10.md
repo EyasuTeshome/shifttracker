@@ -6,7 +6,7 @@
 
 It's time to define new job-searching SMART goals for the next month. By now, you know the drill: after studying the analysis of your job search you completed last week, define the critical tasks to focus on and set your next goals.
 
-**Note: This week career coaches won't review the assignments in this module.** Please contact your coach if you need support on a specific issue.
+❗️ **Note: This week career coaches won't review the assignments in this module.** Please contact your coach if you need support on a specific issue.
 
 ### Why is reassessing job searching SMART goals important?
 
