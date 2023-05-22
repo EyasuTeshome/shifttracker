@@ -20,19 +20,17 @@ Because feedback is a gift! Sharing your application material with your career c
 - [Make sure that your LinkedIn profile meets every requirement of the LinkedIn rubric.](https://docs.google.com/document/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit)
 - [Creating your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
 
+
 ## Exercise
 
-_Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)_
+### Instructions
 
-1. Open the link below and answer the questions.
+1. Open the link below and answer the questions individually.
+2. Once you finish, mark the activity as complete.
+
+**This week you don't need to submit your exercise.** Please contact your coach if you need support on any specific issue.
 
 **Exercise template to copy:** [Submit one of your application materials for review](https://docs.google.com/document/d/1qyV5u7CCRI_MR_CELaW_htkVw0gmaxBSfJlc6gUW-Jg/edit?usp=sharing)
-
-### Submit your exercise
-
-_Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise._
-
-Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 
