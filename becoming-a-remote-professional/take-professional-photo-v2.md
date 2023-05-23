@@ -8,7 +8,7 @@
 
 ## Description
 
-In this project, you will take the professional photo that you will later be using as your profile picture on professional sites like LinkedIn and GitHub. Be sure to read through the entire article before taking a new photo, to ensure that you know everything you need to do to make it a great photo. 
+In this project, you will take the professional photo that you will later be using as your profile picture on professional sites like LinkedIn and GitHub, and you will submit it for review and approval. You will have a maximum of 5 reviews for this project. Be sure to read through the entire article before taking a new photo, to ensure that you know everything you need to do to make it a great photo. 
 
 **Note**: If you have a reason such as religious practices that make it so taking a photo of yourself and putting it online is uncomfortable or not allowed, please reach out to Student Success to request an exception for this assignment.
 
@@ -196,7 +196,10 @@ You've learned all about the elements of a great professional photo. In this las
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how-to-ask-for-a-prof-skills-review-v2.md) to request a  review of your project.
 
-In order to ensure that your project can be approved by the deadline, **submit your first version no later than Wednesday evening of the week when it's due**. This will give the reviewers enough time for necessary iterations.
+❗️Please note that: 
+- This activity is carry-over, so you will be able to complete it need week.
+- You have 5 reviews maximum to get your photo approved.  
+- We reccomend you**submit your first version no later than Wednesday evening of the week when it's due**. This will give you and the reviewers enough time for necessary iterations.
 
 ## Submit your project
 
@@ -206,7 +209,6 @@ Now go to your Student Dashboard and submit your project.
 
 **Check periodically the activity status in your Dashboard to find out if the reviewer approves your submission or requests changes.**
 
-Remember that you have **a max of 5 reviews** per professional project.
 
 ## Additional materials
 
