@@ -1,8 +1,8 @@
 # How to answer the salary expectation question.
 
-Conducting research on average compensation for both the role and your experience level can lead to productive and informative conversations about pay with your potential employers.
+Researching average compensation for both the role and your experience level can lead to productive and informative conversations about pay with your potential employers.
 
-However, this question can still be anxiety inducing and it is important to avoid these common mistakes: 
+However, this question can still be anxiety-inducing and it is important to avoid these common mistakes: 
 
 - **Giving a low number because of lack of work experience**: Many junior developers feel that they need to give a very low number because of the lack of work experience. The assumption is that if they work for cheap, they are more likely to be hired. However, this is an incorrect assumption. When you give a recruiter a very low salary amount, the feeling that you are actually suggesting is: “I am not confident in my skills, and this is a big red flag not to hire me.”
 - **Not being realistic about market rates**: Like the point above, if you aren’t realistic about market rate salaries and you respond with an amount that is too high, you’re likely to be filtered out due to budget constraints.
@@ -17,7 +17,7 @@ Example: *“I am seeking a position that pays between $25,000 and $30,000 annu
 
 - **Include negotiation options:** In addition to your salary, there may be other benefits, perks, or compensation forms you consider just as valuable. Including these as possible opportunities for negotiation is an option, too. For example, while the employer may not have budgeted enough for your ideal salary range, they may be willing to offer equity in the company to make the compensation package more attractive to you.
 
-Example: *“I am seeking a position that pays between $25,000 and $30,000 annually, but I am open to negotiate salary depending on benefits, bonuses, equity, stock options and other opportunities.”*
+Example: *“I am seeking a position that pays between $25,000 and $30,000 annually, but I am open to negotiating salary depending on benefits, bonuses, equity, stock options, and other opportunities.”*
 
 - **Deflect the question:** If you’re still early in the hiring process and still learning the specifics about the job duties and expectations, you may want to deflect the question later in the conversation. However, keep in mind you’ll still eventually have to discuss salary expectations. Either way, it’s a good idea to be prepared with a well-researched number in mind—even if you’re still factoring in additional information.
 
@@ -43,9 +43,9 @@ Whether you are speaking directly to a person or responding to an email request,
 
 **Beware of this recruiter trap**
 
-Sometimes a recruiter will ask you for your previous salary as a way to make a low-ball offer. This practice is becoming more uncommon, but if you are faced with this question, do your best to dodge this question so you don’t get locked into accepting a low salary based on your previous salary being low. Here a method to avoid giving them an answer:
+Sometimes a recruiter will ask you for your previous salary as a way to make a low-ball offer. This practice is becoming more uncommon, but if you are faced with this question, do your best to dodge this question so you don’t get locked into accepting a low salary based on your previous salary being low. Here is a method to avoid giving them an answer:
 
-- *“My previous experience was unrelated to web development and not aligned with my current skill set. As I move into my new career path, I’m expecting a salary in the range of X to X.”*
+- *“My previous experience was unrelated to web development and not aligned with my current skill set. As I move into my new career path, I’m expecting a salary in the range of X to Y.”*
 
 **If you are uncomfortable talking about money**
 
