@@ -53,7 +53,7 @@ Read the articles below to learn about the engagement policy at Microverse and s
 
 You will find information about your absences, use of camera and. microphone in meetings in the “Attendance and Engagement” page of your student dashboard. Check this tutorial for a detailed explanation on how to view these reports:
 
-[![Watch the video](https://img.youtube.com/vi/C6Rs5tEzedw/0.jpg)](https://www.youtube.com/watch?v=C6Rs5tEzedw)
+[![Watch the video](https://img.youtube.com/vi/3DWylHY3KuE/0.jpg)](https://www.youtube.com/watch?v=3DWylHY3KuE)
 
 ### And a weekly checkllist for you!
 
