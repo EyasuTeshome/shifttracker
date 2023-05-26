@@ -49,8 +49,8 @@ One of the best ways to learn to confidently answer questions about your USP in 
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Open your copy of the template above and complete Section 1 and 2 of the document alone.
-2. Do Section 3 with your partner(s).
+1. Open your copy of the template below and complete **Section 1** and **2** of the document alone.
+2. Do **Section 3** with your partner(s).
 
 **Exercise template to copy:** [Defining my personal USP](https://docs.google.com/document/d/16RSSs7xx0Q7iazycSnkdbR2DcWlajUqrsuBWmjkGaqs/edit#heading=h.16uhrmjd6dv)
 
