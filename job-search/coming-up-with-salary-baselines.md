@@ -36,7 +36,7 @@ Whether you are speaking directly to a person or responding to an email request,
 
 Sometimes a recruiter will ask you for your previous salary as a way to make a low-ball offer. This practice is becoming more uncommon, but if you are faced with this question, do your best to dodge it, so you don’t get locked into accepting a low salary based on your previous salary being low. Here a method to avoid giving them an answer:
 
-- *“My previous experience was unrelated to web development and not aligned with my current skill set. As I move into my new career path, I’m expecting a salary in the range of X to X.”*
+- *“My previous experience was unrelated to web development and not aligned with my current skill set. As I move into my new career path, I’m expecting a salary in the range of X to Y.”*
 
 **If you are uncomfortable talking about money**
 
