@@ -9,7 +9,9 @@ Your job searching indicators will be displayed as Micropoints on your Student D
 
 ### Remember to register your job searching activity in Huntr!
 
-Huntr is the tool you will use to track all of your work toward job applications/interviews and then be able to see how all of those applications went as you progressed through hiring pipelines. The data you enter here will be used as input for the metrics that appear on your Student Dashboard, **so it’s very important that you update your Huntr profile regularly with accurate data**. This will enable you and your coach to look back and make specific changes that will help you efficiently redirect your efforts. 
+Huntr is the tool you will use to track all of your work toward job applications/interviews and then be able to see how all of those applications went as you progressed through hiring pipelines. 
+
+Also, the data you enter here will be used as input for the metrics that appear on your Student Dashboard, **so it’s very important that you update your Huntr profile regularly with accurate data**. This will enable you and your coach to look back and make specific changes that will help you efficiently redirect your efforts. 
 
 To facilitate access to your Huntr board you will find a link in the left-hand menu of the Student Dashboard.
 
