@@ -55,7 +55,7 @@ You will find information about your absences, use of camera and. microphone in 
 
 [![Watch the video](https://img.youtube.com/vi/3DWylHY3KuE/0.jpg)](https://www.youtube.com/watch?v=3DWylHY3KuE)
 
-### And a weekly checkllist for you!
+### And a weekly checklist for you!
 
 We know we are sharing with you a lot of information. So, we have prepared for you a checklist to help you navigate daily and weekly life at Microverse:
 
