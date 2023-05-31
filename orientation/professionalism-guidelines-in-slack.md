@@ -10,9 +10,9 @@ Below are 5 guidelines that you should always follow while communicating on Slac
 
 - If you read something that sounds offensive, do not respond angrily as written communication can often cause misunderstandings. Instead, reach out to that student and ask to clarify in private through Loom or a Zoom call.
 
-## Praise publicly, but criticize in private through a direct message.
+## Praise publicly, but provide feedback in private through a direct message.
 
-- If you have constructive feedback for a team member, write them through a direct message. It can be hurtful to receive constructive feedback in front of a lot of other students.
+- If you have feedback for a team member, write them through a direct message. It can be hurtful to receive feedback in front of a lot of other students.
 
 ## Use professional communication at all times.
 
