@@ -30,8 +30,6 @@ Refresh your memory on how to create SMART goals for the job search process.
 
 1. Open your copy of the exercise template below and complete the sections. 
 
-As mentioned in the document, bring the newly created SMART goals for job search to your peers and coach in your upcoming coaching group meeting.
-
 **Exercise template to copy:** [Reassess job search SMART goals](https://docs.google.com/document/d/1ciNvlsfoNacSY1y_I22k5xAnRZY25oB1fPr3Kydr9Kg/edit#)
 
 ### Submit your exercise
