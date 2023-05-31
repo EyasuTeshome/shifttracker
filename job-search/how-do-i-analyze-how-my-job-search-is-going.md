@@ -49,7 +49,7 @@ You can also work on some additional projects to add to your portfolio:
 - [What to expect during phone screens and how to prepare](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-phone-screens-and-how-to-prepare.md)
 - [What to expect during behavioral interviews](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/what-to-expect-during-behavioral-interviews.md)
 - [How to follow up after an interview](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/how-to-follow-up-after-an-interview.md)
-- [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet)
+- [Interview Cheatsheet](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/)
 - [Getting confident introducing yourself _1](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/morning-session-getting-confident-introducing-yourself-part1.md)
 - [Getting confident introducing yourself _2](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/morning-session-getting-confident-introducing-yourself-part2.md)
 
