@@ -1,12 +1,10 @@
 # How will you communicate with your career coach?
 
-You will be assigned a career coach and you will be able to communicate with them individually. You will also meet with them periodically in a coaching group meeting with other Micronauts. You will be expected to attend this meeting unless you have a job interview scheduled at the same time.
+👉🏽 You can reach a coach via **Zendesk** for advice about particular jobs, job offers, networking opportunities, improving your application materials, or anything else coming up for you.
 
-During the coaching group meetings, you'll check in with the coach and peers on how your job search is going and get a chance to ask questions about anything coming up for you (difficulties you're experiencing, questions about part of the job search, etc).
+Career coaches will either help you asynchronously, or if it's something time-sensitive, especially around job offers, you'll be encouraged to schedule a short 1:1 call, so they can talk through whatever you need. In addition, coaches often meet with students to discuss how to evaluate job offers and plan negotiation strategies. Reach out to them *immediately* if you get a job offer so they can help you negotiate it and make the best choice for you.
 
-Outside the meeting you'll be able to reach a coach via Zendesk about anything from getting feedback on improving your application materials to negotiating a job offer. If it's something time-sensitive, especially around job offers, you'll be encouraged to schedule a short 1:1 call with a coach, so they can help you talk through whatever you need. You should always reach out to your coach *immediately* if you get a job offer so they can help you negotiate it and make the best choice for you.
-
-As with all communication, coaches will best be able to help you if you provide as much information as possible in your initial messages. We encourage you to give as much context as possible about any issues or potential offers you're considering. You can always use a Loom video to discuss an issue instead of typing it all out. Doing this will be excellent practice for your future remote workplace.
+As with all communication, coaches can best help you if you provide as much information as possible in your initial messages. We encourage you to give as much context as possible about any issues or potential offers you're considering. You can always use a Loom video to discuss an issue instead of typing it all out. Doing this will be excellent practice for your future remote workplace.
 
 
 ---
