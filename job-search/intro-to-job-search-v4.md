@@ -31,7 +31,7 @@ Finding a job will demand time and sustained effort. Job searching can be diffic
 
 Watch this video for more information on the Microverse job-searching curriculum:
 
-[![Watch the video](https://img.youtube.com/vi/`[MryHGxC13iY](https://youtu.be/MryHGxC13iY)`/0.jpg)](https://www.youtube.com/watch?v=`[MryHGxC13iY](https://youtu.be/MryHGxC13iY)`)`
+[![Watch the video](https://img.youtube.com/vi/MryHGxC13iY/0.jpg)](https://www.youtube.com/watch?v=MryHGxC13iY)
 
 Then read more about [the four core areas in job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching-M7MVP1.md).
 
@@ -56,6 +56,31 @@ While you are job searching you will still attend your full-time Microverse sche
 - How can you differentiate job-searching tasks from learning activities?
 - What do you need to do to avoid block repetitions?
 
+### How will career coaches support me?
+
+During your job search, you will be assigned a career coach to get support about particular jobs, job offers, networking opportunities, improving your application materials, or anything else coming up for you. You can communicate with your coach async or meet with them virtually for urgent issues, such as negotiating jof offers.
+
+Also, our coaches will host weekly special coaching events to deepen your learning about different job searching-related topics. Check the “Events Calendar” through your Dashboard and register for the events that meet your interest and specific needs. 
+
+Two practical issues:
+
+👉🏽 **You can contact your coach through Zendesk** and schedule 1:1 meetings whenever necessary.
+
+👉🏽 **Coaching events will have limited seats**, so we recommend registering as early as possible. 
+
+Read the following article for more information:
+
+- [How to communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
+
+
+**Guiding questions:**
+
+*Think about these questions as you learn about what you'll be doing while you're job searching.*
+
+- What support will you get as you are job searching?
+- How can you reach out to your career coach?
+- What should you do if you have a job offer but your coaching group meeting is in a few days?
+
 ### How will I use my weekly retrospectives to guide my job search?
 
 During the job searching modules you will consider a different set of questions and issues in your weekly retrospectives. 
@@ -74,19 +99,6 @@ You will be tracking your job searching performance with specific metrics relate
 
 - What are the core things you should track while job searching?
 
-### How will career coaches support me?
-
-During job searching you will communicate with career coaches in group meetings and you will be able to get in touch with them through Zendesk to get support for any immediate needs throughout the process such as preparing for an interview that has just been scheduled. You will be able to schedule 1:1 meetings to solve specific issues and will participate in online workshops designed to help you put into practice what you have learned about job searching.
-
-- Find out [how you will communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md).
-
-**Guiding questions:**
-
-*Think about these questions as you learn about what you'll be doing while you're job searching.*
-
-- What support will you get as you are job searching?
-- How can you reach out to your career coach?
-- What should you do if you have a job offer but your coaching group meeting is in a few days?
 
 ## Challenge yourself
 
