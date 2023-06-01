@@ -15,18 +15,16 @@ Welcome to advanced job searching at Microverse! In this lesson, we will go over
 Job searching can be challenging when looking for your first job or a new position to drive your professional career forward. It might take longer than you thought and require you to face a lot of rejection along the way. So, you must keep your spirits up and work consistently towards getting the right job. 
 
 This module supports you by:
-- Pointing out the essential tasks that you need to focus on and refreshing your memory about how to perform them,
+- Reminding you the essential tasks that you need to focus on and refreshing your memory about how to perform them,
 - Offering you opportunities to practice your interview and coding skills,
 - Providing you personalized feedback on your job search plan and goals, and
 - Giving you access to a community of job searchers with whom you can interact and share experiences.
 
 ### How is this module structured?
 
-The daily schedule includes critical tasks for job searching. Although the activities are repetitive, we present them on your View Progress Page as a road map: identify the tasks you can do and mark them on completion. It will help you ensure you are completing them consistently. To give flexibility, most of the activities are skippable, and you can skip an unlimited number in each block.
+The daily schedule includes critical tasks for job searching. Although the activities are repetitive, we present them on your View Progress Page as a road map to help you ensure you omplete them consistently. To give you flexibility, most of the activities are skippable, and you can skip an unlimited number in each block.
 
-As in other modules, you will collaborate with peers. In morning sessions, you can practice technical and behavioral interview skills with other job searchers. Each week you will have a learning partner who shares your job searching experience and can help with specific challenges. In this module, there are no daily standups.
-
-You will meet monthly with your career coach and your coaching group. Also, you can participate in the workshops our career coaches facilitate periodically.
+As in other modules, you will have a space to meet with peers. In morning sessions, you can practice technical and behavioral interview skills with other job searchers. Each week you will have a learning partner who shares your job searching experience and can help with specific challenges. Notice there are no daily standups.
 
 
 ### How will career coaches support you?
@@ -36,7 +34,7 @@ A career coach will review the assignments you submit and give you feedback:
 - Your analysis of your job search.
 - An application material (optional).
 
-Also, you will meet with a coach in your monthly coaching group session, and if you have specific questions, you may get in touch with a career coach via Zendesk or request a 1:1 meeting.
+Also, if you have specific questions, you may get in touch with a career coach via Zendesk or request a 1:1 meeting and you can attend the coaching events that our career coaches will facilitate periodically.
 
  **If you need a refresher about communicating with your career coach, read:**
 
@@ -53,15 +51,10 @@ The indicators during your job search will be the number of applications you sub
 
 ### What do we expect of you?
 
-To help you, our career coaches need to know how you are job searching, your achievements, and your blockers. So, to maintain your status as an enrolled job searcher, we require you to:
-
-1. Complete the required activities in the curriculum by the end of the week:
-- Intro to advanced job searching at Microverse (week 1 - it's this activity that you are reading!),
+To help you, our career coaches need to know how you are job searching, your achievements, and your blockers. So, to maintain your status as an enrolled job searcher, we require you to complete the required activities in the curriculum by the end of the week:
 - Reassess your job searching SMART goals (week 1),
 - Analyze your job search (week 4),
 - Weekly retrospective (every week).
-
-2. Attend the monthly session with your coaching group.
 
 
 
