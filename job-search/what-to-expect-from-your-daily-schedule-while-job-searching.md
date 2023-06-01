@@ -6,7 +6,9 @@ Morning sessions will be regular interview practice where you and your peers wil
 
 During the collaborative session time, you will have a variety of activities to complete. However, unlike during the Core Program, these activities may not take up your entire day. You are intentionally given space for flexibility so that you can use your own SMART goal plan to guide your job search in the best way that works for you. You set up your personal goals and plan, and then it will be up to you to ensure to work toward that plan every day. 
 
-Periodically, you will meet with your coaching group, where a career coach and a group of peers will talk about how your job search is going and get more directed advice about how to proceed. You will also participate in workshops to develop your job searching skills.  For advice about particular jobs, job offers, networking opportunities, or anything else coming up for you, you'll be able to reach out to a coach at any time. They will either help you asynchronously or you can schedule a short 1:1 with them to go over whatever is coming up for you. (Often coaches will meet with students to talk about evaluating job offers and planning negotiation strategies.) 
+For advice about particular jobs, job offers, networking opportunities, or anything else coming up for you, you'll be able to reach out to a coach at any time. They will either help you asynchronously or you can schedule a short 1:1 with them to go over whatever is coming up for you. (Often coaches will meet with students to talk about evaluating job offers and planning negotiation strategies.) 
+
+You may also register to attend to coaching events hosted by MV career coaches to learn about specific topics. Check the “Events Calendar” for the list of current events and register to those that interest you.
 
 You'll end your day with your daily stand-up group, integrated with peers who are also working through the job search, so you can all share where you are in the process and the difficulties of the job search.
 
