@@ -29,9 +29,11 @@ A successful job search requires consistency and dedication; working every day i
 
 Finding a job will demand time and sustained effort. Job searching can be difficult and emotionally challenging: you may send many applications and get rejected, or even worse, you may not hear back from recruiters at all. Now remember that you are not alone! The Microverse curriculum has been designed to help you work strategically to get a job and our team of career coaches will support you throughout. Yet *you* also have to do your part.
 
-[![Watch the video](https://img.youtube.com/vi/mn2kUUzUm94/0.jpg)](https://www.youtube.com/watch?v=mn2kUUzUm94)
+Watch this video for more information on the Microverse job-searching curriculum:
 
-- Read more about [what goes into job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching-M7MVP1.md).
+[![Watch the video](https://img.youtube.com/vi/`[MryHGxC13iY](https://youtu.be/MryHGxC13iY)`/0.jpg)](https://www.youtube.com/watch?v=`[MryHGxC13iY](https://youtu.be/MryHGxC13iY)`)`
+
+Then read more about [the four core areas in job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching-M7MVP1.md).
 
 **Guiding questions:**
 
@@ -43,7 +45,7 @@ Finding a job will demand time and sustained effort. Job searching can be diffic
 
 While you are job searching you will still attend your full-time Microverse schedule. However there will be more flexibility with the specific activities you do each day so you'll have space to focus on what works best for you.
 
-[![Watch the video](https://img.youtube.com/vi/qfv3IKURkdk/0.jpg)](https://www.youtube.com/watch?v=qfv3IKURkdk)
+[![Watch the video](https://img.youtube.com/vi/fQJXWsmnYeQ/0.jpg)](https://www.youtube.com/watch?v=fQJXWsmnYeQ)
 
 **Guiding questions:**
 
