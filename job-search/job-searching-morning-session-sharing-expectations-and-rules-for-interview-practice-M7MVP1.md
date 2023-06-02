@@ -20,7 +20,14 @@ Job searching will be an intense and challenging activity for each one of you. S
 
 During morning sessions, you will meet with your group as you start your day. The support you can get from your peers will be important for you to get through difficult moments. Since each of you will be facing different challenges at any given moment, providing and receiving support might be complicated. 
 
-This week, you and your teammates will practice how to deal with common interview issues. To benefit from this practice, it's important that you first discuss the support you expect to get from your teammates and set some basic agreements on how you will help one another.
+This week, you and your teammates will continue practicing how to deal with common interview issues. To benefit from this practice, it's important that you first discuss the support you expect to get from your teammates and set some basic agreements on how you will help one another.
+
+     ****************************************************************************************************************
+     ***                                                                                                          ***
+     ***  ❗️Please let your peers know if you will be attending morning sessions and when so they can plan ahead. ***
+     ***                                                                                                          ***
+     ****************************************************************************************************************
+     
 
 
 **Refresh your knowledge about working agreements**
