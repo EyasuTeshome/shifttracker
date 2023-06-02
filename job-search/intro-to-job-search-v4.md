@@ -62,15 +62,14 @@ During your job search, you will be assigned a career coach to get support about
 
 Also, our coaches will host weekly special coaching events to deepen your learning about different job searching-related topics. Check the “Events Calendar” through your Dashboard and register for the events that meet your interest and specific needs. 
 
-Two practical issues:
-
 👉🏽 **You can contact your coach through Zendesk** and schedule 1:1 meetings whenever necessary.
 
 👉🏽 **Coaching events will have limited seats**, so we recommend registering as early as possible. 
 
-Read the following article for more information:
+Read the following articles for more information:
 
 - [How to communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
+- -[Coaching Events System: How do I sign up for sessions?](https://microverse.zendesk.com/hc/en-us/articles/17125770146963)
 
 
 **Guiding questions:**
