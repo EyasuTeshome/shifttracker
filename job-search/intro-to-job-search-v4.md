@@ -8,7 +8,7 @@
 
 ## Description
 
-Congratulations on finishing the Core Program! You have learned the basic skills needed to be a full-stack web developer and a job searcher. Also you prepared application materials that showcase your personal knowledge and skills; reviewed and approved by career coaches. 
+Congratulations on finishing the Core Program! You have learned the basic skills needed to be a full-stack web developer and a job searcher. Also you prepared application materials that showcase your personal knowledge and skills, and they have been reviewed and approved by career coaches. 
 
 It's time to focus on using these skills and application materials to get a job as a software developer and Microverse is here to ensure you have the tools and structure you need to succeed. 
 
@@ -20,20 +20,22 @@ There any many factors that impact your success during job searching. Many are o
 
 ### What makes a successful job search?
 
-A successful job search requires consistency and dedication; working every day in four core areas:
-
-- Actively applying to jobs and participating in interviews,
-- Preparing for interviews,
-- Strengthening your technical skills and working on side projects,
-- Networking.
-
-Finding a job will demand time and sustained effort. Job searching can be difficult and emotionally challenging: you may send many applications and get rejected, or even worse, you may not hear back from recruiters at all. Now remember that you are not alone! The Microverse curriculum has been designed to help you work strategically to get a job and our team of career coaches will support you throughout. Yet *you* also have to do your part.
-
-Watch this video for more information on the Microverse job-searching curriculum:
+Finding a job will demand time and sustained effort. Job searching can be difficult and emotionally challenging: you may send many applications and get rejected, or even worse, you may not hear back from recruiters at all. So the challenge is to keep up working consistently in the essential job searching tasks. Now remember that you are not alone! The Microverse curriculum has been designed to help you work strategically and our team of career coaches will support you throughout. Yet *you* also have to do your part.
 
 [![Watch the video](https://img.youtube.com/vi/MryHGxC13iY/0.jpg)](https://www.youtube.com/watch?v=MryHGxC13iY)
 
-Then read more about [the four core areas in job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching-M7MVP1.md).
+Key takeaways from video:
+
+- A successful job search requires consistency and dedication; working every day in four core areas:
+    - Actively applying to jobs and participating in interviews,
+    - Preparing for interviews,
+    - Strengthening your technical skills, working on side projects, and keeping your GitHub green!
+    - Networking.
+- The MV curriculum presents the repetitive and routinary tasks for a successful search. Use them as a guide!
+- Most activities are skippable, and you can skip as many as you want during job search.
+- Identify the required activities and ensure you complete them by the deadline to avoid a block repetition.
+
+Now, read more about [the four core areas in job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching-M7MVP1.md).
 
 **Guiding questions:**
 
@@ -101,7 +103,7 @@ You will be tracking your job searching performance with specific metrics relate
 
 ## Challenge yourself
 
-*Use these questions to check what you learned during this lesson.*
+*Finallly, use these questions to check what you learned during this lesson.*
 
 1. What will your daily schedule look like while you search for a job?
     
