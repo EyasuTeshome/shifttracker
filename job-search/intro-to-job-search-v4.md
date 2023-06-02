@@ -69,7 +69,7 @@ Also, our coaches will host weekly special coaching events to deepen your learni
 Read the following articles for more information:
 
 - [How to communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
-- -[Coaching Events System: How do I sign up for sessions?](https://microverse.zendesk.com/hc/en-us/articles/17125770146963)
+- [New Coaching Events System: How do I sign up for sessions?](https://microverse.zendesk.com/hc/en-us/articles/17125770146963)
 
 
 **Guiding questions:**
