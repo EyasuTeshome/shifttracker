@@ -28,14 +28,15 @@ Finding a job will demand time and sustained effort. Job searching can be diffic
 
 Key takeaways from video:
 
-- A successful job search requires consistency and dedication; working every day in four core areas:
+- A successful job search requires consistency and dedication, working every day in four core areas:
     - Actively applying to jobs and participating in interviews,
     - Preparing for interviews,
     - Strengthening your technical skills, working on side projects, and keeping your GitHub green!
     - Networking.
-- The MV curriculum presents the repetitive and routinary tasks for a successful search. Use them as a guide!
-- Most activities are skippable, and you can skip as many as you want during job search.
-- Identify the required activities and ensure you complete them by the deadline to avoid a block repetition.
+- The MV curriculum recommends the job search tasks you need for a successful search. 
+- The activities are repetitive and routinary to help you develop habits. Use the curriculum as a guide to plan your weekly activities!
+- There will be very few learning activities, but you will learn from the result of job search which job searching skills you need to improve.
+
 
 Now, read more about [the four core areas in job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/what-goes-into-job-searching-M7MVP1.md).
 
@@ -50,6 +51,15 @@ Now, read more about [the four core areas in job searching](https://github.com/m
 While you are job searching you will still attend your full-time Microverse schedule. However there will be more flexibility with the specific activities you do each day so you'll have space to focus on what works best for you.
 
 [![Watch the video](https://img.youtube.com/vi/fQJXWsmnYeQ/0.jpg)](https://www.youtube.com/watch?v=fQJXWsmnYeQ)
+
+
+Key takeaways from video:
+
+- Your days while job searching will be similar to the Core Program, because you will have a whole day schedule that begins with a morning session and ends with a daily standup.
+- You won't have a learning partner.
+- You will have access to a career coach and optional coaching events. 
+- Most activities are skippable, and you can skip as many as you want during job search.
+- You should identify and complete the required activities to avoid a block repetition.
 
 **Guiding questions:**
 
@@ -93,7 +103,7 @@ During the job searching modules you will consider a different set of questions 
 
 ### How will I track my performance while job searching?
 
-You will be tracking your job searching performance with specific metrics related to your job searching activities, called Micropoints, instead of your progress through the curriculum. They will be displayed on your Dashboard home page.
+You will be tracking your job searching performance with specific metrics related to your job searching activities, called Micropoints, instead of your progress through the curriculum. Your Micropoints will be displayed on your Dashboard home page and they will entitle you to special benefits, such as partnerships.
 
 - Read an explanation about [how to track progress while job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-track-progress-while-job-searching.md).
 
