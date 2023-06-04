@@ -74,7 +74,7 @@ Read the following articles for more information:
 
 - [How to communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
 - [New Coaching Events System: How do I sign up for sessions?](https://microverse.zendesk.com/hc/en-us/articles/17125770146963)
-- [Types of coaching events and how to select them](
+- [Types of coaching events and how to select them](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/types-of-coaching-events.md)
 
 
 **Guiding questions:**
