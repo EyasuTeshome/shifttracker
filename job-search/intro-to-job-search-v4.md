@@ -80,7 +80,7 @@ Read the following articles for more information:
 
 - What support will you get as you are job searching?
 - How can you reach out to your career coach?
-- What should you do if you have a job offer but your coaching group meeting is in a few days?
+- What should you do if you receive a job offer?
 
 ### How will I use my weekly retrospectives to guide my job search?
 
