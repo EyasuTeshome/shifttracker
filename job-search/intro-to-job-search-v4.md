@@ -64,7 +64,7 @@ While you are job searching you will still attend your full-time Microverse sche
 
 During your job search, you will be assigned a career coach to get support about particular jobs, job offers, networking opportunities, improving your application materials, or anything else coming up for you. You can communicate with your coach async or meet with them virtually for urgent issues, such as negotiating jof offers.
 
-Also, our coaches will host weekly special coaching events to deepen your learning about different job searching-related topics. Check the “Events Calendar” through your Dashboard and register for the events that meet your interest and specific needs. 
+Also, our coaches will host coaching events about different job searching-related topics. There will be 4 types of events for you to choose from, and  you can select those that best meet your interests and needs considering. You can check the coaching events available each week through your Dashboard. 
 
 👉🏽 **You can contact your coach through Zendesk** and schedule 1:1 meetings whenever necessary.
 
@@ -74,6 +74,7 @@ Read the following articles for more information:
 
 - [How to communicate with your career coach](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
 - [New Coaching Events System: How do I sign up for sessions?](https://microverse.zendesk.com/hc/en-us/articles/17125770146963)
+- [Types of coaching events and how to select them](
 
 
 **Guiding questions:**
