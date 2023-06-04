@@ -12,7 +12,9 @@ Congratulations on finishing the Core Program! You have learned the basic skills
 
 It's time to focus on using these skills and application materials to get a job as a software developer and Microverse is here to ensure you have the tools and structure you need to succeed. 
 
-In this lesson we will go over what you should expect from the next segment of the Microverse program: job searching.
+In this lesson we will go over what you should expect from the next segment of the Microverse program: job searching. 
+
+**Please complete the test-your-knolwedge quiz that appears at the bottom of this lesson to ensure you understand how the job searching modules work.**
 
 ### Why is job searching important?
 
@@ -103,15 +105,8 @@ You will be tracking your job searching performance with specific metrics relate
 
 ## Challenge yourself
 
-*Finallly, use these questions to check what you learned during this lesson.*
+Finally, fill [this quiz](https://forms.gle/9WecX6wJoDLcrkw99) to test your knowledge about what to expect while job searching at Microverse.
 
-1. What will your daily schedule look like while you search for a job?
-    
-2. What should you do if you get a job offer?
-    
-3. What are things you should do every single day while job searching?
-    
-Check your answers [here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/intro-to-job-search-challenge-yourself-answers.md).
 
 ---
 
