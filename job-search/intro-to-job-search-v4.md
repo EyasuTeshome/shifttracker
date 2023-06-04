@@ -8,7 +8,7 @@
 
 ## Description
 
-Congratulations on finishing the Core Program! You have learned the basic skills needed to be a full-stack web developer and a job searcher. Also you prepared application materials that showcase your personal knowledge and skills, and they have been reviewed and approved by career coaches. 
+Congratulations on finishing the Core Program! You have learned the basic skills needed to be a full-stack web developer and a job searcher. Also you have prepared application materials that showcase your personal knowledge and skills, and they have been reviewed and approved by career coaches. 
 
 It's time to focus on using these skills and application materials to get a job as a software developer and Microverse is here to ensure you have the tools and structure you need to succeed. 
 
@@ -16,7 +16,7 @@ In this lesson we will go over what you should expect from the next segment of t
 
 ### Why is job searching important?
 
-There any many factors that impact your success during job searching. Many are out of your control, such as the jobs available in the market at a given moment, the attributes that a company is looking for, or the mood of your interviewers on the day they interview you. But since you cannot control them, instead of worrying about them, you need to concentrate on the things you *can* control: your daily job searching activities.
+There any many factors that impact your success during job searching. Many are out of your control, such as the jobs available in the market at a given moment, the attributes that a company is looking for, or the mood of your interviewers on the day they interview you. But since you cannot control them, instead of worrying about them, you need to concentrate on the things you *can* control: your daily job searching activities. Your strategic and consistent commitment is essential to get you a job!
 
 ### What makes a successful job search?
 
