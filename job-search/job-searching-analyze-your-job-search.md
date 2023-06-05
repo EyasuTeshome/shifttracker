@@ -18,15 +18,20 @@ Review the steps to take to analyze your job search by reading through the lesso
 
 - [How do I analyze how my job search is going?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-do-i-analyze-how-my-job-search-is-going.md)
 
-     **************************************************************************************************************
-     **                                                                                                          **
-     **      Remember that you can get support from your assigned coach and attend coaching events whenever      **
-     **      necessary. Contact your coach through Zendesk and check the calendar of coaching events through     **
-     **      your Dashboard.                                                                                     **
-     **                                                                                                          **
-     **************************************************************************************************************
+
+
 
 
 ## Submit your exercise
 
 Now go to your Student Dashboard and submit your exercise.
+
+**************************************************************************************************************
+                                                                                                               
+👉🏽 Remember that you can get support from your assigned coach and attend coaching events whenever necessary. Contact your coach through Zendesk and check the calendar of coaching events through your Dashboard.                                                                                    
+                                                                                                       
+
+
+---
+
+*If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md).*
