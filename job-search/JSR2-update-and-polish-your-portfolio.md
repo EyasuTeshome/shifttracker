@@ -46,7 +46,6 @@ Rewatch the video [What makes a good portfolio](https://www.youtube.com/watch?v=
 A great way to learn what to aim for is by looking at **good examples**. Here are some portfolio websites from other Microverse students we found effective:
 
 - [https://abdulali3468.github.io/MY_PORTFOLIO](https://abdulali3468.github.io/MY_PORTFOLIO/)
-- [https://artbsc1992.github.io/My-Portfolio](https://artbsc1992.github.io/My-Portfolio/)
 - [https://elsonotake.github.io/Portfolio/](https://elsonotake.github.io/Portfolio/)
 
 There are also many other projects found on the internet that you can take inspiration from:
