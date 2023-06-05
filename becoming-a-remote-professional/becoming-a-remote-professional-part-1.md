@@ -26,7 +26,7 @@ Committing to professionalism will help employers understand your ability to be 
 
 By considering working styles across different cultures, you're able to discuss punctuality in the context of culture.
 
-To learn more about the concept of punctuality across the world, follow this interactive and study this as a group: [Punctuality Around The World.](https://www.mrgamez.com/punctuality/)
+To learn more about the concept of punctuality across the world, study the following aticle as a group: [Punctuality Around The World.](https://www.boredpanda.com/punctuality-differences-world-different-coutries-mrgamez/)
 
 ## Exercise
 
