@@ -30,6 +30,16 @@ In the lesson *["How to analyze your performance in a mock interview"](https://g
 
 - [Template for gathering feedback after a mock interview](https://docs.google.com/document/d/1Sn8qSJxr1RHhsyCQo33XfpLeXOt_HTKbHo57mBCFs3k/edit#heading=h.jhld1jrenkcg)
 
+     **************************************************************************************************************
+     **                                                                                                          **
+     **      Remember that you can get support from your assigned coach and attend coaching events whenever      **
+     **      necessary. Contact your coach through Zendesk and check the calendar of coaching events through     **
+     **      your Dashboard.                                                                                     **
+     **                                                                                                          **
+     **************************************************************************************************************
+
+
+
 ## Exercise
 
 ### Instructions
