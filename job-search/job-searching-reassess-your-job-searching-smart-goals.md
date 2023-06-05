@@ -20,6 +20,16 @@ Refresh your memory on how to create SMART goals for the job search process.
 
 - [Job search SMART goals](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-the-smart-method-to-create-your-job-search-plan.md)
 
+     **************************************************************************************************************
+     **                                                                                                          **
+     **      Remember that you can get support from your assigned coach and attend coaching events whenever      **
+     **      necessary. Contact your coach through Zendesk and check the calendar of coaching events through     **
+     **      your Dashboard.                                                                                     **
+     **                                                                                                          **
+     **************************************************************************************************************
+
+
+
 ## Exercise
 
 ### Instructions
