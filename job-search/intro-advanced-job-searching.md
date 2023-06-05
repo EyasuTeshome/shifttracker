@@ -24,7 +24,7 @@ This module supports you by:
 
 The daily schedule includes critical tasks for job searching. Although the activities are repetitive, we present them on your View Progress Page as a road map to help you ensure you omplete them consistently. To give you flexibility, most of the activities are skippable, and you can skip an unlimited number in each block.
 
-As in other modules, you will have a space to meet with peers. In morning sessions, you can practice technical and behavioral interview skills with other job searchers. Each week you will have a learning partner who shares your job searching experience and can help with specific challenges. Notice there are no daily standups.
+In this module, you will only have a space to meet with peers in morning sessions. You can use  them topractice technical and behavioral interview skills with other job searchers.  Notice there are no daily standups nor learning partners.
 
 
 ### How will career coaches support you?
