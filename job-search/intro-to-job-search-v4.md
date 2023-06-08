@@ -103,15 +103,16 @@ During the job searching modules you will consider a different set of questions 
 
 ### How will I track my performance while job searching?
 
-You will be tracking your job searching performance with specific metrics related to your job searching activities, called Micropoints, instead of your progress through the curriculum. Your Micropoints will be displayed on your Dashboard home page and they will entitle you to special benefits, such as partnerships.
+You will be track your job searching performance with specific metrics related to your job searching activities, called Micropoints, instead of your progress through the curriculum. Your Micropoints will be displayed on your Dashboard home page and they will entitle you to special benefits, such as partnerships.
 
-- Read an explanation about [how to track progress while job searching](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-to-track-progress-while-job-searching.md).
+- Read the [FAQs about Micropoints for students in job search](https://microverse.zendesk.com/hc/en-us/articles/13290148229267--FAQ-Micropoints-for-students-in-job-searching) to learn more.
 
 **Guiding questions:**
 
 *Think about these questions as you learn about what you'll be doing while you're job searching.*
 
-- What are the core things you should track while job searching?
+- What are the core tasks that will get you Micropoints?
+- Why is it important to earn Micropoints?
 
 
 ## Challenge yourself
