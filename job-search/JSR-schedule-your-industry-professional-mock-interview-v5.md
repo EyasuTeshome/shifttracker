@@ -41,11 +41,13 @@ Your industry professional mock interview is an opportunity to have an interview
     - Choose the time.
     - Fill in your name and email address. Note: you must use the same email address you use for the Microverse Student Dashboard. 
     
-      **Calendly will send you a confirmation with the the interviewer's name, the date and time, and the link for the interview.** 
+      **Calendly will send you a confirmation with the the interviewer's name, the date and time, and the link for the interview. Please take a screenshot and submit it in this activity** 
 
       **NOTE** - If you are unable to complete any of the steps above, or you cannot find availability within the required timeframe, please reach out to Student Success right away, so we can help you figure this out and ensure you attend your industry professional mock interview.
 
-3. **Inform us about the date of your meeting.** In the following activity, please register the date and time of your meeting, and your interviewer's name.
+3. **Inform us about the date of your meeting.** 
+    - Submit a screenshot of the confirmation email you receive in this ativity. 
+    - In the following activity, please register the date and time of your meeting, and your interviewer's name.
 
 ### Rescheduling and cancellation policy
 
@@ -57,7 +59,17 @@ To reschedule or cancel, click the corresponding link that appears in the confir
 
 ### Instructions
 
-1. You don't need to submit any document in this activity; simply mark it as complete once you have scheduled your interview.
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
+
+1. Schedule your interview following the instructions above.
+2. Open your email, find the confirmation sent by Calendly and take a screenshot or save it as pdf.
+3. Upload your screenshot to your GDrive and copy the link.
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
+
+1. Submit a link to the screenshot of the confirmation email you receive.
  
 **We will ask you to share with us the date and time for your interview in the next activity.**
 
