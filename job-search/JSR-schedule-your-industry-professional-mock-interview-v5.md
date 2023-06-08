@@ -14,6 +14,13 @@ In this exercise, you will schedule a mock interview with a industry professiona
 
 The industry professional mock interviewer will assess and rate your performance using a scale of 1 to 4, where 1 means you need to improve substantially to be prepared for job interviews and 4, that you are very well prepared. To successfully complete the interview, you will need a score of 3 or 4. If you get a score of 1 or 2, you will repeat the block so that you can hone your interview skills and schedule another interview. 
 
+     ***********************************************************************************************************************
+     *                                                                                                                     *
+     * If you have passed the interview successfully, you don't need to schedule another one: just complete this activity. *
+     *                                                                                                                     *
+     ***********************************************************************************************************************
+
+
 ### Why is scheduling your industry professional mock interview important?
 
 In this module, you have self-assessed your potential challenges during interviews, learned how to prepare for the interview, refreshed your knowledge about answering technical and behavioral interview questions, and practiced intensively both type of questions with your peers. It's time to assess the mastery of the interview process you have achieved!
