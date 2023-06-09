@@ -92,6 +92,13 @@ The thought of working in a large group can be daunting. It can feel like you ne
 - [Video to watch: tips to working successfully in groups](https://www.youtube.com/watch?v=CIp_kFR5_jc)
 - [Secrets of successful teamwork: Insights from Google](https://www.youtube.com/watch?v=hHIikHJV9fI)
 
+
+### What if conflict or collaboration problems arise?
+
+First of all, communicate with your partners to find a solution together. 
+
+Yet, if one of your team members becomes unresponsive or you are unable to solve collaboration problems among yourselves, contact Student Success as soon as possible so our advocates can help you address the situation and complete the module requirements on time. Don't wait until the  final week or, even worse, the day of your final presentation!
+
 ## Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
