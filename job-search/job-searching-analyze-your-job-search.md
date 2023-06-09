@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Today you will take time to analyze your job search. You may submit it to your career coach for review, but it's optional.
+Today you will take time to analyze your job search. 
 
-Please try to submit the assignment before Wednesday, so your coach is able to provide feedback in a timely fashion. 
+**You must submit the assignment before Wednesday, so your coach is able to review it before the end of the week to avoid a block repetition.** 
 
 ### Why is analyzing your job search important?
 
@@ -17,9 +17,6 @@ By analyzing your job search you'll be able to identify what you're doing right 
 Review the steps to take to analyze your job search by reading through the lesson below:
 
 - [How do I analyze how my job search is going?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-do-i-analyze-how-my-job-search-is-going.md)
-
-
-
 
 
 ## Submit your exercise
