@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Today you will take time to analyze your job search. 
+Today you will take time to analyze your job search. You may submit it to your career coach for review, but it's optional.
 
-**Note: You need to submit this project in time for your coach to review it this week.** That means working to submit it before Wednesday, so your coach is able to provide feedback in a timely fashion. 
+Please try to submit the assignment before Wednesday, so your coach is able to provide feedback in a timely fashion. 
 
 ### Why is analyzing your job search important?
 
