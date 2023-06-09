@@ -14,11 +14,14 @@ Please contact your coach if you need them to review one of your documents.
 
 Because feedback is a gift! Sharing your application material with your career coach is a great way to get some constructive feedback on the work you've done. This will allow you to make sure your material is compelling to recruiters and hiring managers and to amend accordingly if necessary.
 
-### **Refresh your memory on job search material best practice:**
+### Refreshers on how to update your application materials
 
-- [Make sure that your resume meets every requirement of the resume rubric.](https://docs.google.com/document/d/1lxBFRdvPW_cLQpX8n_gj8O8t1XPcXjGTDOCI813Uga0/edit)
-- [Make sure that your LinkedIn profile meets every requirement of the LinkedIn rubric.](https://docs.google.com/document/d/1MHmt3Vx4SRHa7z8PuoUiYg9eLakpi1qGPT6868bacGc/edit)
+- [Update and polish your LinkedIn profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-polish-your-LindekIn-page.md)
+- [Update and refine your portfolio](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-polish-your-portfolio.md)
+- [Strengthen and update your resume](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR-strenghten-and-revamp-your-resume.md)
+- [Update and refine your GitHub profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-update-and-refine-your-GitHub-profile.md)
 - [Creating your Wellfound profile](https://github.com/microverseinc/curriculum-professional-skills/blob/main/interview-prep/create-the-first-draft-of-your-angellist-profile.md)
+- [Create a cover letter for your job application](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/JSR2-step-3-create-a-cover-letter.md)
 
 
 ## Exercise
