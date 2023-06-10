@@ -14,7 +14,7 @@ The purpose of this lesson is to guide you through what to do when you get a job
 
 Job offer negotiations are discussions between yourself and a representative of your current or prospective company that aim to help you secure a higher salary.
 
-It doesn’t matter if you have years of experience or you're just starting out your web development journey: if you feel that your prospective salary isn’t enough, you should feel empowered to negotiate in order to get what you deserve. Negotiating a job offer is a skill that everyone can be benefit from.
+It doesn’t matter if you have years of experience or you're just starting out your web development journey: if you feel that your prospective salary isn’t enough, you should feel empowered to negotiate in order to get what you deserve. Negotiating a job offer is a skill that everyone can benefit from.
 
 It is important to approach job offer negotiations objectively, build an evidence-based case for your desired salary, and then negotiate for this salary.
 
