@@ -85,7 +85,7 @@ You may add other links as well (for example links to your Medium, professional 
 
 ### **Let recruiters know that you're open to work**
 
-The last step to creating your Intro block is to let recruiters know that you're looking for a job. There are to ways to communicate you are open to potential outreach in your LinkedIn profile:
+The last step to creating your Intro block is to let recruiters know that you're looking for a job. There are **2 ways** to communicate you are open to potential outreach in your LinkedIn profile:
 
 1. Click the **Open to** button beneath your profile photo and select **Finding a new job**. Once you click those buttons, a pop up will appear containing the job titles you're open to.
 - Add **five related job titles** (see the photo below for examples).
