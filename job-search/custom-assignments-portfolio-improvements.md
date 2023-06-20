@@ -11,7 +11,7 @@
 
 This personalized plan will guide you through the tasks you can work on this month to strengthen your portfolio. It is the specific job searching area your career coach recommends you to focus on considering your personal needs and achievements.
 
-### Why is networking important?
+### Why is a portfolio important?
 
 Your portfolio is a single website that can showcase your completed projects. Your Microverse projects should be highlighted in a gallery style view, with links out to working demos and each projects documentation. You can also add links your social media, resume, and any certifications you may have, including the badges you received from Accredible.
 
