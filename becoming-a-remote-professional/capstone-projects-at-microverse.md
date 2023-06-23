@@ -12,7 +12,7 @@ You'll likely feel time pressure in capstones. We enforce deadlines in capstones
 
 After some capstones, we will ask you to prepare an oral presentation of your project, either recorded or life, so that we also assess your ability to communicate your thought processs of your own coding. This is also an essential skills for software developers.
 
-Once you achieve mastery --and this means that your code is approved and you've successfully passed any oral presentation of your code that werequired--, you will be able to move forward to the next module. Not only will you have achieved the technical skills from the module but also soft skills such as project planning, time management, communicating, and working under pressure. 
+Once you achieve mastery --and this means that your code is approved and you've successfully passed any oral presentation of your code that we required--, you will be able to move forward to the next module. Not only will you have achieved the technical skills from the module but also soft skills such as project planning, time management, communicating, and working under pressure. 
 
 ### How can I utilize the capstone projects after the Microverse curriculum?
 
