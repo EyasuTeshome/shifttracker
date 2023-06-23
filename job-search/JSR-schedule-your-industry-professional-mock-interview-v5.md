@@ -59,17 +59,9 @@ To reschedule or cancel, click the corresponding link that appears in the confir
 
 ### Instructions
 
-*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813).*
-
 1. Schedule your interview following the instructions above.
 2. Open your email, find the confirmation sent by Calendly and take a screenshot or save it as pdf.
-3. Upload your screenshot to your GDrive and copy the link.
-
-### Submit your exercise
-
-*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.* 
-
-1. Submit a link to the screenshot of the confirmation email you receive.
+3. Mark this activity as complete. You don't need to submit anything for this activity.
  
 **We will ask you to share with us the date and time for your interview in the next activity.**
 
