@@ -59,4 +59,4 @@ Now go to your Student Dashboard and submit your exercise.
 
 - [Flipping Failure | Utilizing Strategies](https://flippingfailure.mit.edu/strategies/)
 - [How to build growth mindset on teams](https://galenemanuele.com/blog/growth-mindset-vs-fixed-mindset)
-- [3 steps to build a culture of vulnerability on your team](https://www.advisory.com/en/daily-briefing/2020/07/14/vulnerability)
+- [3 steps to build a culture of vulnerability on your team](https://www.advisory.com/daily-briefing/2020/07/14/vulnerability)
