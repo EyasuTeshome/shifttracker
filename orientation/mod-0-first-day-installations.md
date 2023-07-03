@@ -16,7 +16,7 @@ Very soon you will start coding your first projects. Having all of the tools set
 ### First day installation list
 
 From day one at Microverse, you need to make sure that you have installed:
-- A text editor. We recommend the [Visual Studio Code](https://code.visualstudio.com/), but it can be Atom, Sublime, or any text editor of your preference.
+- A text editor. We recommend the [Visual Studio Code](https://code.visualstudio.com/), but it can be [Pulsar](https://pulsar-edit.dev/), [Brackets](https://brackets.io/), Sublime, or any text editor of your preference.
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - [Configure your GitHub account to use your SSH key](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) so that you can push your code to GitHub quickly.
 
