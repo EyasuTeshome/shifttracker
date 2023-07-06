@@ -49,7 +49,7 @@ If someone is not motivated to do the standup and suggests doing something diffe
 
 "*Actually, I've been pretty blocked with something so I've been looking forward to this standup. I'd rather not go another day going crazy looking at my code*" or *"Ah, I understand; sometimes I'm also not in the mood for these standups, but hearing what everyone has been working on always gives me a motivation boost. It's like my remote version of sharing a coffee with the team."*
 
-If people are talking about blockers in the standup meeting that aren't being solved after the meeting, make sure to appoint a person who is responsible for helping to increase the chance of that person being unblocked. If too many members feel responsible, people tend to assume that someone else will take care of it and therefore do not take a:
+If people are talking about blockers in the standup meeting that aren't being solved after the meeting, make sure to appoint a person who is responsible for helping to increase the chance of that person being unblocked. If too many members feel responsible, people tend to assume that someone else will take care of it and therefore do not take action:
 
 *"Who volunteers to help Fatima? Ok, if no one volunteers I will randomly select someone. Juan, can you see if you can help unblock Fatima after this call? If you aren't able to solve it, please reach out to the group and I'll appoint another team member who can help you".*
 
