@@ -8,7 +8,7 @@ Here are a few examples to illustrate what we mean:
 
 **AVERAGE:** "I was a social worker for ten years, where I spent every day working with a diverse population of people." **WHY IT'S AVERAGE:** This sentence **implies** that the speaker might be good with cross-cultural communication, but **it doesn't actually say it**.
 
-**GREAT:** "I was a social worker for ten years. I spent every day working with a diverse population of people in a stressful, fast-paced environment, so even before I started working as a developer, I was already a pro at juggling the empathy, communication, and work ethic needed to succeed in the dev world. **WHY IT'S GREAT:** This sentence **explains exactly why** the speaker's experience as a social worker makes them singularly **able to thrive** in software development.
+**GREAT:** "I was a social worker for ten years. I spent every day working with a diverse population of people in a stressful, fast-paced environment, so even before I started working as a developer, I was already a pro at juggling the empathy, communication, and work ethic needed to succeed in the dev world." **WHY IT'S GREAT:** This sentence **explains exactly why** the speaker's experience as a social worker makes them singularly **able to thrive** in software development.
 
 Keep these examples in mind throughout this whole exercise.
 
