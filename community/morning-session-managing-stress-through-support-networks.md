@@ -69,7 +69,7 @@ Below is a tool where you can find online events or events in your area. You can
 
 Here are more resources on managing stress through social support:
 
-- [Stress management: social support](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/social-support/art-20044445)
+- [Stress management: social support](https://web.archive.org/web/20220730103228/https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/social-support/art-20044445)
 - [5 tips to turn your online connections Into meaningful relationships](https://www.forbes.com/sites/shelcyvjoseph/2018/11/12/5-tips-to-turn-your-online-connections-into-meaningful-relationships/?sh=53fc3cc86442)
 - [Sansum Clinic | Stress Management Series | Episode # 9 Compassion and Purpose](https://www.youtube.com/watch?v=Hn-dl7iMQ8c)
 - [Stress and Your Health | Part 3: Coping with Stress | AXA Research Fund](https://www.youtube.com/watch?v=rWzDq2318g8)
