@@ -8,7 +8,7 @@
 
 ## Description
 
-In this exercise, you a will share the behavioral grid you prepared previously with a peer, and receive and provide feedback.  
+In this exercise, you will share the behavioral grid you prepared previously with a peer, and receive and provide feedback.  
 
 **Spend 15 minutes maximum on this section of the exercise.**
 
