@@ -35,7 +35,7 @@ Learn more about drafting your dream company wishlist, and tips on how to get hi
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-From your current knowledge of drafting dream companies to work for, use this activity to list create your dream companies' wishlist. 
+From your current knowledge of drafting dream companies to work for, use this activity to create your dream companies' wishlist. 
 
 **Exercise template to copy:** [Dream companies' wishlist assessment](https://docs.google.com/document/d/1KoFRY0OnmYQUP3QewaUn7oU-vpf_Xj4ed-ka_5NPN4E/edit?usp=sharing)
 
