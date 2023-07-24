@@ -30,7 +30,7 @@ The first part of this lesson focuses on finding tech events to attend and the b
 
 - [TechMeetups.com](https://techmeetups.com/): This is the largest meetup and events site online that offers a wide range of tech events, many of which are free.
 - [Eventbrite](https://www.eventbrite.com/d/online/free--events/tech/?page=1): Eventbrite is a great place for finding tech events as well (and many of them are free).
-- [Confs.tech](https://confs.tech/): This a crowd-sourced site that lists upcoming tech conferences. You can sort by language and location to find any that might be a good fit for you.
+- [Confs.tech](https://confs.tech/): This is a crowd-sourced site that lists upcoming tech conferences. You can sort by language and location to find any that might be a good fit for you.
 - Your [Microverse Events calendar](https://airtable.com/shrAR9LEzMrF5z0CX/tblUpfLCb0CUHXqqT): This showcases various events such as alumni panels, interviews, and virtual tech events. You can also find the calendar on the left column of your Student Dashboard.
 
 ### Preparation before attending an event
