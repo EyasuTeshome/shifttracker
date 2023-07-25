@@ -25,7 +25,7 @@ For an example that follows this formula, look below:
 
 ![images/LI3.png](images/LI3.png)
 
-And for more inspiration, check this [great example from a Micronaut](https://www.linkedin.com/in/kshivamdev/).
+And for more inspiration, check this [great example from a Micronaut](https://www.linkedin.com/in/acushlakoncept/).
 
 Reaady? Now take 10 minutes to update your **elevator pitch** and add any information that is missing, list out your **tech stack** and write a 1 sentence **general call to action**. Then add your text that to the "About section" following these instructions:
 
