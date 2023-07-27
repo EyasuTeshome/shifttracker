@@ -21,9 +21,6 @@ In the link below, we'll discuss a few helpful tips to ensure that you gain the 
 
 ### Instructions 
 
-We give you flexibility in that matter, so use the time as it best fits your schedule. We recommend:
-
-
 The peer review process follows the following steps:
 - Meet with your learning partner in the Zoom meeting.
 - Exchange your elevator pitches.
