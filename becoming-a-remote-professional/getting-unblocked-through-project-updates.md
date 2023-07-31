@@ -15,7 +15,7 @@ In a remote environment, you should always give as much detailed context as poss
 
 **Who to ask for help?**
 
-Make agreements with your team on who will help unblock when another team member is stuck. Will it be the first person who sees it? Will you assign a person per day who will help with unblocking? Will you let whoever is most expert in a topic answer? Choose a strategy and assess what is working. Make sure your team's blockers are unsolved and it's not always the same person who is helping others.
+Make agreements with your team on who will help unblock when another team member is stuck. Will it be the first person who sees it? Will you assign a person per day who will help with unblocking? Will you let whoever is most expert in a topic answer? Choose a strategy and assess what is working. Make sure your team's blockers are solved and it's not always the same person who is helping others.
 
 **How to problem-solve?**
 
