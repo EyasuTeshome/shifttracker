@@ -1,4 +1,4 @@
-#  **Peer review: Create a professional-looking GitHub profile**
+#  **Peer review: Create a professional-looking LinkedIn profile**
 
 ## Learning objectives
 
