@@ -17,6 +17,8 @@ Repeated interview practice can boost your confidence and reduce impostor syndro
 
 When scheduling the interviews, please consider that you will need to attend one interview and submit the feedback in week 3 of this module, and the other in week 4.
 
+** Also remember that apart from getting an interview you are supposed to play the role of an interviewer. Do your best in this role as well. It is important to give back to the community :) **
+
 ### Scheduling reminder
 
 - Green flags indicate a very strong match: someone who matches well with your background and skill set and will likely give you a great interview experience.
