@@ -13,7 +13,7 @@ In this exercise, you will create two new stories for your behavioral grid using
 Your behavioral grid **must be approved** to complete the block successfully:
 
 - This is a carry-over activity so you will have **two weeks to complete it**. 
-- You have a maximum of **two rounds of reviews**, so study the coach’s comments carefully and integrate any changes required. You may use an extra review if necessary.
+- You have a maximum of **one round of reviews**. Study the coach’s comments carefully and integrate any changes required - it is your responsibility to implement the feedback - we won't be double-checking it. 
 
 ❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision. 
 
