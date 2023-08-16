@@ -8,7 +8,7 @@ Today you will take time to analyze your job search.
 
 ### Why is analyzing your job search important?
 
-By analyzing your job search you'll be able to identify what you're doing right and what could be improved. This is how you'll be able to optimize your search and maximizing your chance of landing your dream job. 
+By analyzing your job search you'll be able to identify what you're doing right and what could be improved. This is how you'll be able to optimize your search and maximize your chance of landing your dream job. 
 
 ### Refresh your memory on how to analyze your job search
 
@@ -17,10 +17,9 @@ Review the steps to take to analyze your job search by reading through the lesso
 - [How do I analyze how my job search is going?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-do-i-analyze-how-my-job-search-is-going.md)
 
 
-## Submit your exercise
+## Self assessment
 
-Now go to your Student Dashboard and submit your exercise.
-
+Use this [Google form](https://forms.gle/YNtC5m9PUmQpYSxP8) to make a self-assessment of your job search analysis.
 **************************************************************************************************************
                                                                                                                
 👉🏽 Remember that you can get support from your assigned coach and attend coaching events whenever necessary. Contact your coach through Zendesk and check the calendar of coaching events through your Dashboard.                                                                                    
