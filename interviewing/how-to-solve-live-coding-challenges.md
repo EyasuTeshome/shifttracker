@@ -32,7 +32,7 @@ So how do we better approach a live coding challenge? We recommend the following
 
 1. 💡 Understand - Make sure that you understand what the inputs and outputs should be
    - (optionally) Ask if you should take into account certain edge cases
-2. 🗺 Plan - Create a plan of action (in pseudocode)
+2. 🗺 Plan - Create a plan of action ([in pseudocode](https://www.youtube.com/watch?v=qfckDdsEIq8))
 3. 💬 Report - Communicate what you are doing while you're solving the problem
 4. 🤔 Reflect - Analyze the algorithm and (1) share its efficiency using Big O and/or (2) propose how you could've solved it differently
 
