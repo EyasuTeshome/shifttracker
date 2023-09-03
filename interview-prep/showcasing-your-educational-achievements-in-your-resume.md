@@ -4,7 +4,7 @@
 
 Deciding what to include in the Education section isn't always straightforward, and will depend on what types (if any) of education you've had. We'll discuss three common student scenarios below.
 
-**An important note:** do **not** include high school/secondary school education in this section. The Education section is only for college/university/grad school or ****for long-term software development programs like Microverse.
+**An important note:** do **not** include high school/secondary school education in this section. The Education section is only for college/university/grad school or for long-term software development programs like Microverse.
 
 **If you don't have college/university experience:**
 
