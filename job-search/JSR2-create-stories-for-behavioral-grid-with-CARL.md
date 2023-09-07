@@ -10,9 +10,8 @@
 
 In this exercise, you will create two new stories for your behavioral grid using the CARL format to ensure you describe the lessons learned in each experience. You will submit them to career coaches for review and approval. Your coach will send you feedback and request changes if necessary.
 
-Your behavioral grid **must be approved** to complete the block successfully:
+Your behavioral grid can be skipped (if you did not exceed the limit of skippable activities), so remember that:
 
-- This is a carry-over activity so you will have **two weeks to complete it**. 
 - You have a maximum of **one round of reviews**. Study the coach’s comments carefully and integrate any changes required - it is your responsibility to implement the feedback - we won't be double-checking it. 
 
 ❗️ Submit your first version **no later than Wednesday of the week it's due** to have time to go through the necessary rounds of revision. 
