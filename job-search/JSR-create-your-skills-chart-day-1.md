@@ -46,7 +46,7 @@ The story can be very simple. Look at this example:
 
 *The result was a complete homemade camper which I put together when we were about to start our trip and then disassembled after we got back home. When we went on our summer trip we were able to be on the road for four weeks yet stayed within our budget since we didn’t have to stay at motels. I estimate I saved $1,900 on motel bills during that summer’s vacation.*
 
-This story, as any other, includes include five elements:
+This story, as any other, includes five elements:
 
 1. **Your goal - what you wanted to accomplish:** “I wanted to be able to take a summer trip with my wife and four children.”
 2. **The hurdle, obstacle, or constraint** you faced (self-imposed or otherwise): “I had a very limited budget and could not afford to put my family up in motels.”
