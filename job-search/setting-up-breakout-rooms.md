@@ -8,6 +8,12 @@
 
 ![https://lh6.googleusercontent.com/F1YQQREG1ms5pgCeAxoFhah5o2rpkE6SZIN_pn2okHDxzgWeAWq-9cGYzM-B6DJZ6nehlHJZs7gFMVXCVlZeIcZw2QxWrSbiHg_qAFjj4Iy0cxZS3HPP7MJhBrSTqYbC6fN8HBOy](https://lh6.googleusercontent.com/F1YQQREG1ms5pgCeAxoFhah5o2rpkE6SZIN_pn2okHDxzgWeAWq-9cGYzM-B6DJZ6nehlHJZs7gFMVXCVlZeIcZw2QxWrSbiHg_qAFjj4Iy0cxZS3HPP7MJhBrSTqYbC6fN8HBOy)
 
+  - *If nobody is the host or co-host, one of you can claim it by taking the following steps:*
+    - *Copy the key from your dashboard*
+    - ![Copy key](./copy_key.png)
+    - *Click the "Claim host" button below the participants list and paste the key copied from your dashboard*
+    - ![Claim host](claim_host.png)
+
 **Step 3**: A Breakout Rooms window will appear. Choose how many rooms you want to create. As you change the number of rooms, Zoom will tell you approximately how many participants would go in each room if participants were split up evenly.
 
 ![https://lh5.googleusercontent.com/vRfJOFOuHNN2rcBwkbjZDDQxZn1qx26S77F-YAONlEEkBUlXF-HXwRMgKB2wmaum51sn3uZ95jO9l_0B33GGYo7XmnYZOByM2xCWBWLewF9b7m5xSE0ptCD6DayvDS2OUr2s7LcH](https://lh5.googleusercontent.com/vRfJOFOuHNN2rcBwkbjZDDQxZn1qx26S77F-YAONlEEkBUlXF-HXwRMgKB2wmaum51sn3uZ95jO9l_0B33GGYo7XmnYZOByM2xCWBWLewF9b7m5xSE0ptCD6DayvDS2OUr2s7LcH)
