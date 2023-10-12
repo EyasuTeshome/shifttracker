@@ -8,6 +8,14 @@
 
 ## Description
 
+```
+❗️❗️❗️IMPORTANT NOTE:
+In order to make the most out of this exercise you need to find a partner
+who will play the role of your interviewer (in exchange you will do the same for them).
+We recommend looking for a partner in your Morning session group
+but you can contact anybody else from your cohort.
+```
+
 In today’s practice session you will refresh your knowledge about phone screens — also called recruiters’ interviews — and participate in another mock phone screen with your partner to prepare yourself for this kind of interview. 
 
 ### Why is it important to practice phone screens?
