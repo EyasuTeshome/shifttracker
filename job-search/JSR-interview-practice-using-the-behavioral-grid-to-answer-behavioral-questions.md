@@ -10,6 +10,14 @@
 
 ### Instructions
 
+```
+❗️❗️❗️IMPORTANT NOTE:
+In order to make the most out of this exercise you need to find a partner
+who will play the role of your interviewer (in exchange you will do the same for them).
+We recommend looking for a partner in your Morning session group
+but you can contact anybody else from your cohort.
+```
+
 💡 **Remember that this meeting should take 1 hour, not 30 minutes.**
 
 - Join the Zoom call with your team - remember to always be on time to respect your teammates’ time and practice respecting your interviewers’ time.
