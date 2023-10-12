@@ -10,6 +10,14 @@
 
 ## Description
 
+```
+❗️❗️❗️IMPORTANT NOTE:
+In order to make the most out of this exercise you need to find a partner
+who will play the role of your interviewer (in exchange you will do the same for them).
+We recommend looking for a partner in your Morning session group
+but you can contact anybody else from your cohort.
+```
+
 When asked to solve a coding challenge, do you jump right into coding? If so, you've been approaching coding challenges the wrong way!
 
 In this lesson, you will practice your **live coding skills**. 
