@@ -10,6 +10,14 @@
 
 ## Description
 
+```
+❗️❗️❗️IMPORTANT NOTE:
+In order to make the most out of this exercise you need to find a partner
+who will play the role of your interviewer (in exchange you will do the same for them).
+We recommend looking for a partner in your Morning session group
+but you can contact anybody else from your cohort.
+```
+
 As a professional developer you'll have to present your work often: to fellow engineers, but also other professionals such as designers or project managers.
 
 In this exercise you'll practice **presenting your projects** in the right way and adapt according to the audience you have in front of you.
