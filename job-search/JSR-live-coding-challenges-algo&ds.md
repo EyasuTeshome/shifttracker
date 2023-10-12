@@ -10,6 +10,14 @@
 
 ## Description
 
+```
+❗️❗️❗️IMPORTANT NOTE:
+In order to make the most out of this exercise you need to find a partner
+who will play the role of your interviewer (in exchange you will do the same for them).
+We recommend looking for a partner in your Morning session group
+but you can contact anybody else from your cohort.
+```
+
 In this lesson, you will practice your **live coding skills** focusing on one out of the following list of data structures and algorithms per round:
 
 - Data structure: Array
