@@ -10,6 +10,14 @@
 
 ## Description
 
+```
+❗️❗️❗️IMPORTANT NOTE:
+In order to make the most out of this exercise you need to find a partner
+who will play the role of your interviewer (in exchange you will do the same for them).
+We recommend looking for a partner in your Morning session group
+but you can contact anybody else from your cohort.
+```
+
 When asked a technical question, are you able to communicate your understanding with ease? If the answer is no, this lesson is for you!
 
 In this lesson, you will practice your **technical articulation skills**. You will do so by practicing with a peer in a "mock interview"-type setting.
