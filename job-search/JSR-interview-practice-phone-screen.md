@@ -12,7 +12,9 @@
 ❗️❗️❗️IMPORTANT NOTE:
 In order to make the most out of this exercise you need to find a partner
 who will play the role of your interviewer (in exchange you will do the same for them).
-We recommend looking for a partner in your Morning session group
+If you have a learning partner(s) assigned this is the way to go!
+
+Otherwise, we recommend looking for a partner in your Morning session group
 but you can contact anybody else from your cohort.
 ```
 
