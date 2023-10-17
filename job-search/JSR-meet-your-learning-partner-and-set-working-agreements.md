@@ -11,7 +11,8 @@
 
 In this activity, you will meet with your partner to connect with each other and establish working agreements for interview practice during the week. 
 
-*We recommend looking for a partner in your Morning session group but you can contact anybody else from your cohort.*
+*If you have a learning partner(s) assigned this is the way to go! Othwerwise, we recommend looking for a partner in your Morning session group but you can contact anybody else from your cohort.*
+
 
 The interview practice in this module consists of 2 hours sesions in which you will complete structured exercises that target different kind of interviews, and you will give each other feedback on your performance using a checklist. 
 
