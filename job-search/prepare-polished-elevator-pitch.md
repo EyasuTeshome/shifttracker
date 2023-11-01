@@ -37,6 +37,7 @@ In this exercise, you will refine your written elevator pitch using the [Assess 
 - Read it out loud and register how many seconds it takes.
 - Select the score that best applies and analyze whether or not you need to shorten or lengthen your elevator pitch.
 - Make any necessary edits.
+- Remember, an elevator pitch should be short! On paper, only a few sentences. Only 40-60 questions spoken. 
 
 2. Continue by looking at the **content** of your elevator pitch.
 - Familiarize yourself with the first requirement in section 1 of the worksheet.
