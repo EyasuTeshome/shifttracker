@@ -51,9 +51,6 @@ We will use Micropoints to track your progress while job searching. Read the fol
 
 - [FAQs about Micropoints for students in job search](https://microverse.zendesk.com/hc/en-us/articles/13290148229267--FAQ-Micropoints-for-students-in-job-searching).
 
- **Refer to this article for a refresher on how to use Huntr:**
-
-- [Using Huntr to track your job search](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-huntr-to-track-your-job-search.md).
 
 
 
