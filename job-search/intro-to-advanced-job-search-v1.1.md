@@ -45,11 +45,6 @@ Also, you can reach out to your career coach through Zendesk for specific questi
 
 - [How will you communicate with your career coach?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
 
-### How will you track your progress while job searching?
-
-We will use Micropoints to track your progress while job searching. Read the following article if you need to refresh your memory about the metrics used:
-
-- [FAQs about Micropoints for students in job search](https://microverse.zendesk.com/hc/en-us/articles/13290148229267--FAQ-Micropoints-for-students-in-job-searching).
 
  **Refer to this article for a refresher on how to use Huntr:**
 
