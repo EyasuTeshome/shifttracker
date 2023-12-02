@@ -25,4 +25,4 @@ Click on the link below and read through the material:
 *Use this questions to check what you learned during this lesson.* 
 
 - Can tracking you job search help you improve your chances of getting interviews?
-- Can Huntr help you track your job search?
+- Can Job Application Tracking Sheet help you track your job search?
