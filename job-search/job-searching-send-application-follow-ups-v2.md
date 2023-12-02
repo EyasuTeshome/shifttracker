@@ -29,9 +29,9 @@ Before sending follow-up emails, remember the following tips:
 
 *Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
 
-1. Open Huntr to look at the job applications that you sent.
+1. Open Job Application Tracking Sheet to look at the job applications that you sent.
 2. Identify those that you sent a week ago and take the time you need to send follow-up emails. 
-3. After you send the follow-ups, move the job application to the "Followed Up" column in your Huntr board. NOTE: You don't need to make a submission for this activity.
+3. Check "Yes" under "Send a Follow-Up Email" and note the date.
 
 
 
