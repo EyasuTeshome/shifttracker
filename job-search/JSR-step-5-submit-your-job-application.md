@@ -24,9 +24,9 @@ In some cases it will be worthwhile to spend as much time as possible to ensure 
 
 Once you send a job application, you need to wait for a response for at least a week. If you don’t get one, you may follow up with a message as described in this lesson. 
 
-To track the applications you have submitted and know when you sent them, it’s important to use your Huntr board. So don’t forget to update your Huntr every time you send an application. Make it a habit to do it immediately so you don’t forget.
+To track the applications you have submitted and know when you sent them, it’s important to use your personal spreadsheet (you can duplicate [Job Application Tracking Sheet]((https://docs.google.com/spreadsheets/d/1dc-U5o5XeJh7IndAUbw_yyyxbi6Vm7ddzveB5jDoC7w/edit#gid=815296917) and save it for your records). So don’t forget to update your list every time you send an application. Make it a habit to do it immediately so you don’t forget.
 
-Also Microverse will use the information in your Huntr board to identify your progress in your job search and to assign you Micro points. You will see the number of weekly applications submitted in your Progress View Page in the Student Dashboard. 
+
 
 ## Exercise
 
@@ -35,8 +35,8 @@ Also Microverse will use the information in your Huntr board to identify your pr
 1. Prepare a PDF version of your cover letter and customized resume and check it. Don’t send editable versions! Sometimes the format might get messed up in the PDF conversion process or blank pages might be added at the end. If that happens, try converting it a different way or make edits to prevent those formatting errors.
 2. Read the application instructions in the job posting again to ensure you are aware of all the steps in the submission process.
 3. Submit your job application.
-4. Go to your Huntr board and move the job from the Wishlist section to the Applied. 
-5. Submit the link to your Huntr board. 
+4. Go to your personal Job Application Tracking Sheet and check "Yes" under the "Apply" column and note the date. 
+5. Submit the link to your personal Job Application Tracking Sheet. 
 
 **Exercise template to copy:** 
 
