@@ -41,16 +41,18 @@ Many websites list job openings and specialize in certain types of jobs. Try dif
 
 1. Use one of these resources to find a job position you would like to apply for.
 
-### Step 2: Add the job listing to your Huntr board
+### Step 2: Add the job listing to your Job Application Tracking Sheet
 
-The two tricks to efficient job searching are consistency and retrospection. First, you need to apply to a consistent amount of jobs every week, and you need to be able to track the status of each job you apply to. Then, over time, you need to see how many jobs you applied to, at which stage of the hiring process you dropped off, and how you can improve to get your final offer. This is where Huntr comes in to help you. Huntr is an online platform that lets you stay consistent with your job search and allows you to retrospect carefully on every phase of your job search so that you can see what is working for you and what is not, and make improvements.
+The two tricks to efficient job searching are consistency and retrospection. First, you need to apply to a consistent amount of jobs every week, and you need to be able to track the status of each job you apply to. Then, over time, you need to see how many jobs you applied to, at which stage of the hiring process you dropped off, and how you can improve to get your final offer. This is where this [Job Application Tracking Sheet]((https://docs.google.com/spreadsheets/d/1dc-U5o5XeJh7IndAUbw_yyyxbi6Vm7ddzveB5jDoC7w/edit#gid=815296917) comes in to help you.  Utilize this tool to keep tabs on your applications. It's a straightforward tool that consolidates all your job applications in one place, enabling you to update the status of each application and stay informed about which companies you've contacted.
 
-Refresh your memory about [Using Huntr to track your job search](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-huntr-to-track-your-job-search.md)
+
 
 **Apply what you've learned**
 
-1. If you haven’t created a Huntr account yet, [click here to sign up for Huntr and create your board.](https://huntr.co/microverse/signup)
-2. Add the job listing that you selected to your Huntr board. The easiest way to do this is using the [Huntr Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en). You can also add it manually. Refer to the [Quickstart guide](https://blog.huntr.co/huntr-quickstart-guide/#:~:text=Add%20jobs%20from%20any%20website,save%20and%20you're%20done!) if necessary.
+1. If you haven’t done it yet, duplicate [Job Application Tracking Sheet]((https://docs.google.com/spreadsheets/d/1dc-U5o5XeJh7IndAUbw_yyyxbi6Vm7ddzveB5jDoC7w/edit#gid=815296917) and save it for your records.
+2. Check out job openings at potential employers. Add a promising match to a row under the columns "Company" and "Job Posting," including the role name or URL for easy access. Note the discovery date under "Date Job Was Found" to track application deadlines.
+
+
 
 ### Step 3: Analyze if the job is fit for you
 
@@ -79,19 +81,19 @@ Read this article for some tips on [how to research a company before applying](h
 2. Look carefully at your resume and identify if any edits would make you stand out for that particular job. Then, go ahead and customize it.
 3. Read the cover letter that you created in the core program and customize it for the position you are applying for. 
 
-### Step 5: Send the job application and move the Huntr entry to the next stage
+### Step 5: Send the job application and register this fact in the Job Application Tracking Sheet
 
 As you have experienced, submitting customized job applications involves time and effort. This investment is worthwhile for the jobs that are especially interesting for you for different reasons. Still, you cannot invest the same amount of time in them if you meet our recommendation of sending between 2 and 4 applications daily. The trick is to make strategic decisions once you find a job opportunity. How close is it to your dream job? Is there something that makes you a good fit for that position? Are there required attributes that you are missing? Decide if you want to apply for the job and how much time and effort you will invest in customizing your application materials.
 
 In some cases, it can be worth applying for a job even though you don’t meet all the requirements or are not 100% sure about the company. You never know whether the recruiter will select you for some other reason. And, if they invite you for an interview, you can always revisit your decision.
 
-**The number of applications submitted will be used to track your progress during job searching at Microverse and will appear in your Progress View Page in the Student Dashboard. We will consider your Huntr board as the source for this indicator.**
 
 **Apply what you've learned**
 
 1. Submit your job application.
-2. Move the job entry in your Huntr board from the “Wishlist” to the “Applied” stage.
-3. Copy the link of your Huntr board in Section 2 of the [template](https://docs.google.com/document/d/13traiMD2fp_dn5bVS5nUtXmBVQDmz9q_Z7p727NnsjE/edit#heading=h.yegj1fdxqsoo). 
+2. Go to your personal Job Application Tracking Sheet and check "Yes" under the "Apply" column and note the date. 
+3. Copy the link to your personal Job Application Tracking Sheet. 
+
 
 ## Submit your exercise
 
