@@ -10,6 +10,9 @@
 
 ## Description
 
+
+***NOTE: Dec 23rd, 2023 Microverse platform at Huntr with  premium features will be deprecated. You can still use Huntr’s free service if you choose. We also prepared this [Job Application Tracking Sheet](https://docs.google.com/spreadsheets/d/1dc-U5o5XeJh7IndAUbw_yyyxbi6Vm7ddzveB5jDoC7w/edit#gid=815296917) for you. You can duplicate it and use it for tracking your job search.*** 
+
 In this exercise, you will practice looking for a job to apply to and adding it to your Huntr board.
 
 ### Why is adding this job to your Huntr board important?
