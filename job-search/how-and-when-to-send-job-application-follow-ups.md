@@ -19,7 +19,7 @@ It should be shorter than a cover letter, but it should never say, “What’s t
 
 ### **What to say:**
 
-- You should offer a reminder about which role you applied for and what date you applied (which should be on your Huntr board if you’re keeping it up-to-date).
+- You should offer a reminder about which role you applied for and what date you applied
 - Share a reference about something that excites you about the job, the company, or the products/services the company offers.
 - You should also ask about setting up a call because if you just sign off, “looking forward to hearing from you,” that doesn’t create any sense of urgency in the reader’s response.
 
