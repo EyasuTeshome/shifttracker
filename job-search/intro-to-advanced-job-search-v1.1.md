@@ -46,9 +46,6 @@ Also, you can reach out to your career coach through Zendesk for specific questi
 - [How will you communicate with your career coach?](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/how-will-you-communicate-with-your-career-coach.md)
 
 
- **Refer to this article for a refresher on how to use Huntr:**
-
-- [Using Huntr to track your job search](https://github.com/microverseinc/curriculum-professional-skills/blob/main/job-search/using-huntr-to-track-your-job-search.md).
 
 
 
