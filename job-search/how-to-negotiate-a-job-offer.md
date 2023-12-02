@@ -52,7 +52,7 @@ Also, refer back to the job posting because many companies will share a salary r
 
 ### **Do you have other options?**
 
-You probably have many places listed on your Huntr board where you applied and never heard back from. Now is a good time to email everyone to tell them you have an offer in hand and would like an expedited interview (or final decision). Make sure to tell them you are interested in what they have to offer and give them a deadline.
+You probably have many places listed on your Job Application Tracking Sheet board where you applied and never heard back from. Now is a good time to email everyone to tell them you have an offer in hand and would like an expedited interview (or final decision). Make sure to tell them you are interested in what they have to offer and give them a deadline.
 
 You’d be surprised at how quickly they sometimes respond when you reply in a more powerful position and with a time limit. The ideal outcome is to get two offers so that you can come from a position of strength when you submit your counteroffer.
 
