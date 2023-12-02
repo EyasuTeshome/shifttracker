@@ -65,7 +65,7 @@ Of course you don’t have to cover all of the aspects. You can select those tha
 
 **Apply what you've learned**
 
-1. Select one of the companies that you have considered in your Huntr wishlist.
+1. Select one of the companies that you have considered in your Job Application Tracking Sheet.
 2. Reread the job posting and reflect upon the aspects that you want to know about.
 3. Write out the list of questions you want to answer in the first column of Table B of this template.
 
