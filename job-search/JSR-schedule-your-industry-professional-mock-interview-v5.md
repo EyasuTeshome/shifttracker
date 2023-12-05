@@ -45,9 +45,6 @@ Your industry professional mock interview is an opportunity to have an interview
 
       **NOTE** - If you are unable to complete any of the steps above, or you cannot find availability within the required timeframe, please reach out to Student Success right away, so we can help you figure this out and ensure you attend your industry professional mock interview.
 
-3. **Inform us about the date of your meeting.** 
-    - Submit a screenshot of the confirmation email you receive in this ativity. 
-    - In the following activity, please register the date and time of your meeting, and your interviewer's name.
 
 ### Rescheduling and cancellation policy
 
@@ -60,10 +57,9 @@ To reschedule or cancel, click the corresponding link that appears in the confir
 ### Instructions
 
 1. Schedule your interview following the instructions above.
-2. Open your email, find the confirmation sent by Calendly and take a screenshot or save it as pdf.
+2. Open your email, find the confirmation sent by Calendly.
 3. Mark this activity as complete. You don't need to submit anything for this activity.
  
-**We will ask you to share with us the date and time for your interview in the next activity.**
 
 ------
 
