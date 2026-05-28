@@ -1,92 +1,158 @@
-# Shift Tracker
+# Personal Finance App
 
-A mobile-friendly shift and task management web app. Track your shift duration, manage daily tasks, plan ahead with a calendar, and review your shift history — all stored locally in your browser with no account or backend required.
+A self-hosted, privacy-first alternative to Monarch Money / YNAB. All data stays on your server. No third-party services except GoCardless (EU PSD2 regulated) for Revolut transaction sync.
+
+---
+
+## Stack
+
+| Layer    | Tech                                   |
+|----------|----------------------------------------|
+| Backend  | Node.js 20 + Express                   |
+| Database | SQLite (single file, easy backup)      |
+| Frontend | React 18 + Tailwind CSS + Recharts     |
+| Auth     | Single-user bcrypt password + JWT      |
+| Bank     | GoCardless Open Banking API (Nordigen) |
+| Hosting  | Docker + docker-compose + Nginx        |
+
+---
+
+## Quick start (VPS)
+
+### 1. Clone
+
+```bash
+git clone <your-repo-url> finance
+cd finance
+```
+
+### 2. Configure environment
+
+```bash
+cp .env.example .env
+```
+
+Edit `.env`:
+
+**Generate a JWT secret:**
+```bash
+node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
+```
+
+**Hash your login password:**
+```bash
+node -e "const b=require('bcryptjs'); console.log(b.hashSync('yourpassword', 12))"
+```
+
+**GoCardless credentials:**
+1. Register free at https://bankaccountdata.gocardless.com/
+2. Create a new application — copy Secret ID and Secret Key into `.env`
+3. Find your Revolut institution ID:
+   ```bash
+   curl -H "Authorization: Bearer <access_token>" \
+     "https://bankaccountdata.gocardless.com/api/v2/institutions/?country=ie"
+   ```
+   Common IDs: `REVOLUT_REVOGB21` (UK/IE), `REVOLUT_REVOLT21` (other EU)
+
+Set `GOCARDLESS_REDIRECT_URL` to: `https://yourdomain.com/api/gocardless/callback`
+
+### 3. TLS certificates
+
+Place your certificates in `./nginx/certs/`:
+```
+nginx/certs/fullchain.pem
+nginx/certs/privkey.pem
+```
+
+**Using Let's Encrypt:**
+```bash
+certbot certonly --standalone -d yourdomain.com
+cp /etc/letsencrypt/live/yourdomain.com/fullchain.pem nginx/certs/
+cp /etc/letsencrypt/live/yourdomain.com/privkey.pem   nginx/certs/
+```
+
+### 4. Deploy
+
+```bash
+docker compose up -d --build
+```
+
+The app is now running at `https://yourdomain.com`.
+
+---
+
+## Connecting Revolut
+
+1. Log in and go to **Settings**
+2. Click **Connect Revolut** — you'll be redirected to GoCardless
+3. Authorise access to your Revolut account
+4. You'll be redirected back; transactions start importing immediately
+5. Automatic nightly sync runs at 03:00 server time
 
 ---
 
 ## Features
 
-### Shift Management
-- **Start a shift** — live timer shows exactly how long you've been working
-- **Check in** — log a progress snapshot at any point during your shift
-- **End shift** — full summary with % complete, tasks done, tasks missed, check-in log, and total duration
-
-### Task Management
-- Add tasks with a title and category
-- Check off tasks — logs the exact completion time
-- Edit any task — change the title, category, or move it to a different day
-- Delete tasks
-- Filter tasks by **All**, **Pending**, or **Done**
-
-### Categories
-| Icon | Category |
-|------|----------|
-| ⚡ | Urgent |
-| 🔄 | Routine |
-| 📋 | Follow-up |
-| 🏁 | Deadline |
-
-### Calendar & Planning
-- Full monthly calendar view
-- Tap any day to see its tasks
-- Add tasks to future days in advance
-- Navigate forward and backward through months
-- Task dots on each day — 🔵 blue = pending, 🟢 green = all done
-- Copy all tasks from any day to today
-
-### Rollover
-- When ending a shift with unfinished tasks, choose to roll them over to tomorrow in one tap
-
-### Storage
-- All data saved locally via `localStorage`
-- Persists between sessions — closing and reopening the app keeps everything
-- Works fully offline after first load
+| Feature              | Description |
+|----------------------|-------------|
+| Dashboard            | Balance, income/spending, budget rings, upcoming payments |
+| Transactions         | Full history, search, filter, re-categorise, CSV import |
+| Budgets              | Monthly limits, optional rollover, progress rings, alerts at 80%/100% |
+| Charts & Insights    | Monthly bar chart, category donut, 6-month trend |
+| Subscriptions        | Auto-detected from transactions + manual, monthly total, upcoming alerts |
+| Goals                | Target + deadline + progress bar |
+| Net Worth            | Assets/liabilities, historical trend chart |
+| GoCardless sync      | OAuth flow + nightly auto-sync at 03:00 |
+| CSV import           | Revolut CSV format |
+| Auto-categorisation  | Rule-based merchant name matching |
 
 ---
 
-## Deploy in 60 Seconds
+## Backup
 
-### Vercel *(recommended)*
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/EyasuTeshome/shifttracker)
+The entire database is a single file: `./data/finance.db`
 
-1. Click the button above
-2. Connect your GitHub account
-3. Click **Deploy** — no settings to change
-
-### Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/EyasuTeshome/shifttracker)
-
-1. Click the button above
-2. Connect your GitHub account
-3. Click **Deploy site** — done
-
-### GitHub Pages
-1. Go to your repo → **Settings** → **Pages**
-2. Source: **Deploy from a branch**
-3. Branch: `main` / `(root)`
-4. Click **Save** — live in ~1 minute at `https://eyasuteshome.github.io/shifttracker`
-
-### Local
-Just open `index.html` in any browser — no server or install needed.
+```bash
+cp ./data/finance.db ./backups/finance-$(date +%Y%m%d).db
+```
 
 ---
 
-## Tech Stack
+## Updating
 
-- **Vanilla HTML, CSS, JavaScript** — zero dependencies, zero build step
-- **localStorage** — client-side persistence, works offline
-- Single file (`index.html`) — easy to audit, fork, or embed
-
----
-
-## Screenshots
-
-| Today View | Calendar | Shift Summary |
-|------------|----------|---------------|
-| Task list with categories, filters, and shift timer | Monthly calendar with task dots | Full shift breakdown with rollover option |
+```bash
+git pull
+docker compose up -d --build
+```
 
 ---
 
-## License
+## Project structure
 
-MIT — free to use, modify, and distribute.
+```
+.
+├── backend/
+│   ├── src/
+│   │   ├── server.js          # Express app + cron scheduler
+│   │   ├── db/                # SQLite connection + schema migrations
+│   │   ├── middleware/auth.js  # JWT auth middleware
+│   │   ├── routes/            # auth, transactions, budgets, goals, networth,
+│   │   │                      # subscriptions, insights, gocardless
+│   │   └── services/          # gocardless, sync, categorise, subscriptions
+│   └── Dockerfile
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx            # Router + auth guard
+│   │   ├── components/        # Card, Modal, Sidebar, ProgressRing, EmptyState
+│   │   ├── pages/             # Dashboard, Transactions, Budgets, Charts,
+│   │   │                      # Subscriptions, Goals, NetWorth, Settings, Login
+│   │   ├── hooks/useAuth.jsx  # Auth context + JWT storage
+│   │   └── services/api.js    # Axios client with auth interceptor
+│   └── Dockerfile
+├── nginx/
+│   └── default.conf           # Reverse proxy + TLS termination
+├── data/                      # SQLite DB (gitignored, persisted via volume)
+├── docker-compose.yml
+├── .env.example
+└── README.md
+```
