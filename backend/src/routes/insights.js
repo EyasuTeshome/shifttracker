@@ -2,90 +2,94 @@ const router = require('express').Router();
 const { requireAuth } = require('../middleware/auth');
 const db = require('../db/index');
 
-function month(offsetMonths = 0) {
+function monthStr(offsetMonths = 0) {
   const d = new Date();
   d.setMonth(d.getMonth() + offsetMonths);
   return d.toISOString().slice(0, 7);
 }
 
-router.get('/dashboard', requireAuth, (req, res) => {
-  const m = month();
+router.get('/dashboard', requireAuth, async (req, res) => {
+  try {
+    const m = monthStr();
 
-  const balance = db.prepare('SELECT COALESCE(SUM(balance),0) as total FROM accounts').get().total;
+    const [[balRow], [incomeRow], [spendRow], [prevRow], byCategory, upcoming, recentTxns] =
+      await Promise.all([
+        db.query('SELECT COALESCE(SUM(balance),0) AS total FROM accounts'),
+        db.query(`
+          SELECT COALESCE(SUM(amount),0) AS total FROM transactions
+          WHERE amount>0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false
+        `, [m]),
+        db.query(`
+          SELECT COALESCE(SUM(ABS(amount)),0) AS total FROM transactions
+          WHERE amount<0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false
+        `, [m]),
+        db.query(`
+          SELECT COALESCE(SUM(ABS(amount)),0) AS total FROM transactions
+          WHERE amount<0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false
+        `, [monthStr(-1)]),
+        db.query(`
+          SELECT category, COALESCE(SUM(ABS(amount)),0) AS total
+          FROM transactions
+          WHERE amount<0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false
+          GROUP BY category ORDER BY total DESC LIMIT 8
+        `, [m]),
+        db.query(`
+          SELECT * FROM subscriptions
+          WHERE next_billing BETWEEN CURRENT_DATE AND CURRENT_DATE + INTERVAL '7 days'
+          ORDER BY next_billing ASC
+        `),
+        db.query('SELECT * FROM transactions WHERE is_split=false ORDER BY date DESC, id DESC LIMIT 5'),
+      ]);
 
-  const income = db.prepare(`
-    SELECT COALESCE(SUM(amount),0) as total FROM transactions
-    WHERE amount>0 AND strftime('%Y-%m',date)=? AND is_split=0
-  `).get(m).total;
-
-  const spending = db.prepare(`
-    SELECT COALESCE(SUM(ABS(amount)),0) as total FROM transactions
-    WHERE amount<0 AND strftime('%Y-%m',date)=? AND is_split=0
-  `).get(m).total;
-
-  const prevSpending = db.prepare(`
-    SELECT COALESCE(SUM(ABS(amount)),0) as total FROM transactions
-    WHERE amount<0 AND strftime('%Y-%m',date)=? AND is_split=0
-  `).get(month(-1)).total;
-
-  const byCategory = db.prepare(`
-    SELECT category, COALESCE(SUM(ABS(amount)),0) as total
-    FROM transactions
-    WHERE amount<0 AND strftime('%Y-%m',date)=? AND is_split=0
-    GROUP BY category ORDER BY total DESC LIMIT 8
-  `).all(m);
-
-  const upcoming = db.prepare(`
-    SELECT * FROM subscriptions
-    WHERE next_billing BETWEEN date('now') AND date('now','+7 days')
-    ORDER BY next_billing ASC
-  `).all();
-
-  const recentTxns = db.prepare(`
-    SELECT * FROM transactions WHERE is_split=0 ORDER BY date DESC, id DESC LIMIT 5
-  `).all();
-
-  res.json({ balance, income, spending, prevSpending, byCategory, upcoming, recentTxns, month: m });
+    res.json({
+      balance:     Number(balRow.total),
+      income:      Number(incomeRow.total),
+      spending:    Number(spendRow.total),
+      prevSpending:Number(prevRow.total),
+      byCategory,
+      upcoming,
+      recentTxns,
+      month: m,
+    });
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
-router.get('/charts', requireAuth, (req, res) => {
-  // Monthly spending last 6 months
-  const monthly = [];
-  for (let i = 5; i >= 0; i--) {
-    const m = month(-i);
-    const { income } = db.prepare(`
-      SELECT COALESCE(SUM(amount),0) as income FROM transactions
-      WHERE amount>0 AND strftime('%Y-%m',date)=? AND is_split=0
-    `).get(m);
-    const { spending } = db.prepare(`
-      SELECT COALESCE(SUM(ABS(amount)),0) as spending FROM transactions
-      WHERE amount<0 AND strftime('%Y-%m',date)=? AND is_split=0
-    `).get(m);
-    monthly.push({ month: m, income, spending });
-  }
+router.get('/charts', requireAuth, async (req, res) => {
+  try {
+    const monthly = await Promise.all(
+      Array.from({ length: 6 }, (_, i) => 5 - i).map(async i => {
+        const m = monthStr(-i);
+        const [[inc], [spend]] = await Promise.all([
+          db.query(`SELECT COALESCE(SUM(amount),0) AS v FROM transactions WHERE amount>0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false`, [m]),
+          db.query(`SELECT COALESCE(SUM(ABS(amount)),0) AS v FROM transactions WHERE amount<0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false`, [m]),
+        ]);
+        return { month: m, income: Number(inc.v), spending: Number(spend.v) };
+      })
+    );
 
-  // By category this month
-  const byCategory = db.prepare(`
-    SELECT category, COALESCE(SUM(ABS(amount)),0) as total
-    FROM transactions
-    WHERE amount<0 AND strftime('%Y-%m',date)=? AND is_split=0
-    GROUP BY category ORDER BY total DESC
-  `).all(month());
+    const m = monthStr();
+    const [byCategory, incomeSources] = await Promise.all([
+      db.query(`
+        SELECT category, COALESCE(SUM(ABS(amount)),0) AS total
+        FROM transactions WHERE amount<0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false
+        GROUP BY category ORDER BY total DESC
+      `, [m]),
+      db.query(`
+        SELECT COALESCE(merchant_name, description, 'Other') AS source, SUM(amount) AS total
+        FROM transactions WHERE amount>0 AND TO_CHAR(date,'YYYY-MM')=$1 AND is_split=false
+        GROUP BY source ORDER BY total DESC LIMIT 5
+      `, [m]),
+    ]);
 
-  // Sankey: income sources → spending categories
-  const incomeSources = db.prepare(`
-    SELECT COALESCE(merchant_name, description, 'Other') as source, SUM(amount) as total
-    FROM transactions WHERE amount>0 AND strftime('%Y-%m',date)=? AND is_split=0
-    GROUP BY source ORDER BY total DESC LIMIT 5
-  `).all(month());
-
-  res.json({ monthly, byCategory, incomeSources });
+    res.json({ monthly, byCategory, incomeSources });
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
-router.get('/categories', requireAuth, (req, res) => {
-  const categories = db.prepare('SELECT DISTINCT category FROM transactions ORDER BY category').all()
-    .map(r => r.category);
-  res.json(categories);
+router.get('/categories', requireAuth, async (req, res) => {
+  try {
+    const rows = await db.query('SELECT DISTINCT category FROM transactions ORDER BY category');
+    res.json(rows.map(r => r.category));
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
 module.exports = router;

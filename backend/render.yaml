@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: finance-backend
+    env: node
+    region: frankfurt
+    plan: free
+    buildCommand: npm install
+    startCommand: node src/server.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # Set these manually in the Render dashboard:
+      # DATABASE_URL       — Neon connection string (postgresql://...)
+      # JWT_SECRET         — 64-char random hex
+      # ADMIN_PASSWORD_HASH — bcrypt hash of your password
+      # GOCARDLESS_SECRET_ID
+      # GOCARDLESS_SECRET_KEY
+      # GOCARDLESS_INSTITUTION_ID
+      # GOCARDLESS_REDIRECT_URL — https://<your-render-app>.onrender.com/api/gocardless/callback
+      # FRONTEND_URL       — https://<your-vercel-app>.vercel.app
+      # CORS_ORIGIN        — https://<your-vercel-app>.vercel.app

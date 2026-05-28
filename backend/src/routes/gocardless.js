@@ -4,84 +4,72 @@ const gc = require('../services/gocardless');
 const { syncAccount } = require('../services/sync');
 const db = require('../db/index');
 
-// Step 1: initiate OAuth link
+const FRONTEND = () => process.env.FRONTEND_URL || '';
+
 router.post('/connect', requireAuth, async (req, res) => {
   try {
     const requisition = await gc.createRequisition();
-    db.prepare(`
-      INSERT INTO gocardless_requisitions (requisition_id, link, status)
-      VALUES (?, ?, 'pending')
-    `).run(requisition.id, requisition.link);
+    await db.query(
+      'INSERT INTO gocardless_requisitions (requisition_id, link, status) VALUES ($1,$2,$3)',
+      [requisition.id, requisition.link, 'pending']
+    );
     res.json({ link: requisition.link });
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
-// Step 2: GoCardless redirects here after user authorises
 router.get('/callback', async (req, res) => {
-  const { ref } = req.query;
-  // ref is the requisition reference — look up by most recent pending
-  const row = db.prepare(
+  const row = await db.one(
     `SELECT * FROM gocardless_requisitions WHERE status='pending' ORDER BY created_at DESC LIMIT 1`
-  ).get();
-  if (!row) return res.status(400).send('No pending requisition found');
+  );
+  if (!row) return res.status(400).send('No pending requisition');
 
   try {
     const requisition = await gc.getRequisition(row.requisition_id);
     if (requisition.status !== 'LN') {
-      db.prepare(`UPDATE gocardless_requisitions SET status=? WHERE id=?`).run(requisition.status, row.id);
-      return res.redirect('/#/settings?gc_status=failed');
+      await db.query('UPDATE gocardless_requisitions SET status=$1 WHERE id=$2', [requisition.status, row.id]);
+      return res.redirect(`${FRONTEND()}/#/settings?gc_status=failed`);
     }
 
     for (const accountId of requisition.accounts) {
       const { details, balances } = await gc.getAccountDetails(accountId);
-      const info   = details.account || {};
-      const bal    = balances?.balances?.find(b => b.balanceType === 'interimAvailable') || balances?.balances?.[0];
+      const info    = details.account || {};
+      const bal     = balances?.balances?.find(b => b.balanceType === 'interimAvailable') || balances?.balances?.[0];
       const balance = bal ? parseFloat(bal.balanceAmount.amount) : 0;
 
-      const existing = db.prepare('SELECT id FROM accounts WHERE gc_id=?').get(accountId);
+      const existing = await db.one('SELECT id FROM accounts WHERE gc_id=$1', [accountId]);
       if (!existing) {
-        const result = db.prepare(`
-          INSERT INTO accounts (gc_id, name, iban, currency, balance)
-          VALUES (?, ?, ?, ?, ?)
-        `).run(
-          accountId,
-          info.name || info.ownerName || 'Revolut',
-          info.iban || '',
-          info.currency || 'EUR',
-          balance
+        const [{ id }] = await db.query(
+          'INSERT INTO accounts (gc_id, name, iban, currency, balance) VALUES ($1,$2,$3,$4,$5) RETURNING id',
+          [accountId, info.name || info.ownerName || 'Revolut', info.iban || '', info.currency || 'EUR', balance]
         );
-        await syncAccount({ id: result.lastInsertRowid, gc_id: accountId, currency: info.currency || 'EUR', last_synced: null, balance });
+        await syncAccount({ id, gc_id: accountId, currency: info.currency || 'EUR', last_synced: null, balance });
       }
     }
 
-    db.prepare(`UPDATE gocardless_requisitions SET status='LN' WHERE id=?`).run(row.id);
-    res.redirect('/#/settings?gc_status=success');
+    await db.query(`UPDATE gocardless_requisitions SET status='LN' WHERE id=$1`, [row.id]);
+    res.redirect(`${FRONTEND()}/#/settings?gc_status=success`);
   } catch (err) {
     console.error('GoCardless callback error:', err.message);
-    res.redirect('/#/settings?gc_status=error');
+    res.redirect(`${FRONTEND()}/#/settings?gc_status=error`);
   }
 });
 
-// Manual sync trigger
 router.post('/sync', requireAuth, async (req, res) => {
   try {
     const { syncAllAccounts } = require('../services/sync');
     const results = await syncAllAccounts();
     res.json({ results });
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
-// Connection status
-router.get('/status', requireAuth, (req, res) => {
-  const latest = db.prepare(
-    `SELECT * FROM gocardless_requisitions ORDER BY created_at DESC LIMIT 1`
-  ).get();
-  const accounts = db.prepare('SELECT id, name, iban, balance, last_synced FROM accounts').all();
-  res.json({ requisition: latest || null, accounts });
+router.get('/status', requireAuth, async (req, res) => {
+  try {
+    const [latest, accounts] = await Promise.all([
+      db.one('SELECT * FROM gocardless_requisitions ORDER BY created_at DESC LIMIT 1'),
+      db.query('SELECT id, name, iban, balance, last_synced FROM accounts'),
+    ]);
+    res.json({ requisition: latest, accounts });
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
 module.exports = router;

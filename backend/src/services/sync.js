@@ -4,7 +4,7 @@ const { categorise } = require('./categorise');
 const { detectSubscriptions } = require('./subscriptions');
 
 async function syncAllAccounts() {
-  const accounts = db.prepare('SELECT * FROM accounts WHERE gc_id IS NOT NULL').all();
+  const accounts = await db.query('SELECT * FROM accounts WHERE gc_id IS NOT NULL');
   const results = [];
   for (const account of accounts) {
     try {
@@ -14,61 +14,57 @@ async function syncAllAccounts() {
       results.push({ id: account.id, name: account.name, error: err.message });
     }
   }
-  detectSubscriptions();
+  await detectSubscriptions();
   return results;
 }
 
 async function syncAccount(account) {
   const dateFrom = account.last_synced
-    ? account.last_synced.slice(0, 10)
+    ? new Date(account.last_synced).toISOString().slice(0, 10)
     : new Date(Date.now() - 90 * 86400000).toISOString().slice(0, 10);
 
-  const txns = await gc.getTransactions(account.gc_id, dateFrom);
+  const txns  = await gc.getTransactions(account.gc_id, dateFrom);
   const booked = txns.booked || [];
 
-  const insert = db.prepare(`
-    INSERT OR IGNORE INTO transactions
-      (gc_id, account_id, amount, currency, date, booking_date, description, merchant_name, category)
-    VALUES
-      (@gc_id, @account_id, @amount, @currency, @date, @booking_date, @description, @merchant_name, @category)
-  `);
+  const client = await db.pool.connect();
+  let inserted = 0;
+  try {
+    await client.query('BEGIN');
+    for (const t of booked) {
+      const amount       = parseFloat(t.transactionAmount?.amount || 0);
+      const currency     = t.transactionAmount?.currency || account.currency;
+      const date         = t.valueDate || t.bookingDate;
+      const booking_date = t.bookingDate;
+      const description  = t.remittanceInformationUnstructured || t.remittanceInformationStructured || '';
+      const merchant     = t.creditorName || t.debtorName || '';
+      const category     = await categorise(description, merchant);
 
-  const insertMany = db.transaction((rows) => {
-    for (const r of rows) insert.run(r);
-  });
+      const { rowCount } = await client.query(`
+        INSERT INTO transactions
+          (gc_id, account_id, amount, currency, date, booking_date, description, merchant_name, category)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)
+        ON CONFLICT (gc_id) DO NOTHING
+      `, [t.transactionId, account.id, amount, currency, date, booking_date, description, merchant, category]);
+      inserted += rowCount;
+    }
+    await client.query('COMMIT');
+  } catch (e) {
+    await client.query('ROLLBACK');
+    throw e;
+  } finally {
+    client.release();
+  }
 
-  const rows = booked.map(t => {
-    const amount        = parseFloat(t.transactionAmount?.amount || 0);
-    const currency      = t.transactionAmount?.currency || account.currency;
-    const date          = t.valueDate || t.bookingDate;
-    const booking_date  = t.bookingDate;
-    const description   = t.remittanceInformationUnstructured || t.remittanceInformationStructured || '';
-    const merchant_name = t.creditorName || t.debtorName || '';
-    return {
-      gc_id: t.transactionId,
-      account_id: account.id,
-      amount,
-      currency,
-      date,
-      booking_date,
-      description,
-      merchant_name,
-      category: categorise(description, merchant_name),
-    };
-  });
-
-  insertMany(rows);
-
-  // Update balance
   const { balances } = await gc.getAccountDetails(account.gc_id);
-  const bal = balances?.balances?.find(b => b.balanceType === 'interimAvailable') || balances?.balances?.[0];
+  const bal     = balances?.balances?.find(b => b.balanceType === 'interimAvailable') || balances?.balances?.[0];
   const balance = bal ? parseFloat(bal.balanceAmount.amount) : account.balance;
 
-  db.prepare(`
-    UPDATE accounts SET balance=?, last_synced=datetime('now') WHERE id=?
-  `).run(balance, account.id);
+  await db.query(
+    'UPDATE accounts SET balance=$1, last_synced=NOW() WHERE id=$2',
+    [balance, account.id]
+  );
 
-  return rows.length;
+  return inserted;
 }
 
 module.exports = { syncAllAccounts, syncAccount };

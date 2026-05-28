@@ -2,16 +2,21 @@ const router = require('express').Router();
 const { requireAuth } = require('../middleware/auth');
 const db = require('../db/index');
 
-router.get('/', requireAuth, (req, res) => {
-  res.json(db.prepare('SELECT * FROM accounts ORDER BY name').all());
+router.get('/', requireAuth, async (req, res) => {
+  try {
+    res.json(await db.query('SELECT * FROM accounts ORDER BY name'));
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
-router.post('/', requireAuth, (req, res) => {
-  const { name, currency, balance } = req.body;
-  const result = db.prepare(
-    'INSERT INTO accounts (name, currency, balance) VALUES (?, ?, ?)'
-  ).run(name, currency || 'EUR', balance || 0);
-  res.json({ id: result.lastInsertRowid });
+router.post('/', requireAuth, async (req, res) => {
+  try {
+    const { name, currency, balance } = req.body;
+    const [row] = await db.query(
+      'INSERT INTO accounts (name, currency, balance) VALUES ($1, $2, $3) RETURNING id',
+      [name, currency || 'EUR', balance || 0]
+    );
+    res.json({ id: row.id });
+  } catch (err) { res.status(500).json({ error: err.message }); }
 });
 
 module.exports = router;

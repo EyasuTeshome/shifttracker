@@ -4,14 +4,10 @@ const db = require('../db/index');
 const BASE = 'https://bankaccountdata.gocardless.com/api/v2';
 
 async function getAccessToken() {
-  const row = db.prepare('SELECT * FROM gocardless_tokens WHERE id=1').get();
-  if (row && row.access_token && new Date(row.access_exp) > new Date()) {
-    return row.access_token;
-  }
-  if (row && row.refresh_token && new Date(row.refresh_exp) > new Date()) {
-    return await refreshToken(row.refresh_token);
-  }
-  return await fetchNewToken();
+  const row = await db.one('SELECT * FROM gocardless_tokens WHERE id=1');
+  if (row?.access_token && new Date(row.access_exp) > new Date()) return row.access_token;
+  if (row?.refresh_token && new Date(row.refresh_exp) > new Date()) return refreshToken(row.refresh_token);
+  return fetchNewToken();
 }
 
 async function fetchNewToken() {
@@ -19,37 +15,36 @@ async function fetchNewToken() {
     secret_id: process.env.GOCARDLESS_SECRET_ID,
     secret_key: process.env.GOCARDLESS_SECRET_KEY,
   });
-  saveTokens(data);
+  await saveTokens(data);
   return data.access;
 }
 
 async function refreshToken(refresh) {
   const { data } = await axios.post(`${BASE}/token/refresh/`, { refresh });
-  const row = db.prepare('SELECT * FROM gocardless_tokens WHERE id=1').get();
-  const exp = new Date(Date.now() + data.access_expires * 1000).toISOString();
-  db.prepare(`
-    UPDATE gocardless_tokens SET access_token=?, access_exp=? WHERE id=1
-  `).run(data.access, exp);
+  const exp = new Date(Date.now() + data.access_expires * 1000);
+  await db.query(
+    'UPDATE gocardless_tokens SET access_token=$1, access_exp=$2 WHERE id=1',
+    [data.access, exp]
+  );
   return data.access;
 }
 
-function saveTokens(data) {
-  const accessExp  = new Date(Date.now() + data.access_expires  * 1000).toISOString();
-  const refreshExp = new Date(Date.now() + data.refresh_expires * 1000).toISOString();
-  db.prepare(`
+async function saveTokens(data) {
+  const accessExp  = new Date(Date.now() + data.access_expires  * 1000);
+  const refreshExp = new Date(Date.now() + data.refresh_expires * 1000);
+  await db.query(`
     INSERT INTO gocardless_tokens (id, access_token, refresh_token, access_exp, refresh_exp)
-    VALUES (1, ?, ?, ?, ?)
-    ON CONFLICT(id) DO UPDATE SET
-      access_token=excluded.access_token,
-      refresh_token=excluded.refresh_token,
-      access_exp=excluded.access_exp,
-      refresh_exp=excluded.refresh_exp
-  `).run(data.access, data.refresh, accessExp, refreshExp);
+    VALUES (1, $1, $2, $3, $4)
+    ON CONFLICT (id) DO UPDATE SET
+      access_token  = EXCLUDED.access_token,
+      refresh_token = EXCLUDED.refresh_token,
+      access_exp    = EXCLUDED.access_exp,
+      refresh_exp   = EXCLUDED.refresh_exp
+  `, [data.access, data.refresh, accessExp, refreshExp]);
 }
 
 async function authHeader() {
-  const token = await getAccessToken();
-  return { Authorization: `Bearer ${token}` };
+  return { Authorization: `Bearer ${await getAccessToken()}` };
 }
 
 async function createRequisition() {
@@ -64,8 +59,7 @@ async function createRequisition() {
 }
 
 async function getRequisition(id) {
-  const headers = await authHeader();
-  const { data } = await axios.get(`${BASE}/requisitions/${id}/`, { headers });
+  const { data } = await axios.get(`${BASE}/requisitions/${id}/`, { headers: await authHeader() });
   return data;
 }
 
@@ -80,11 +74,8 @@ async function getAccountDetails(accountId) {
 
 async function getTransactions(accountId, dateFrom) {
   const headers = await authHeader();
-  const params = dateFrom ? { date_from: dateFrom } : {};
-  const { data } = await axios.get(
-    `${BASE}/accounts/${accountId}/transactions/`,
-    { headers, params }
-  );
+  const params  = dateFrom ? { date_from: dateFrom } : {};
+  const { data } = await axios.get(`${BASE}/accounts/${accountId}/transactions/`, { headers, params });
   return data.transactions || { booked: [], pending: [] };
 }
 

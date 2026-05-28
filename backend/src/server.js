@@ -1,14 +1,22 @@
 require('dotenv').config();
-const express = require('express');
-const cors    = require('cors');
+const express  = require('express');
+const cors     = require('cors');
 const rateLimit = require('express-rate-limit');
-const cron    = require('node-cron');
+const cron     = require('node-cron');
 const { runMigrations } = require('./db/schema');
 
-runMigrations();
-
 const app = express();
-app.use(cors({ origin: process.env.CORS_ORIGIN || '*' }));
+
+const allowedOrigins = (process.env.CORS_ORIGIN || '')
+  .split(',').map(s => s.trim()).filter(Boolean);
+
+app.use(cors({
+  origin: allowedOrigins.length
+    ? (origin, cb) => cb(null, !origin || allowedOrigins.includes(origin))
+    : true,
+  credentials: true,
+}));
+
 app.use(express.json({ limit: '10mb' }));
 app.use(rateLimit({ windowMs: 15 * 60 * 1000, max: 300 }));
 
@@ -29,7 +37,6 @@ app.use((err, req, res, _next) => {
   res.status(500).json({ error: 'Internal server error' });
 });
 
-// Auto-sync every night at 03:00
 cron.schedule('0 3 * * *', async () => {
   try {
     const { syncAllAccounts } = require('./services/sync');
@@ -41,4 +48,10 @@ cron.schedule('0 3 * * *', async () => {
 });
 
 const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => console.log(`Backend running on :${PORT}`));
+
+async function start() {
+  await runMigrations();
+  app.listen(PORT, () => console.log(`Backend running on :${PORT}`));
+}
+
+start().catch(err => { console.error('Startup failed:', err); process.exit(1); });

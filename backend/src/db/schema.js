@@ -1,120 +1,117 @@
 const db = require('./index');
 
-function runMigrations() {
-  db.exec(`
-    PRAGMA journal_mode=WAL;
-    PRAGMA foreign_keys=ON;
-
+async function runMigrations() {
+  await db.pool.query(`
     CREATE TABLE IF NOT EXISTS accounts (
-      id          INTEGER PRIMARY KEY AUTOINCREMENT,
+      id          SERIAL PRIMARY KEY,
       gc_id       TEXT UNIQUE,
       name        TEXT NOT NULL,
       iban        TEXT,
       currency    TEXT DEFAULT 'EUR',
-      balance     REAL DEFAULT 0,
-      last_synced TEXT,
-      created_at  TEXT DEFAULT (datetime('now'))
+      balance     NUMERIC DEFAULT 0,
+      last_synced TIMESTAMPTZ,
+      created_at  TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS transactions (
-      id              INTEGER PRIMARY KEY AUTOINCREMENT,
+      id              SERIAL PRIMARY KEY,
       gc_id           TEXT UNIQUE,
       account_id      INTEGER REFERENCES accounts(id),
-      amount          REAL NOT NULL,
+      amount          NUMERIC NOT NULL,
       currency        TEXT DEFAULT 'EUR',
-      date            TEXT NOT NULL,
-      booking_date    TEXT,
+      date            DATE NOT NULL,
+      booking_date    DATE,
       description     TEXT,
       merchant_name   TEXT,
       category        TEXT DEFAULT 'Uncategorised',
-      is_recurring    INTEGER DEFAULT 0,
-      is_split        INTEGER DEFAULT 0,
+      is_recurring    BOOLEAN DEFAULT FALSE,
+      is_split        BOOLEAN DEFAULT FALSE,
       parent_id       INTEGER REFERENCES transactions(id),
       notes           TEXT,
-      created_at      TEXT DEFAULT (datetime('now'))
+      created_at      TIMESTAMPTZ DEFAULT NOW()
     );
     CREATE INDEX IF NOT EXISTS idx_transactions_date     ON transactions(date DESC);
     CREATE INDEX IF NOT EXISTS idx_transactions_category ON transactions(category);
     CREATE INDEX IF NOT EXISTS idx_transactions_account  ON transactions(account_id);
 
     CREATE TABLE IF NOT EXISTS budgets (
-      id            INTEGER PRIMARY KEY AUTOINCREMENT,
+      id            SERIAL PRIMARY KEY,
       category      TEXT NOT NULL UNIQUE,
-      monthly_limit REAL NOT NULL,
-      rollover      INTEGER DEFAULT 0,
+      monthly_limit NUMERIC NOT NULL,
+      rollover      BOOLEAN DEFAULT FALSE,
       color         TEXT DEFAULT '#6366f1',
-      created_at    TEXT DEFAULT (datetime('now'))
+      created_at    TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS budget_months (
-      id              INTEGER PRIMARY KEY AUTOINCREMENT,
+      id              SERIAL PRIMARY KEY,
       budget_id       INTEGER REFERENCES budgets(id) ON DELETE CASCADE,
       month           TEXT NOT NULL,
-      spent           REAL DEFAULT 0,
-      rollover_carry  REAL DEFAULT 0,
+      spent           NUMERIC DEFAULT 0,
+      rollover_carry  NUMERIC DEFAULT 0,
       UNIQUE(budget_id, month)
     );
 
     CREATE TABLE IF NOT EXISTS goals (
-      id             INTEGER PRIMARY KEY AUTOINCREMENT,
+      id             SERIAL PRIMARY KEY,
       name           TEXT NOT NULL,
-      target_amount  REAL NOT NULL,
-      current_amount REAL DEFAULT 0,
-      deadline       TEXT,
+      target_amount  NUMERIC NOT NULL,
+      current_amount NUMERIC DEFAULT 0,
+      deadline       DATE,
       color          TEXT DEFAULT '#10b981',
-      created_at     TEXT DEFAULT (datetime('now'))
+      created_at     TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS networth_entries (
-      id         INTEGER PRIMARY KEY AUTOINCREMENT,
+      id         SERIAL PRIMARY KEY,
       type       TEXT NOT NULL CHECK(type IN ('asset','liability')),
       name       TEXT NOT NULL,
-      value      REAL NOT NULL,
-      updated_at TEXT DEFAULT (datetime('now'))
+      value      NUMERIC NOT NULL,
+      updated_at TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS networth_snapshots (
-      id         INTEGER PRIMARY KEY AUTOINCREMENT,
-      date       TEXT NOT NULL,
-      net_worth  REAL NOT NULL,
-      created_at TEXT DEFAULT (datetime('now'))
+      id         SERIAL PRIMARY KEY,
+      date       DATE NOT NULL UNIQUE,
+      net_worth  NUMERIC NOT NULL,
+      created_at TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS subscriptions (
-      id            INTEGER PRIMARY KEY AUTOINCREMENT,
+      id            SERIAL PRIMARY KEY,
       merchant_name TEXT NOT NULL,
-      amount        REAL NOT NULL,
+      amount        NUMERIC NOT NULL,
       currency      TEXT DEFAULT 'EUR',
       frequency     TEXT NOT NULL CHECK(frequency IN ('weekly','monthly','yearly')),
-      next_billing  TEXT,
+      next_billing  DATE,
       category      TEXT DEFAULT 'Subscriptions',
-      is_manual     INTEGER DEFAULT 0,
-      created_at    TEXT DEFAULT (datetime('now'))
+      is_manual     BOOLEAN DEFAULT FALSE,
+      created_at    TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS gocardless_tokens (
       id            INTEGER PRIMARY KEY CHECK(id=1),
       access_token  TEXT,
       refresh_token TEXT,
-      access_exp    TEXT,
-      refresh_exp   TEXT
+      access_exp    TIMESTAMPTZ,
+      refresh_exp   TIMESTAMPTZ
     );
 
     CREATE TABLE IF NOT EXISTS gocardless_requisitions (
-      id              INTEGER PRIMARY KEY AUTOINCREMENT,
+      id              SERIAL PRIMARY KEY,
       requisition_id  TEXT NOT NULL,
       status          TEXT DEFAULT 'pending',
       link            TEXT,
-      created_at      TEXT DEFAULT (datetime('now'))
+      created_at      TIMESTAMPTZ DEFAULT NOW()
     );
 
     CREATE TABLE IF NOT EXISTS category_rules (
-      id       INTEGER PRIMARY KEY AUTOINCREMENT,
-      pattern  TEXT NOT NULL,
+      id       SERIAL PRIMARY KEY,
+      pattern  TEXT NOT NULL UNIQUE,
       category TEXT NOT NULL
     );
 
-    INSERT OR IGNORE INTO category_rules (pattern, category) VALUES
+    INSERT INTO category_rules (pattern, category) VALUES
       ('spotify',       'Subscriptions'),
       ('netflix',       'Subscriptions'),
       ('apple.com',     'Subscriptions'),
@@ -139,7 +136,8 @@ function runMigrations() {
       ('payroll',       'Income'),
       ('rent',          'Housing'),
       ('pharmacy',      'Health'),
-      ('gym',           'Health');
+      ('gym',           'Health')
+    ON CONFLICT (pattern) DO NOTHING;
   `);
 }
 

@@ -1,8 +1,8 @@
 const db = require('../db/index');
 
-function categorise(description, merchantName) {
+async function categorise(description, merchantName) {
   const text = `${description || ''} ${merchantName || ''}`.toLowerCase();
-  const rules = db.prepare('SELECT pattern, category FROM category_rules').all();
+  const rules = await db.query('SELECT pattern, category FROM category_rules');
   for (const rule of rules) {
     if (text.includes(rule.pattern.toLowerCase())) return rule.category;
   }
